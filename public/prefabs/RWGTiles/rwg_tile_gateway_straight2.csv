@@ -1,0 +1,14 @@
+id,name,count
+2,terrainFiller,87428
+5,terrDirt,68
+16,terrGravel,346
+17,terrAsphalt,2400
+6623,concreteShapes:pillar100Open,32
+8332,concreteShapes:roadPaintDash,666
+18261,guardRailStraight,44
+18262,guardRailPole,11
+18263,guardRailBarrierFlipped,4
+18264,guardRailBarrier,4
+22166,treeSmallRandomHelper,6
+22168,treeMediumRandomHelper,6
+22169,treeLargeRandomHelper,5

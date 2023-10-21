@@ -1,0 +1,16 @@
+node_modules
+dist
+
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+.env.local
+
+public/*
+!public/prefabs
+!public/worlds
+public/worlds/*
+!public/worlds/Navezgane

@@ -1,0 +1,15 @@
+id,name,count
+18,terrConcrete,63
+8523,steelShapes:cubeQuarter,6
+12607,corrugatedMetalShapes:cube,15
+12622,corrugatedMetalShapes:cubeHalf,29
+13043,corrugatedMetalShapes:ramp,4
+13078,corrugatedMetalShapes:wedge60Tip,48
+13124,corrugatedMetalShapes:rampInclineHalfLeft,2
+13125,corrugatedMetalShapes:rampInclineHalfRight,2
+13180,corrugatedMetalShapes:wedge60TipHalfLeft,8
+13181,corrugatedMetalShapes:wedge60TipHalfRight,8
+13325,corrugatedMetalShapes:rampIncline,10
+14044,corrugatedMetalShapes:windowStoreFourSidedBroken,1
+17674,lightIndustrialRed,2
+18813,ironDoorArmyGreen,1

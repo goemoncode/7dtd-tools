@@ -1,0 +1,13 @@
+id,name,count
+2,terrainFiller,12
+17,terrGravel,34
+14741,guardRailStraight8mIncline,7
+14742,guardRailStraight8mInclineFlipped,7
+14745,guardRailPole8mIncline,6
+14746,guardRailPole8mInclineFlipped,6
+14747,guardRailPole8mInclineOffset,2
+14748,guardRailPole8mInclineFlippedOffset,2
+14749,guardRailBend8mIncline,1
+14750,guardRailBend8mInclineFlipped,1
+14751,guardRailBend8mInclineFlipped2,1
+14752,guardRailBend8mIncline2,1

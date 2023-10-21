@@ -1,0 +1,14 @@
+id,name,count
+2,terrainFiller,874
+6433,concreteShapes:cube,160
+6449,concreteShapes:cubeHalfCentered,48
+6533,concreteShapes:polePlate,4
+6869,concreteShapes:ramp,8
+7150,concreteShapes:halfRampStairs50Filler,8
+7622,concreteShapes:cubeTrimQuarterCornerInsideTriangle,68
+7667,concreteShapes:cubeTrimHalfSplitDiagonal,4
+7684,concreteShapes:cubeTrimQuarterEdgeTwoSided,100
+7723,concreteShapes:cubeTrimQuarterRamp,48
+17210,cntFancyGarbageCan,2
+19977,parkBenchA,2
+22036,treeMediumRandomHelper,1

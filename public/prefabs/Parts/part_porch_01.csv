@@ -1,0 +1,11 @@
+id,name,count
+305,woodShapes:pole,10
+355,woodShapes:plate,3
+685,woodShapes:wedge60,3
+687,woodShapes:wedge60TipHalf,3
+690,woodShapes:wedge60TipHalfCornerLeft,1
+691,woodShapes:wedge60TipHalfCornerRight,1
+776,woodShapes:cubeHalfWedge60BevelLeft,1
+777,woodShapes:cubeHalfWedge60BevelRight,1
+1069,woodShapes:stairsRailing,3
+1115,woodShapes:catwalkV1RailOnly,2

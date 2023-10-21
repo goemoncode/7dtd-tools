@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="Zoning" value="Residential" />
+  <property name="YOffset" value="-4" />
+  <property name="AllowedTownships" value="town" />
+  <property name="SleeperVolumeSize" value="8, 3, 5#6, 3, 4#4, 3, 3#6, 3, 4#7, 3, 4#6, 3, 4#4, 3, 3" />
+  <property name="SleeperVolumeStart" value="18, 4, 21#26, 4, 17#28, 4, 12#26, 9, 22#19, 9, 23#23, 9, 13#25, 9, 19" />
+  <property name="SleeperVolumeGroupId" value="1,2,3,4,5,6,7" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,0,1" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="2,2,2,2,2,2,2" />
+  <property name="EditorGroups" value="house new, remnant" />
+  <property name="Tags" value="residential" />
+  <property name="POIMarkerSize" value="15, 13, 5" />
+  <property name="POIMarkerStart" value="18, 3, -5" />
+  <property name="POIMarkerGroup" value="driveway" />
+  <property name="POIMarkerTags" value="residential" />
+  <property name="POIMarkerType" value="PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_07" />
+  <property name="POIMarkerPartRotations" value="2" />
+  <property name="POIMarkerPartSpawnChance" value="1" />
+  <property name="PrefabSize" value="42, 19, 42" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
+  <property class="Stats">
+    <property name="TotalVertices" value="338223" />
+    <property name="TotalTriangles" value="157300" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="248443" />
+      <property name="Triangles" value="101625" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="81400" />
+      <property name="Triangles" value="45003" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="2530" />
+      <property name="Triangles" value="1556" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="240" />
+      <property name="Triangles" value="120" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="5610" />
+      <property name="Triangles" value="8996" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="POILight">
+      <property name="0" value="26, 3, 38" />
+      <property name="1" value="32, 3, 38" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="19, 14, 16" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="24, 9, 21" />
+      <property name="1" value="29, 9, 21" />
+      <property name="2" value="29, 4, 25" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="24, 2, 38" />
+    </property>
+    <property class="quest_wood_trees">
+      <property name="0" value="31, 2, 36" />
+    </property>
+  </property>
+</prefab>

@@ -1,0 +1,13 @@
+id,name,count
+259,woodShapes:cube,56
+624,woodShapes:wedge60,16
+625,woodShapes:wedge60Tip,198
+637,woodShapes:wedge60Incline,104
+684,woodShapes:wedge60InclineHalfLeft,8
+685,woodShapes:wedge60InclineHalfRight,8
+686,woodShapes:wedge60TipHalfLeft,14
+687,woodShapes:wedge60TipHalfRight,14
+733,woodShapes:wedgeTipQuarter,15
+739,woodShapes:gableQuarterHalf,2
+754,woodShapes:gableInvertedQuarterHalf,2
+755,woodShapes:cubeHalfgableInvertedQuarter,13

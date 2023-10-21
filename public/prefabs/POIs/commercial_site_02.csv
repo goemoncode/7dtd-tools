@@ -1,0 +1,14 @@
+id,name,count
+2,terrainFiller,297
+17,terrAsphalt,561
+6433,concreteShapes:cube,4707
+6448,concreteShapes:cubeHalf,212
+6484,concreteShapes:pole,16
+7609,concreteShapes:cubeTrimQuarterCornerInside,2
+7622,concreteShapes:cubeTrimQuarterCornerInsideTriangle,8
+7667,concreteShapes:cubeTrimHalfSplitDiagonal,7
+7684,concreteShapes:cubeTrimQuarterEdgeTwoSided,164
+7701,concreteShapes:cubeTrimCornerRound,9
+7723,concreteShapes:cubeTrimQuarterRamp,9
+8333,concreteShapes:roadPaintDashCNTR,60
+21536,carsRandomHelper,3

@@ -1,0 +1,16 @@
+id,name,count
+17,terrAsphalt,12
+462,concreteShapes:cube,30
+480,steelShapes:cube,58
+548,concreteShapes:wedge60Corner,8
+576,concreteShapes:cubeHalf,36
+607,iBeamCentered,14
+610,iBeamCenteredFoundation,24
+789,concreteShapes:stairsFilledVerticalUV,2
+826,concreteShapes:wedge60,16
+897,steelShapes:ramp,22
+960,rustyIronPoleSupportCtr,22
+1079,metalTrussingBlock,4
+1214,steelShapes:cubeHalf,14
+1258,concreteShapes:ramp,4
+1389,metalRailing,18

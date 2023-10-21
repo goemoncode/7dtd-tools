@@ -1,0 +1,17 @@
+id,name,count
+367,woodShapes:plate,8
+379,woodShapes:plateCorner,12
+718,woodShapes:wedge60Tip,6
+917,woodShapes:gable3Quarter,3
+926,woodShapes:gablePlateHalf,2
+1007,woodShapes:plateWedge60TipHalfLeft,2
+1008,woodShapes:plateWedge60TipHalfRight,2
+1017,woodShapes:plateWedge60FillerHalfLeft,2
+1018,woodShapes:plateWedge60FillerHalfRight,2
+1598,woodShapes:doorTrim0.5m,4
+1600,woodShapes:doorTrim1m,6
+13592,corrugatedMetalShapes:windowStoreFourSidedFull,2
+13927,corrugatedMetalShapes:dynamicGrate,2
+17173,lightCeilingBulbMountBlack,1
+17217,lightIndustrialMountedWall,1
+18610,pantryDoorOrange,1

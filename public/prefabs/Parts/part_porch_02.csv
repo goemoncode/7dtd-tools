@@ -1,0 +1,16 @@
+id,name,count
+305,woodShapes:pole,8
+355,woodShapes:plate,13
+367,woodShapes:plateCorner,1
+686,woodShapes:wedge60Tip,14
+687,woodShapes:wedge60TipHalf,7
+690,woodShapes:wedge60TipHalfCornerLeft,1
+691,woodShapes:wedge60TipHalfCornerRight,1
+698,woodShapes:wedge60Incline,7
+778,woodShapes:wedge60InclineHalfLeft,1
+779,woodShapes:wedge60InclineHalfRight,1
+782,woodShapes:wedge60TipHalfLeft,2
+783,woodShapes:wedge60TipHalfRight,2
+1069,woodShapes:stairsRailing,1
+1173,woodShapes:railing,10
+1903,woodShapes:trellisDiamond,10

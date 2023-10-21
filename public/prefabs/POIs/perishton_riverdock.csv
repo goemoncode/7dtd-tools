@@ -1,0 +1,14 @@
+id,name,count
+6433,concreteShapes:cube,798
+7312,concreteShapes:stairsFilledVerticalUV,6
+7327,concreteShapes:stairsFilledRailingMetalLeft,3
+7328,concreteShapes:stairsFilledRailingMetalRight,3
+7609,concreteShapes:cubeTrimQuarterCornerInside,2
+7684,concreteShapes:cubeTrimQuarterEdgeTwoSided,39
+7690,concreteShapes:cubeTrimQuarterCornerOutsideTwoSided,3
+13588,corrugatedMetalShapes:catwalkV2RailOnly,27
+13593,corrugatedMetalShapes:catwalkV2RailOnlyCorner,3
+13595,corrugatedMetalShapes:catwalkV2RailOnlyBentLeft,2
+13596,corrugatedMetalShapes:catwalkV2RailOnlyBentRight,2
+13602,corrugatedMetalShapes:catwalkV2RailOnlyEndLeft,2
+13603,corrugatedMetalShapes:catwalkV2RailOnlyEndRight,3

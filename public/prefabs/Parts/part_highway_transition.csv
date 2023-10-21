@@ -1,0 +1,11 @@
+id,name,count
+2,terrainFiller,28
+15,terrGravel,20
+16,terrAsphalt,96
+7608,concreteShapes:roadPaintDash,16
+7629,concreteShapes:roadPaintWedge,4
+7630,concreteShapes:roadPaintWedgeTip,4
+7631,concreteShapes:roadPaintWedgeTip2,4
+7632,concreteShapes:roadPaintWedge2,4
+7633,concreteShapes:roadPaintWedge2Tip,4
+7634,concreteShapes:roadPaintWedge2Tip2,4

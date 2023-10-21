@@ -1,0 +1,15 @@
+id,name,count
+2,terrainFiller,930
+1672,corrugatedMetalAirDuctHalf,3
+1673,corrugatedMetalAirDuctHalfRamp,3
+1674,corrugatedMetalAirDuctHalfRampFiller,2
+1675,corrugatedMetalAirDuctHalfRampCap,2
+1676,corrugatedMetalAirDuctHalfRampEnd,2
+1677,corrugatedMetalAirDuctHalfBroken,2
+1665,corrugatedMetalAirDuct4Sides,3
+1666,corrugatedMetalAirDuctRamp,3
+1667,corrugatedMetalAirDuctRampTop,2
+1668,corrugatedMetalAirDuctRampFiller,3
+1669,corrugatedMetalAirDuctRampCap,2
+1670,corrugatedMetalAirDuctRampEnd,2
+1671,corrugatedMetalAirDuctBroken,2

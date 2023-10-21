@@ -1,0 +1,9 @@
+id,name,count
+2,terrainFiller,128
+5,terrDirt,961
+296,woodShapes:pole,8
+298,woodShapes:poleSideCentered,24
+1583,woodShapes:fence,107
+1586,woodShapes:fenceBroken1,6
+1587,woodShapes:fenceBroken2,6
+12297,plantedPotatoHarvestRandomHelper,435

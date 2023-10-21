@@ -1,0 +1,13 @@
+id,name,count
+2,terrainFiller,6
+17,terrAsphalt,194
+7683,concreteShapes:cubeTrimQuarterEdgeTwoSided,19
+7700,concreteShapes:cubeTrimCornerRound,1
+8332,concreteShapes:roadPaintDash,20
+8333,concreteShapes:roadPaintDashCNTR,35
+20322,decoMetalBollard,5
+20332,parkingBlockYellow,3
+20333,parkingBlockCrooked1Yellow,1
+20334,parkingBlockCrooked2Yellow,1
+20335,parkingBlockBrokenYellow,1
+22121,treeForestGrassDiagonal,5

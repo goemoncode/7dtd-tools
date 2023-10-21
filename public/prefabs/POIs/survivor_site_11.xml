@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="1" />
+  <property name="QuestTags" value="clear, fetch, infested" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="25, 14, 25" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="Zoning" value="none" />
+  <property name="YOffset" value="-3" />
+  <property name="SleeperVolumeSize" value="6, 3, 8#2, 3, 5#4, 4, 6#5, 3, 4#6, 3, 7#5, 2, 8" />
+  <property name="SleeperVolumeStart" value="10, 3, 11#10, 7, 11#12, 6, 11#11, 7, 15#16, 11, 6#11, 11, 11" />
+  <property name="SleeperVolumeGroupId" value="0,1,1,0,1,5" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperIsLootVolume" value="True,True,False,True,True,True" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,2,2,0,2,2" />
+  <property name="Tags" value="wilderness" />
+  <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="POIMarkerSize" value="4, 1, 4" />
+  <property name="POIMarkerStart" value="16, 2, -4" />
+  <property name="POIMarkerGroup" value="roadexit" />
+  <property name="POIMarkerTags" value="" />
+  <property name="POIMarkerType" value="RoadExit" />
+  <property name="POIMarkerPartToSpawn" value="" />
+  <property name="POIMarkerPartRotations" value="2" />
+  <property name="POIMarkerPartSpawnChance" value="1" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
+  <property class="Stats">
+    <property name="TotalVertices" value="295183" />
+    <property name="TotalTriangles" value="151189" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="256749" />
+      <property name="Triangles" value="128903" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="35646" />
+      <property name="Triangles" value="18602" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="272" />
+      <property name="Triangles" value="136" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="332" />
+      <property name="Triangles" value="208" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="376" />
+      <property name="Triangles" value="188" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="1808" />
+      <property name="Triangles" value="3152" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="23, 3, 14" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="15, 9, 16" />
+      <property name="1" value="13, 5, 18" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="15, 5, 16" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="14, 3, 19" />
+      <property name="1" value="12, 3, 21" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="9, 11, 18" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="8, 3, 21" />
+    </property>
+  </property>
+</prefab>

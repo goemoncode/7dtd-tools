@@ -1,0 +1,17 @@
+id,name,count
+2,terrainFiller,2435
+5,terrDirt,851
+15,terrGravel,314
+307,woodShapes:pole,63
+1946,woodShapes:fence,259
+1949,woodShapes:fenceBroken1,5
+1950,woodShapes:fenceBroken2,5
+16891,goreBlockAnimal,5
+16908,hayBaleSquare,7
+16909,hayBaleRound,6
+16938,rockResource,2
+17624,ironGarageDoorWhite,2
+20298,treeSmallRandomHelper,3
+20300,treeMediumRandomHelper,1
+20301,treeLargeRandomHelper,1
+20369,plantedCornHarvestRandomHelper,326

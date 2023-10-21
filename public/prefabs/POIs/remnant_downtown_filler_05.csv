@@ -1,0 +1,13 @@
+id,name,count
+6421,concreteShapes:cube,2067
+6436,concreteShapes:cubeHalf,104
+12583,corrugatedMetalShapes:cube,39
+12615,corrugatedMetalShapes:cubeQuarter,36
+12629,corrugatedMetalShapes:cubeEighth,12
+12763,corrugatedMetalShapes:billboard,3
+13000,corrugatedMetalShapes:cornerRound,12
+14009,corrugatedMetalShapes:windowStoreThreeSidedBroken,4
+14011,corrugatedMetalShapes:windowStoreCornerBroken,76
+14133,corrugatedMetalShapes:windowIndustrial01Full,27
+19072,commercialGlassDoor,3
+19086,commercialDoorV1Grey,5

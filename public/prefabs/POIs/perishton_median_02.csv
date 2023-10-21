@@ -1,0 +1,16 @@
+id,name,count
+2,terrainFiller,171
+16,terrGravel,158
+17,terrAsphalt,1902
+6433,concreteShapes:cube,40
+6549,concreteShapes:plate,158
+6584,concreteShapes:plateHalfTriangle,12
+7574,concreteShapes:cubeTrimQuarterEdge,86
+7605,concreteShapes:cubeTrimQuarterCornerOutside,12
+8332,concreteShapes:roadPaintDash,202
+8333,concreteShapes:roadPaintDashCNTR,58
+8335,concreteShapes:roadPaintDiagonal,8
+8336,concreteShapes:roadPaintDashDiagonalFiller,12
+8341,concreteShapes:roadPaintArrowLeft,4
+21981,treeSnowyDeadBush,5
+21993,treePlainsTree2,2

@@ -1,0 +1,13 @@
+id,name,count
+259,woodShapes:cube,321
+610,woodShapes:ramp,58
+652,woodShapes:rampInclineHalfLeft,16
+653,woodShapes:rampInclineHalfRight,16
+732,woodShapes:wedgeTipHalf,15
+738,woodShapes:gableHalf,2
+751,woodShapes:gableInvertedHalfHalfOffset,13
+752,woodShapes:gableInvertedHalfQuarterOffset,2
+776,woodShapes:rampIncline,182
+777,woodShapes:rampInclineFiller,156
+778,woodShapes:rampInclineFillerHalfLeft,14
+779,woodShapes:rampInclineFillerHalfRight,14

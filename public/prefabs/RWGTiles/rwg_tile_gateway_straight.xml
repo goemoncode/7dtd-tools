@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="YOffset" value="-4" />
+  <property name="PrefabSize" value="150, 7, 150" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="Zoning" value="none" />
+  <property name="POIMarkerSize" value="13, 16, 5#16, 0, 16#16, 0, 16#32, 5, 13#32, 5, 13#13, 3, 12#13, 4, 12#13, 16, 5#5, 5, 21#60, 0, 60#5, 2, 14#21, 5, 18#13, 17, 5#13, 17, 4#59, 4, 150#18, 2, 8#18, 2, 8" />
+  <property name="POIMarkerStart" value="84, 4, 121#67, 4, -8#67, 4, 142#59, 0, 10#59, 0, 129#40, 3, 68#13, 3, 17#84, 4, 121#70, 4, 25#85, 4, 44#75, 4, 109#35, 3, 65#84, 4, 121#84, 4, 122#0, 2, 0#66, 3, 142#66, 3, 0" />
+  <property name="POIMarkerGroup" value="billboard,new,new2,drainage,drainage,field,field,billboard,semi,1,trailer,field,billboard,billboard,field,highwayN,highwayS" />
+  <property name="POIMarkerTags" value="################" />
+  <property name="POIMarkerType" value="PartSpawn,RoadExit,RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_billboard_meltdowns,,,part_road_drainage,part_road_drainage,part_survivor_camp_02,part_survivor_camp_03,part_billboard_meltdowns,part_semi_truck,,part_trailer_sleepers,part_military_camp,part_billboard_mycell,part_billboard_pills,part_farm_field,part_highway_transition,part_highway_transition" />
+  <property name="POIMarkerPartRotations" value="2,2,0,0,0,1,1,2,0,1,1,1,2,2,2,0,2" />
+  <property name="POIMarkerPartSpawnChance" value="0.05,1,1,0.12,0.1,1,1,0.05,0.1,1,0.1,0.1,0.1,0.1,0.11,0.02,0.04" />
+  <property name="Tags" value="hideui" />
+  <property class="Stats">
+    <property name="TotalVertices" value="414849" />
+    <property name="TotalTriangles" value="450391" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="345760" />
+      <property name="Triangles" value="343559" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="9835" />
+      <property name="Triangles" value="10376" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes7">
+      <property name="Vertices" value="59254" />
+      <property name="Triangles" value="96456" />
+    </property>
+    <property class="ChunkMeshes8">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_stone_boulder">
+      <property name="0" value="46, 4, 59" />
+    </property>
+    <property class="quest_wood_trees">
+      <property name="0" value="139, 4, 132" />
+    </property>
+  </property>
+</prefab>

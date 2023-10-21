@@ -1,0 +1,11 @@
+id,name,count
+4357,concreteShapes:cube,1
+4360,concreteShapes:cubeThreeQuarter,1
+4367,concreteShapes:cubeHalf,1
+4369,concreteShapes:cube0.25m,1
+4875,concreteShapes:rampInclineFiller,8
+4947,concreteShapes:stairsWinder,2
+4948,concreteShapes:stairsWinderTip,2
+4960,concreteShapes:stairsHollow,4
+4963,concreteShapes:stairsHollowRailingMetalLeft,4
+8617,corrugatedMetalShapes:pillar0.025,1

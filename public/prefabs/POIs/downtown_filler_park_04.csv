@@ -1,0 +1,16 @@
+id,name,count
+2,terrainFiller,954
+4357,concreteShapes:cube,132
+4415,concreteShapes:polePlate,8
+4420,concreteShapes:poleSquareCornerRound,8
+4457,concreteShapes:plateHalfCentered,8
+5155,concreteShapes:cubeTrimQuarterEdge,42
+5184,concreteShapes:cubeTrimQuarterCornerInside2,12
+5194,concreteShapes:cubeTrimQuarterCornerInsideTriangle,4
+5248,concreteShapes:cubeTrimHalfSplitDiagonalBottomTrimFiller,8
+5255,concreteShapes:cubeTrimQuarterEdgeTwoSided,86
+5290,concreteShapes:cubeTrimQuarterRamp,12
+5620,concreteShapes:farmPlot,2
+11639,treeDeadPineLeaf,2
+11664,treeMediumRandomHelper,1
+12470,parkBenchA,4

@@ -1,0 +1,14 @@
+id,name,count
+6621,concreteShapes:pillar100,4
+12607,corrugatedMetalShapes:cube,33
+12807,corrugatedMetalShapes:pillar50,38
+14620,corrugatedMetalShapes:signLetter_a,1
+14621,corrugatedMetalShapes:signLetter_b,1
+14622,corrugatedMetalShapes:signLetter_c,2
+14624,corrugatedMetalShapes:signLetter_e,1
+14630,corrugatedMetalShapes:signLetter_k,1
+14632,corrugatedMetalShapes:signLetter_m,1
+14634,corrugatedMetalShapes:signLetter_o,1
+21182,metalPipeCorner,2
+21183,metalPipeJoint,4
+21185,metalPipeFlange,2

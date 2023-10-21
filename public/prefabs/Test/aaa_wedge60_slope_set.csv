@@ -1,0 +1,14 @@
+id,name,count
+284,woodShapes:cubeQuarter,56
+289,woodShapes:quarterInsideCorner,4
+290,woodShapes:quarterInsideCorner3way,8
+666,woodShapes:wedge60Tip,202
+675,woodShapes:wedge60InsideCorner,13
+678,woodShapes:wedge60Incline,82
+679,woodShapes:cubeHalfWedge60Incline,16
+693,woodShapes:wedge60SlopeTip,75
+695,woodShapes:wedge60SlopeBaseIncline,29
+696,woodShapes:wedge60SlopeMiddleIncline,57
+697,woodShapes:wedge60SlopeTipIncline,53
+698,woodShapes:wedge60SlopeTip2Incline,54
+5089,concreteShapes:cube,1764

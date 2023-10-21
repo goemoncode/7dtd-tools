@@ -1,0 +1,9 @@
+id,name,count
+3406,concreteShapes:cube,39
+3564,concreteShapes:3mTunnelCenter,12
+3565,concreteShapes:3mTunnelCenterCorner,2
+3568,concreteShapes:3mTunnelCorner,12
+3569,concreteShapes:3mTunnelInsideCorner,2
+3570,concreteShapes:3mTunnelInsideCenter,1
+3571,concreteShapes:3mTunnelOutsideCorner,2
+3572,concreteShapes:3mTunnelOutsideCenter,1

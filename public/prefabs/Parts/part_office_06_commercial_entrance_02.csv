@@ -1,0 +1,15 @@
+id,name,count
+2,terrainFiller,450
+17,terrAsphalt,426
+7695,concreteShapes:cubeTrimQuarterEdgeDouble,4
+7704,concreteShapes:cubeTrimQuarterEdgeRound,4
+8322,concreteShapes:farmPlot,4
+8333,concreteShapes:roadPaintDashCNTR,60
+18440,decoCarTireFlat02,1
+20383,parkingBlockYellow,5
+20384,parkingBlockCrooked1Yellow,2
+20385,parkingBlockCrooked2Yellow,2
+20386,parkingBlockBrokenYellow,1
+22120,plantShrubRandomHelper,4
+22180,treeForestGrassDiagonal,7
+22395,poiPartHelper,1

@@ -1,0 +1,17 @@
+id,name,count
+4357,concreteShapes:cube,1
+4516,concreteShapes:halfBlockPillar50,1
+4560,concreteShapes:3mTubeCenter,24
+4561,concreteShapes:3mTubeCorner,24
+4577,concreteShapes:cubeHalf3mCenter,4
+4578,concreteShapes:cubeHalf3mCorner,4
+5255,concreteShapes:cubeTrimQuarterEdgeTwoSided,4
+5258,concreteShapes:cubeTrimQuarterCornerOutsideTwoSided,4
+8525,corrugatedMetalShapes:plate,4
+8582,corrugatedMetalShapes:billboard,2
+8617,corrugatedMetalShapes:pillar0.025,8
+11497,ladderMetal,7
+11514,metalRailing,12
+11801,pipeSmall1x1,8
+11806,pipeSmallValve,1
+11807,pipeSmallCorner,2
