@@ -96,7 +96,7 @@ async function setupPrefabFiles(inputDir: string, outputDir: string) {
 
 async function copyFileWithLog(src: string, dest: string) {
   try {
-    if (statSync(src).mtimeMs !== statSync(dest).mtimeMs) {
+    if (!existsSync(dest) || statSync(src).mtimeMs !== statSync(dest).mtimeMs) {
       await copyFile(src, dest);
       return console.log(cyan('File copied: %s'), dest);
     } else {
