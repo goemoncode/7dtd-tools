@@ -24,11 +24,11 @@
   <property name="PrefabSize" value="25, 20, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="456595" />
-    <property name="TotalTriangles" value="183207" />
+    <property name="TotalVertices" value="356829" />
+    <property name="TotalTriangles" value="141310" />
     <property class="BlockEntities">
-      <property name="Vertices" value="382162" />
-      <property name="Triangles" value="135782" />
+      <property name="Vertices" value="282412" />
+      <property name="Triangles" value="93893" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="68121" />
@@ -39,8 +39,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="16" />
-      <property name="Triangles" value="8" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="4478" />
@@ -81,6 +81,11 @@
       <property name="9" value="20, 16, 19" />
       <property name="10" value="17, 4, 21" />
       <property name="11" value="18, 5, 23" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="1, 2, 17" />
+      <property name="1" value="1, 2, 18" />
+      <property name="2" value="1, 2, 19" />
     </property>
     <property class="quest_feather">
       <property name="0" value="7, 17, 7" />

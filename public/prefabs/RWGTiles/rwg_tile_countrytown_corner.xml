@@ -19,34 +19,34 @@
   <property name="POIMarkerPartToSpawn" value=",,,,,,,part_billboard_diagonal,part_roadside_fruit_stand_02,part_5m_water_tower,part_shed_03" />
   <property name="POIMarkerPartRotations" value="1,2,1,2,3,2,2,3,2,0,3" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1,1,1,1" />
-  <property name="SleeperVolumeSize" value="5, 4, 7#14, 3, 13#5, 6, 17#6, 3, 3#9, 3, 5#37, 3, 7" />
-  <property name="SleeperVolumeStart" value="16, 7, 46#110, 7, 137#72, -1, 123#87, 8, 144#136, 7, 3#97, 2, 2" />
+  <property name="SleeperVolumeSize" value="5, 4, 7#14, 3, 13#7, 9, 22#6, 3, 4#9, 3, 5#37, 3, 7" />
+  <property name="SleeperVolumeStart" value="16, 7, 46#110, 7, 137#71, -1, 123#87, 8, 143#136, 7, 3#97, 2, 2" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,2,S_Zom_Utility_Worker,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_Zom_Utility_Worker,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2" />
   <property name="SleeperIsLootVolume" value="True,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,2,0,2" />
-  <property name="PrefabSize" value="150, 17, 150" />
-  <property name="Tags" value="streettile,rwgonly" />
+  <property name="PrefabSize" value="150, 27, 150" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="702308" />
-    <property name="TotalTriangles" value="409179" />
+    <property name="TotalVertices" value="706461" />
+    <property name="TotalTriangles" value="412583" />
     <property class="BlockEntities">
-      <property name="Vertices" value="543464" />
-      <property name="Triangles" value="248541" />
+      <property name="Vertices" value="547572" />
+      <property name="Triangles" value="251895" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="81808" />
-      <property name="Triangles" value="51756" />
+      <property name="Vertices" value="81901" />
+      <property name="Triangles" value="51830" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="14528" />
       <property name="Triangles" value="7264" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="48" />
-      <property name="Triangles" value="24" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="472" />
@@ -61,16 +61,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="61988" />
       <property name="Triangles" value="101336" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

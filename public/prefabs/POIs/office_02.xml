@@ -22,9 +22,9 @@
   <property name="SleeperVolumeFlags" value="3,0,0,0,0,0,0,0,0,3,0,3" />
   <property name="PrefabSize" value="42, 14, 42" />
   <property name="SleeperVolumeTriggeredBy" value="1# # # # # # # # #2# #2" />
-  <property name="TriggerVolumeSize" value="7, 2, 7#8, 3, 8" />
-  <property name="TriggerVolumeStart" value="30, 1, 13#21, 6, 27" />
-  <property name="TriggerVolumeTriggers" value="1#2" />
+  <property name="TriggerVolumeSize" value="7, 2, 7#8, 3, 8#24, 3, 28#6, 6, 13" />
+  <property name="TriggerVolumeStart" value="30, 1, 13#21, 6, 27#15, 11, 10#31, 6, 12" />
+  <property name="TriggerVolumeTriggers" value="1#2#2#1" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood">
       <property name="0" value="40, 1, 39" />
@@ -56,9 +56,24 @@
       <property name="20" value="26, 4, 33" />
       <property name="21" value="35, 4, 36" />
     </property>
+    <property class="challenge_vending">
+      <property name="0" value="31, 6, 28" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="31, 6, 23" />
       <property name="1" value="28, 6, 31" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="35, 1, 38" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="27, 1, 21" />
+      <property name="1" value="36, 1, 23" />
+      <property name="2" value="33, 1, 25" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="34, 7, 28" />
+      <property name="1" value="35, 2, 28" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="32, 8, 21" />
@@ -71,43 +86,42 @@
     <property class="quest_feather">
       <property name="0" value="34, 11, 11" />
     </property>
+    <property class="challenge_pallet">
+      <property name="0" value="30, 6, 22" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="536407" />
-    <property name="TotalTriangles" value="214333" />
+    <property name="TotalVertices" value="459933" />
+    <property name="TotalTriangles" value="182849" />
     <property class="BlockEntities">
-      <property name="Vertices" value="449479" />
-      <property name="Triangles" value="161242" />
+      <property name="Vertices" value="373857" />
+      <property name="Triangles" value="130158" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="80570" />
-      <property name="Triangles" value="46569" />
+      <property name="Vertices" value="79726" />
+      <property name="Triangles" value="46173" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="8" />
-      <property name="Triangles" value="4" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="3148" />
       <property name="Triangles" value="2062" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes5">
       <property name="Vertices" value="432" />
       <property name="Triangles" value="216" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes7">
+    <property class="ChunkMeshes6">
       <property name="Vertices" value="2770" />
       <property name="Triangles" value="4240" />
     </property>

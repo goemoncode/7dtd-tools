@@ -8,7 +8,7 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="60, 45, 60" />
+  <property name="PrefabSize" value="60, 63, 60" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-33" />
@@ -32,11 +32,11 @@
   <property name="SleeperVolumeFlags" value="2,2,2,0,2,2,2,2,2,2,0,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="434447" />
-    <property name="TotalTriangles" value="297518" />
+    <property name="TotalVertices" value="433115" />
+    <property name="TotalTriangles" value="296633" />
     <property class="BlockEntities">
-      <property name="Vertices" value="358355" />
-      <property name="Triangles" value="220638" />
+      <property name="Vertices" value="357017" />
+      <property name="Triangles" value="219741" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="3354" />
@@ -63,8 +63,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="33570" />
-      <property name="Triangles" value="55332" />
+      <property name="Vertices" value="33576" />
+      <property name="Triangles" value="55344" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -79,7 +79,7 @@
       <property name="1" value="54, 33, 6" />
     </property>
     <property class="quest_wood">
-      <property name="0" value="31, 1, 46" />
+      <property name="0" value="47, 31, 54" />
     </property>
     <property class="quest_stone">
       <property name="0" value="49, 33, 2" />

@@ -12,17 +12,17 @@
   <property name="RotationToFaceNorth" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="PrefabSize" value="103, 12, 103" />
-  <property name="Tags" value="navonly,hideui" />
+  <property name="Tags" value="navonly, hideui" />
   <property class="Stats">
-    <property name="TotalVertices" value="130387" />
-    <property name="TotalTriangles" value="80666" />
+    <property name="TotalVertices" value="270718" />
+    <property name="TotalTriangles" value="114372" />
     <property class="BlockEntities">
-      <property name="Vertices" value="73115" />
-      <property name="Triangles" value="19402" />
+      <property name="Vertices" value="217038" />
+      <property name="Triangles" value="55884" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="29156" />
-      <property name="Triangles" value="16648" />
+      <property name="Vertices" value="26324" />
+      <property name="Triangles" value="15232" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -45,8 +45,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="28116" />
-      <property name="Triangles" value="44616" />
+      <property name="Vertices" value="27356" />
+      <property name="Triangles" value="43256" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

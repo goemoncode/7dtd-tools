@@ -20,7 +20,7 @@
   <property name="SleeperVolumeFlags" value="0,2" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False" />
-  <property name="Tags" value="residential,culdesac" />
+  <property name="Tags" value="residential, culdesac" />
   <property name="POIMarkerSize" value="7, 3, 2" />
   <property name="POIMarkerStart" value="23, 0, 42" />
   <property name="POIMarkerGroup" value="driveway" />
@@ -30,18 +30,18 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="Zoning" value="none" />
-  <property name="PrefabSize" value="42, 18, 42" />
+  <property name="PrefabSize" value="42, 21, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
-    <property name="TotalVertices" value="377509" />
-    <property name="TotalTriangles" value="161626" />
+    <property name="TotalVertices" value="377275" />
+    <property name="TotalTriangles" value="161478" />
     <property class="BlockEntities">
       <property name="Vertices" value="324977" />
       <property name="Triangles" value="128941" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="45926" />
-      <property name="Triangles" value="23787" />
+      <property name="Vertices" value="45692" />
+      <property name="Triangles" value="23639" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,6 +71,14 @@
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="37, 1, 37" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="26, 2, 7" />
+      <property name="1" value="27, 2, 7" />
+      <property name="2" value="27, 2, 8" />
+      <property name="3" value="27, 2, 9" />
+      <property name="4" value="27, 2, 10" />
+      <property name="5" value="27, 2, 11" />
     </property>
     <property class="POILight">
       <property name="0" value="23, 6, 21" />

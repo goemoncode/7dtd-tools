@@ -22,16 +22,17 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
+  <property name="YOffset" value="-3" />
   <property class="Stats">
-    <property name="TotalVertices" value="754607" />
-    <property name="TotalTriangles" value="288604" />
+    <property name="TotalVertices" value="518307" />
+    <property name="TotalTriangles" value="203728" />
     <property class="BlockEntities">
-      <property name="Vertices" value="662559" />
-      <property name="Triangles" value="215727" />
+      <property name="Vertices" value="425379" />
+      <property name="Triangles" value="129843" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="77116" />
-      <property name="Triangles" value="47109" />
+      <property name="Vertices" value="77556" />
+      <property name="Triangles" value="47329" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -54,16 +55,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="14932" />
-      <property name="Triangles" value="25768" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="15372" />
+      <property name="Triangles" value="26556" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -72,6 +65,21 @@
       <property name="1" value="15, 8, 92" />
       <property name="2" value="22, 5, 92" />
       <property name="3" value="20, 5, 93" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="15, 5, 78" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="5, 3, 9" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="6, 3, 9" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="16, 3, 86" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="18, 3, 15" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="22, 3, 82" />

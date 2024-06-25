@@ -23,8 +23,8 @@
   <property name="EditorGroups" value="parts" />
   <property name="Tags" value="part" />
   <property class="Stats">
-    <property name="TotalVertices" value="17525" />
-    <property name="TotalTriangles" value="8134" />
+    <property name="TotalVertices" value="17057" />
+    <property name="TotalTriangles" value="7414" />
     <property class="BlockEntities">
       <property name="Vertices" value="16927" />
       <property name="Triangles" value="7354" />
@@ -56,10 +56,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="468" />
-      <property name="Triangles" value="720" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

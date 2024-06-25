@@ -26,11 +26,11 @@
   <property name="ThemeTags" value="wildernesspoi" />
   <property name="ThemeRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="159947" />
-    <property name="TotalTriangles" value="101987" />
+    <property name="TotalVertices" value="158527" />
+    <property name="TotalTriangles" value="101064" />
     <property class="BlockEntities">
-      <property name="Vertices" value="156427" />
-      <property name="Triangles" value="97379" />
+      <property name="Vertices" value="155007" />
+      <property name="Triangles" value="96456" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="1500" />
@@ -68,6 +68,10 @@
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="18, 5, 19" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="20, 4, 12" />
+      <property name="1" value="22, 4, 12" />
     </property>
   </property>
 </prefab>

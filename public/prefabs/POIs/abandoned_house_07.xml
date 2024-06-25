@@ -37,15 +37,15 @@
   <property name="InfoVolumeSize" value="41, 23, 41" />
   <property name="InfoVolumeStart" value="1, 0, 0" />
   <property class="Stats">
-    <property name="TotalVertices" value="466242" />
-    <property name="TotalTriangles" value="231919" />
+    <property name="TotalVertices" value="466103" />
+    <property name="TotalTriangles" value="231858" />
     <property class="BlockEntities">
-      <property name="Vertices" value="403070" />
+      <property name="Vertices" value="402981" />
       <property name="Triangles" value="191995" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="56148" />
-      <property name="Triangles" value="30832" />
+      <property name="Vertices" value="56098" />
+      <property name="Triangles" value="30771" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -85,6 +85,15 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="21, 3, 27" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="28, 2, 22" />
+      <property name="1" value="28, 2, 23" />
+      <property name="2" value="28, 2, 24" />
+      <property name="3" value="28, 2, 25" />
+      <property name="4" value="28, 2, 26" />
+      <property name="5" value="28, 2, 27" />
+      <property name="6" value="28, 2, 28" />
     </property>
     <property class="quest_feather">
       <property name="0" value="14, 23, 29" />

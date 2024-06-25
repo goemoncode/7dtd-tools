@@ -12,7 +12,7 @@
   <property name="EditorGroups" value="house old" />
   <property name="SleeperVolumeSize" value="14, 2, 1#7, 4, 13#11, 5, 5#4, 3, 15#9, 4, 13#6, 4, 2" />
   <property name="SleeperVolumeStart" value="12, 12, 19#11, 2, 13#16, 6, 17#11, 7, 9#18, 2, 13#16, 6, 15" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,1,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,True" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False" />
   <property name="QuestTags" value="clear, fetch, infested" />
@@ -31,40 +31,36 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_04,part_driveway_residential_back_03" />
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
-  <property name="PrefabSize" value="42, 19, 42" />
+  <property name="PrefabSize" value="42, 20, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="365538" />
-    <property name="TotalTriangles" value="155438" />
+    <property name="TotalVertices" value="300738" />
+    <property name="TotalTriangles" value="128353" />
     <property class="BlockEntities">
-      <property name="Vertices" value="282394" />
-      <property name="Triangles" value="102287" />
+      <property name="Vertices" value="217744" />
+      <property name="Triangles" value="75258" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="76700" />
-      <property name="Triangles" value="44239" />
+      <property name="Vertices" value="76566" />
+      <property name="Triangles" value="44191" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="16" />
-      <property name="Triangles" value="8" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="1708" />
       <property name="Triangles" value="1504" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="4720" />
       <property name="Triangles" value="7400" />
     </property>
@@ -76,8 +72,25 @@
     <property class="POILight">
       <property name="0" value="22, 5, 22" />
     </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="13, 7, 9" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="22, 9, 22" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="21, 12, 18" />
+      <property name="1" value="22, 12, 18" />
+      <property name="2" value="25, 12, 18" />
+      <property name="3" value="23, 12, 20" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="23, 7, 24" />
+      <property name="1" value="24, 7, 25" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="18, 7, 23" />
+      <property name="1" value="16, 7, 24" />
     </property>
     <property class="Rally">
       <property name="0" value="20, 1, 37" />

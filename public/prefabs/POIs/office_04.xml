@@ -24,15 +24,15 @@
   <property name="PrefabSize" value="42, 16, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="391426" />
-    <property name="TotalTriangles" value="168856" />
+    <property name="TotalVertices" value="332442" />
+    <property name="TotalTriangles" value="143247" />
     <property class="BlockEntities">
-      <property name="Vertices" value="288399" />
-      <property name="Triangles" value="101871" />
+      <property name="Vertices" value="242885" />
+      <property name="Triangles" value="82994" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="94881" />
-      <property name="Triangles" value="56797" />
+      <property name="Vertices" value="81411" />
+      <property name="Triangles" value="50065" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -72,6 +72,20 @@
     </property>
     <property class="POILight">
       <property name="0" value="39, 12, 39" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="28, 8, 27" />
+      <property name="1" value="22, 8, 28" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="22, 2, 22" />
+      <property name="1" value="26, 2, 22" />
+      <property name="2" value="21, 2, 25" />
+      <property name="3" value="23, 3, 25" />
+      <property name="4" value="27, 3, 25" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="12, 2, 28" />
     </property>
   </property>
 </prefab>

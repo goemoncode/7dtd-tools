@@ -24,11 +24,11 @@
   <property name="Tags" value="navonly,testonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="136228" />
-    <property name="TotalTriangles" value="65054" />
+    <property name="TotalVertices" value="189628" />
+    <property name="TotalTriangles" value="89528" />
     <property class="BlockEntities">
-      <property name="Vertices" value="44976" />
-      <property name="Triangles" value="12366" />
+      <property name="Vertices" value="98376" />
+      <property name="Triangles" value="36840" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="91252" />
@@ -55,10 +55,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

@@ -35,23 +35,23 @@
   <property name="PrefabSize" value="100, 21, 100" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="2080964" />
-    <property name="TotalTriangles" value="875102" />
+    <property name="TotalVertices" value="1619155" />
+    <property name="TotalTriangles" value="658315" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1832013" />
-      <property name="Triangles" value="715557" />
+      <property name="Vertices" value="1369974" />
+      <property name="Triangles" value="498622" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="224001" />
-      <property name="Triangles" value="122485" />
+      <property name="Vertices" value="224381" />
+      <property name="Triangles" value="122677" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="176" />
-      <property name="Triangles" value="88" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="2440" />
@@ -66,8 +66,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="22334" />
-      <property name="Triangles" value="35120" />
+      <property name="Vertices" value="22360" />
+      <property name="Triangles" value="35164" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -81,7 +81,20 @@
       <property name="0" value="92, 10, 76" />
     </property>
     <property class="FetchContainer">
-      <property name="0" value="96, 5, 43" />
+      <property name="0" value="96, 5, 41" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="82, 1, 21" />
+      <property name="1" value="83, 1, 21" />
+      <property name="2" value="84, 1, 21" />
+      <property name="3" value="85, 1, 21" />
+      <property name="4" value="86, 1, 21" />
+      <property name="5" value="90, 1, 21" />
+      <property name="6" value="91, 1, 21" />
+      <property name="7" value="92, 1, 21" />
+      <property name="8" value="93, 1, 21" />
+      <property name="9" value="94, 1, 21" />
+      <property name="10" value="95, 1, 21" />
     </property>
     <property class="Rally">
       <property name="0" value="69, 1, 13" />

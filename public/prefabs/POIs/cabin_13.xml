@@ -25,7 +25,7 @@
   <property name="POIMarkerPartToSpawn" value="" />
   <property name="POIMarkerPartRotations" value="1" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="60, 17, 60" />
+  <property name="PrefabSize" value="60, 27, 60" />
   <property name="SleeperVolumeSize" value="1, 1, 1#12, 3, 22#21, 3, 23#10, 3, 16#8, 3, 7#2, 2, 3#11, 3, 7#10, 3, 7#23, 3, 24#9, 3, 7#1, 1, 2" />
   <property name="SleeperVolumeStart" value="40, 10, 16#14, 3, 9#31, 3, 1#37, 2, 27#18, 8, 11#41, 8, 21#18, 8, 18#18, 8, 18#27, 6, 25#18, 8, 18#0, 3, 17" />
   <property name="SleeperVolumeGroupId" value="0,0,0,2,1,1,1,2,3,3,0" />
@@ -38,15 +38,15 @@
   <property name="TriggerVolumeStart" value="34, 8, 14" />
   <property name="TriggerVolumeTriggers" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1292898" />
-    <property name="TotalTriangles" value="427104" />
+    <property name="TotalVertices" value="1295411" />
+    <property name="TotalTriangles" value="428134" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1180319" />
-      <property name="Triangles" value="353268" />
+      <property name="Vertices" value="1183032" />
+      <property name="Triangles" value="354296" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="88921" />
-      <property name="Triangles" value="48364" />
+      <property name="Vertices" value="88721" />
+      <property name="Triangles" value="48366" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="7808" />
@@ -72,20 +72,19 @@
       <property name="Vertices" value="11358" />
       <property name="Triangles" value="19148" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="53, 7, 53" />
     </property>
+    <property class="quest_wood">
+      <property name="0" value="48, 7, 46" />
+      <property name="1" value="46, 7, 47" />
+      <property name="2" value="47, 7, 47" />
+      <property name="3" value="48, 7, 47" />
+    </property>
     <property class="quest_stone">
       <property name="0" value="15, 3, 24" />
-    </property>
-    <property class="quest_wood">
-      <property name="0" value="49, 3, 8" />
     </property>
     <property class="Rally">
       <property name="0" value="5, 3, 22" />

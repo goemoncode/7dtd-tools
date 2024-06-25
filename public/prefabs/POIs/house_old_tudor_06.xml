@@ -8,7 +8,7 @@
   <property name="DifficultyTier" value="3" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="42, 22, 42" />
+  <property name="PrefabSize" value="42, 24, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-4" />
   <property name="QuestTags" value="clear, fetch, infested" />
@@ -35,6 +35,21 @@
     <property class="quest_wood_trees">
       <property name="0" value="38, 4, 38" />
     </property>
+    <property class="quest_wood">
+      <property name="0" value="23, 5, 12" />
+      <property name="1" value="24, 5, 12" />
+      <property name="2" value="25, 5, 12" />
+      <property name="3" value="26, 5, 12" />
+      <property name="4" value="27, 5, 12" />
+      <property name="5" value="27, 5, 13" />
+      <property name="6" value="27, 5, 14" />
+      <property name="7" value="27, 5, 15" />
+      <property name="8" value="27, 5, 16" />
+      <property name="9" value="27, 5, 17" />
+      <property name="10" value="27, 5, 18" />
+      <property name="11" value="27, 5, 19" />
+      <property name="12" value="27, 5, 20" />
+    </property>
     <property class="POILight">
       <property name="0" value="23, 3, 24" />
       <property name="1" value="23, 14, 24" />
@@ -50,7 +65,6 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="21, 6, 21" />
-      <property name="1" value="22, 5, 32" />
     </property>
     <property class="quest_feather">
       <property name="0" value="23, 15, 28" />
@@ -60,23 +74,23 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="688849" />
-    <property name="TotalTriangles" value="258121" />
+    <property name="TotalVertices" value="693247" />
+    <property name="TotalTriangles" value="259181" />
     <property class="BlockEntities">
-      <property name="Vertices" value="599514" />
-      <property name="Triangles" value="206080" />
+      <property name="Vertices" value="604032" />
+      <property name="Triangles" value="207156" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="81389" />
-      <property name="Triangles" value="41941" />
+      <property name="Vertices" value="81293" />
+      <property name="Triangles" value="41937" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="24" />
-      <property name="Triangles" value="12" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1728" />
@@ -93,10 +107,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="5282" />
       <property name="Triangles" value="8516" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
 </prefab>

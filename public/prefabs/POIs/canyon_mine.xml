@@ -27,15 +27,15 @@
   <property name="InfoVolumeSize" value="64, 69, 44" />
   <property name="InfoVolumeStart" value="0, 1, 0" />
   <property class="Stats">
-    <property name="TotalVertices" value="820885" />
-    <property name="TotalTriangles" value="423711" />
+    <property name="TotalVertices" value="721935" />
+    <property name="TotalTriangles" value="379597" />
     <property class="BlockEntities">
-      <property name="Vertices" value="536573" />
-      <property name="Triangles" value="200495" />
+      <property name="Vertices" value="437911" />
+      <property name="Triangles" value="156525" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="223493" />
-      <property name="Triangles" value="150266" />
+      <property name="Vertices" value="223205" />
+      <property name="Triangles" value="150122" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="22092" />
@@ -66,7 +66,7 @@
     <property class="quest_feather">
       <property name="0" value="51, 58, 41" />
     </property>
-    <property class="quest_wood">
+    <property class="quest_wood_trees">
       <property name="0" value="54, 59, 38" />
     </property>
     <property class="POILight">

@@ -38,6 +38,25 @@
       <property name="4" value="16, 11, 18" />
       <property name="5" value="18, 11, 20" />
     </property>
+    <property class="challenge_booths">
+      <property name="0" value="21, 11, 3" />
+      <property name="1" value="22, 11, 3" />
+      <property name="2" value="22, 11, 4" />
+      <property name="3" value="21, 1, 5" />
+      <property name="4" value="22, 1, 5" />
+      <property name="5" value="22, 1, 6" />
+      <property name="6" value="21, 1, 7" />
+      <property name="7" value="22, 1, 7" />
+      <property name="8" value="21, 1, 9" />
+      <property name="9" value="22, 1, 9" />
+      <property name="10" value="22, 1, 10" />
+      <property name="11" value="21, 1, 11" />
+      <property name="12" value="22, 1, 11" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="9, 7, 18" />
+      <property name="1" value="6, 1, 20" />
+    </property>
     <property class="POILight">
       <property name="0" value="12, 18, 12" />
       <property name="1" value="21, 9, 12" />
@@ -65,7 +84,18 @@
       <property name="23" value="14, 6, 22" />
       <property name="24" value="20, 4, 22" />
       <property name="25" value="20, 6, 22" />
-      <property name="26" value="13, 3, 24" />
+      <property name="26" value="21, 11, 22" />
+      <property name="27" value="13, 3, 24" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="15, 6, 14" />
+      <property name="1" value="15, 11, 14" />
+      <property name="2" value="16, 2, 15" />
+      <property name="3" value="17, 2, 15" />
+      <property name="4" value="15, 7, 16" />
+      <property name="5" value="15, 12, 16" />
+      <property name="6" value="20, 2, 22" />
+      <property name="7" value="22, 1, 22" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="13, 1, 14" />
@@ -76,20 +106,27 @@
     <property class="quest_feather">
       <property name="0" value="22, 16, 22" />
     </property>
+    <property class="challenge_pallet">
+      <property name="0" value="2, 8, 14" />
+      <property name="1" value="4, 8, 17" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="14, 11, 21" />
+    </property>
     <property class="quest_wood">
       <property name="0" value="22, 2, 8" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="712536" />
-    <property name="TotalTriangles" value="300322" />
+    <property name="TotalVertices" value="550839" />
+    <property name="TotalTriangles" value="227390" />
     <property class="BlockEntities">
-      <property name="Vertices" value="578568" />
-      <property name="Triangles" value="222442" />
+      <property name="Vertices" value="417042" />
+      <property name="Triangles" value="149725" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="129554" />
-      <property name="Triangles" value="73930" />
+      <property name="Vertices" value="129455" />
+      <property name="Triangles" value="73859" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -112,8 +149,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="494" />
-      <property name="Triangles" value="920" />
+      <property name="Vertices" value="422" />
+      <property name="Triangles" value="776" />
     </property>
   </property>
 </prefab>

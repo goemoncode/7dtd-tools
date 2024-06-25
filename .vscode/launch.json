@@ -12,8 +12,8 @@
       "env": {
         "NODE_OPTIONS": "-r ts-node/register"
       },
-      "args": ["Shoes"],
       "console": "integratedTerminal",
+      // "args": ["-q", "Tags=wilderness"],
       "skipFiles": ["<node_internals>/**", "node_modules/**"]
     }
   ]

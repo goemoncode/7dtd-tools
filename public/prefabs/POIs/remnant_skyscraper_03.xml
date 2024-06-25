@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="60, 50, 60" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="Zoning" value="none" />
+  <property name="YOffset" value="-3" />
+  <property name="SleeperVolumeSize" value="11, 4, 10#23, 4, 12#54, 3, 28#14, 3, 9#25, 3, 19#18, 3, 7#25, 3, 8#22, 3, 5#6, 3, 18#5, 3, 17#24, 3, 7#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#16, 33, 35" />
+  <property name="SleeperVolumeStart" value="25, 3, 31#19, 2, 41#3, 3, 2#24, 48, 40#18, 44, 35#25, 19, 35#18, 34, 35#21, 39, 48#37, 29, 36#19, 24, 36#18, 14, 35#29, 14, 5#30, 4, 42#28, 20, 40#30, 35, 37#26, 45, 40#22, 17, 1" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="zombieDemolition,1,1,zombieUtilityWorker,1,2,zombieUtilityWorker,1,2,GroupGenericZombie,1,1,GroupSpecialInfected,1,1,GroupZomBadass,1,1,GroupZomBadass,1,2,zombieUtilityWorker,1,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,zombieUtilityWorker,1,1,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0" />
+  <property name="SleeperIsLootVolume" value="True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="3,0,0,2,2,0,0,0,0,0,0,3,3,3,3,3,3" />
+  <property name="SleeperVolumeTriggeredBy" value="9# # # # # # # # # # #1#2#3#4#5#5" />
+  <property name="EditorGroups" value="downtown" />
+  <property name="Tags" value="downtown, inter02downtowntile" />
+  <property name="SVS16" value="sleep 3^sound explosion_buzzer1^sleep 2^sound explosion_buzzer1^sleep 2^sound explosion_buzzer1" />
+  <property name="SVS15" value="sleep 1^sound explosion_buzzer1" />
+  <property name="SVS14" value="sleep 1^sound explosion_buzzer1" />
+  <property name="SVS13" value="sleep 1^sound explosion_buzzer1" />
+  <property name="SVS12" value="sleep 1^sound explosion_buzzer1" />
+  <property name="SVS11" value="sleep 1^sound explosion_buzzer1^sleep 2^sound explosion_buzzer1^sleep 2^sound explosion_buzzer1^sleep 3^trigger 6^sleep 1^trigger 7^sleep 1^trigger 8^sleep 1^trigger 9" />
+  <property class="Stats">
+    <property name="TotalVertices" value="1026913" />
+    <property name="TotalTriangles" value="447534" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="665897" />
+      <property name="Triangles" value="205212" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="345466" />
+      <property name="Triangles" value="221726" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="5460" />
+      <property name="Triangles" value="3580" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="10090" />
+      <property name="Triangles" value="17016" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="58, 3, 41" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="55, 3, 14" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="50, 3, 33" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="37, 44, 49" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="41, 39, 48" />
+      <property name="1" value="35, 29, 50" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="53, 3, 4" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="54, 3, 6" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="35, 29, 47" />
+      <property name="1" value="32, 44, 50" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="50, 3, 6" />
+      <property name="1" value="51, 3, 6" />
+    </property>
+  </property>
+</prefab>

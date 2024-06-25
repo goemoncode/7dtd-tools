@@ -26,27 +26,27 @@
   <property name="SleeperIsLootVolume" value="False,False" />
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,2" />
-  <property name="PrefabSize" value="150, 29, 150" />
-  <property name="Tags" value="streettile,rwgonly" />
+  <property name="PrefabSize" value="150, 31, 150" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1012244" />
-    <property name="TotalTriangles" value="538465" />
+    <property name="TotalVertices" value="881517" />
+    <property name="TotalTriangles" value="488677" />
     <property class="BlockEntities">
-      <property name="Vertices" value="651982" />
-      <property name="Triangles" value="252298" />
+      <property name="Vertices" value="521192" />
+      <property name="Triangles" value="202466" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="259548" />
-      <property name="Triangles" value="158119" />
+      <property name="Vertices" value="259655" />
+      <property name="Triangles" value="158183" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="30464" />
       <property name="Triangles" value="15232" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="48" />
-      <property name="Triangles" value="24" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1748" />
@@ -61,8 +61,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="67566" />
-      <property name="Triangles" value="111172" />
+      <property name="Vertices" value="67570" />
+      <property name="Triangles" value="111176" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -72,11 +72,24 @@
     <property class="quest_wood_trees">
       <property name="0" value="148, 11, 81" />
     </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="135, 11, 132" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="143, 14, 112" />
       <property name="1" value="143, 9, 117" />
       <property name="2" value="143, 21, 118" />
       <property name="3" value="146, 9, 121" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="142, 11, 136" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="140, 8, 30" />
+      <property name="1" value="146, 8, 30" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="147, 8, 31" />
     </property>
   </property>
 </prefab>

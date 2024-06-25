@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="60, 22, 60" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="YOffset" value="-2" />
+  <property name="Zoning" value="none" />
+  <property name="EditorGroups" value="downtown, remnant" />
+  <property name="POIMarkerSize" value="11, 5, 7#10, 3, 2#9, 3, 18#10, 2, 4#10, 2, 4#60, 14, 6" />
+  <property name="POIMarkerStart" value="7, 2, 3#25, 1, -2#-9, 0, 48#12, 12, 28#12, 12, 28#0, 0, 60" />
+  <property name="POIMarkerGroup" value="coffee,deco1,deco2,ducts1,ducts2,parking" />
+  <property name="POIMarkerTags" value="###downtown#downtown#downtown" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_coffee_stand,part_library_01_deco_01,part_library_01_deco_02,part_library_01_ducts_01,part_library_01_ducts_02,part_library_01_deco_03" />
+  <property name="POIMarkerPartRotations" value="2,2,2,2,2,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,0.45,0.45,1" />
+  <property name="Tags" value="downtown, tdowntowntile" />
+  <property name="SleeperVolumeSize" value="16, 9, 12#13, 3, 13#16, 3, 15#8, 3, 8#11, 3, 14#14, 3, 5#1, 2, 2#29, 4, 18#25, 4, 19#11, 3, 6" />
+  <property name="SleeperVolumeStart" value="38, 3, 28#22, 3, 29#12, 8, 22#22, 8, 35#10, 3, 22#21, 3, 22#24, 12, 28#27, 13, 20#2, 13, 20#43, 8, 37" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,1,1,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,zombieJanitor,1,1,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,ZomUtilityWorker,0,1,zombieSoldier,2,2,GroupGenericZombie,0,0,GroupGenericZombie,0,1" />
+  <property name="SleeperIsLootVolume" value="True,True,True,True,True,True,True,True,False,True" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,3,0,0,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # #7# # # " />
+  <property name="TriggerVolumeSize" value="8, 2, 1#3, 3, 1" />
+  <property name="TriggerVolumeStart" value="19, 12, 29#52, 8, 33" />
+  <property name="TriggerVolumeTriggers" value="7#3" />
+  <property name="ThemeTags" value="library" />
+  <property name="ThemeRepeatDistance" value="1200" />
+  <property class="Stats">
+    <property name="TotalVertices" value="819943" />
+    <property name="TotalTriangles" value="343931" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="613360" />
+      <property name="Triangles" value="215148" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="182427" />
+      <property name="Triangles" value="105475" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="4096" />
+      <property name="Triangles" value="2048" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="8454" />
+      <property name="Triangles" value="4656" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="2472" />
+      <property name="Triangles" value="1236" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="9134" />
+      <property name="Triangles" value="15368" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="POILight">
+      <property name="0" value="54, 12, 30" />
+      <property name="1" value="49, 6, 33" />
+      <property name="2" value="49, 12, 33" />
+      <property name="3" value="52, 10, 33" />
+      <property name="4" value="53, 10, 33" />
+      <property name="5" value="54, 10, 33" />
+      <property name="6" value="47, 5, 35" />
+      <property name="7" value="49, 5, 35" />
+      <property name="8" value="50, 4, 36" />
+      <property name="9" value="52, 12, 36" />
+      <property name="10" value="54, 12, 36" />
+      <property name="11" value="46, 11, 37" />
+      <property name="12" value="50, 11, 37" />
+      <property name="13" value="52, 12, 38" />
+      <property name="14" value="54, 12, 38" />
+      <property name="15" value="46, 6, 39" />
+      <property name="16" value="48, 4, 39" />
+      <property name="17" value="49, 6, 39" />
+      <property name="18" value="53, 6, 39" />
+      <property name="19" value="47, 10, 40" />
+      <property name="20" value="49, 10, 40" />
+      <property name="21" value="52, 12, 40" />
+      <property name="22" value="52, 14, 40" />
+      <property name="23" value="54, 12, 40" />
+      <property name="24" value="54, 12, 42" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="51, 3, 33" />
+      <property name="1" value="48, 10, 34" />
+      <property name="2" value="52, 8, 38" />
+      <property name="3" value="50, 3, 39" />
+      <property name="4" value="51, 14, 39" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="46, 3, 37" />
+      <property name="1" value="49, 3, 37" />
+      <property name="2" value="54, 3, 37" />
+      <property name="3" value="47, 3, 40" />
+    </property>
+    <property class="quest_wood_trees">
+      <property name="0" value="33, 2, 15" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="48, 14, 42" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="52, 3, 39" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="43, 3, 39" />
+      <property name="1" value="43, 3, 41" />
+      <property name="2" value="45, 9, 42" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="42, 8, 30" />
+    </property>
+  </property>
+</prefab>

@@ -22,16 +22,18 @@
   <property name="SleeperVolumeFlags" value="2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2" />
   <property name="PrefabSize" value="42, 25, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # " />
+  <property name="ThemeTags" value="buyngo" />
+  <property name="ThemeRepeatDistance" value="150" />
   <property class="Stats">
-    <property name="TotalVertices" value="1006222" />
-    <property name="TotalTriangles" value="418241" />
+    <property name="TotalVertices" value="839512" />
+    <property name="TotalTriangles" value="349803" />
     <property class="BlockEntities">
-      <property name="Vertices" value="816339" />
-      <property name="Triangles" value="303407" />
+      <property name="Vertices" value="649577" />
+      <property name="Triangles" value="234970" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="183519" />
-      <property name="Triangles" value="106026" />
+      <property name="Vertices" value="183571" />
+      <property name="Triangles" value="106025" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -59,6 +61,10 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_pallet">
+      <property name="0" value="31, 12, 26" />
+      <property name="1" value="25, 12, 30" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="8, 17, 9" />
     </property>
@@ -74,11 +80,27 @@
     <property class="Rally">
       <property name="0" value="4, 2, 35" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="25, 7, 11" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="37, 18, 30" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="27, 2, 21" />
+      <property name="1" value="29, 2, 21" />
+    </property>
     <property class="QuestRestorePower">
       <property name="0" value="17, 2, 19" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="39, 2, 9" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="30, 12, 12" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="27, 2, 29" />
     </property>
   </property>
 </prefab>

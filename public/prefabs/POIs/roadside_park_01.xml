@@ -8,7 +8,7 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="60, 30, 60" />
+  <property name="PrefabSize" value="60, 24, 60" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="11, 3, 18#6, 6, 14#13, 2, 5" />
@@ -20,7 +20,7 @@
   <property name="SleeperVolumeFlags" value="2,2,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property name="YOffset" value="-4" />
-  <property name="Tags" value="gateway,nocheckpoint" />
+  <property name="Tags" value="gateway, nocheckpoint" />
   <property name="POIMarkerSize" value="7, 13, 2" />
   <property name="POIMarkerStart" value="51, 3, -2" />
   <property name="POIMarkerGroup" value="r driveway" />
@@ -30,11 +30,11 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="486954" />
-    <property name="TotalTriangles" value="219524" />
+    <property name="TotalVertices" value="471093" />
+    <property name="TotalTriangles" value="215927" />
     <property class="BlockEntities">
-      <property name="Vertices" value="430095" />
-      <property name="Triangles" value="173078" />
+      <property name="Vertices" value="414234" />
+      <property name="Triangles" value="169481" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="46893" />
@@ -73,10 +73,10 @@
       <property name="0" value="53, 4, 37" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="30, 4, 31" />
-      <property name="1" value="33, 4, 36" />
-      <property name="2" value="30, 4, 38" />
-      <property name="3" value="30, 4, 41" />
+      <property name="0" value="33, 4, 36" />
+      <property name="1" value="30, 4, 38" />
+      <property name="2" value="30, 4, 41" />
+      <property name="3" value="30, 4, 30" />
     </property>
   </property>
 </prefab>

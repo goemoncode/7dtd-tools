@@ -29,18 +29,18 @@
   <property name="SleeperIsLootVolume" value="False,False,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,True,False,True" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,3,3,3,2,0,2,2,2" />
-  <property name="PrefabSize" value="100, 18, 100" />
+  <property name="PrefabSize" value="100, 26, 100" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #5#6#4# # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1336064" />
-    <property name="TotalTriangles" value="566417" />
+    <property name="TotalVertices" value="1070030" />
+    <property name="TotalTriangles" value="463610" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1032922" />
-      <property name="Triangles" value="376985" />
+      <property name="Vertices" value="769288" />
+      <property name="Triangles" value="274994" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="265590" />
-      <property name="Triangles" value="139436" />
+      <property name="Vertices" value="263214" />
+      <property name="Triangles" value="138632" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="7424" />
@@ -51,8 +51,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1328" />
-      <property name="Triangles" value="796" />
+      <property name="Vertices" value="1304" />
+      <property name="Triangles" value="784" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="272" />
@@ -66,10 +66,6 @@
       <property name="Vertices" value="28528" />
       <property name="Triangles" value="45352" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">
@@ -80,8 +76,21 @@
       <property name="1" value="92, 4, 55" />
       <property name="2" value="87, 4, 63" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="49, 4, 13" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="83, 4, 44" />
+      <property name="1" value="86, 5, 49" />
+    </property>
     <property class="QuestRestorePower">
       <property name="0" value="93, 4, 51" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="93, 4, 53" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="63, 4, 76" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="94, 4, 59" />
@@ -89,8 +98,21 @@
     <property class="quest_wood_trees">
       <property name="0" value="86, 6, 86" />
     </property>
+    <property class="quest_wood">
+      <property name="0" value="36, 4, 34" />
+      <property name="1" value="37, 4, 34" />
+      <property name="2" value="38, 4, 34" />
+      <property name="3" value="39, 4, 34" />
+      <property name="4" value="40, 4, 34" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="45, 11, 85" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="26, 9, 27" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="81, 4, 34" />
     </property>
     <property class="Rally">
       <property name="0" value="50, 4, 1" />

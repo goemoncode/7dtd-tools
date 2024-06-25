@@ -71,9 +71,5 @@
       <property name="Vertices" value="1700" />
       <property name="Triangles" value="2960" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
 </prefab>

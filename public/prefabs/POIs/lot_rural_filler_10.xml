@@ -11,12 +11,12 @@
   <property name="YOffset" value="-4" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="rural" />
-  <property name="ThemeTags" value="rural_filler" />
-  <property name="ThemeRepeatDistance" value="110" />
-  <property name="PrefabSize" value="60, 5, 60" />
+  <property name="Tags" value="rural,hideui" />
   <property name="ThemeTags" value="ruralfiller" />
+  <property name="ThemeRepeatDistance" value="500" />
+  <property name="PrefabSize" value="60, 5, 60" />
   <property name="ThemeDistance" value="500" />
+  <property name="DuplicateRepeatDistance" value="750" /> 
   <property class="Stats">
     <property name="TotalVertices" value="106473" />
     <property name="TotalTriangles" value="116986" />
@@ -49,16 +49,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="9942" />
       <property name="Triangles" value="16796" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

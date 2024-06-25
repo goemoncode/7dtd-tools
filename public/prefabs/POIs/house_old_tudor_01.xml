@@ -8,7 +8,7 @@
   <property name="DifficultyTier" value="2" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="42, 48, 42" />
+  <property name="PrefabSize" value="42, 52, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="6, 4, 6#4, 2, 9#9, 4, 5#7, 3, 9#4, 3, 7#14, 8, 8#18, 8, 7#10, 7, 6" />
@@ -32,14 +32,14 @@
   <property name="Tags" value="residential" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="595707" />
-    <property name="TotalTriangles" value="261703" />
+    <property name="TotalVertices" value="479220" />
+    <property name="TotalTriangles" value="211563" />
     <property class="BlockEntities">
-      <property name="Vertices" value="478054" />
-      <property name="Triangles" value="175227" />
+      <property name="Vertices" value="361593" />
+      <property name="Triangles" value="125099" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="100626" />
+      <property name="Vertices" value="100624" />
       <property name="Triangles" value="59890" />
     </property>
     <property class="ChunkMeshes1">
@@ -47,8 +47,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="24" />
-      <property name="Triangles" value="12" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="605" />
@@ -75,11 +75,20 @@
       <property name="0" value="26, 39, 22" />
       <property name="1" value="23, 5, 31" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="27, 29, 19" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="25, 33, 24" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="24, 5, 21" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="24, 34, 21" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="37, 33, 16" />
     </property>
     <property class="Rally">
       <property name="0" value="36, 33, 10" />

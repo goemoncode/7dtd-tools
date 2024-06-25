@@ -29,21 +29,21 @@
   <property name="SleeperIsLootVolume" value="True,True,True,True,True,True,True,True,True,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,0,2,2,0,2,2,0" />
-  <property name="PrefabSize" value="42, 15, 42" />
+  <property name="PrefabSize" value="42, 23, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property name="TriggerVolumeSize" value="22, 3, 9" />
   <property name="TriggerVolumeStart" value="7, 3, 27" />
   <property name="TriggerVolumeTriggers" value="2" />
   <property class="Stats">
-    <property name="TotalVertices" value="661197" />
-    <property name="TotalTriangles" value="278765" />
+    <property name="TotalVertices" value="541785" />
+    <property name="TotalTriangles" value="231526" />
     <property class="BlockEntities">
-      <property name="Vertices" value="594053" />
-      <property name="Triangles" value="235847" />
+      <property name="Vertices" value="475033" />
+      <property name="Triangles" value="188800" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="60988" />
-      <property name="Triangles" value="34022" />
+      <property name="Vertices" value="60596" />
+      <property name="Triangles" value="33830" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -76,11 +76,22 @@
     </property>
     <property class="POILight">
       <property name="0" value="30, 7, 23" />
-      <property name="1" value="23, 6, 27" />
-      <property name="2" value="31, 5, 34" />
+      <property name="1" value="32, 5, 24" />
+      <property name="2" value="23, 6, 27" />
+      <property name="3" value="31, 5, 34" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="24, 9, 21" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="30, 4, 21" />
+      <property name="1" value="29, 5, 23" />
+      <property name="2" value="30, 4, 23" />
+      <property name="3" value="27, 3, 27" />
+      <property name="4" value="29, 4, 36" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="22, 3, 29" />
     </property>
     <property class="quest_feather">
       <property name="0" value="19, 9, 17" />
@@ -91,6 +102,14 @@
     </property>
     <property class="Rally">
       <property name="0" value="30, 3, 14" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="26, 3, 20" />
+      <property name="1" value="31, 3, 20" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="23, 3, 34" />
+      <property name="1" value="24, 3, 35" />
     </property>
   </property>
 </prefab>

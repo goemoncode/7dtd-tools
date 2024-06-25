@@ -9,14 +9,14 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="industrial,countrytown,countryresidential,diagonal" />
+  <property name="Tags" value="industrial, countrytown, countryresidential, diagonal" />
   <property name="EditorGroups" value="industrial" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-2" />
   <property name="SleeperVolumeSize" value="21, 4, 19" />
   <property name="SleeperVolumeStart" value="2, 1, 3" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,2,2" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,2,2" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -31,15 +31,15 @@
   <property name="PrefabSize" value="25, 11, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="117195" />
-    <property name="TotalTriangles" value="40374" />
+    <property name="TotalVertices" value="97128" />
+    <property name="TotalTriangles" value="33248" />
     <property class="BlockEntities">
-      <property name="Vertices" value="111852" />
-      <property name="Triangles" value="34872" />
+      <property name="Vertices" value="92024" />
+      <property name="Triangles" value="27992" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="3184" />
-      <property name="Triangles" value="1972" />
+      <property name="Vertices" value="3048" />
+      <property name="Triangles" value="1860" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -50,35 +50,22 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="144" />
+      <property name="Triangles" value="72" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="144" />
-      <property name="Triangles" value="72" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="1912" />
       <property name="Triangles" value="3324" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="103" />
-      <property name="Triangles" value="134" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_barrels">
+      <property name="0" value="13, 1, 11" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="20, 2, 23" />
     </property>

@@ -17,43 +17,39 @@
   <property name="SleeperVolumeSize" value="6, 3, 1#6, 3, 2#9, 5, 3#3, 3, 3#8, 3, 11#8, 3, 10#9, 3, 7#5, 3, 5#27, 3, 21#9, 3, 9" />
   <property name="SleeperVolumeStart" value="10, 2, 25#10, 2, 26#10, 2, 28#16, 2, 25#11, 2, 13#31, 2, 14#30, 2, 25#24, 2, 27#11, 7, 10#20, 2, 14" />
   <property name="SleeperVolumeGroupId" value="1,1,1,1,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,zombieUtilityWorker,3,3,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,2,2,GroupGenericZombie,1,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1,zombieUtilityWorker,3,3,GroupGenericZombie,2,2" />
   <property name="SleeperIsLootVolume" value="True,True,True,True,True,True,True,True,True,True" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,2,1,2,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="478813" />
-    <property name="TotalTriangles" value="202509" />
+    <property name="TotalVertices" value="426960" />
+    <property name="TotalTriangles" value="181690" />
     <property class="BlockEntities">
-      <property name="Vertices" value="380543" />
-      <property name="Triangles" value="137099" />
+      <property name="Vertices" value="329506" />
+      <property name="Triangles" value="116654" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="91896" />
-      <property name="Triangles" value="56754" />
+      <property name="Vertices" value="91096" />
+      <property name="Triangles" value="56388" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="680" />
+      <property name="Triangles" value="340" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="696" />
-      <property name="Triangles" value="348" />
-    </property>
-    <property class="ChunkMeshes4">
       <property name="Vertices" value="624" />
       <property name="Triangles" value="312" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="5054" />
       <property name="Triangles" value="7996" />
     </property>
@@ -62,6 +58,9 @@
     <property class="POILight">
       <property name="0" value="41, 10, 41" />
     </property>
+    <property class="challenge_vending">
+      <property name="0" value="30, 2, 12" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="37, 2, 22" />
     </property>
@@ -69,8 +68,16 @@
       <property name="0" value="26, 3, 25" />
       <property name="1" value="32, 3, 27" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="37, 2, 23" />
+      <property name="1" value="38, 2, 23" />
+      <property name="2" value="38, 3, 29" />
+    </property>
     <property class="Rally">
       <property name="0" value="7, 2, 27" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="32, 7, 10" />
     </property>
     <property class="quest_feather">
       <property name="0" value="24, 7, 21" />

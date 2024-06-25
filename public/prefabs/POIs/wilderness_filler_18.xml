@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="25, 22, 25" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="Zoning" value="none" />
+  <property name="YOffset" value="-2" />
+  <property name="EditorGroups" value="Wilderness" />
+  <property name="Tags" value="wilderness" />
+  <property name="SleeperVolumeSize" value="25, 3, 25#12, 4, 14" />
+  <property name="SleeperVolumeStart" value="0, 2, 0#6, 2, 3" />
+  <property name="SleeperVolumeGroupId" value="1,1" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,0,0" />
+  <property name="SleeperIsLootVolume" value="True,False" />
+  <property name="SleeperIsQuestExclude" value="False,False" />
+  <property name="SleeperVolumeFlags" value="0,2" />
+  <property name="SleeperVolumeTriggeredBy" value=" # " />
+  <property name="DuplicateRepeatDistance" value="6500" />
+  <property name="ThemeTags" value="wildernesspoi" />
+  <property name="ThemeRepeatDistance" value="1000" />
+  <property class="Stats">
+    <property name="TotalVertices" value="125087" />
+    <property name="TotalTriangles" value="84677" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="118779" />
+      <property name="Triangles" value="79217" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="4416" />
+      <property name="Triangles" value="2208" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="40" />
+      <property name="Triangles" value="20" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="1852" />
+      <property name="Triangles" value="3232" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_stone_boulder">
+      <property name="0" value="23, 2, 3" />
+    </property>
+    <property class="quest_wood_trees">
+      <property name="0" value="22, 2, 14" />
+      <property name="1" value="19, 2, 22" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="21, 2, 17" />
+      <property name="1" value="24, 2, 18" />
+      <property name="2" value="23, 2, 19" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="12, 2, 5" />
+    </property>
+  </property>
+</prefab>

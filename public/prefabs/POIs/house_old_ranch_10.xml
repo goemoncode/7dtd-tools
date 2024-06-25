@@ -12,8 +12,8 @@
   <property name="EditorGroups" value="house old" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="1" />
-  <property name="SleeperVolumeSize" value="5, 3, 18#20, 4, 11#22, 4, 11#6, 4, 5#1, 5, 1#6, 3, 4" />
-  <property name="SleeperVolumeStart" value="36, 10, 21#23, 6, 30#17, 1, 30#17, 5, 30#37, 5, 28#34, 6, 30" />
+  <property name="SleeperVolumeSize" value="5, 3, 18#20, 4, 11#22, 4, 11#6, 8, 5#1, 5, 1#6, 3, 4" />
+  <property name="SleeperVolumeStart" value="36, 10, 21#23, 6, 30#17, 1, 30#17, 1, 30#37, 5, 28#34, 6, 30" />
   <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0" />
   <property name="SleeperIsLootVolume" value="False,False,False,True,False,True" />
   <property name="SleeperIsBossVolume" value="False,False,False,False" />
@@ -31,26 +31,26 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_10" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="60, 17, 60" />
+  <property name="PrefabSize" value="60, 24, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="508783" />
-    <property name="TotalTriangles" value="219117" />
+    <property name="TotalVertices" value="510995" />
+    <property name="TotalTriangles" value="220149" />
     <property class="BlockEntities">
-      <property name="Vertices" value="415417" />
-      <property name="Triangles" value="154330" />
+      <property name="Vertices" value="417702" />
+      <property name="Triangles" value="155423" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="83110" />
-      <property name="Triangles" value="47785" />
+      <property name="Vertices" value="83067" />
+      <property name="Triangles" value="47736" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="16" />
-      <property name="Triangles" value="8" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="506" />
@@ -65,25 +65,20 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="9718" />
-      <property name="Triangles" value="16540" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="16" />
-      <property name="Triangles" value="8" />
+      <property name="Vertices" value="9720" />
+      <property name="Triangles" value="16544" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="54, 5, 32" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="44, 5, 30" />
+      <property name="1" value="44, 5, 31" />
+      <property name="2" value="44, 5, 32" />
+      <property name="3" value="44, 5, 33" />
+      <property name="4" value="30, 5, 42" />
     </property>
     <property class="POILight">
       <property name="0" value="35, 6, 31" />

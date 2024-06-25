@@ -22,20 +22,19 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="PrefabSize" value="44, 31, 58" />
-  <property name="Tags" value="navonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property name="InfoVolumeSize" value="43, 25, 56" />
   <property name="InfoVolumeStart" value="0, 1, 1" />
   <property class="Stats">
-    <property name="TotalVertices" value="583291" />
-    <property name="TotalTriangles" value="242866" />
+    <property name="TotalVertices" value="527245" />
+    <property name="TotalTriangles" value="213825" />
     <property class="BlockEntities">
-      <property name="Vertices" value="461307" />
-      <property name="Triangles" value="160685" />
+      <property name="Vertices" value="405425" />
+      <property name="Triangles" value="131726" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="111138" />
-      <property name="Triangles" value="67721" />
+      <property name="Vertices" value="110974" />
+      <property name="Triangles" value="67639" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -63,17 +62,27 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="TraderOnOff">
-      <property name="0" value="36, 25, 31" />
-    </property>
     <property class="FetchContainer">
       <property name="0" value="40, 7, 29" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="30, 6, 32" />
     </property>
     <property class="Rally">
       <property name="0" value="1, 6, 35" />
     </property>
     <property class="POILight">
       <property name="0" value="38, 10, 42" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="36, 25, 31" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="11, 12, 24" />
+      <property name="1" value="13, 12, 24" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="14, 5, 45" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="31, 5, 55" />

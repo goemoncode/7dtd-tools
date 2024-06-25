@@ -11,16 +11,18 @@
   <property name="YOffset" value="-1" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="rural" />
-  <property name="ThemeTags" value="rural_filler" />
+  <property name="Tags" value="rural,hideui" />
+  <property name="ThemeTags" value="ruralfiller" />
   <property name="ThemeRepeatDistance" value="110" />
   <property name="PrefabSize" value="60, 3, 60" />
+  <property name="DuplicateRepeatDistance" value="750" />
+  <property name="ThemeDistance" value="500" />
   <property class="Stats">
-    <property name="TotalVertices" value="65726" />
-    <property name="TotalTriangles" value="71507" />
+    <property name="TotalVertices" value="64671" />
+    <property name="TotalTriangles" value="76257" />
     <property class="BlockEntities">
-      <property name="Vertices" value="56582" />
-      <property name="Triangles" value="56171" />
+      <property name="Vertices" value="55527" />
+      <property name="Triangles" value="60921" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="0" />
@@ -47,20 +49,16 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="9144" />
       <property name="Triangles" value="15336" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_stone_boulder">
+      <property name="0" value="34, 1, 34" />
     </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+    <property class="quest_wood_trees">
+      <property name="0" value="55, 1, 50" />
     </property>
   </property>
 </prefab>

@@ -16,8 +16,8 @@
   <property name="Tags" value="residential" />
   <property name="POIMarkerSize" value="10, 13, 5" />
   <property name="POIMarkerStart" value="29, 5, -5" />
-  <property name="POIMarkerGroup" value="driveway" />
-  <property name="POIMarkerTags" value="" />
+  <property name="POIMarkerGroup" value="driveway2" />
+  <property name="POIMarkerTags" value="residential" />
   <property name="POIMarkerType" value="PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_10" />
   <property name="POIMarkerPartRotations" value="2" />
@@ -32,15 +32,15 @@
   <property name="SleeperVolumeFlags" value="2,2,0,0,2,0,0,0,0,0,2,0,2,2,2,2,1,0,2,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="764244" />
-    <property name="TotalTriangles" value="320453" />
+    <property name="TotalVertices" value="572520" />
+    <property name="TotalTriangles" value="231301" />
     <property class="BlockEntities">
-      <property name="Vertices" value="603751" />
-      <property name="Triangles" value="227608" />
+      <property name="Vertices" value="442011" />
+      <property name="Triangles" value="153460" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="143471" />
-      <property name="Triangles" value="76879" />
+      <property name="Vertices" value="113503" />
+      <property name="Triangles" value="61883" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="5696" />
@@ -51,8 +51,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="3870" />
-      <property name="Triangles" value="2086" />
+      <property name="Vertices" value="3854" />
+      <property name="Triangles" value="2078" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="928" />
@@ -125,6 +125,11 @@
     </property>
     <property class="FetchContainer">
       <property name="0" value="23, 8, 21" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="37, 7, 27" />
+      <property name="1" value="37, 7, 30" />
+      <property name="2" value="37, 7, 34" />
     </property>
     <property class="Rally">
       <property name="0" value="38, 7, 32" />

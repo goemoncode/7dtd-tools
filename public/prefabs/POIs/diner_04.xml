@@ -21,17 +21,17 @@
   <property name="SleeperVolumeFlags" value="0,2,2,0,0,2,2,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # " />
   <property name="QuestTags" value="clear, fetch, infested" />
-  <property name="Tags" value="countrytown,nodiagonal" />
+  <property name="Tags" value="countrytown, nodiagonal" />
   <property class="Stats">
-    <property name="TotalVertices" value="399930" />
-    <property name="TotalTriangles" value="168019" />
+    <property name="TotalVertices" value="417936" />
+    <property name="TotalTriangles" value="175211" />
     <property class="BlockEntities">
-      <property name="Vertices" value="305769" />
-      <property name="Triangles" value="111090" />
+      <property name="Vertices" value="323707" />
+      <property name="Triangles" value="118218" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="89867" />
-      <property name="Triangles" value="51269" />
+      <property name="Vertices" value="89935" />
+      <property name="Triangles" value="51333" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -56,10 +56,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="3446" />
       <property name="Triangles" value="5236" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

@@ -41,20 +41,33 @@
       <property name="2" value="17, 8, 19" />
       <property name="3" value="17, 13, 19" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="12, 13, 16" />
+      <property name="1" value="20, 14, 16" />
+      <property name="2" value="12, 3, 18" />
+      <property name="3" value="12, 13, 19" />
+      <property name="4" value="14, 13, 21" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="9, 2, 8" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="22, 13, 12" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="23, 14, 7" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="400162" />
-    <property name="TotalTriangles" value="165393" />
+    <property name="TotalVertices" value="358614" />
+    <property name="TotalTriangles" value="146941" />
     <property class="BlockEntities">
-      <property name="Vertices" value="277570" />
-      <property name="Triangles" value="90264" />
+      <property name="Vertices" value="238599" />
+      <property name="Triangles" value="73162" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="117098" />
-      <property name="Triangles" value="69849" />
+      <property name="Vertices" value="114627" />
+      <property name="Triangles" value="68509" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -65,7 +78,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="3670" />
+      <property name="Vertices" value="3584" />
       <property name="Triangles" value="2122" />
     </property>
     <property class="ChunkMeshes4">
@@ -77,20 +90,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="1804" />
       <property name="Triangles" value="3148" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="20" />
-      <property name="Triangles" value="10" />
     </property>
   </property>
 </prefab>

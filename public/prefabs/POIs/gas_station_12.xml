@@ -13,7 +13,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-4" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="gateway,nocheckpoint" />
+  <property name="Tags" value="gateway, nocheckpoint" />
   <property name="POIMarkerSize" value="10, 13, 2#10, 13, 2" />
   <property name="POIMarkerStart" value="5, 3, -2#46, 3, -2" />
   <property name="POIMarkerGroup" value="driveway,driveway2" />
@@ -31,23 +31,23 @@
   <property name="SleeperVolumeFlags" value="2,0,0,2,2,0,0,0,0,0,0,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1209608" />
-    <property name="TotalTriangles" value="500638" />
+    <property name="TotalVertices" value="1005983" />
+    <property name="TotalTriangles" value="413150" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1027082" />
-      <property name="Triangles" value="384430" />
+      <property name="Vertices" value="827099" />
+      <property name="Triangles" value="299038" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="169500" />
-      <property name="Triangles" value="97768" />
+      <property name="Vertices" value="165954" />
+      <property name="Triangles" value="95720" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="96" />
-      <property name="Triangles" value="48" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="2156" />
@@ -67,6 +67,17 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="3, 4, 2" />
+      <property name="1" value="3, 4, 4" />
+      <property name="2" value="3, 4, 5" />
+      <property name="3" value="3, 4, 6" />
+      <property name="4" value="3, 4, 8" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="9, 4, 5" />
+      <property name="1" value="9, 4, 9" />
+    </property>
     <property class="POILight">
       <property name="0" value="47, 1, 46" />
       <property name="1" value="46, 9, 48" />
@@ -88,10 +99,40 @@
     <property class="TraderOnOff">
       <property name="0" value="47, 2, 48" />
     </property>
+    <property class="challenge_booths">
+      <property name="0" value="6, 9, 48" />
+      <property name="1" value="8, 9, 48" />
+      <property name="2" value="9, 9, 48" />
+      <property name="3" value="11, 9, 48" />
+      <property name="4" value="6, 9, 49" />
+      <property name="5" value="8, 9, 49" />
+      <property name="6" value="9, 9, 49" />
+      <property name="7" value="11, 9, 49" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="55, 4, 56" />
+      <property name="1" value="56, 4, 56" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="39, 4, 39" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="28, 10, 47" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="21, 10, 44" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="25, 11, 47" />
+      <property name="1" value="22, 11, 50" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="48, 2, 48" />
       <property name="1" value="56, 5, 48" />
       <property name="2" value="54, 7, 56" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="36, 4, 55" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="57, 4, 7" />

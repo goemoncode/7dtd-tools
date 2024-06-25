@@ -24,15 +24,15 @@
   <property name="PrefabSize" value="25, 16, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="586281" />
-    <property name="TotalTriangles" value="222326" />
+    <property name="TotalVertices" value="459058" />
+    <property name="TotalTriangles" value="165823" />
     <property class="BlockEntities">
-      <property name="Vertices" value="512443" />
-      <property name="Triangles" value="181413" />
+      <property name="Vertices" value="384992" />
+      <property name="Triangles" value="124726" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="71578" />
-      <property name="Triangles" value="38885" />
+      <property name="Vertices" value="71806" />
+      <property name="Triangles" value="39069" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -60,6 +60,9 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_barrels">
+      <property name="0" value="16, 1, 13" />
+    </property>
     <property class="POILight">
       <property name="0" value="13, 5, 12" />
       <property name="1" value="13, 8, 12" />
@@ -86,11 +89,32 @@
       <property name="1" value="19, 1, 19" />
       <property name="2" value="19, 7, 19" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="13, 8, 13" />
+      <property name="1" value="21, 1, 19" />
+      <property name="2" value="18, 7, 20" />
+      <property name="3" value="20, 1, 20" />
+      <property name="4" value="21, 7, 22" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="12, 13, 8" />
     </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="18, 7, 3" />
+    </property>
+    <property class="challenge_booths">
+      <property name="0" value="3, 7, 12" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="21, 4, 14" />
+      <property name="1" value="12, 1, 22" />
+      <property name="2" value="21, 2, 22" />
+    </property>
     <property class="Rally">
       <property name="0" value="12, 1, 0" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="21, 1, 20" />
     </property>
   </property>
 </prefab>

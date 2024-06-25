@@ -21,15 +21,15 @@
   <property name="SleeperVolumeFlags" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False" />
-  <property name="Tags" value="countrytown,rural,diagonal" />
+  <property name="Tags" value="countrytown, rural, diagonal" />
   <property name="PrefabSize" value="25, 21, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="95143" />
-    <property name="TotalTriangles" value="50425" />
+    <property name="TotalVertices" value="91694" />
+    <property name="TotalTriangles" value="48928" />
     <property class="BlockEntities">
-      <property name="Vertices" value="62742" />
-      <property name="Triangles" value="25180" />
+      <property name="Vertices" value="59293" />
+      <property name="Triangles" value="23683" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="27399" />
@@ -56,20 +56,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="1674" />
       <property name="Triangles" value="2900" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

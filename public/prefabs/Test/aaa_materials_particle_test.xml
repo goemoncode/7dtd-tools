@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="27, 11, 73" />
+  <property name="RotationToFaceNorth" value="3" />
+  <property name="Zoning" value="none" />
+  <property class="Stats">
+    <property name="TotalVertices" value="2129842" />
+    <property name="TotalTriangles" value="421933" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="2086798" />
+      <property name="Triangles" value="396469" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="30158" />
+      <property name="Triangles" value="15620" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="8960" />
+      <property name="Triangles" value="4480" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="1120" />
+      <property name="Triangles" value="560" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="2806" />
+      <property name="Triangles" value="4804" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="13, 4, 20" />
+      <property name="1" value="13, 5, 20" />
+      <property name="2" value="13, 6, 20" />
+      <property name="3" value="13, 7, 20" />
+      <property name="4" value="13, 8, 20" />
+      <property name="5" value="13, 9, 20" />
+      <property name="6" value="13, 10, 20" />
+      <property name="7" value="16, 1, 20" />
+      <property name="8" value="16, 2, 20" />
+      <property name="9" value="16, 3, 20" />
+      <property name="10" value="17, 1, 20" />
+      <property name="11" value="17, 2, 20" />
+      <property name="12" value="17, 3, 20" />
+      <property name="13" value="18, 1, 20" />
+      <property name="14" value="18, 2, 20" />
+      <property name="15" value="18, 3, 20" />
+      <property name="16" value="19, 1, 20" />
+      <property name="17" value="19, 2, 20" />
+      <property name="18" value="19, 3, 20" />
+      <property name="19" value="20, 1, 20" />
+      <property name="20" value="20, 2, 20" />
+      <property name="21" value="20, 3, 20" />
+      <property name="22" value="21, 1, 20" />
+      <property name="23" value="21, 2, 20" />
+      <property name="24" value="21, 3, 20" />
+      <property name="25" value="22, 1, 20" />
+      <property name="26" value="22, 2, 20" />
+      <property name="27" value="22, 3, 20" />
+      <property name="28" value="23, 1, 20" />
+      <property name="29" value="23, 2, 20" />
+      <property name="30" value="23, 3, 20" />
+      <property name="31" value="24, 1, 20" />
+      <property name="32" value="24, 2, 20" />
+      <property name="33" value="24, 3, 20" />
+      <property name="34" value="25, 1, 20" />
+      <property name="35" value="25, 2, 20" />
+      <property name="36" value="25, 3, 20" />
+      <property name="37" value="13, 4, 21" />
+      <property name="38" value="13, 5, 21" />
+      <property name="39" value="13, 6, 21" />
+      <property name="40" value="13, 7, 21" />
+      <property name="41" value="13, 8, 21" />
+      <property name="42" value="13, 9, 21" />
+      <property name="43" value="13, 10, 21" />
+      <property name="44" value="16, 1, 21" />
+      <property name="45" value="16, 2, 21" />
+      <property name="46" value="16, 3, 21" />
+      <property name="47" value="17, 1, 21" />
+      <property name="48" value="17, 2, 21" />
+      <property name="49" value="17, 3, 21" />
+      <property name="50" value="18, 1, 21" />
+      <property name="51" value="18, 2, 21" />
+      <property name="52" value="18, 3, 21" />
+      <property name="53" value="19, 1, 21" />
+      <property name="54" value="19, 2, 21" />
+      <property name="55" value="19, 3, 21" />
+      <property name="56" value="20, 1, 21" />
+      <property name="57" value="20, 2, 21" />
+      <property name="58" value="20, 3, 21" />
+      <property name="59" value="21, 1, 21" />
+      <property name="60" value="21, 2, 21" />
+      <property name="61" value="21, 3, 21" />
+      <property name="62" value="22, 1, 21" />
+      <property name="63" value="22, 2, 21" />
+      <property name="64" value="22, 3, 21" />
+      <property name="65" value="23, 1, 21" />
+      <property name="66" value="23, 2, 21" />
+      <property name="67" value="23, 3, 21" />
+      <property name="68" value="24, 1, 21" />
+      <property name="69" value="24, 2, 21" />
+      <property name="70" value="24, 3, 21" />
+      <property name="71" value="25, 1, 21" />
+      <property name="72" value="25, 2, 21" />
+      <property name="73" value="25, 3, 21" />
+      <property name="74" value="13, 4, 22" />
+      <property name="75" value="13, 5, 22" />
+      <property name="76" value="13, 6, 22" />
+      <property name="77" value="13, 7, 22" />
+      <property name="78" value="13, 8, 22" />
+      <property name="79" value="13, 9, 22" />
+      <property name="80" value="13, 10, 22" />
+      <property name="81" value="16, 1, 22" />
+      <property name="82" value="16, 2, 22" />
+      <property name="83" value="16, 3, 22" />
+      <property name="84" value="17, 1, 22" />
+      <property name="85" value="17, 2, 22" />
+      <property name="86" value="17, 3, 22" />
+      <property name="87" value="18, 1, 22" />
+      <property name="88" value="18, 2, 22" />
+      <property name="89" value="18, 3, 22" />
+      <property name="90" value="19, 1, 22" />
+      <property name="91" value="19, 2, 22" />
+      <property name="92" value="19, 3, 22" />
+      <property name="93" value="20, 1, 22" />
+      <property name="94" value="20, 2, 22" />
+      <property name="95" value="20, 3, 22" />
+      <property name="96" value="21, 1, 22" />
+      <property name="97" value="21, 2, 22" />
+      <property name="98" value="21, 3, 22" />
+      <property name="99" value="22, 1, 22" />
+      <property name="100" value="22, 2, 22" />
+      <property name="101" value="22, 3, 22" />
+      <property name="102" value="23, 1, 22" />
+      <property name="103" value="23, 2, 22" />
+      <property name="104" value="23, 3, 22" />
+      <property name="105" value="24, 1, 22" />
+      <property name="106" value="24, 2, 22" />
+      <property name="107" value="24, 3, 22" />
+      <property name="108" value="25, 1, 22" />
+      <property name="109" value="25, 2, 22" />
+      <property name="110" value="25, 3, 22" />
+      <property name="111" value="16, 1, 23" />
+      <property name="112" value="16, 2, 23" />
+      <property name="113" value="16, 3, 23" />
+      <property name="114" value="17, 1, 23" />
+      <property name="115" value="17, 2, 23" />
+      <property name="116" value="17, 3, 23" />
+      <property name="117" value="18, 1, 23" />
+      <property name="118" value="18, 2, 23" />
+      <property name="119" value="18, 3, 23" />
+      <property name="120" value="19, 1, 23" />
+      <property name="121" value="19, 2, 23" />
+      <property name="122" value="19, 3, 23" />
+      <property name="123" value="20, 1, 23" />
+      <property name="124" value="20, 2, 23" />
+      <property name="125" value="20, 3, 23" />
+      <property name="126" value="21, 1, 23" />
+      <property name="127" value="21, 2, 23" />
+      <property name="128" value="21, 3, 23" />
+      <property name="129" value="22, 1, 23" />
+      <property name="130" value="22, 2, 23" />
+      <property name="131" value="22, 3, 23" />
+      <property name="132" value="23, 1, 23" />
+      <property name="133" value="23, 2, 23" />
+      <property name="134" value="23, 3, 23" />
+      <property name="135" value="24, 1, 23" />
+      <property name="136" value="24, 2, 23" />
+      <property name="137" value="24, 3, 23" />
+      <property name="138" value="25, 1, 23" />
+      <property name="139" value="25, 2, 23" />
+      <property name="140" value="25, 3, 23" />
+    </property>
+  </property>
+</prefab>

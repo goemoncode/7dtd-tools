@@ -13,23 +13,23 @@
   <property name="PrefabSize" value="173, 29, 204" />
   <property name="Tags" value="testonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="1333355" />
-    <property name="TotalTriangles" value="656367" />
+    <property name="TotalVertices" value="1253094" />
+    <property name="TotalTriangles" value="620812" />
     <property class="BlockEntities">
-      <property name="Vertices" value="463755" />
-      <property name="Triangles" value="176875" />
+      <property name="Vertices" value="380362" />
+      <property name="Triangles" value="139792" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="841778" />
-      <property name="Triangles" value="461604" />
+      <property name="Vertices" value="845106" />
+      <property name="Triangles" value="463268" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="272" />
-      <property name="Triangles" value="136" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="23914" />
@@ -44,19 +44,37 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="3516" />
+      <property name="Vertices" value="3592" />
       <property name="Triangles" value="5120" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="POILight">
-      <property name="0" value="161, 5, 144" />
-      <property name="1" value="159, 4, 145" />
-    </property>
     <property class="TraderOnOff">
-      <property name="0" value="165, 13, 158" />
-      <property name="1" value="160, 13, 161" />
-      <property name="2" value="172, 1, 161" />
+      <property name="0" value="172, 1, 161" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="156, 19, 151" />
+      <property name="1" value="158, 9, 165" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="86, 2, 70" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="49, 1, 84" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="102, 6, 25" />
+      <property name="1" value="102, 11, 25" />
+      <property name="2" value="103, 6, 25" />
+      <property name="3" value="103, 11, 25" />
+    </property>
+    <property class="challenge_booths">
+      <property name="0" value="111, 6, 30" />
+      <property name="1" value="111, 11, 30" />
+      <property name="2" value="110, 6, 31" />
+      <property name="3" value="110, 11, 31" />
+      <property name="4" value="111, 6, 31" />
+      <property name="5" value="111, 11, 31" />
     </property>
   </property>
 </prefab>

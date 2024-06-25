@@ -13,7 +13,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-3" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="countrytown,nodiagonal" />
+  <property name="Tags" value="countrytown, nodiagonal" />
   <property name="POIMarkerSize" value="41, 13, 2" />
   <property name="POIMarkerStart" value="19, 2, -2" />
   <property name="POIMarkerGroup" value="driveway" />
@@ -31,27 +31,27 @@
   <property name="SleeperVolumeFlags" value="2,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2,2,2,2,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1139140" />
-    <property name="TotalTriangles" value="468537" />
+    <property name="TotalVertices" value="989695" />
+    <property name="TotalTriangles" value="397749" />
     <property class="BlockEntities">
-      <property name="Vertices" value="952934" />
-      <property name="Triangles" value="352151" />
+      <property name="Vertices" value="804711" />
+      <property name="Triangles" value="281951" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="172820" />
-      <property name="Triangles" value="98158" />
+      <property name="Vertices" value="171766" />
+      <property name="Triangles" value="97662" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="128" />
-      <property name="Triangles" value="64" />
+      <property name="Vertices" value="16" />
+      <property name="Triangles" value="8" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="2380" />
-      <property name="Triangles" value="1296" />
+      <property name="Vertices" value="2324" />
+      <property name="Triangles" value="1260" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="1232" />
@@ -81,11 +81,25 @@
       <property name="1" value="46, 3, 49" />
       <property name="2" value="46, 8, 49" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="46, 3, 44" />
+      <property name="1" value="47, 3, 44" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="36, 3, 39" />
+      <property name="1" value="36, 3, 42" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="47, 3, 45" />
     </property>
     <property class="quest_feather">
       <property name="0" value="16, 8, 40" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="47, 3, 36" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="37, 8, 44" />
     </property>
   </property>
 </prefab>

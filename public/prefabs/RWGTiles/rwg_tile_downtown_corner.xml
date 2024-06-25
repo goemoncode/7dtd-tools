@@ -30,15 +30,15 @@
   <property name="Tags" value="streettile,rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1336791" />
-    <property name="TotalTriangles" value="647846" />
+    <property name="TotalVertices" value="1346479" />
+    <property name="TotalTriangles" value="649766" />
     <property class="BlockEntities">
-      <property name="Vertices" value="932387" />
-      <property name="Triangles" value="332949" />
+      <property name="Vertices" value="942147" />
+      <property name="Triangles" value="335081" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="331042" />
-      <property name="Triangles" value="202319" />
+      <property name="Vertices" value="330970" />
+      <property name="Triangles" value="202107" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="4032" />
@@ -53,24 +53,16 @@
       <property name="Triangles" value="1598" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes5">
       <property name="Vertices" value="792" />
       <property name="Triangles" value="396" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes7">
+    <property class="ChunkMeshes6">
       <property name="Vertices" value="66092" />
       <property name="Triangles" value="108568" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -87,7 +79,7 @@
       <property name="0" value="126, 11, 77" />
     </property>
     <property class="quest_wood">
-      <property name="0" value="93, 12, 111" />
+      <property name="0" value="108, 11, 77" />
     </property>
     <property class="quest_feather">
       <property name="0" value="134, 17, 147" />

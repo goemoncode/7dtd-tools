@@ -1,0 +1,14 @@
+id,name,count
+6919,concreteShapes:cube,48
+9038,concreteShapes:cubeDrainCentered,1
+13579,corrugatedMetalShapes:cube,103
+13594,corrugatedMetalShapes:cubeHalf,24
+13700,corrugatedMetalShapes:cubeHalfPlateCorner2,14
+13703,corrugatedMetalShapes:plate,24
+15016,corrugatedMetalShapes:doorTrim1m,12
+15486,corrugatedMetalShapes:plateBracketCentered,2
+15508,corrugatedMetalShapes:fakeDynamicGrate,2
+18790,conduitSingleCentered,4
+19026,lightCeiling07,1
+19110,signExitLightOffset,1
+20280,ironDoorGrey,1

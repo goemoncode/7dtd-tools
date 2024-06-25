@@ -22,7 +22,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="Tags" value="residential,culdesac" />
+  <property name="Tags" value="residential, culdesac" />
   <property name="POIMarkerSize" value="11, 3, 2" />
   <property name="POIMarkerStart" value="9, 5, 42" />
   <property name="POIMarkerGroup" value="driveway" />
@@ -34,15 +34,15 @@
   <property name="PrefabSize" value="42, 25, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="555695" />
-    <property name="TotalTriangles" value="230895" />
+    <property name="TotalVertices" value="559702" />
+    <property name="TotalTriangles" value="233092" />
     <property class="BlockEntities">
-      <property name="Vertices" value="442122" />
-      <property name="Triangles" value="161458" />
+      <property name="Vertices" value="446153" />
+      <property name="Triangles" value="163663" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="104963" />
-      <property name="Triangles" value="57715" />
+      <property name="Vertices" value="104939" />
+      <property name="Triangles" value="57707" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -70,6 +70,14 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="29, 7, 7" />
+      <property name="1" value="30, 7, 7" />
+      <property name="2" value="31, 7, 7" />
+      <property name="3" value="32, 7, 7" />
+      <property name="4" value="33, 7, 7" />
+      <property name="5" value="34, 7, 7" />
+    </property>
     <property class="POILight">
       <property name="0" value="23, 4, 21" />
       <property name="1" value="22, 10, 23" />

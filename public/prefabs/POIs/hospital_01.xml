@@ -37,11 +37,11 @@
   <property name="TriggerVolumeStart" value="31, 1, 43#74, 13, 43#36, 33, 39#33, 33, 40#43, 33, 53#28, 33, 63#28, 33, 60" />
   <property name="TriggerVolumeTriggers" value="5#6#7#7#7#7#7" />
   <property class="Stats">
-    <property name="TotalVertices" value="4417141" />
-    <property name="TotalTriangles" value="1734177" />
+    <property name="TotalVertices" value="4502188" />
+    <property name="TotalTriangles" value="1745599" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3706267" />
-      <property name="Triangles" value="1308202" />
+      <property name="Vertices" value="3791314" />
+      <property name="Triangles" value="1319624" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="664386" />
@@ -73,6 +73,15 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="87, 8, 50" />
+      <property name="1" value="87, 8, 51" />
+      <property name="2" value="87, 8, 52" />
+      <property name="3" value="87, 8, 53" />
+      <property name="4" value="87, 8, 54" />
+      <property name="5" value="86, 8, 55" />
+      <property name="6" value="87, 8, 55" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="94, 7, 93" />
     </property>

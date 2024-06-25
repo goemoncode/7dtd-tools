@@ -10,4 +10,5 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="7, 5, 9" />
   <property name="RotationToFaceNorth" value="2" />
+	<property name="Tags" value="part" />
 </prefab>

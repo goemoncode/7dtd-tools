@@ -12,15 +12,16 @@
   <property name="PrefabSize" value="60, 4, 60" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="rural" />
-  <property name="ThemeTags" value="rural_filler" />
-  <property name="ThemeRepeatDistance" value="110" />
+  <property name="Tags" value="rural,hideui" />
+  <property name="ThemeTags" value="ruralfiller" />
+  <property name="ThemeRepeatDistance" value="500" />
+  <property name="DuplicateRepeatDistance" value="750" />
   <property class="Stats">
     <property name="TotalVertices" value="68756" />
-    <property name="TotalTriangles" value="88854" />
+    <property name="TotalTriangles" value="78399" />
     <property class="BlockEntities">
       <property name="Vertices" value="59384" />
-      <property name="Triangles" value="73094" />
+      <property name="Triangles" value="62639" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="0" />
@@ -47,20 +48,16 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="9372" />
       <property name="Triangles" value="15760" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_stone_boulder">
+      <property name="0" value="49, 2, 47" />
     </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+    <property class="quest_wood_trees">
+      <property name="0" value="30, 2, 31" />
     </property>
   </property>
 </prefab>

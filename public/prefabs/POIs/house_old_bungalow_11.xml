@@ -34,15 +34,15 @@
   <property name="PrefabSize" value="60, 43, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="989309" />
-    <property name="TotalTriangles" value="504420" />
+    <property name="TotalVertices" value="863134" />
+    <property name="TotalTriangles" value="453475" />
     <property class="BlockEntities">
-      <property name="Vertices" value="774999" />
-      <property name="Triangles" value="357654" />
+      <property name="Vertices" value="648432" />
+      <property name="Triangles" value="306589" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="191882" />
-      <property name="Triangles" value="111470" />
+      <property name="Vertices" value="192274" />
+      <property name="Triangles" value="111590" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -87,12 +87,36 @@
       <property name="10" value="41, 27, 50" />
       <property name="11" value="30, 4, 51" />
     </property>
+    <property class="challenge_pallet">
+      <property name="0" value="36, 13, 48" />
+      <property name="1" value="43, 20, 50" />
+      <property name="2" value="44, 14, 50" />
+      <property name="3" value="42, 13, 51" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="35, 7, 49" />
+      <property name="1" value="36, 7, 49" />
+      <property name="2" value="41, 26, 50" />
+      <property name="3" value="34, 7, 51" />
+      <property name="4" value="36, 7, 51" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="36, 23, 46" />
       <property name="1" value="33, 7, 50" />
     </property>
+    <property class="challenge_booths">
+      <property name="0" value="23, 13, 52" />
+      <property name="1" value="25, 13, 52" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="44, 15, 50" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="22, 13, 50" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="39, 27, 28" />
+      <property name="1" value="38, 27, 29" />
     </property>
     <property class="Rally">
       <property name="0" value="33, 20, 41" />

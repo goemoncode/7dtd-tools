@@ -23,26 +23,26 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="Tags" value="commercial" />
-  <property name="PrefabSize" value="60, 12, 60" />
+  <property name="PrefabSize" value="60, 21, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1631743" />
-    <property name="TotalTriangles" value="683665" />
+    <property name="TotalVertices" value="1100423" />
+    <property name="TotalTriangles" value="433743" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1514740" />
-      <property name="Triangles" value="606949" />
+      <property name="Vertices" value="983476" />
+      <property name="Triangles" value="357047" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="105321" />
-      <property name="Triangles" value="59834" />
+      <property name="Vertices" value="105297" />
+      <property name="Triangles" value="59830" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="32" />
-      <property name="Triangles" value="16" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1694" />
@@ -64,6 +64,9 @@
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="2, 2, 4" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="50, 2, 47" />
     </property>
     <property class="POILight">
       <property name="0" value="32, 5, 46" />
@@ -90,11 +93,25 @@
       <property name="1" value="33, 3, 49" />
       <property name="2" value="43, 2, 50" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="31, 2, 47" />
+      <property name="1" value="33, 2, 47" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="34, 2, 46" />
     </property>
+    <property class="challenge_pallet">
+      <property name="0" value="31, 2, 51" />
+      <property name="1" value="37, 2, 54" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="23, 2, 55" />
+    </property>
     <property class="Rally">
       <property name="0" value="30, 2, 6" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="31, 9, 15" />
     </property>
   </property>
 </prefab>

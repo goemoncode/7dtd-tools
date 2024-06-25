@@ -28,18 +28,18 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_06,part_driveway_countrytown_02" />
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
-  <property name="Tags" value="countrytown,nodiagonal" />
+  <property name="Tags" value="countrytown, nodiagonal" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="350128" />
-    <property name="TotalTriangles" value="157654" />
+    <property name="TotalVertices" value="284294" />
+    <property name="TotalTriangles" value="130252" />
     <property class="BlockEntities">
-      <property name="Vertices" value="299542" />
-      <property name="Triangles" value="121986" />
+      <property name="Vertices" value="234110" />
+      <property name="Triangles" value="94840" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="45000" />
-      <property name="Triangles" value="27392" />
+      <property name="Vertices" value="44598" />
+      <property name="Triangles" value="27136" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -77,8 +77,26 @@
       <property name="0" value="24, 2, 9" />
       <property name="1" value="22, 2, 16" />
     </property>
+    <property class="challenge_booths">
+      <property name="0" value="20, 2, 9" />
+      <property name="1" value="20, 2, 11" />
+      <property name="2" value="20, 2, 12" />
+      <property name="3" value="20, 2, 14" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="13, 3, 21" />
+      <property name="1" value="20, 2, 22" />
+      <property name="2" value="20, 2, 23" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="21, 4, 19" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="13, 2, 26" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="18, 2, 30" />
+      <property name="1" value="12, 2, 31" />
     </property>
     <property class="Rally">
       <property name="0" value="31, 2, 3" />

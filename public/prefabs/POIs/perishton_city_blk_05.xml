@@ -20,8 +20,11 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
-  <property name="Tags" value="navonly,hideui" />
+  <property name="Tags" value="navonly, hideui" />
   <property class="IndexedBlockOffsets">
+    <property class="challenge_cars">
+      <property name="0" value="100, 1, 49" />
+    </property>
     <property class="POILight">
       <property name="0" value="111, 1, 100" />
     </property>
@@ -31,17 +34,20 @@
     <property class="TraderOnOff">
       <property name="0" value="45, 1, 45" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="97, 1, 47" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="274766" />
-    <property name="TotalTriangles" value="145043" />
+    <property name="TotalVertices" value="201561" />
+    <property name="TotalTriangles" value="117628" />
     <property class="BlockEntities">
-      <property name="Vertices" value="196454" />
-      <property name="Triangles" value="66511" />
+      <property name="Vertices" value="123273" />
+      <property name="Triangles" value="39108" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="45558" />
-      <property name="Triangles" value="25704" />
+      <property name="Vertices" value="45534" />
+      <property name="Triangles" value="25692" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

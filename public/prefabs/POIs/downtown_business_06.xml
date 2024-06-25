@@ -27,27 +27,27 @@
   <property name="PrefabSize" value="42, 19, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="697299" />
-    <property name="TotalTriangles" value="277887" />
+    <property name="TotalVertices" value="550289" />
+    <property name="TotalTriangles" value="213847" />
     <property class="BlockEntities">
-      <property name="Vertices" value="566913" />
-      <property name="Triangles" value="203184" />
+      <property name="Vertices" value="414365" />
+      <property name="Triangles" value="135460" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="119093" />
-      <property name="Triangles" value="64682" />
+      <property name="Vertices" value="123057" />
+      <property name="Triangles" value="66686" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="672" />
-      <property name="Triangles" value="336" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="7937" />
-      <property name="Triangles" value="5461" />
+      <property name="Vertices" value="9845" />
+      <property name="Triangles" value="6877" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -58,12 +58,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="2684" />
-      <property name="Triangles" value="4224" />
+      <property name="Vertices" value="3022" />
+      <property name="Triangles" value="4824" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -77,6 +73,24 @@
     </property>
     <property class="POILight">
       <property name="0" value="38, 2, 37" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="5, 1, 27" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="37, 2, 6" />
+      <property name="1" value="37, 2, 11" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="21, 8, 24" />
+      <property name="1" value="23, 8, 24" />
+      <property name="2" value="24, 8, 24" />
+      <property name="3" value="21, 9, 28" />
+      <property name="4" value="22, 9, 28" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="27, 2, 15" />
+      <property name="1" value="27, 2, 16" />
     </property>
     <property class="Rally">
       <property name="0" value="37, 1, 39" />

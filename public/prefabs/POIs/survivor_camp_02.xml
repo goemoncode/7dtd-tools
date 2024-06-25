@@ -56,10 +56,6 @@
       <property name="Vertices" value="9692" />
       <property name="Triangles" value="16336" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_stone_boulder">

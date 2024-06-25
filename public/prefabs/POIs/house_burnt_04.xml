@@ -31,18 +31,18 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_04" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 25, 42" />
+  <property name="PrefabSize" value="42, 26, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="454895" />
-    <property name="TotalTriangles" value="239167" />
+    <property name="TotalVertices" value="381316" />
+    <property name="TotalTriangles" value="208683" />
     <property class="BlockEntities">
-      <property name="Vertices" value="334950" />
-      <property name="Triangles" value="167183" />
+      <property name="Vertices" value="263095" />
+      <property name="Triangles" value="137595" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="111217" />
-      <property name="Triangles" value="59916" />
+      <property name="Vertices" value="109493" />
+      <property name="Triangles" value="59020" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

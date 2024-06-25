@@ -28,15 +28,15 @@
   <property name="PrefabSize" value="60, 13, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="531333" />
-    <property name="TotalTriangles" value="225203" />
+    <property name="TotalVertices" value="461756" />
+    <property name="TotalTriangles" value="189218" />
     <property class="BlockEntities">
-      <property name="Vertices" value="465294" />
-      <property name="Triangles" value="176555" />
+      <property name="Vertices" value="396411" />
+      <property name="Triangles" value="140906" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="55599" />
-      <property name="Triangles" value="32344" />
+      <property name="Vertices" value="54905" />
+      <property name="Triangles" value="32008" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -76,15 +76,32 @@
       <property name="5" value="35, 4, 50" />
       <property name="6" value="35, 5, 52" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="25, 8, 34" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="41, 5, 49" />
       <property name="1" value="32, 3, 50" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="32, 3, 48" />
+      <property name="1" value="32, 3, 49" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="38, 2, 47" />
+      <property name="1" value="37, 3, 48" />
     </property>
     <property class="Rally">
       <property name="0" value="30, 2, 23" />
     </property>
     <property class="quest_feather">
       <property name="0" value="34, 8, 31" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="34, 2, 43" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="34, 2, 46" />
     </property>
   </property>
 </prefab>

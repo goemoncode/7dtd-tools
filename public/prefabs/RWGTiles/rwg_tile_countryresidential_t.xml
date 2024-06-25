@@ -30,8 +30,8 @@
   <property name="Tags" value="streettile,rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="412684" />
-    <property name="TotalTriangles" value="272729" />
+    <property name="TotalVertices" value="353872" />
+    <property name="TotalTriangles" value="177025" />
     <property class="BlockEntities">
       <property name="Vertices" value="293369" />
       <property name="Triangles" value="141341" />
@@ -61,14 +61,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="58812" />
-      <property name="Triangles" value="95704" />
-    </property>
-    <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

@@ -34,15 +34,15 @@
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="Tags" value="gateway" />
   <property class="Stats">
-    <property name="TotalVertices" value="1240058" />
-    <property name="TotalTriangles" value="470680" />
+    <property name="TotalVertices" value="1235626" />
+    <property name="TotalTriangles" value="469510" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1204870" />
-      <property name="Triangles" value="439145" />
+      <property name="Vertices" value="1200430" />
+      <property name="Triangles" value="437971" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="23858" />
-      <property name="Triangles" value="14983" />
+      <property name="Vertices" value="23866" />
+      <property name="Triangles" value="14987" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -65,16 +65,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="9234" />
       <property name="Triangles" value="15508" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

@@ -34,27 +34,27 @@
   <property name="PrefabSize" value="60, 31, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1181857" />
-    <property name="TotalTriangles" value="490810" />
+    <property name="TotalVertices" value="1397518" />
+    <property name="TotalTriangles" value="583458" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1019163" />
-      <property name="Triangles" value="389269" />
+      <property name="Vertices" value="1236586" />
+      <property name="Triangles" value="482743" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="146778" />
-      <property name="Triangles" value="78667" />
+      <property name="Vertices" value="146816" />
+      <property name="Triangles" value="78703" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1920" />
-      <property name="Triangles" value="960" />
+      <property name="Vertices" value="16" />
+      <property name="Triangles" value="8" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1860" />
-      <property name="Triangles" value="1282" />
+      <property name="Vertices" value="1964" />
+      <property name="Triangles" value="1372" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="24" />
@@ -88,14 +88,31 @@
     <property class="POILight">
       <property name="0" value="30, 16, 34" />
     </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="14, 9, 23" />
+      <property name="1" value="18, 14, 24" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="30, 8, 20" />
+      <property name="1" value="31, 8, 20" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="32, 9, 32" />
     </property>
     <property class="Rally">
       <property name="0" value="7, 8, 33" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="30, 4, 32" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="16, 24, 24" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="28, 19, 34" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="30, 14, 34" />
     </property>
   </property>
 </prefab>

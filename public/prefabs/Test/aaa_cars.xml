@@ -14,11 +14,11 @@
   <property name="Zoning" value="none" />
   <property name="Tags" value="test" />
   <property class="Stats">
-    <property name="TotalVertices" value="5093781" />
-    <property name="TotalTriangles" value="1719987" />
+    <property name="TotalVertices" value="2809264" />
+    <property name="TotalTriangles" value="915675" />
     <property class="BlockEntities">
-      <property name="Vertices" value="4987049" />
-      <property name="Triangles" value="1657171" />
+      <property name="Vertices" value="2702532" />
+      <property name="Triangles" value="852859" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="104728" />
@@ -48,9 +48,19 @@
       <property name="Vertices" value="2004" />
       <property name="Triangles" value="3568" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="challenge_cars">
+      <property name="0" value="143, 1, 64" />
+      <property name="1" value="148, 1, 64" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="102, 1, 45" />
+      <property name="1" value="102, 2, 51" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="110, 1, 45" />
+      <property name="1" value="110, 2, 51" />
     </property>
   </property>
 </prefab>

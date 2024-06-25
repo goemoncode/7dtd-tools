@@ -13,15 +13,15 @@
   <property name="YOffset" value="-1" />
   <property name="PrefabSize" value="170, 7, 133" />
   <property class="Stats">
-    <property name="TotalVertices" value="27532110" />
-    <property name="TotalTriangles" value="9886949" />
+    <property name="TotalVertices" value="19723889" />
+    <property name="TotalTriangles" value="6563197" />
     <property class="BlockEntities">
-      <property name="Vertices" value="27071215" />
-      <property name="Triangles" value="9636504" />
+      <property name="Vertices" value="19263526" />
+      <property name="Triangles" value="6313090" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="458179" />
-      <property name="Triangles" value="245661" />
+      <property name="Vertices" value="457647" />
+      <property name="Triangles" value="245323" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -40,14 +40,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="2716" />
       <property name="Triangles" value="4784" />
     </property>
@@ -63,6 +55,35 @@
       <property name="6" value="123, 1, 123" />
       <property name="7" value="124, 1, 123" />
       <property name="8" value="125, 1, 123" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="166, 1, 118" />
+      <property name="1" value="166, 1, 126" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="117, 2, 131" />
+      <property name="1" value="118, 2, 131" />
+      <property name="2" value="119, 2, 131" />
+      <property name="3" value="120, 2, 131" />
+      <property name="4" value="121, 2, 131" />
+      <property name="5" value="122, 2, 131" />
+      <property name="6" value="123, 2, 131" />
+      <property name="7" value="124, 2, 131" />
+      <property name="8" value="125, 2, 131" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="38, 1, 35" />
+    </property>
+    <property class="challenge_stump">
+      <property name="0" value="117, 1, 43" />
+      <property name="1" value="118, 1, 43" />
+      <property name="2" value="119, 1, 43" />
+      <property name="3" value="120, 1, 43" />
+      <property name="4" value="121, 1, 43" />
+      <property name="5" value="122, 1, 43" />
+      <property name="6" value="123, 1, 43" />
+      <property name="7" value="124, 1, 43" />
+      <property name="8" value="125, 1, 43" />
     </property>
   </property>
 </prefab>

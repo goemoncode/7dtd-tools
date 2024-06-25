@@ -19,18 +19,18 @@
   <property name="POIMarkerPartToSpawn" value=",,,,part_streetlight_single,part_streetlight_single,part_streetlight_single_diagonal,part_streetlight_single" />
   <property name="POIMarkerPartRotations" value="1,1,2,0,0,0,2,0" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,0.2,0.2,0.2,0.2" />
-  <property name="PrefabSize" value="150, 13, 150" />
-  <property name="Tags" value="streettile,rwgonly" />
+  <property name="PrefabSize" value="150, 23, 150" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="475038" />
-    <property name="TotalTriangles" value="412612" />
+    <property name="TotalVertices" value="406356" />
+    <property name="TotalTriangles" value="360110" />
     <property class="BlockEntities">
-      <property name="Vertices" value="339447" />
-      <property name="Triangles" value="272958" />
+      <property name="Vertices" value="270852" />
+      <property name="Triangles" value="220528" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="77593" />
-      <property name="Triangles" value="45498" />
+      <property name="Vertices" value="77506" />
+      <property name="Triangles" value="45426" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -53,20 +53,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="57998" />
       <property name="Triangles" value="94156" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -75,6 +63,9 @@
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="144, 3, 33" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="101, 1, 76" />
     </property>
   </property>
 </prefab>

@@ -23,7 +23,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="Tags" value="countryresidential" />
-  <property name="PrefabSize" value="42, 26, 42" />
+  <property name="PrefabSize" value="42, 25, 42" />
   <property name="POIMarkerSize" value="6, 13, 1" />
   <property name="POIMarkerStart" value="31, 4, -1" />
   <property name="POIMarkerGroup" value="driveway" />
@@ -34,11 +34,11 @@
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="445749" />
-    <property name="TotalTriangles" value="201681" />
+    <property name="TotalVertices" value="446307" />
+    <property name="TotalTriangles" value="201635" />
     <property class="BlockEntities">
-      <property name="Vertices" value="360648" />
-      <property name="Triangles" value="151711" />
+      <property name="Vertices" value="361230" />
+      <property name="Triangles" value="151677" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="78462" />
@@ -49,8 +49,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="180" />
-      <property name="Triangles" value="116" />
+      <property name="Vertices" value="156" />
+      <property name="Triangles" value="104" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="353" />
@@ -85,6 +85,9 @@
     </property>
     <property class="Rally">
       <property name="0" value="20, 5, 37" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="23, 5, 35" />
     </property>
   </property>
 </prefab>

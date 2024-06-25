@@ -10,10 +10,10 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-6" />
-  <property name="PrefabSize" value="42, 16, 42" />
+  <property name="PrefabSize" value="42, 26, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="residential,countryresidential" />
+  <property name="Tags" value="residential, countryresidential" />
   <property name="POIMarkerSize" value="7, 13, 1#9, 13, 5" />
   <property name="POIMarkerStart" value="3, 5, -1#2, 5, -5" />
   <property name="POIMarkerGroup" value="driveway,driveway2" />
@@ -31,15 +31,15 @@
   <property name="SleeperVolumeFlags" value="2,2,2,2,2,2,2,2,2,2,2,0,2,2,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="594967" />
-    <property name="TotalTriangles" value="245011" />
+    <property name="TotalVertices" value="491384" />
+    <property name="TotalTriangles" value="200470" />
     <property class="BlockEntities">
-      <property name="Vertices" value="496403" />
-      <property name="Triangles" value="181252" />
+      <property name="Vertices" value="392971" />
+      <property name="Triangles" value="136721" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="90902" />
-      <property name="Triangles" value="53103" />
+      <property name="Vertices" value="90817" />
+      <property name="Triangles" value="53109" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -50,37 +50,31 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1018" />
+      <property name="Vertices" value="984" />
       <property name="Triangles" value="644" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes5">
       <property name="Vertices" value="600" />
       <property name="Triangles" value="300" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes7">
+    <property class="ChunkMeshes6">
       <property name="Vertices" value="6012" />
       <property name="Triangles" value="9696" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="32" />
-      <property name="Triangles" value="16" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="23, 7, 37" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="39, 6, 39" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="7, 6, 7" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="30, 6, 21" />
@@ -89,8 +83,21 @@
     <property class="FetchContainer">
       <property name="0" value="24, 8, 28" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="32, 6, 24" />
+      <property name="1" value="34, 6, 24" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="26, 6, 32" />
+    </property>
     <property class="Rally">
       <property name="0" value="6, 6, 29" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="27, 1, 25" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="27, 6, 28" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="38, 6, 9" />

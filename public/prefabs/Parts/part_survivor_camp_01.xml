@@ -9,7 +9,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-1" />
-  <property name="PrefabSize" value="12, 8, 13" />
+  <property name="PrefabSize" value="12, 3, 13" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="12, 3, 13" />
@@ -23,11 +23,11 @@
   <property name="EditorGroups" value="parts" />
   <property name="Tags" value="part" />
   <property class="Stats">
-    <property name="TotalVertices" value="36539" />
-    <property name="TotalTriangles" value="41956" />
+    <property name="TotalVertices" value="42306" />
+    <property name="TotalTriangles" value="18762" />
     <property class="BlockEntities">
-      <property name="Vertices" value="35895" />
-      <property name="Triangles" value="41156" />
+      <property name="Vertices" value="41662" />
+      <property name="Triangles" value="17962" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="176" />
@@ -54,12 +54,13 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="468" />
       <property name="Triangles" value="720" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="9, 1, 11" />
     </property>
   </property>
 </prefab>

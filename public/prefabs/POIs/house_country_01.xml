@@ -31,18 +31,18 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_03" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 13, 42" />
+  <property name="PrefabSize" value="42, 20, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="217423" />
-    <property name="TotalTriangles" value="96556" />
+    <property name="TotalVertices" value="184984" />
+    <property name="TotalTriangles" value="80285" />
     <property class="BlockEntities">
-      <property name="Vertices" value="177956" />
-      <property name="Triangles" value="71471" />
+      <property name="Vertices" value="146605" />
+      <property name="Triangles" value="55814" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="33525" />
-      <property name="Triangles" value="17201" />
+      <property name="Vertices" value="32721" />
+      <property name="Triangles" value="16839" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -53,8 +53,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1580" />
-      <property name="Triangles" value="1096" />
+      <property name="Vertices" value="1296" />
+      <property name="Triangles" value="844" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -67,10 +67,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="4362" />
       <property name="Triangles" value="6788" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -87,8 +83,19 @@
     <property class="TraderOnOff">
       <property name="0" value="29, 5, 33" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="15, 7, 35" />
+      <property name="1" value="13, 2, 36" />
+      <property name="2" value="16, 6, 36" />
+    </property>
     <property class="Rally">
       <property name="0" value="31, 1, 25" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="24, 1, 33" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="25, 5, 35" />
     </property>
   </property>
 </prefab>

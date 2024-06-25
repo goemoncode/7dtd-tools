@@ -26,25 +26,25 @@
   <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="POIMarkerSize" value="3, 1, 3" />
-  <property name="POIMarkerStart" value="16, 0, -3" />
+  <property name="POIMarkerStart" value="16, 0, -1" />
   <property name="POIMarkerGroup" value="new" />
   <property name="POIMarkerTags" value="" />
   <property name="POIMarkerType" value="RoadExit" />
   <property name="POIMarkerPartToSpawn" value="" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 19, 42" />
+  <property name="PrefabSize" value="42, 21, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # #3# " />
   <property class="Stats">
-    <property name="TotalVertices" value="488105" />
-    <property name="TotalTriangles" value="242924" />
+    <property name="TotalVertices" value="389473" />
+    <property name="TotalTriangles" value="200893" />
     <property class="BlockEntities">
-      <property name="Vertices" value="418148" />
-      <property name="Triangles" value="200412" />
+      <property name="Vertices" value="319691" />
+      <property name="Triangles" value="158429" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="64157" />
-      <property name="Triangles" value="34256" />
+      <property name="Vertices" value="63982" />
+      <property name="Triangles" value="34208" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -70,14 +70,13 @@
       <property name="Vertices" value="4874" />
       <property name="Triangles" value="7668" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="37, 1, 38" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="13, 8, 22" />
     </property>
     <property class="POILight">
       <property name="0" value="24, 10, 21" />
@@ -110,11 +109,17 @@
       <property name="5" value="24, 9, 27" />
       <property name="6" value="24, 3, 31" />
     </property>
+    <property class="challenge_pallet">
+      <property name="0" value="18, 2, 31" />
+    </property>
     <property class="QuestRestorePower">
       <property name="0" value="17, 2, 33" />
     </property>
     <property class="Rally">
       <property name="0" value="21, 2, 7" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="30, 4, 27" />
     </property>
   </property>
 </prefab>

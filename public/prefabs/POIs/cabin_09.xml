@@ -32,26 +32,26 @@
   <property name="POIMarkerPartToSpawn" value="" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="60, 16, 60" />
+  <property name="PrefabSize" value="60, 22, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="638130" />
-    <property name="TotalTriangles" value="322433" />
+    <property name="TotalVertices" value="637528" />
+    <property name="TotalTriangles" value="322141" />
     <property class="BlockEntities">
-      <property name="Vertices" value="558009" />
-      <property name="Triangles" value="270374" />
+      <property name="Vertices" value="557025" />
+      <property name="Triangles" value="269833" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="56923" />
-      <property name="Triangles" value="29167" />
+      <property name="Vertices" value="57329" />
+      <property name="Triangles" value="29428" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="12288" />
       <property name="Triangles" value="6144" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="24" />
-      <property name="Triangles" value="12" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1496" />
@@ -69,15 +69,19 @@
       <property name="Vertices" value="9390" />
       <property name="Triangles" value="15764" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="47, 2, 56" />
       <property name="1" value="56, 2, 56" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="30, 3, 40" />
+      <property name="1" value="30, 3, 41" />
+      <property name="2" value="30, 3, 42" />
+      <property name="3" value="30, 3, 43" />
+      <property name="4" value="30, 3, 44" />
+      <property name="5" value="30, 3, 45" />
     </property>
     <property class="POILight">
       <property name="0" value="49, 5, 47" />

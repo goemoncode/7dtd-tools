@@ -14,14 +14,14 @@
   <property name="SleeperVolumeSize" value="14, 9, 8#11, 12, 12" />
   <property name="SleeperVolumeStart" value="13, 0, 16#9, 1, 5" />
   <property name="SleeperVolumeGroupId" value="0,0" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Ghost_Town,0,1,S_-_Group_Ghost_Town,0,1" />
+  <property name="SleeperVolumeGroup" value="GroupGhostTown,0,1,GroupGhostTown,0,1" />
   <property name="SleeperIsLootVolume" value="True,False" />
   <property name="SleeperIsBossVolume" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="YOffset" value="-1" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False" />
-  <property name="Tags" value="countrytown,diagonal" />
+  <property name="Tags" value="countrytown, diagonal" />
   <property name="POIMarkerSize" value="6, 13, 2" />
   <property name="POIMarkerStart" value="31, 0, -2" />
   <property name="POIMarkerGroup" value="driveway" />
@@ -30,54 +30,38 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_03" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 14, 42" />
+  <property name="PrefabSize" value="42, 21, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
-    <property name="TotalVertices" value="321142" />
-    <property name="TotalTriangles" value="146857" />
+    <property name="TotalVertices" value="245761" />
+    <property name="TotalTriangles" value="115693" />
     <property class="BlockEntities">
-      <property name="Vertices" value="274538" />
-      <property name="Triangles" value="116085" />
+      <property name="Vertices" value="199193" />
+      <property name="Triangles" value="84909" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="40300" />
-      <property name="Triangles" value="22144" />
+      <property name="Vertices" value="40264" />
+      <property name="Triangles" value="22156" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="1592" />
       <property name="Triangles" value="1232" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="4712" />
       <property name="Triangles" value="7396" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -91,9 +75,22 @@
       <property name="1" value="25, 2, 14" />
       <property name="2" value="21, 3, 16" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="26, 2, 14" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="22, 1, 22" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="35, 1, 24" />
       <property name="1" value="29, 1, 35" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="27, 1, 4" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="26, 1, 9" />
+      <property name="1" value="21, 1, 10" />
     </property>
   </property>
 </prefab>

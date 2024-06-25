@@ -18,16 +18,19 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="rural" />
-  <property name="ThemeTags" value="rural_filler" />
+  <property name="Tags" value="rural,hideui" />
+  <property name="ThemeTags" value="ruralfiller" />
   <property name="ThemeRepeatDistance" value="110" />
   <property name="PrefabSize" value="60, 7, 60" />
+  <property name="ThemeDistance" value="500" />
+  <property name="DuplicateRepeatDistance" value="750" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="182413" />
-    <property name="TotalTriangles" value="184361" />
+    <property name="TotalVertices" value="181408" />
+    <property name="TotalTriangles" value="208053" />
     <property class="BlockEntities">
-      <property name="Vertices" value="172763" />
-      <property name="Triangles" value="168125" />
+      <property name="Vertices" value="171758" />
+      <property name="Triangles" value="191817" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="0" />
@@ -54,20 +57,16 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="9650" />
       <property name="Triangles" value="16236" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_stone_boulder">
+      <property name="0" value="50, 1, 52" />
     </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+    <property class="quest_wood_trees">
+      <property name="0" value="55, 1, 53" />
     </property>
   </property>
 </prefab>

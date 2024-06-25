@@ -32,20 +32,20 @@
   <property name="POIMarkerPartToSpawn" value="" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 18, 42" />
+  <property name="PrefabSize" value="42, 21, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property name="InfoVolumeSize" value="42, 18, 42" />
   <property name="InfoVolumeStart" value="0, 0, 0" />
   <property class="Stats">
-    <property name="TotalVertices" value="260025" />
-    <property name="TotalTriangles" value="117938" />
+    <property name="TotalVertices" value="259940" />
+    <property name="TotalTriangles" value="117945" />
     <property class="BlockEntities">
-      <property name="Vertices" value="210925" />
+      <property name="Vertices" value="210751" />
       <property name="Triangles" value="86844" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="43074" />
-      <property name="Triangles" value="22638" />
+      <property name="Vertices" value="43163" />
+      <property name="Triangles" value="22645" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -93,6 +93,14 @@
       <property name="3" value="21, 8, 25" />
       <property name="4" value="29, 3, 26" />
       <property name="5" value="24, 8, 27" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="21, 2, 18" />
+      <property name="1" value="22, 2, 18" />
+      <property name="2" value="23, 2, 18" />
+      <property name="3" value="24, 2, 18" />
+      <property name="4" value="25, 2, 18" />
+      <property name="5" value="26, 2, 18" />
     </property>
   </property>
 </prefab>

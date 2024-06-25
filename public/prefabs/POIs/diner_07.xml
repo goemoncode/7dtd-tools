@@ -20,7 +20,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,True,True,True" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,3,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # #2# # # " />
-  <property name="Tags" value="gateway,nodiagonal" />
+  <property name="Tags" value="gateway, nodiagonal" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="EditorGroups" value="commercial" />
   <property name="POIMarkerSize" value="6, 13, 2#6, 13, 2" />
@@ -35,23 +35,23 @@
   <property name="TriggerVolumeStart" value="20, 1, 26" />
   <property name="TriggerVolumeTriggers" value="2" />
   <property class="Stats">
-    <property name="TotalVertices" value="729391" />
-    <property name="TotalTriangles" value="303794" />
+    <property name="TotalVertices" value="748373" />
+    <property name="TotalTriangles" value="311504" />
     <property class="BlockEntities">
-      <property name="Vertices" value="639531" />
-      <property name="Triangles" value="239843" />
+      <property name="Vertices" value="658741" />
+      <property name="Triangles" value="247667" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="79122" />
-      <property name="Triangles" value="49095" />
+      <property name="Vertices" value="79126" />
+      <property name="Triangles" value="49097" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1784" />
-      <property name="Triangles" value="892" />
+      <property name="Vertices" value="1552" />
+      <property name="Triangles" value="776" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1012" />

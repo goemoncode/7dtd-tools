@@ -31,18 +31,18 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,2,2,2,0,2,0,0,2,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
-  <property name="Tags" value="rural,gateway,nocheckpoint" />
+  <property name="Tags" value="rural, gateway, nocheckpoint" />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="451512" />
-    <property name="TotalTriangles" value="200302" />
+    <property name="TotalVertices" value="398476" />
+    <property name="TotalTriangles" value="179516" />
     <property class="BlockEntities">
-      <property name="Vertices" value="406264" />
-      <property name="Triangles" value="163217" />
+      <property name="Vertices" value="353012" />
+      <property name="Triangles" value="142323" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="35136" />
-      <property name="Triangles" value="20593" />
+      <property name="Vertices" value="35352" />
+      <property name="Triangles" value="20701" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -77,6 +77,9 @@
     <property class="FetchContainer">
       <property name="0" value="31, 4, 20" />
     </property>
+    <property class="quest_wood">
+      <property name="0" value="17, 2, 13" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="54, 2, 33" />
     </property>
@@ -84,7 +87,8 @@
       <property name="0" value="28, 6, 12" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="33, 5, 21" />
+      <property name="0" value="35, 4, 15" />
+      <property name="1" value="33, 5, 21" />
     </property>
     <property class="Rally">
       <property name="0" value="34, 2, 36" />

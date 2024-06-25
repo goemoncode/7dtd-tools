@@ -26,15 +26,15 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,2,0,0" />
-  <property name="PrefabSize" value="150, 38, 150" />
-  <property name="Tags" value="streettile,rwgonly" />
+  <property name="PrefabSize" value="150, 32, 150" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="697881" />
-    <property name="TotalTriangles" value="464319" />
+    <property name="TotalVertices" value="574904" />
+    <property name="TotalTriangles" value="415656" />
     <property class="BlockEntities">
-      <property name="Vertices" value="566379" />
-      <property name="Triangles" value="322385" />
+      <property name="Vertices" value="443402" />
+      <property name="Triangles" value="273722" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="67910" />

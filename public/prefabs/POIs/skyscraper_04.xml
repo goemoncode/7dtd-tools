@@ -5,15 +5,15 @@
   <property name="YOffset" value="-3" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="downtown" />
-  <property name="Tags" value="downtown" />
-  <property name="DuplicateRepeatDistance" value="10000" />
+  <property name="Tags" value="downtown, inter02downtowntile" />
+  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="AllowedTownships" value="city,town" />
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="SleeperVolumeSize" value="14, 3, 20#1, 1, 1#8, 3, 10#8, 4, 17#14, 3, 5#4, 3, 7#9, 3, 10#10, 3, 10#8, 3, 10#7, 3, 19#7, 6, 19#16, 3, 8#7, 3, 7#20, 3, 7#5, 7, 5#13, 3, 16#13, 3, 19#5, 2, 5#9, 7, 8#24, 3, 10" />
   <property name="SleeperVolumeStart" value="7, 4, 30#51, 4, 23#46, 5, 40#30, 3, 10#38, 3, 10#50, 3, 34#41, 2, 18#40, 2, 18#42, 2, 18#25, 11, 30#7, 18, 30#16, 24, 42#25, 24, 30#18, 30, 43#26, 30, 37#12, 41, 20#26, 41, 31#26, 42, 43#24, 48, 41#25, 41, 20" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,4,5,zombieFatHawaiianFeral,1,1,zombieBiker,1,1,S_Zom_Utility_Worker,3,3,S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,2,2,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0,S_Zom_Utility_Worker,4,5,animalZombieVulture,3,3,S_Zom_Utility_Worker,4,5,S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,5,6,S_-Group_Generic_Zombie,2,2,S_Zom_Utility_Worker,1,1,S_-_Group_Zom_Badass,5,5,S_-_Group_Zom_Badass_Only,2,2,S_-Group_Generic_Zombie,2,2,animalZombieVulture,1,1" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,4,5,zombieFatHawaiianFeral,1,1,zombieBiker,1,1,ZomUtilityWorker,3,3,ZomUtilityWorker,2,2,ZomUtilityWorker,2,2,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,ZomUtilityWorker,4,5,animalZombieVulture,3,3,ZomUtilityWorker,4,5,ZomUtilityWorker,2,2,ZomUtilityWorker,5,6,GroupGenericZombie,2,2,ZomUtilityWorker,1,1,GroupZomBadass,5,5,GroupZomBadassOnly,2,2,GroupGenericZombie,2,2,animalZombieVulture,1,1" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,hard,,hard," />
   <property name="SleeperIsLootVolume" value="False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False" />
   <property name="EditorGroups" value="downtown" />
@@ -31,41 +31,33 @@
   <property name="TriggerVolumeStart" value="40, 3, 17#24, 42, 39#24, 48, 35" />
   <property name="TriggerVolumeTriggers" value="3#4#4" />
   <property class="Stats">
-    <property name="TotalVertices" value="1518311" />
-    <property name="TotalTriangles" value="664115" />
+    <property name="TotalVertices" value="1318750" />
+    <property name="TotalTriangles" value="586159" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1116522" />
-      <property name="Triangles" value="392661" />
+      <property name="Vertices" value="921495" />
+      <property name="Triangles" value="315027" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="389517" />
-      <property name="Triangles" value="253666" />
+      <property name="Vertices" value="385047" />
+      <property name="Triangles" value="253384" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="2048" />
       <property name="Triangles" value="1024" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="310" />
+      <property name="Triangles" value="184" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="374" />
-      <property name="Triangles" value="224" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="9850" />
       <property name="Triangles" value="16540" />
     </property>
@@ -74,11 +66,18 @@
     <property class="Rally">
       <property name="0" value="8, 3, 5" />
     </property>
+    <property class="challenge_cars">
+      <property name="0" value="49, 3, 14" />
+    </property>
     <property class="POILight">
       <property name="0" value="52, 6, 39" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="52, 5, 28" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="53, 3, 41" />
+      <property name="1" value="54, 6, 44" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="26, 3, 19" />
@@ -90,8 +89,15 @@
     <property class="QuestRestorePower">
       <property name="0" value="42, 4, 15" />
     </property>
+    <property class="challenge_booths">
+      <property name="0" value="33, 37, 24" />
+    </property>
     <property class="quest_stone">
       <property name="0" value="46, 2, 20" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="51, 4, 18" />
+      <property name="1" value="52, 4, 27" />
     </property>
   </property>
 </prefab>

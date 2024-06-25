@@ -23,16 +23,15 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="Tags" value="commercial" />
-  <property name="PrefabSize" value="42, 14, 42" />
+  <property name="PrefabSize" value="42, 21, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="36, 2, 39" />
     </property>
     <property class="FetchContainer">
-      <property name="0" value="22, 4, 21" />
-      <property name="1" value="23, 3, 23" />
-      <property name="2" value="27, 2, 27" />
+      <property name="0" value="23, 3, 23" />
+      <property name="1" value="27, 2, 27" />
     </property>
     <property class="POILight">
       <property name="0" value="26, 5, 24" />
@@ -49,15 +48,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="315526" />
-    <property name="TotalTriangles" value="131882" />
+    <property name="TotalVertices" value="326112" />
+    <property name="TotalTriangles" value="135972" />
     <property class="BlockEntities">
-      <property name="Vertices" value="273685" />
-      <property name="Triangles" value="102673" />
+      <property name="Vertices" value="284296" />
+      <property name="Triangles" value="106656" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="36097" />
-      <property name="Triangles" value="20685" />
+      <property name="Vertices" value="36072" />
+      <property name="Triangles" value="20792" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

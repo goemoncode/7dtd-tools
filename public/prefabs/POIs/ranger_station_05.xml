@@ -38,15 +38,15 @@
   <property name="TriggerVolumeStart" value="14, 18, 23" />
   <property name="TriggerVolumeTriggers" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="218437" />
-    <property name="TotalTriangles" value="119282" />
+    <property name="TotalVertices" value="201870" />
+    <property name="TotalTriangles" value="110064" />
     <property class="BlockEntities">
-      <property name="Vertices" value="181395" />
-      <property name="Triangles" value="89056" />
+      <property name="Vertices" value="165352" />
+      <property name="Triangles" value="80194" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="28952" />
-      <property name="Triangles" value="18284" />
+      <property name="Vertices" value="29076" />
+      <property name="Triangles" value="18286" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -57,8 +57,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="936" />
-      <property name="Triangles" value="496" />
+      <property name="Vertices" value="312" />
+      <property name="Triangles" value="156" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -69,20 +69,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="7134" />
-      <property name="Triangles" value="11436" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="20" />
-      <property name="Triangles" value="10" />
+      <property name="Vertices" value="7130" />
+      <property name="Triangles" value="11428" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

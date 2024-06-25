@@ -13,12 +13,13 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="PrefabSize" value="15, 10, 19" />
   <property name="Tags" value="biomeonly,devonly" />
+  <property name="Zoning" value="none" />
   <property class="Stats">
-    <property name="TotalVertices" value="1984" />
-    <property name="TotalTriangles" value="3408" />
+    <property name="TotalVertices" value="1495" />
+    <property name="TotalTriangles" value="2400" />
     <property class="BlockEntities">
-      <property name="Vertices" value="586" />
-      <property name="Triangles" value="1044" />
+      <property name="Vertices" value="97" />
+      <property name="Triangles" value="36" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="0" />
@@ -45,20 +46,13 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="1398" />
       <property name="Triangles" value="2364" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_stone_boulder">
+      <property name="0" value="6, 8, 12" />
     </property>
   </property>
 </prefab>

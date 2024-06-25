@@ -8,18 +8,18 @@
   <property name="DifficultyTier" value="3" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="60, 23, 60" />
+  <property name="PrefabSize" value="60, 24, 60" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-4" />
-  <property name="SleeperVolumeSize" value="3, 6, 7#4, 3, 1#8, 5, 4#9, 6, 9#21, 6, 6#9, 3, 11#5, 3, 8#8, 3, 6#3, 2, 2#14, 4, 3#29, 5, 24" />
-  <property name="SleeperVolumeStart" value="37, 10, 28#32, 15, 28#34, 15, 22#32, 5, 17#10, 4, 31#35, 4, 32#32, 10, 31#33, 15, 34#36, 19, 31#31, 8, 39#3, 1, 5" />
-  <property name="SleeperVolumeGroupId" value="1,1,0,0,0,0,0,3,3,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Ghost_Town,3,3,S_-_Group_Ghost_Town,1,1,S_-_Group_Biker_Bar,3,3,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,3,3,S_-_Group_Biker_Bar,3,3,S_-Group_Generic_Zombie,2,2,S_-_Group_Ghost_Town,3,3,S_-_Group_Ghost_Town,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="2,2,2,0,2,2,2,2,2,2,2" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
+  <property name="SleeperVolumeSize" value="3, 7, 6#4, 3, 1#8, 5, 4#9, 7, 8#23, 7, 4#9, 3, 11#5, 3, 8#8, 3, 6#3, 2, 2#14, 4, 3#29, 5, 24#2, 2, 1" />
+  <property name="SleeperVolumeStart" value="37, 10, 28#32, 15, 28#34, 15, 22#32, 5, 18#9, 4, 33#35, 4, 32#32, 10, 31#33, 15, 34#36, 19, 31#31, 8, 39#3, 1, 5#22, 12, 32" />
+  <property name="SleeperVolumeGroupId" value="1,1,0,0,0,0,0,3,3,0,1,1" />
+  <property name="SleeperVolumeGroup" value="S_-_Group_Ghost_Town,4,4,S_-_Group_Ghost_Town,1,1,S_-_Group_Biker_Bar,3,3,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,4,4,S_-_Group_Biker_Bar,3,3,S_-Group_Generic_Zombie,3,3,S_-_Group_Ghost_Town,4,4,S_-_Group_Ghost_Town,3,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,zombieBoeFeral,1,1" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="2,2,2,0,2,2,2,2,2,2,2,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="2000" />
@@ -32,15 +32,15 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="937025" />
-    <property name="TotalTriangles" value="391603" />
+    <property name="TotalVertices" value="921911" />
+    <property name="TotalTriangles" value="385505" />
     <property class="BlockEntities">
-      <property name="Vertices" value="804385" />
-      <property name="Triangles" value="308478" />
+      <property name="Vertices" value="789131" />
+      <property name="Triangles" value="302305" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="115306" />
-      <property name="Triangles" value="62505" />
+      <property name="Vertices" value="115446" />
+      <property name="Triangles" value="62580" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="6208" />

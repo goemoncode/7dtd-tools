@@ -29,14 +29,14 @@
   <property name="TriggerVolumeTriggers" value="1#2" />
   <property name="Tags" value="countryresidential" />
   <property class="Stats">
-    <property name="TotalVertices" value="230475" />
-    <property name="TotalTriangles" value="92571" />
+    <property name="TotalVertices" value="206453" />
+    <property name="TotalTriangles" value="82031" />
     <property class="BlockEntities">
-      <property name="Vertices" value="197036" />
-      <property name="Triangles" value="69788" />
+      <property name="Vertices" value="173307" />
+      <property name="Triangles" value="59248" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="28373" />
+      <property name="Vertices" value="28080" />
       <property name="Triangles" value="14763" />
     </property>
     <property class="ChunkMeshes1">
@@ -63,14 +63,13 @@
       <property name="Vertices" value="5066" />
       <property name="Triangles" value="8020" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="Rally">
       <property name="0" value="1, 2, 1" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="34, 2, 35" />
     </property>
     <property class="POILight">
       <property name="0" value="29, 6, 23" />
@@ -82,12 +81,22 @@
     <property class="quest_wood_trees">
       <property name="0" value="2, 2, 39" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="5, 2, 6" />
+      <property name="1" value="16, 2, 17" />
+    </property>
     <property class="quest_stone">
       <property name="0" value="11, 3, 22" />
       <property name="1" value="8, 3, 27" />
       <property name="2" value="17, 3, 30" />
       <property name="3" value="8, 3, 31" />
       <property name="4" value="14, 3, 31" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="30, 2, 8" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="35, 2, 17" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="26, 4, 28" />

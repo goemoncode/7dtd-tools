@@ -10,7 +10,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-18" />
-  <property name="PrefabSize" value="60, 30, 60" />
+  <property name="PrefabSize" value="60, 38, 60" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="wilderness" />
@@ -32,15 +32,15 @@
   <property name="SleeperVolumeFlags" value="0,0,2,0,0,0,0,0,0,0,0,0,2,2,1,1,0,2,2,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="950607" />
-    <property name="TotalTriangles" value="473179" />
+    <property name="TotalVertices" value="960559" />
+    <property name="TotalTriangles" value="475721" />
     <property class="BlockEntities">
-      <property name="Vertices" value="791755" />
-      <property name="Triangles" value="355269" />
+      <property name="Vertices" value="801667" />
+      <property name="Triangles" value="357791" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="133286" />
-      <property name="Triangles" value="82076" />
+      <property name="Vertices" value="133326" />
+      <property name="Triangles" value="82096" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="4352" />

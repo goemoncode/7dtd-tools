@@ -22,26 +22,26 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="Tags" value="commercial" />
   <property name="Zoning" value="none" />
-  <property name="PrefabSize" value="60, 16, 60" />
+  <property name="PrefabSize" value="60, 22, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1350313" />
-    <property name="TotalTriangles" value="577679" />
+    <property name="TotalVertices" value="1065088" />
+    <property name="TotalTriangles" value="433540" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1194084" />
-      <property name="Triangles" value="485001" />
+      <property name="Vertices" value="908287" />
+      <property name="Triangles" value="340770" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="145425" />
-      <property name="Triangles" value="76188" />
+      <property name="Vertices" value="146037" />
+      <property name="Triangles" value="76300" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="40" />
-      <property name="Triangles" value="20" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1644" />
@@ -56,10 +56,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="9120" />
       <property name="Triangles" value="15400" />
     </property>
@@ -74,11 +70,30 @@
     <property class="quest_wood_trees">
       <property name="0" value="1, 2, 57" />
     </property>
+    <property class="challenge_pallet">
+      <property name="0" value="43, 2, 22" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="49, 2, 15" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="47, 2, 36" />
+    </property>
     <property class="Rally">
       <property name="0" value="27, 2, 7" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="47, 3, 11" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="32, 2, 50" />
+      <property name="1" value="33, 2, 50" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="34, 2, 54" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="49, 2, 11" />
     </property>
   </property>
 </prefab>

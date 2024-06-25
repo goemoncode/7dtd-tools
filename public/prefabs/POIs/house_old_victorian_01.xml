@@ -32,14 +32,14 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_01,part_driveway_rural_02" />
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
-  <property name="PrefabSize" value="60, 27, 60" />
+  <property name="PrefabSize" value="60, 32, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="699580" />
-    <property name="TotalTriangles" value="323291" />
+    <property name="TotalVertices" value="600098" />
+    <property name="TotalTriangles" value="272417" />
     <property class="BlockEntities">
-      <property name="Vertices" value="520532" />
-      <property name="Triangles" value="198406" />
+      <property name="Vertices" value="421122" />
+      <property name="Triangles" value="147568" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="162514" />
@@ -50,8 +50,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="72" />
-      <property name="Triangles" value="36" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="614" />
@@ -72,7 +72,7 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
-      <property name="0" value="47, 11, 49" />
+      <property name="0" value="46, 11, 48" />
     </property>
     <property class="Rally">
       <property name="0" value="9, 10, 40" />
@@ -81,12 +81,29 @@
       <property name="0" value="38, 12, 32" />
       <property name="1" value="36, 12, 34" />
     </property>
+    <property class="quest_wood">
+      <property name="0" value="46, 11, 19" />
+      <property name="1" value="46, 11, 20" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="50, 2, 46" />
+    </property>
     <property class="POILight">
       <property name="0" value="33, 6, 50" />
       <property name="1" value="44, 4, 56" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="51, 2, 45" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="35, 17, 31" />
+      <property name="1" value="34, 17, 32" />
+      <property name="2" value="30, 13, 35" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="39, 7, 30" />
+      <property name="1" value="38, 8, 31" />
+      <property name="2" value="39, 7, 31" />
     </property>
   </property>
 </prefab>

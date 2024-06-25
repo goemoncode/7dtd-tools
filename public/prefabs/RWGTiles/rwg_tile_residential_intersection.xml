@@ -19,18 +19,18 @@
   <property name="POIMarkerPartToSpawn" value=",,,,part_streetlight_single_diagonal,part_streetlight_single,part_streetlight_single,part_streetlight_single_diagonal,part_streetlight_single" />
   <property name="POIMarkerPartRotations" value="2,0,0,2,0,2,3,1,0" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,0.2,0.2,0.2,0.2,0.2" />
-  <property name="PrefabSize" value="150, 13, 150" />
-  <property name="Tags" value="streettile,rwgonly" />
+  <property name="PrefabSize" value="150, 23, 150" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="482238" />
-    <property name="TotalTriangles" value="418765" />
+    <property name="TotalVertices" value="427102" />
+    <property name="TotalTriangles" value="383825" />
     <property class="BlockEntities">
-      <property name="Vertices" value="342087" />
-      <property name="Triangles" value="276225" />
+      <property name="Vertices" value="287230" />
+      <property name="Triangles" value="241317" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="82129" />
-      <property name="Triangles" value="48280" />
+      <property name="Vertices" value="81850" />
+      <property name="Triangles" value="48248" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -53,20 +53,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="58022" />
       <property name="Triangles" value="94260" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -75,6 +63,9 @@
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="139, 3, 8" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="130, 3, 126" />
     </property>
   </property>
 </prefab>

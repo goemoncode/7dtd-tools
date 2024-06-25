@@ -22,16 +22,18 @@
   <property name="SleeperVolumeFlags" value="2,2,2,2,2" />
   <property name="PrefabSize" value="42, 14, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
+  <property name="ThemeTags" value="zipcoffee" />
+  <property name="ThemeRepeatDistance" value="150" />
   <property class="Stats">
-    <property name="TotalVertices" value="252795" />
-    <property name="TotalTriangles" value="101669" />
+    <property name="TotalVertices" value="239158" />
+    <property name="TotalTriangles" value="96924" />
     <property class="BlockEntities">
-      <property name="Vertices" value="187932" />
-      <property name="Triangles" value="57010" />
+      <property name="Vertices" value="174725" />
+      <property name="Triangles" value="52472" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="58683" />
-      <property name="Triangles" value="35813" />
+      <property name="Vertices" value="58253" />
+      <property name="Triangles" value="35606" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -65,8 +67,15 @@
     <property class="TraderOnOff">
       <property name="0" value="23, 2, 15" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="22, 2, 26" />
+      <property name="1" value="22, 2, 30" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="9, 7, 20" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="25, 2, 13" />
     </property>
   </property>
 </prefab>

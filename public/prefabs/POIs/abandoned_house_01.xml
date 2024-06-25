@@ -32,20 +32,20 @@
   <property name="POIMarkerPartToSpawn" value="" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 19, 42" />
+  <property name="PrefabSize" value="42, 21, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property name="InfoVolumeSize" value="39, 19, 42" />
   <property name="InfoVolumeStart" value="1, 0, 0" />
   <property class="Stats">
-    <property name="TotalVertices" value="339270" />
-    <property name="TotalTriangles" value="175209" />
+    <property name="TotalVertices" value="339064" />
+    <property name="TotalTriangles" value="175135" />
     <property class="BlockEntities">
-      <property name="Vertices" value="289614" />
+      <property name="Vertices" value="289525" />
       <property name="Triangles" value="144376" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="44082" />
-      <property name="Triangles" value="22749" />
+      <property name="Vertices" value="43965" />
+      <property name="Triangles" value="22675" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

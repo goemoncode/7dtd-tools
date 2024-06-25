@@ -22,7 +22,7 @@
   <property name="SleeperVolumeFlags" value="0,0,3,2,0,0,0,3,3,3" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,True,True,False,False,False,True,True" />
-  <property name="Tags" value="countrytown,diagonal" />
+  <property name="Tags" value="countrytown, diagonal" />
   <property name="POIMarkerSize" value="7, 13, 2" />
   <property name="POIMarkerStart" value="9, 1, -2" />
   <property name="POIMarkerGroup" value="driveway" />
@@ -37,23 +37,23 @@
   <property name="TriggerVolumeStart" value="21, 14, 21" />
   <property name="TriggerVolumeTriggers" value="2" />
   <property class="Stats">
-    <property name="TotalVertices" value="469449" />
-    <property name="TotalTriangles" value="210271" />
+    <property name="TotalVertices" value="375749" />
+    <property name="TotalTriangles" value="172045" />
     <property class="BlockEntities">
-      <property name="Vertices" value="382531" />
-      <property name="Triangles" value="154990" />
+      <property name="Vertices" value="288960" />
+      <property name="Triangles" value="116823" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="79720" />
-      <property name="Triangles" value="45801" />
+      <property name="Vertices" value="79671" />
+      <property name="Triangles" value="45782" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="80" />
-      <property name="Triangles" value="40" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="2200" />
@@ -83,6 +83,14 @@
       <property name="0" value="26, 3, 22" />
       <property name="1" value="27, 14, 26" />
     </property>
+    <property class="challenge_pallet">
+      <property name="0" value="28, 3, 23" />
+      <property name="1" value="26, 9, 25" />
+      <property name="2" value="35, 3, 25" />
+      <property name="3" value="29, 11, 26" />
+      <property name="4" value="23, 11, 27" />
+      <property name="5" value="25, 3, 32" />
+    </property>
     <property class="POILight">
       <property name="0" value="32, 4, 21" />
       <property name="1" value="29, 15, 25" />
@@ -96,6 +104,15 @@
     </property>
     <property class="Rally">
       <property name="0" value="29, 2, 1" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="21, 3, 23" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="31, 3, 16" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="33, 3, 21" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="32, 5, 22" />

@@ -31,15 +31,15 @@
   <property name="PrefabSize" value="42, 45, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="496784" />
-    <property name="TotalTriangles" value="234931" />
+    <property name="TotalVertices" value="427300" />
+    <property name="TotalTriangles" value="206729" />
     <property class="BlockEntities">
-      <property name="Vertices" value="282519" />
-      <property name="Triangles" value="92517" />
+      <property name="Vertices" value="212977" />
+      <property name="Triangles" value="64519" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="199163" />
-      <property name="Triangles" value="126606" />
+      <property name="Vertices" value="199221" />
+      <property name="Triangles" value="126402" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -54,18 +54,14 @@
       <property name="Triangles" value="5644" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes5">
       <property name="Vertices" value="240" />
       <property name="Triangles" value="120" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes7">
+    <property class="ChunkMeshes6">
       <property name="Vertices" value="6206" />
       <property name="Triangles" value="10044" />
     </property>
@@ -77,8 +73,14 @@
     <property class="quest_feather">
       <property name="0" value="3, 12, 26" />
     </property>
+    <property class="challenge_cars">
+      <property name="0" value="5, 5, 4" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="38, 5, 14" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="20, 29, 30" />
     </property>
     <property class="quest_wood">
       <property name="0" value="21, 6, 11" />

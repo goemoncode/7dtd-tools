@@ -36,23 +36,23 @@
   <property name="PrefabSize" value="60, 18, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # #1# " />
   <property class="Stats">
-    <property name="TotalVertices" value="996970" />
-    <property name="TotalTriangles" value="390134" />
+    <property name="TotalVertices" value="1000700" />
+    <property name="TotalTriangles" value="391173" />
     <property class="BlockEntities">
-      <property name="Vertices" value="895953" />
-      <property name="Triangles" value="326894" />
+      <property name="Vertices" value="899733" />
+      <property name="Triangles" value="327943" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="87232" />
-      <property name="Triangles" value="45176" />
+      <property name="Vertices" value="87206" />
+      <property name="Triangles" value="45178" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="2496" />
       <property name="Triangles" value="1248" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="24" />
-      <property name="Triangles" value="12" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1933" />
@@ -70,14 +70,23 @@
       <property name="Vertices" value="9236" />
       <property name="Triangles" value="15504" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="52, 2, 52" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="51, 2, 32" />
+      <property name="1" value="51, 2, 33" />
+      <property name="2" value="51, 2, 34" />
+      <property name="3" value="51, 2, 35" />
+      <property name="4" value="51, 2, 36" />
+      <property name="5" value="51, 2, 37" />
+      <property name="6" value="51, 2, 38" />
+      <property name="7" value="51, 2, 39" />
+      <property name="8" value="51, 2, 40" />
+      <property name="9" value="51, 2, 41" />
+      <property name="10" value="51, 2, 42" />
     </property>
     <property class="POILight">
       <property name="0" value="49, 5, 30" />

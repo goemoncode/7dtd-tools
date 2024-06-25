@@ -24,9 +24,10 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="PrefabSize" value="27, 8, 27" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="44129" />
-    <property name="TotalTriangles" value="57908" />
+    <property name="TotalVertices" value="42065" />
+    <property name="TotalTriangles" value="54372" />
     <property class="BlockEntities">
       <property name="Vertices" value="42065" />
       <property name="Triangles" value="54372" />
@@ -56,18 +57,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="2064" />
-      <property name="Triangles" value="3536" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

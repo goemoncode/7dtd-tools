@@ -31,14 +31,14 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_08" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="60, 15, 60" />
+  <property name="PrefabSize" value="60, 21, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="545293" />
-    <property name="TotalTriangles" value="226594" />
+    <property name="TotalVertices" value="467126" />
+    <property name="TotalTriangles" value="194436" />
     <property class="BlockEntities">
-      <property name="Vertices" value="473958" />
-      <property name="Triangles" value="177517" />
+      <property name="Vertices" value="395819" />
+      <property name="Triangles" value="145379" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="61079" />
@@ -49,8 +49,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="24" />
-      <property name="Triangles" value="12" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1112" />
@@ -65,13 +65,18 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="9120" />
-      <property name="Triangles" value="15296" />
+      <property name="Vertices" value="9116" />
+      <property name="Triangles" value="15288" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="48, 1, 37" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="30, 2, 30" />
+      <property name="1" value="31, 2, 30" />
+      <property name="2" value="32, 2, 30" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="31, 8, 41" />

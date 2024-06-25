@@ -22,11 +22,11 @@
   <property name="EditorGroups" value="parts" />
   <property name="Tags" value="part" />
   <property class="Stats">
-    <property name="TotalVertices" value="74711" />
-    <property name="TotalTriangles" value="27858" />
+    <property name="TotalVertices" value="72777" />
+    <property name="TotalTriangles" value="28134" />
     <property class="BlockEntities">
-      <property name="Vertices" value="74687" />
-      <property name="Triangles" value="27846" />
+      <property name="Vertices" value="72777" />
+      <property name="Triangles" value="28134" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="0" />
@@ -55,18 +55,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="24" />
-      <property name="Triangles" value="12" />
     </property>
   </property>
 </prefab>

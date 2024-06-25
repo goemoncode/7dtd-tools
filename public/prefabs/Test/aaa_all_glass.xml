@@ -13,16 +13,17 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="PrefabSize" value="181, 8, 86" />
   <property name="Tags" value="testonly" />
+  <property name="YOffset" value="-1" />
   <property class="Stats">
-    <property name="TotalVertices" value="531826" />
-    <property name="TotalTriangles" value="221502" />
+    <property name="TotalVertices" value="564953" />
+    <property name="TotalTriangles" value="236222" />
     <property class="BlockEntities">
-      <property name="Vertices" value="265283" />
-      <property name="Triangles" value="76582" />
+      <property name="Vertices" value="278390" />
+      <property name="Triangles" value="80988" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="238985" />
-      <property name="Triangles" value="127585" />
+      <property name="Vertices" value="256497" />
+      <property name="Triangles" value="136759" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -33,8 +34,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="27558" />
-      <property name="Triangles" value="17335" />
+      <property name="Vertices" value="30066" />
+      <property name="Triangles" value="18475" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -45,14 +46,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

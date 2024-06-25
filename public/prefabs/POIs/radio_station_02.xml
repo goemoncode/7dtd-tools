@@ -31,18 +31,18 @@
   <property name="POIMarkerPartToSpawn" value="part_electrical_tower_01,part_high_voltage_box_1,part_driveway_gateway_05,part_driveway_gateway_05" />
   <property name="POIMarkerPartRotations" value="2,3,2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1" />
-  <property name="Tags" value="gateway,nocheckpoint" />
+  <property name="Tags" value="gateway, nocheckpoint" />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="499633" />
-    <property name="TotalTriangles" value="232234" />
+    <property name="TotalVertices" value="393143" />
+    <property name="TotalTriangles" value="189016" />
     <property class="BlockEntities">
-      <property name="Vertices" value="409749" />
-      <property name="Triangles" value="168742" />
+      <property name="Vertices" value="306259" />
+      <property name="Triangles" value="127084" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="78992" />
-      <property name="Triangles" value="46930" />
+      <property name="Vertices" value="75992" />
+      <property name="Triangles" value="45370" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -68,10 +68,6 @@
       <property name="Vertices" value="9362" />
       <property name="Triangles" value="15740" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
@@ -80,18 +76,43 @@
     <property class="quest_wood_trees">
       <property name="0" value="50, 2, 51" />
     </property>
+    <property class="challenge_cars">
+      <property name="0" value="11, 2, 45" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="33, 2, 46" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="19, 2, 37" />
+      <property name="1" value="21, 2, 37" />
+      <property name="2" value="23, 2, 37" />
+      <property name="3" value="25, 2, 37" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="39, 7, 30" />
       <property name="1" value="40, 5, 36" />
     </property>
+    <property class="challenge_vending">
+      <property name="0" value="22, 2, 24" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="30, 2, 34" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="28, 7, 35" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="14, 2, 39" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="26, 2, 39" />
+    </property>
     <property class="Rally">
       <property name="0" value="20, 2, 41" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="40, 3, 34" />
+      <property name="1" value="38, 5, 44" />
     </property>
   </property>
 </prefab>

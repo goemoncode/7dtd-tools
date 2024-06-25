@@ -36,15 +36,15 @@
   <property name="PrefabSize" value="39, 20, 32" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="333218" />
-    <property name="TotalTriangles" value="134811" />
+    <property name="TotalVertices" value="332806" />
+    <property name="TotalTriangles" value="134750" />
     <property class="BlockEntities">
-      <property name="Vertices" value="270469" />
-      <property name="Triangles" value="96591" />
+      <property name="Vertices" value="270057" />
+      <property name="Triangles" value="96543" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="57493" />
-      <property name="Triangles" value="30616" />
+      <property name="Triangles" value="30603" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -67,16 +67,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="4292" />
       <property name="Triangles" value="6968" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

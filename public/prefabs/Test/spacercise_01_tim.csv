@@ -1,0 +1,12 @@
+id,name,count
+2,terrainFiller,1139
+6433,concreteShapes:cube,6081
+6448,concreteShapes:cubeHalf,220
+6869,concreteShapes:ramp,242
+6903,concreteShapes:wedge60,48
+6904,concreteShapes:wedge60Tip,48
+7312,concreteShapes:stairsFilledVerticalUV,40
+17649,recessedLight,10
+22132,sleeperSit,7
+22134,sleeperSideLeft,4
+22137,sleeperIdle,6

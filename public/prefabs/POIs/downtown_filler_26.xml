@@ -8,35 +8,21 @@
   <property name="DifficultyTier" value="1" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="YOffset" value="-1" />
+  <property name="YOffset" value="-2" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="downtown" />
   <property name="EditorGroups" value="downtown" />
-  <property name="PrefabSize" value="25, 25, 25" />
-  <property class="IndexedBlockOffsets">
-    <property class="POILight">
-      <property name="0" value="14, 3, 18" />
-      <property name="1" value="23, 4, 20" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="21, 1, 12" />
-      <property name="1" value="13, 1, 18" />
-      <property name="2" value="16, 1, 18" />
-      <property name="3" value="16, 6, 18" />
-      <property name="4" value="16, 11, 18" />
-      <property name="5" value="16, 16, 19" />
-    </property>
-  </property>
+  <property name="PrefabSize" value="25, 23, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="176067" />
-    <property name="TotalTriangles" value="85244" />
+    <property name="TotalVertices" value="37073" />
+    <property name="TotalTriangles" value="21225" />
     <property class="BlockEntities">
-      <property name="Vertices" value="73751" />
-      <property name="Triangles" value="28091" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="100916" />
-      <property name="Triangles" value="56453" />
+      <property name="Vertices" value="34733" />
+      <property name="Triangles" value="17921" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -47,8 +33,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1400" />
-      <property name="Triangles" value="700" />
+      <property name="Vertices" value="624" />
+      <property name="Triangles" value="312" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -59,20 +45,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1716" />
+      <property name="Triangles" value="2992" />
     </property>
   </property>
 </prefab>

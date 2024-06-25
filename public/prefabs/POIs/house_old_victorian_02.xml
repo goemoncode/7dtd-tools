@@ -68,10 +68,6 @@
       <property name="Vertices" value="6112" />
       <property name="Triangles" value="9884" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">

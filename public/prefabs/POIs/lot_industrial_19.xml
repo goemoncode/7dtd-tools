@@ -31,15 +31,15 @@
   <property name="PrefabSize" value="25, 14, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="241589" />
-    <property name="TotalTriangles" value="102124" />
+    <property name="TotalVertices" value="243132" />
+    <property name="TotalTriangles" value="102688" />
     <property class="BlockEntities">
-      <property name="Vertices" value="177142" />
-      <property name="Triangles" value="63387" />
+      <property name="Vertices" value="178797" />
+      <property name="Triangles" value="64031" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="61089" />
-      <property name="Triangles" value="34529" />
+      <property name="Vertices" value="61009" />
+      <property name="Triangles" value="34465" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -54,28 +54,16 @@
       <property name="Triangles" value="1136" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes5">
       <property name="Vertices" value="24" />
       <property name="Triangles" value="12" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes7">
+    <property class="ChunkMeshes6">
       <property name="Vertices" value="1750" />
       <property name="Triangles" value="3044" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="32" />
-      <property name="Triangles" value="16" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

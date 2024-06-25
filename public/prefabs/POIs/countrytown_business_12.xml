@@ -13,7 +13,7 @@
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-6" />
   <property name="EditorGroups" value="rural" />
-  <property name="Tags" value="countrytown,nodiagonal" />
+  <property name="Tags" value="countrytown, nodiagonal" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="POIMarkerSize" value="36, 13, 2" />
   <property name="POIMarkerStart" value="2, 5, -2" />
@@ -32,11 +32,11 @@
   <property name="SleeperVolumeFlags" value="0,0,2,2,2,2,2,2,2,0,2,2,2,0,2,3,3" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # #4#4" />
   <property class="Stats">
-    <property name="TotalVertices" value="983591" />
-    <property name="TotalTriangles" value="345368" />
+    <property name="TotalVertices" value="1002908" />
+    <property name="TotalTriangles" value="353547" />
     <property class="BlockEntities">
-      <property name="Vertices" value="910684" />
-      <property name="Triangles" value="296896" />
+      <property name="Vertices" value="929905" />
+      <property name="Triangles" value="305027" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="65921" />
@@ -47,16 +47,16 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="416" />
-      <property name="Triangles" value="208" />
+      <property name="Vertices" value="400" />
+      <property name="Triangles" value="200" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="550" />
       <property name="Triangles" value="322" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="200" />
-      <property name="Triangles" value="100" />
+      <property name="Vertices" value="312" />
+      <property name="Triangles" value="156" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -74,6 +74,9 @@
     </property>
     <property class="POILight">
       <property name="0" value="31, 6, 37" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="23, 6, 15" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="12, 11, 20" />

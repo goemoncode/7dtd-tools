@@ -32,51 +32,39 @@
   <property name="PrefabSize" value="42, 20, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="425135" />
-    <property name="TotalTriangles" value="188749" />
+    <property name="TotalVertices" value="426486" />
+    <property name="TotalTriangles" value="189053" />
     <property class="BlockEntities">
-      <property name="Vertices" value="334222" />
-      <property name="Triangles" value="132472" />
+      <property name="Vertices" value="337185" />
+      <property name="Triangles" value="133536" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="76589" />
-      <property name="Triangles" value="42403" />
+      <property name="Vertices" value="76539" />
+      <property name="Triangles" value="42409" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="4352" />
       <property name="Triangles" value="2176" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="16" />
-      <property name="Triangles" value="8" />
-    </property>
-    <property class="ChunkMeshes3">
-      <property name="Vertices" value="4006" />
-      <property name="Triangles" value="2344" />
-    </property>
-    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="2496" />
+      <property name="Triangles" value="1604" />
+    </property>
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="136" />
       <property name="Triangles" value="68" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes7">
+    <property class="ChunkMeshes6">
       <property name="Vertices" value="5778" />
       <property name="Triangles" value="9260" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="36" />
-      <property name="Triangles" value="18" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -122,6 +110,12 @@
     <property class="TraderOnOff">
       <property name="0" value="31, 10, 21" />
       <property name="1" value="21, 10, 23" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="38, 5, 1" />
+      <property name="1" value="38, 5, 2" />
+      <property name="2" value="38, 5, 3" />
+      <property name="3" value="38, 5, 4" />
     </property>
   </property>
 </prefab>

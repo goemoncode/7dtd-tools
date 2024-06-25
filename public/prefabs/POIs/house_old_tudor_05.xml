@@ -31,26 +31,26 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_02" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 23, 42" />
+  <property name="PrefabSize" value="42, 26, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="475997" />
-    <property name="TotalTriangles" value="218843" />
+    <property name="TotalVertices" value="447064" />
+    <property name="TotalTriangles" value="204625" />
     <property class="BlockEntities">
-      <property name="Vertices" value="421897" />
-      <property name="Triangles" value="184018" />
+      <property name="Vertices" value="393081" />
+      <property name="Triangles" value="169828" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="46506" />
-      <property name="Triangles" value="24381" />
+      <property name="Vertices" value="46421" />
+      <property name="Triangles" value="24369" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="48" />
-      <property name="Triangles" value="24" />
+      <property name="Vertices" value="16" />
+      <property name="Triangles" value="8" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1840" />
@@ -68,14 +68,14 @@
       <property name="Vertices" value="5706" />
       <property name="Triangles" value="9220" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="37, 6, 4" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="32, 6, 21" />
+      <property name="1" value="32, 6, 22" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="23, 16, 21" />

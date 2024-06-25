@@ -20,7 +20,7 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
-  <property name="Tags" value="gateway,nocheckpoint" />
+  <property name="Tags" value="gateway, nocheckpoint" />
   <property class="Stats">
     <property name="TotalVertices" value="194212" />
     <property name="TotalTriangles" value="149882" />
@@ -55,10 +55,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="9200" />
       <property name="Triangles" value="15440" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

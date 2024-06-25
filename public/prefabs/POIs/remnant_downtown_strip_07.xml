@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="42, 17, 42" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="YOffset" value="-1" />
+  <property name="Zoning" value="none" />
+  <property name="SleeperVolumeSize" value="13, 9, 19#18, 15, 23#5, 11, 19" />
+  <property name="SleeperVolumeStart" value="27, 1, 4#2, 1, 4#21, 1, 3" />
+  <property name="SleeperVolumeGroupId" value="0,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1" />
+  <property name="SleeperIsLootVolume" value="False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # " />
+  <property name="Tags" value="downtown" />
+  <property class="Stats">
+    <property name="TotalVertices" value="596418" />
+    <property name="TotalTriangles" value="233742" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="474727" />
+      <property name="Triangles" value="157900" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="116449" />
+      <property name="Triangles" value="70663" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="576" />
+      <property name="Triangles" value="288" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="2564" />
+      <property name="Triangles" value="1567" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="96" />
+      <property name="Triangles" value="48" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="2006" />
+      <property name="Triangles" value="3276" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="38, 1, 21" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="37, 2, 28" />
+      <property name="1" value="37, 2, 29" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="39, 3, 21" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="39, 1, 21" />
+      <property name="1" value="39, 1, 22" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="13, 1, 20" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="29, 1, 6" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="5, 1, 33" />
+    </property>
+    <property class="challenge_booths">
+      <property name="0" value="21, 1, 5" />
+      <property name="1" value="25, 1, 5" />
+      <property name="2" value="34, 1, 5" />
+      <property name="3" value="21, 1, 6" />
+      <property name="4" value="34, 1, 6" />
+      <property name="5" value="25, 1, 7" />
+      <property name="6" value="21, 1, 8" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="21, 12, 5" />
+      <property name="1" value="21, 12, 6" />
+      <property name="2" value="27, 1, 16" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="40, 7, 3" />
+    </property>
+  </property>
+</prefab>

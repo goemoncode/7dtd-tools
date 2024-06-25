@@ -23,27 +23,27 @@
   <property name="SleeperVolumeFlags" value="0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="Tags" value="downtown,tdowntowntile" />
+  <property name="Tags" value="downtown, tdowntowntile" />
   <property name="PrefabSize" value="60, 61, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1756862" />
-    <property name="TotalTriangles" value="669738" />
+    <property name="TotalVertices" value="1753619" />
+    <property name="TotalTriangles" value="669739" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1474981" />
-      <property name="Triangles" value="499759" />
+      <property name="Vertices" value="1471651" />
+      <property name="Triangles" value="499643" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="260065" />
-      <property name="Triangles" value="141537" />
+      <property name="Vertices" value="260166" />
+      <property name="Triangles" value="141666" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="8" />
-      <property name="Triangles" value="4" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="8742" />
@@ -58,8 +58,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="12850" />
-      <property name="Triangles" value="22020" />
+      <property name="Vertices" value="12844" />
+      <property name="Triangles" value="22012" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

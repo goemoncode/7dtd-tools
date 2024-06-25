@@ -28,27 +28,27 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_06" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 16, 42" />
+  <property name="PrefabSize" value="42, 21, 42" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
-    <property name="TotalVertices" value="325472" />
-    <property name="TotalTriangles" value="148058" />
+    <property name="TotalVertices" value="325929" />
+    <property name="TotalTriangles" value="148064" />
     <property class="BlockEntities">
-      <property name="Vertices" value="286242" />
-      <property name="Triangles" value="122565" />
+      <property name="Vertices" value="286675" />
+      <property name="Triangles" value="122503" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="33208" />
-      <property name="Triangles" value="17213" />
+      <property name="Vertices" value="33288" />
+      <property name="Triangles" value="17309" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="56" />
-      <property name="Triangles" value="28" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1192" />
@@ -66,14 +66,19 @@
       <property name="Vertices" value="4774" />
       <property name="Triangles" value="7488" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="40, 1, 40" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="21, 2, 7" />
+      <property name="1" value="22, 2, 7" />
+      <property name="2" value="22, 2, 8" />
+      <property name="3" value="22, 2, 9" />
+      <property name="4" value="22, 2, 10" />
+      <property name="5" value="22, 2, 11" />
+      <property name="6" value="22, 2, 12" />
     </property>
     <property class="POILight">
       <property name="0" value="37, 3, 25" />

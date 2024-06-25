@@ -23,15 +23,15 @@
   <property name="Tags" value="downtown" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="343059" />
-    <property name="TotalTriangles" value="142099" />
+    <property name="TotalVertices" value="288223" />
+    <property name="TotalTriangles" value="118074" />
     <property class="BlockEntities">
-      <property name="Vertices" value="258462" />
-      <property name="Triangles" value="88964" />
+      <property name="Vertices" value="203533" />
+      <property name="Triangles" value="64857" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="80531" />
-      <property name="Triangles" value="48353" />
+      <property name="Vertices" value="80700" />
+      <property name="Triangles" value="48445" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -42,7 +42,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="2464" />
+      <property name="Vertices" value="2408" />
       <property name="Triangles" value="1776" />
     </property>
     <property class="ChunkMeshes4">
@@ -54,28 +54,16 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="1582" />
       <property name="Triangles" value="2996" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="20" />
-      <property name="Triangles" value="10" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">
-      <property name="0" value="16, 1, 14" />
-      <property name="1" value="24, 1, 20" />
-      <property name="2" value="14, 7, 14" />
-      <property name="3" value="21, 7, 20" />
+      <property name="0" value="14, 7, 14" />
+      <property name="1" value="16, 1, 14" />
+      <property name="2" value="21, 7, 20" />
+      <property name="3" value="24, 1, 20" />
     </property>
     <property class="POILight">
       <property name="0" value="13, 4, 13" />
@@ -84,8 +72,14 @@
       <property name="3" value="12, 11, 19" />
       <property name="4" value="21, 1, 22" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="22, 7, 22" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="22, 7, 19" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="13, 13, 6" />
     </property>
   </property>
 </prefab>

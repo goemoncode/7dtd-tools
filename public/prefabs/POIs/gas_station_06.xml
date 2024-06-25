@@ -36,15 +36,15 @@
   <property name="PrefabSize" value="42, 15, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
-    <property name="TotalVertices" value="253785" />
-    <property name="TotalTriangles" value="107144" />
+    <property name="TotalVertices" value="244581" />
+    <property name="TotalTriangles" value="104192" />
     <property class="BlockEntities">
-      <property name="Vertices" value="228331" />
-      <property name="Triangles" value="87683" />
+      <property name="Vertices" value="218929" />
+      <property name="Triangles" value="84609" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="19480" />
-      <property name="Triangles" value="10935" />
+      <property name="Vertices" value="19722" />
+      <property name="Triangles" value="11057" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -55,7 +55,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1020" />
+      <property name="Vertices" value="976" />
       <property name="Triangles" value="714" />
     </property>
     <property class="ChunkMeshes4">
@@ -67,23 +67,15 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="4954" />
       <property name="Triangles" value="7812" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="15, 2, 2" />
+      <property name="1" value="20, 2, 2" />
+    </property>
     <property class="POILight">
       <property name="0" value="22, 5, 23" />
       <property name="1" value="22, 4, 25" />

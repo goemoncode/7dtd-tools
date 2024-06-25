@@ -24,15 +24,15 @@
   <property name="PrefabSize" value="42, 20, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="625149" />
-    <property name="TotalTriangles" value="243091" />
+    <property name="TotalVertices" value="470626" />
+    <property name="TotalTriangles" value="182075" />
     <property class="BlockEntities">
-      <property name="Vertices" value="555487" />
-      <property name="Triangles" value="194147" />
+      <property name="Vertices" value="401024" />
+      <property name="Triangles" value="133183" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="63074" />
-      <property name="Triangles" value="40168" />
+      <property name="Vertices" value="63014" />
+      <property name="Triangles" value="40116" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -85,9 +85,30 @@
     <property class="FetchContainer">
       <property name="0" value="35, 4, 25" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="28, 9, 33" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="39, 2, 10" />
       <property name="1" value="38, 2, 18" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="15, 2, 32" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="29, 2, 21" />
+      <property name="1" value="31, 2, 21" />
+      <property name="2" value="33, 2, 21" />
+      <property name="3" value="35, 2, 21" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="24, 2, 21" />
+    </property>
+    <property class="challenge_vending">
+      <property name="0" value="37, 2, 9" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="39, 2, 28" />
     </property>
   </property>
 </prefab>

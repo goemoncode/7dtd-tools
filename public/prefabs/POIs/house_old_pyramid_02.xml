@@ -32,21 +32,21 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_06" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 22, 42" />
+  <property name="PrefabSize" value="42, 24, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # #2#2# # " />
   <property name="TriggerVolumeSize" value="1, 1, 1" />
   <property name="TriggerVolumeStart" value="19, 11, 19" />
   <property name="TriggerVolumeTriggers" value="2" />
   <property class="Stats">
-    <property name="TotalVertices" value="532534" />
-    <property name="TotalTriangles" value="197056" />
+    <property name="TotalVertices" value="530387" />
+    <property name="TotalTriangles" value="197644" />
     <property class="BlockEntities">
-      <property name="Vertices" value="465956" />
-      <property name="Triangles" value="155493" />
+      <property name="Vertices" value="463249" />
+      <property name="Triangles" value="155713" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="49250" />
-      <property name="Triangles" value="26275" />
+      <property name="Vertices" value="49810" />
+      <property name="Triangles" value="26643" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="10048" />
@@ -72,14 +72,20 @@
       <property name="Vertices" value="5772" />
       <property name="Triangles" value="9272" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="39, 4, 2" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="21, 5, 10" />
+      <property name="1" value="22, 5, 10" />
+      <property name="2" value="23, 5, 10" />
+      <property name="3" value="23, 5, 11" />
+      <property name="4" value="23, 5, 12" />
+      <property name="5" value="23, 5, 13" />
+      <property name="6" value="23, 5, 14" />
+      <property name="7" value="23, 5, 15" />
     </property>
     <property class="POILight">
       <property name="0" value="21, 6, 12" />
@@ -88,7 +94,6 @@
       <property name="0" value="20, 6, 21" />
       <property name="1" value="15, 11, 25" />
       <property name="2" value="16, 6, 25" />
-      <property name="3" value="18, 5, 30" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="21, 6, 23" />

@@ -34,23 +34,23 @@
   <property name="PrefabSize" value="60, 23, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="405363" />
-    <property name="TotalTriangles" value="196423" />
+    <property name="TotalVertices" value="305054" />
+    <property name="TotalTriangles" value="156330" />
     <property class="BlockEntities">
-      <property name="Vertices" value="336599" />
-      <property name="Triangles" value="148790" />
+      <property name="Vertices" value="236222" />
+      <property name="Triangles" value="108661" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="58764" />
-      <property name="Triangles" value="30753" />
+      <property name="Vertices" value="58872" />
+      <property name="Triangles" value="30809" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="40" />
-      <property name="Triangles" value="20" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
@@ -84,6 +84,21 @@
       <property name="0" value="33, 7, 30" />
       <property name="1" value="39, 9, 30" />
       <property name="2" value="34, 9, 32" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="34, 1, 33" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="35, 1, 23" />
+      <property name="1" value="38, 7, 26" />
+      <property name="2" value="39, 6, 27" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="33, 1, 30" />
+      <property name="1" value="37, 2, 34" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="34, 6, 30" />
     </property>
     <property class="Rally">
       <property name="0" value="34, 4, 54" />

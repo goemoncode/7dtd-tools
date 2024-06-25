@@ -23,15 +23,15 @@
   <property name="SleeperVolumeFlags" value="2,2,2,2,2,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="351985" />
-    <property name="TotalTriangles" value="141758" />
+    <property name="TotalVertices" value="346918" />
+    <property name="TotalTriangles" value="140009" />
     <property class="BlockEntities">
-      <property name="Vertices" value="254195" />
-      <property name="Triangles" value="84678" />
+      <property name="Vertices" value="252679" />
+      <property name="Triangles" value="84769" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="90678" />
-      <property name="Triangles" value="50696" />
+      <property name="Vertices" value="89893" />
+      <property name="Triangles" value="50228" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -42,8 +42,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="5152" />
-      <property name="Triangles" value="2936" />
+      <property name="Vertices" value="2386" />
+      <property name="Triangles" value="1564" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -54,20 +54,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="1960" />
       <property name="Triangles" value="3448" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

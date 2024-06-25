@@ -11,18 +11,18 @@
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
   <property name="EditorGroups" value="test stuff" />
-  <property name="Tags" value="test,testonly" />
-  <property name="PrefabSize" value="57, 9, 182" />
+  <property name="Tags" value="test, testonly" />
+  <property name="PrefabSize" value="57, 9, 197" />
   <property class="Stats">
-    <property name="TotalVertices" value="260079" />
-    <property name="TotalTriangles" value="160177" />
+    <property name="TotalVertices" value="276564" />
+    <property name="TotalTriangles" value="168152" />
     <property class="BlockEntities">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="255737" />
-      <property name="Triangles" value="157395" />
+      <property name="Vertices" value="271622" />
+      <property name="Triangles" value="165014" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -33,8 +33,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="4342" />
-      <property name="Triangles" value="2782" />
+      <property name="Vertices" value="4942" />
+      <property name="Triangles" value="3138" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -45,10 +45,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

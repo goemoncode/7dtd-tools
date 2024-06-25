@@ -9,7 +9,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="industrial,countrytown,countryresidential,nodiagonal" />
+  <property name="Tags" value="industrial, countrytown, countryresidential, nodiagonal" />
   <property name="EditorGroups" value="industrial" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="11, 3, 5" />
@@ -31,11 +31,11 @@
   <property name="PrefabSize" value="25, 10, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="163488" />
-    <property name="TotalTriangles" value="61118" />
+    <property name="TotalVertices" value="129502" />
+    <property name="TotalTriangles" value="47364" />
     <property class="BlockEntities">
-      <property name="Vertices" value="142864" />
-      <property name="Triangles" value="47640" />
+      <property name="Vertices" value="108878" />
+      <property name="Triangles" value="33886" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="18436" />
@@ -74,6 +74,12 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="18, 2, 13" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="18, 1, 7" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="18, 2, 17" />
     </property>
   </property>
 </prefab>

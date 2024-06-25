@@ -22,8 +22,8 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />
-  <property name="Tags" value="residential,countryresidential" />
-  <property name="PrefabSize" value="42, 22, 42" />
+  <property name="Tags" value="residential, countryresidential" />
+  <property name="PrefabSize" value="42, 21, 42" />
   <property name="POIMarkerSize" value="5, 13, 5#5, 13, 1" />
   <property name="POIMarkerStart" value="5, 0, -5#5, 0, -1" />
   <property name="POIMarkerGroup" value="driveway,driveway2" />
@@ -34,15 +34,15 @@
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="331652" />
-    <property name="TotalTriangles" value="162958" />
+    <property name="TotalVertices" value="286292" />
+    <property name="TotalTriangles" value="143444" />
     <property class="BlockEntities">
-      <property name="Vertices" value="244547" />
-      <property name="Triangles" value="110868" />
+      <property name="Vertices" value="199697" />
+      <property name="Triangles" value="91386" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="81271" />
-      <property name="Triangles" value="44338" />
+      <property name="Vertices" value="80761" />
+      <property name="Triangles" value="44306" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -57,24 +57,16 @@
       <property name="Triangles" value="812" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes5">
       <property name="Vertices" value="288" />
       <property name="Triangles" value="144" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes7">
+    <property class="ChunkMeshes6">
       <property name="Vertices" value="4314" />
       <property name="Triangles" value="6796" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -88,6 +80,19 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="21, 7, 24" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="20, 2, 14" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="14, 2, 23" />
+      <property name="1" value="14, 2, 24" />
+      <property name="2" value="18, 7, 27" />
+      <property name="3" value="16, 3, 28" />
+      <property name="4" value="20, 7, 28" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="24, 7, 16" />
     </property>
     <property class="quest_wood">
       <property name="0" value="30, 1, 22" />

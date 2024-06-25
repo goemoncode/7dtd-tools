@@ -10,17 +10,18 @@
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-1" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="rural" />
-  <property name="ThemeTags" value="rural_filler" />
-  <property name="ThemeRepeatDistance" value="110" />
+  <property name="Tags" value="rural,hideui" />
+  <property name="ThemeTags" value="ruralfiller" />
+  <property name="ThemeRepeatDistance" value="500" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="60, 3, 60" />
+  <property name="DuplicateRepeatDistance" value="750" />
   <property class="Stats">
-    <property name="TotalVertices" value="80586" />
-    <property name="TotalTriangles" value="85806" />
+    <property name="TotalVertices" value="80086" />
+    <property name="TotalTriangles" value="94231" />
     <property class="BlockEntities">
-      <property name="Vertices" value="71442" />
-      <property name="Triangles" value="70454" />
+      <property name="Vertices" value="70942" />
+      <property name="Triangles" value="78879" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="0" />
@@ -47,20 +48,16 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="9144" />
       <property name="Triangles" value="15352" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="46, 2, 17" />
     </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+    <property class="quest_stone_boulder">
+      <property name="0" value="50, 1, 44" />
     </property>
   </property>
 </prefab>

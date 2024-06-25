@@ -14,12 +14,10 @@ Set 7dtd game folder to the STEAMAPPS_GAME_DIR environment variable, or create .
 STEAMAPPS_GAME_DIR="<path to 7dtd game folder>"
 ```
 
-## Run script
+## Generate prefab data files for vanilla
 
 ```
-npm run run-ts <script file name> [args...] [options]
-
-  or
-
-yarn run-ts <script file name> [args...] [options]
+yarn run-ts prebuild
+yarn run-ts genl10n
+yarn run-ts genindex
 ```

@@ -32,19 +32,19 @@
   <property name="POIMarkerPartToSpawn" value="" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 16, 42" />
+  <property name="PrefabSize" value="42, 21, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property name="InfoVolumeSize" value="35, 16, 28" />
   <property name="InfoVolumeStart" value="3, 0, 8" />
   <property class="Stats">
-    <property name="TotalVertices" value="302505" />
-    <property name="TotalTriangles" value="131479" />
+    <property name="TotalVertices" value="251337" />
+    <property name="TotalTriangles" value="110322" />
     <property class="BlockEntities">
-      <property name="Vertices" value="252729" />
-      <property name="Triangles" value="100244" />
+      <property name="Vertices" value="201566" />
+      <property name="Triangles" value="79091" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="43960" />
+      <property name="Vertices" value="43963" />
       <property name="Triangles" value="22931" />
     </property>
     <property class="ChunkMeshes1">
@@ -52,8 +52,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="8" />
-      <property name="Triangles" value="4" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="912" />
@@ -68,21 +68,25 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="4896" />
       <property name="Triangles" value="7704" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="35, 2, 23" />
+      <property name="1" value="21, 2, 31" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="37, 1, 37" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="10, 2, 11" />
+      <property name="1" value="9, 2, 13" />
+      <property name="2" value="19, 3, 17" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="21, 8, 25" />
     </property>
     <property class="POILight">
       <property name="0" value="27, 6, 23" />
@@ -92,6 +96,9 @@
     <property class="TraderOnOff">
       <property name="0" value="20, 3, 23" />
       <property name="1" value="20, 8, 24" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="29, 3, 20" />
     </property>
   </property>
 </prefab>

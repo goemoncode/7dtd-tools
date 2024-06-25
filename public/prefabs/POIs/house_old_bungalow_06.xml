@@ -31,18 +31,18 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_06" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 23, 42" />
+  <property name="PrefabSize" value="42, 27, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="438650" />
-    <property name="TotalTriangles" value="180876" />
+    <property name="TotalVertices" value="372622" />
+    <property name="TotalTriangles" value="151398" />
     <property class="BlockEntities">
-      <property name="Vertices" value="356065" />
-      <property name="Triangles" value="128848" />
+      <property name="Vertices" value="289472" />
+      <property name="Triangles" value="99153" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="71205" />
-      <property name="Triangles" value="38786" />
+      <property name="Vertices" value="71770" />
+      <property name="Triangles" value="39003" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3584" />
@@ -73,8 +73,19 @@
     <property class="quest_wood_trees">
       <property name="0" value="36, 7, 38" />
     </property>
+    <property class="quest_wood">
+      <property name="0" value="24, 8, 14" />
+      <property name="1" value="24, 8, 15" />
+      <property name="2" value="24, 8, 16" />
+      <property name="3" value="24, 8, 17" />
+      <property name="4" value="24, 8, 18" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="16, 4, 22" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="13, 4, 8" />
+      <property name="1" value="15, 14, 16" />
     </property>
     <property class="POILight">
       <property name="0" value="21, 14, 7" />
@@ -87,6 +98,19 @@
     <property class="TraderOnOff">
       <property name="0" value="21, 9, 14" />
       <property name="1" value="21, 9, 17" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="22, 14, 14" />
+      <property name="1" value="21, 14, 15" />
+      <property name="2" value="22, 9, 15" />
+      <property name="3" value="21, 10, 16" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="14, 4, 20" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="15, 14, 21" />
+      <property name="1" value="10, 7, 33" />
     </property>
     <property class="Rally">
       <property name="0" value="22, 7, 37" />

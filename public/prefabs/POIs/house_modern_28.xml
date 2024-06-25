@@ -14,7 +14,7 @@
   <property name="YOffset" value="-4" />
   <property name="POIMarkerSize" value="15, 13, 5" />
   <property name="POIMarkerStart" value="26, 3, -5" />
-  <property name="POIMarkerGroup" value="driveway" />
+  <property name="POIMarkerGroup" value="driveway2" />
   <property name="POIMarkerTags" value="residential" />
   <property name="POIMarkerType" value="PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_07" />
@@ -26,46 +26,42 @@
   <property name="SleeperVolumeSize" value="4, 3, 15#13, 3, 7#19, 3, 7#19, 3, 15#6, 5, 5#3, 3, 10#10, 3, 4#6, 3, 9#6, 3, 5#5, 3, 10#7, 3, 3#6, 3, 5#10, 3, 7#9, 3, 4#3, 3, 3#6, 3, 7#4, 3, 9#9, 3, 8#3, 3, 1#15, 3, 5#4, 3, 2#2, 3, 1" />
   <property name="SleeperVolumeStart" value="22, 9, 24#13, 9, 32#7, 14, 14#7, 14, 21#9, 9, 12#23, 9, 7#16, 9, 7#16, 9, 11#10, 9, 16#10, 9, 22#15, 9, 23#16, 9, 26#11, 4, 27#10, 4, 23#8, 4, 19#10, 4, 11#18, 4, 14#11, 4, 14#15, 4, 24#9, 14, 31#10, 4, 22#19, 9, 31" />
   <property name="SleeperVolumeGroupId" value="1,1,2,2,0,3,3,0,0,0,5,5,6,6,7,7,7,7,0,2,6,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,0,0,zombieBusinessMan,1,1,zombieJanitor,1,1,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,2,GroupGenericZombie,0,0,GroupGenericZombie,3,3,GroupGenericZombie,0,0,zombieBusinessMan,1,1,zombieJanitor,1,1,GroupGenericZombie,0,0,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,0,0,GroupGenericZombie,2,2,GroupGenericZombie,0,0,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,0,0,GroupGenericZombie,3,3,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="True,False,True,False,True,True,False,True,True,True,True,False,True,False,True,True,True,False,True,False,False,True" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False" />
-  <property name="SleeperVolumeFlags" value="2,3,2,0,0,2,2,0,3,0,1,2,2,0,2,2,2,2,3,2,2,3" />
+  <property name="SleeperVolumeFlags" value="2,0,2,0,0,2,2,0,3,0,1,2,2,0,2,2,2,2,3,2,2,3" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # #4# # # # # # # # # #5# # #3" />
   <property name="TriggerVolumeSize" value="2, 3, 4" />
   <property name="TriggerVolumeStart" value="16, 9, 16" />
   <property name="TriggerVolumeTriggers" value="4" />
   <property class="Stats">
-    <property name="TotalVertices" value="608060" />
-    <property name="TotalTriangles" value="261717" />
+    <property name="TotalVertices" value="440166" />
+    <property name="TotalTriangles" value="187782" />
     <property class="BlockEntities">
-      <property name="Vertices" value="504911" />
-      <property name="Triangles" value="198807" />
+      <property name="Vertices" value="345404" />
+      <property name="Triangles" value="128996" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="91239" />
-      <property name="Triangles" value="50890" />
+      <property name="Vertices" value="82852" />
+      <property name="Triangles" value="46766" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3840" />
       <property name="Triangles" value="1920" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="1990" />
       <property name="Triangles" value="1108" />
     </property>
-    <property class="ChunkMeshes4">
+    <property class="ChunkMeshes3">
       <property name="Vertices" value="616" />
       <property name="Triangles" value="308" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="5464" />
       <property name="Triangles" value="8684" />
     </property>
@@ -81,9 +77,19 @@
     <property class="FetchContainer">
       <property name="0" value="23, 6, 21" />
     </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="11, 9, 27" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="13, 9, 22" />
       <property name="1" value="18, 9, 23" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="23, 15, 21" />
+      <property name="1" value="21, 5, 25" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="33, 1, 29" />
     </property>
     <property class="Rally">
       <property name="0" value="14, 4, 36" />

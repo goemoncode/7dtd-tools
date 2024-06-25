@@ -26,23 +26,23 @@
   <property name="Tags" value="wilderness" />
   <property name="EditorGroups" value="Wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="110614" />
-    <property name="TotalTriangles" value="72716" />
+    <property name="TotalVertices" value="110302" />
+    <property name="TotalTriangles" value="72336" />
     <property class="BlockEntities">
-      <property name="Vertices" value="98447" />
-      <property name="Triangles" value="62730" />
+      <property name="Vertices" value="98312" />
+      <property name="Triangles" value="62510" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="10057" />
-      <property name="Triangles" value="6744" />
+      <property name="Vertices" value="9904" />
+      <property name="Triangles" value="6596" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="24" />
-      <property name="Triangles" value="12" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="344" />
@@ -64,6 +64,10 @@
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="17, 3, 3" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="19, 2, 15" />
+      <property name="1" value="21, 2, 21" />
     </property>
     <property class="POILight">
       <property name="0" value="12, 3, 19" />

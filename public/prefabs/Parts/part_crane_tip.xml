@@ -11,7 +11,8 @@
   <property name="PrefabSize" value="1, 2, 6" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property class="Stats">
+	<property name="Tags" value="part" />
+	<property class="Stats">
     <property name="TotalVertices" value="862" />
     <property name="TotalTriangles" value="608" />
     <property class="BlockEntities">

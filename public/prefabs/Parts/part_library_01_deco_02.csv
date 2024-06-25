@@ -1,0 +1,17 @@
+id,name,count
+2,terrainFiller,169
+16,terrGravel,2
+17,terrAsphalt,90
+6814,concreteShapes:cube,19
+6871,concreteShapes:pole,5
+6929,concreteShapes:poleSquareCornerRound,2
+7216,concreteShapes:arch,2
+8049,concreteShapes:cubeTrimQuarterCornerInside,1
+8107,concreteShapes:cubeTrimHalfSplitDiagonal,2
+8124,concreteShapes:cubeTrimQuarterEdgeTwoSided,31
+8141,concreteShapes:cubeTrimCornerRound,8
+8828,concreteShapes:roadPaintDash,5
+8848,concreteShapes:roadPaintArrowStraight,2
+19341,guardRailStraight,4
+19342,guardRailPole,3
+19345,guardRailBend,1
