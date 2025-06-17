@@ -12,6 +12,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-2" />
   <property name="Tags" value="downtown" />
+  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="Zoning" value="none" />
   <property name="EditorGroups" value="downtown" />
   <property name="SleeperVolumeSize" value="5, 4, 15#7, 4, 13#5, 4, 15#7, 4, 4#6, 4, 5#7, 4, 4#6, 4, 8#6, 4, 15#7, 3, 17#7, 3, 7#5, 3, 15" />

@@ -35,15 +35,15 @@
   <property name="TriggerVolumeStart" value="2, 6, 43" />
   <property name="TriggerVolumeTriggers" value="4" />
   <property class="Stats">
-    <property name="TotalVertices" value="497722" />
-    <property name="TotalTriangles" value="212081" />
+    <property name="TotalVertices" value="506803" />
+    <property name="TotalTriangles" value="214829" />
     <property class="BlockEntities">
-      <property name="Vertices" value="385726" />
-      <property name="Triangles" value="140105" />
+      <property name="Vertices" value="394734" />
+      <property name="Triangles" value="142833" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="102024" />
-      <property name="Triangles" value="56024" />
+      <property name="Vertices" value="102097" />
+      <property name="Triangles" value="56044" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -77,19 +77,30 @@
       <property name="0" value="29, 8, 47" />
       <property name="1" value="29, 8, 51" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="2, 3, 56" />
+    </property>
     <property class="quest_wood">
       <property name="0" value="57, 2, 10" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="55, 2, 16" />
+      <property name="1" value="53, 2, 18" />
+      <property name="2" value="51, 2, 20" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="52, 2, 14" />
+      <property name="1" value="55, 2, 17" />
+      <property name="2" value="52, 2, 18" />
+      <property name="3" value="47, 2, 20" />
+      <property name="4" value="49, 2, 20" />
+      <property name="5" value="52, 3, 20" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="50, 2, 18" />
     </property>
     <property class="quest_feather">
       <property name="0" value="22, 9, 50" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="55, 2, 17" />
-      <property name="1" value="47, 2, 20" />
-      <property name="2" value="49, 2, 20" />
     </property>
     <property class="Rally">
       <property name="0" value="42, 2, 6" />

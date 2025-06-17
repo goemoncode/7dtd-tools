@@ -30,22 +30,22 @@
   <property name="TriggerVolumeTriggers" value="1#1#3#3#3#3#5#5#9#5" />
   <property name="SVS18" value="sleep 6^spawn GroupZomBadass 2^sleep 1^spawn GroupZomBadass 2" />
   <property class="Stats">
-    <property name="TotalVertices" value="1419460" />
-    <property name="TotalTriangles" value="531098" />
+    <property name="TotalVertices" value="1427207" />
+    <property name="TotalTriangles" value="533309" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1192737" />
-      <property name="Triangles" value="386940" />
+      <property name="Vertices" value="1200177" />
+      <property name="Triangles" value="389583" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="209429" />
-      <property name="Triangles" value="127214" />
+      <property name="Vertices" value="209730" />
+      <property name="Triangles" value="126782" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="4736" />
       <property name="Triangles" value="2368" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="5942" />
+      <property name="Vertices" value="5948" />
       <property name="Triangles" value="3852" />
     </property>
     <property class="ChunkMeshes3">
@@ -69,18 +69,19 @@
     <property class="POILight">
       <property name="0" value="37, 14, 12" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="37, 9, 12" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="34, 23, 22" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="37, 8, 14" />
-    </property>
     <property class="challenge_sinks">
-      <property name="0" value="26, 14, 12" />
-      <property name="1" value="26, 9, 15" />
-      <property name="2" value="21, 8, 18" />
-      <property name="3" value="26, 9, 19" />
-      <property name="4" value="21, 13, 20" />
+      <property name="0" value="37, 9, 22" />
+      <property name="1" value="37, 19, 23" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="37, 18, 7" />
+      <property name="1" value="37, 8, 14" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="31, 18, 6" />
@@ -99,11 +100,8 @@
     <property class="QuestRestorePower">
       <property name="0" value="13, 25, 15" />
     </property>
-    <property class="challenge_vending">
-      <property name="0" value="19, 2, 23" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="29, 13, 15" />
+    <property class="challenge_steel">
+      <property name="0" value="25, 13, 37" />
     </property>
     <property class="Rally">
       <property name="0" value="32, 7, 38" />

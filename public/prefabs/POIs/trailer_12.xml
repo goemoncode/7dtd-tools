@@ -31,15 +31,15 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="154327" />
-    <property name="TotalTriangles" value="66571" />
+    <property name="TotalVertices" value="156049" />
+    <property name="TotalTriangles" value="67554" />
     <property class="BlockEntities">
-      <property name="Vertices" value="131088" />
-      <property name="Triangles" value="49501" />
+      <property name="Vertices" value="132832" />
+      <property name="Triangles" value="50492" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="21133" />
-      <property name="Triangles" value="13948" />
+      <property name="Vertices" value="21111" />
+      <property name="Triangles" value="13940" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -63,13 +63,21 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="15, 2, 16" />
+      <property name="1" value="13, 2, 19" />
+      <property name="2" value="15, 2, 19" />
+      <property name="3" value="21, 2, 20" />
+      <property name="4" value="14, 2, 23" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="11, 2, 4" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="15, 3, 13" />
       <property name="1" value="15, 3, 14" />
-      <property name="2" value="20, 2, 22" />
+      <property name="2" value="18, 2, 19" />
+      <property name="3" value="20, 2, 22" />
     </property>
     <property class="POILight">
       <property name="0" value="12, 5, 12" />
@@ -86,10 +94,6 @@
     </property>
     <property class="quest_wood">
       <property name="0" value="6, 2, 20" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="15, 2, 16" />
-      <property name="1" value="14, 2, 23" />
     </property>
   </property>
 </prefab>

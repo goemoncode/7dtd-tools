@@ -24,7 +24,7 @@
   <property name="EditorGroups" value="rural" />
   <property name="Tags" value="rural" />
   <property name="POIMarkerSize" value="19, 13, 3#19, 13, 3#19, 13, 3#5, 1, 5" />
-  <property name="POIMarkerStart" value="13, 5, -3#32, 5, -3#51, 5, -3#48, 5, -5" />
+  <property name="POIMarkerStart" value="13, 5, -3#32, 5, -3#51, 5, -3#48, 5, -3" />
   <property name="POIMarkerGroup" value="driveaway,driveway2,driveway3,roadexit" />
   <property name="POIMarkerTags" value="rural#rural#rural#" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,RoadExit" />
@@ -33,19 +33,19 @@
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="1125055" />
-    <property name="TotalTriangles" value="562154" />
+    <property name="TotalVertices" value="1123679" />
+    <property name="TotalTriangles" value="560820" />
     <property class="BlockEntities">
-      <property name="Vertices" value="768709" />
-      <property name="Triangles" value="330781" />
+      <property name="Vertices" value="764909" />
+      <property name="Triangles" value="328711" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="88948" />
       <property name="Triangles" value="63381" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="235648" />
-      <property name="Triangles" value="117824" />
+      <property name="Vertices" value="238464" />
+      <property name="Triangles" value="119232" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="108" />
@@ -60,8 +60,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="31026" />
-      <property name="Triangles" value="49788" />
+      <property name="Vertices" value="30634" />
+      <property name="Triangles" value="49116" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -82,11 +82,24 @@
       <property name="0" value="86, 6, 94" />
       <property name="1" value="87, 6, 94" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="87, 6, 18" />
+      <property name="1" value="87, 6, 22" />
+      <property name="2" value="89, 5, 22" />
+      <property name="3" value="91, 5, 22" />
+      <property name="4" value="89, 5, 23" />
+      <property name="5" value="91, 5, 23" />
+      <property name="6" value="91, 6, 29" />
+      <property name="7" value="87, 6, 30" />
+    </property>
     <property class="POILight">
       <property name="0" value="90, 9, 18" />
       <property name="1" value="90, 9, 22" />
       <property name="2" value="90, 9, 24" />
       <property name="3" value="90, 9, 26" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="82, 6, 18" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="90, 7, 19" />
@@ -102,10 +115,15 @@
       <property name="0" value="50, 6, 8" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="89, 8, 27" />
+      <property name="0" value="90, 7, 23" />
+      <property name="1" value="91, 8, 23" />
+      <property name="2" value="90, 7, 24" />
+      <property name="3" value="91, 8, 24" />
+      <property name="4" value="89, 8, 27" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="91, 6, 29" />
+    <property class="challenge_leather">
+      <property name="0" value="89, 6, 94" />
+      <property name="1" value="87, 6, 96" />
     </property>
   </property>
 </prefab>

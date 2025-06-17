@@ -16,7 +16,7 @@
   <property name="SleeperVolumeSize" value="10, 5, 14#6, 4, 2#9, 4, 9#5, 4, 4#9, 4, 9#4, 1, 11#9, 4, 7#12, 4, 6#11, 1, 18#10, 4, 4#13, 5, 8" />
   <property name="SleeperVolumeStart" value="40, 0, 23#33, 5, 23#40, 6, 24#45, 6, 33#23, 5, 22#22, 9, 21#31, 5, 32#27, 10, 29#27, 15, 21#29, 10, 36#26, 10, 21" />
   <property name="SleeperVolumeGroupId" value="0,1,1,1,2,2,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,0,0,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,3,3,GroupGenericZombie,0,1,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,2,0,2,2,0,0,2,0,2,0" />
@@ -34,39 +34,35 @@
   <property name="PrefabSize" value="60, 24, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="619725" />
-    <property name="TotalTriangles" value="248624" />
+    <property name="TotalVertices" value="614723" />
+    <property name="TotalTriangles" value="247990" />
     <property class="BlockEntities">
-      <property name="Vertices" value="505127" />
-      <property name="Triangles" value="174848" />
+      <property name="Vertices" value="500296" />
+      <property name="Triangles" value="174261" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="101672" />
-      <property name="Triangles" value="55088" />
+      <property name="Vertices" value="101451" />
+      <property name="Triangles" value="54953" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="1496" />
       <property name="Triangles" value="976" />
     </property>
-    <property class="ChunkMeshes4">
+    <property class="ChunkMeshes3">
       <property name="Vertices" value="1440" />
       <property name="Triangles" value="720" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="9990" />
-      <property name="Triangles" value="16992" />
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="10040" />
+      <property name="Triangles" value="17080" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -89,12 +85,19 @@
     <property class="FetchContainer">
       <property name="0" value="49, 6, 35" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="47, 6, 31" />
+      <property name="1" value="48, 1, 36" />
+    </property>
     <property class="POILight">
       <property name="0" value="46, 3, 30" />
       <property name="1" value="46, 4, 38" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="36, 5, 37" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="28, 3, 35" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="46, 1, 37" />

@@ -37,14 +37,14 @@
   <property name="InfoVolumeSize" value="39, 19, 42" />
   <property name="InfoVolumeStart" value="1, 0, 0" />
   <property class="Stats">
-    <property name="TotalVertices" value="339064" />
-    <property name="TotalTriangles" value="175135" />
+    <property name="TotalVertices" value="280910" />
+    <property name="TotalTriangles" value="144596" />
     <property class="BlockEntities">
-      <property name="Vertices" value="289525" />
-      <property name="Triangles" value="144376" />
+      <property name="Vertices" value="231271" />
+      <property name="Triangles" value="113837" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="43965" />
+      <property name="Vertices" value="44065" />
       <property name="Triangles" value="22675" />
     </property>
     <property class="ChunkMeshes1">
@@ -52,22 +52,18 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="756" />
       <property name="Triangles" value="504" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="4818" />
       <property name="Triangles" value="7580" />
     </property>
@@ -87,6 +83,22 @@
       <property name="1" value="14, 8, 24" />
       <property name="2" value="12, 3, 25" />
       <property name="3" value="17, 3, 25" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="11, 3, 22" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="12, 4, 22" />
+      <property name="1" value="13, 3, 22" />
+      <property name="2" value="11, 3, 23" />
+      <property name="3" value="9, 3, 24" />
+      <property name="4" value="11, 3, 24" />
+      <property name="5" value="19, 3, 24" />
+      <property name="6" value="19, 3, 26" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="11, 4, 24" />
+      <property name="1" value="10, 2, 26" />
     </property>
     <property class="quest_feather">
       <property name="0" value="21, 7, 24" />

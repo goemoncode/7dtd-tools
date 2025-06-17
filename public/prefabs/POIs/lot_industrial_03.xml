@@ -14,12 +14,12 @@
   <property name="SleeperVolumeSize" value="12, 2, 9#4, 3, 4#9, 6, 9#1, 1, 6" />
   <property name="SleeperVolumeStart" value="12, 2, 15#15, 2, 4#11, 5, 12#3, 3, 11" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,1,2,S_Zom_Burnt,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,1,1,ZomUtilityWorker,1,2,ZomBurnt,1,1,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,True" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,2" />
   <property name="EditorGroups" value="industrial" />
-  <property name="Tags" value="industrial,countrytown,nodiagonal" />
+  <property name="Tags" value="countrytown, industrial, nodiagonal" />
   <property name="POIMarkerSize" value="7, 13, 1#5, 13, 2" />
   <property name="POIMarkerStart" value="0, 1, -1#1, 1, -2" />
   <property name="POIMarkerGroup" value="driveway,driveway2" />
@@ -42,8 +42,8 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="224260" />
-    <property name="TotalTriangles" value="94858" />
+    <property name="TotalVertices" value="222306" />
+    <property name="TotalTriangles" value="91502" />
     <property class="BlockEntities">
       <property name="Vertices" value="166472" />
       <property name="Triangles" value="54804" />
@@ -71,10 +71,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1954" />
-      <property name="Triangles" value="3356" />
     </property>
   </property>
 </prefab>

@@ -1,0 +1,17 @@
+id,name,count
+2,terrainFiller,1634
+5,terrDirt,60
+7,terrForestGround,186
+259,woodShapes:cube,272
+1137,woodShapes:stairsFilledVerticalUV,10
+18766,exteriorHouseDoorWhite,1
+18767,exteriorHouseDoorBrown,1
+21999,treeOakSml01,1
+22051,treeTallGrassDiagonal,78
+22076,plantedCoffee1,2
+22164,sleeperSit,1
+22165,sleeperBack,1
+22166,sleeperSideLeft,1
+22167,sleeperSideRight,1
+22168,sleeperStomach,1
+22169,sleeperIdle,1

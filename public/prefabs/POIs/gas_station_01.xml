@@ -24,8 +24,9 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="Tags" value="industrial" />
-  <property name="ThemeTags" value="gas" />
-  <property name="ThemeDistance" value="150" />
+  <property name="ThemeTags" value="stationGas" />
+  <property name="ThemeDistance" value="300" />
+  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="POIMarkerSize" value="13, 13, 1#13, 13, 1" />
   <property name="POIMarkerStart" value="0, 4, -1#20, 4, -1" />
   <property name="POIMarkerGroup" value="driveway,driveway2" />

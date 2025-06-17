@@ -12,7 +12,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="25, 1, 74#9, 4, 7#11, 6, 11#6, 5, 8#10, 5, 4#7, 7, 4#39, 1, 74#5, 9, 5#12, 6, 12#8, 4, 13#7, 4, 9#10, 4, 11#11, 6, 11#5, 9, 5#5, 9, 5#5, 3, 5#11, 6, 11#13, 3, 12#17, 4, 10#5, 9, 5#5, 9, 5#5, 9, 5#17, 5, 9#17, 5, 9#16, 5, 9#13, 3, 16#13, 4, 19#13, 4, 16#8, 4, 8#11, 4, 9#16, 4, 22#7, 4, 15#13, 4, 17#1, 2, 1#10, 4, 8#7, 4, 8#14, 4, 15#13, 4, 9#3, 3, 8#3, 3, 7#2, 3, 8#4, 3, 8#4, 5, 11#3, 3, 11#8, 3, 6#5, 9, 5#7, 4, 10#18, 3, 3#12, 8, 17" />
   <property name="SleeperVolumeStart" value="2, 13, 23#5, 13, 29#4, 13, 53#41, 14, 59#35, 14, 53#48, 11, 63#56, 13, 23#2, 13, 92#8, 13, 83#26, 24, 54#35, 26, 56#33, 31, 55#4, 13, 39#52, 13, 23#2, 13, 23#31, 13, 2#4, 13, 67#32, 13, 24#30, 17, 24#90, 13, 14#90, 13, 52#90, 13, 92#72, 13, 58#72, 13, 43#72, 13, 28#34, 20, 52#32, 2, 53#32, 2, 72#24, 2, 68#45, 2, 69#8, 1, 37#24, 1, 37#46, 2, 41#49, 6, 41#32, 8, 45#24, 8, 45#28, 8, 53#32, 8, 68#46, 8, 68#29, 8, 69#49, 9, 68#24, 8, 68#27, 18, 55#31, 20, 55#46, 18, 68#24, 13, 23#35, 26, 55#29, 13, 97#77, 13, 73" />
-  <property name="SleeperVolumeGroup" value="GroupZomSoldier,5,5,GroupSpecialInfected,5,5,GroupHospital,5,5,GroupZomSoldier,5,5,GroupGenericZombie,5,5,GroupZomSoldier,0,0,GroupZomSoldier,5,5,GroupZomSoldier,0,1,GroupZomSoldier,5,5,GroupZomSoldier,5,5,GroupZomSoldier,5,5,GroupZomSoldier,5,5,GroupZomSoldier,5,5,GroupZomSoldier,0,1,GroupZomSoldier,0,1,GroupZomSoldier,0,1,GroupZomSoldier,5,5,GroupGenericZombie,3,3,GroupZomSoldier,3,3,GroupZomSoldier,0,1,GroupZomSoldier,0,1,GroupZomSoldier,0,1,GroupZomSoldier,10,10,GroupZomSoldier,10,10,GroupZomSoldier,10,10,GroupGenericZombie,5,5,GroupGenericZombie,5,5,GroupZomSoldier,0,0,GroupGenericZombie,0,0,GroupZomSoldier,0,0,GroupZomBadass,5,5,GroupGenericZombie,0,0,GroupGenericZombie,10,10,GroupGenericZombie,0,0,GroupGenericZombie,5,5,GroupGenericZombie,10,10,GroupZomSoldier,10,10,GroupZomSoldier,10,10,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,5,5,GroupGenericZombie,5,5,GroupGenericZombie,5,5,GroupZomSoldier,0,1,GroupZomSoldier,5,5,GroupGenericZombie,0,0,GroupZomSoldier,10,10" />
+  <property name="SleeperVolumeGroup" value="GroupZomSoldier,5,5,GroupSpecialInfected,5,5,GroupHospital,5,5,GroupZomSoldier,5,5,GroupGenericZombie,5,5,GroupZomSoldier,10,10,GroupZomSoldier,5,5,GroupZomSoldier,0,1,GroupZomSoldier,5,5,GroupZomSoldier,5,5,GroupZomSoldier,5,5,GroupZomSoldier,5,5,GroupZomSoldier,5,5,GroupZomSoldier,0,1,GroupZomSoldier,0,1,GroupZomSoldier,0,1,GroupZomSoldier,5,5,GroupGenericZombie,3,3,GroupZomSoldier,3,3,GroupZomSoldier,0,1,GroupZomSoldier,0,1,GroupZomSoldier,0,1,GroupZomSoldier,10,10,GroupZomSoldier,10,10,GroupZomSoldier,10,10,GroupGenericZombie,5,5,GroupGenericZombie,5,5,GroupZomSoldier,0,0,GroupGenericZombie,0,0,GroupZomSoldier,0,0,GroupZomBadass,5,5,GroupGenericZombie,0,0,GroupGenericZombie,10,10,GroupGenericZombie,0,0,GroupGenericZombie,5,5,GroupGenericZombie,10,10,GroupZomSoldier,10,10,GroupZomSoldier,10,10,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,10,10,GroupGenericZombie,5,5,GroupGenericZombie,5,5,GroupGenericZombie,5,5,GroupZomSoldier,0,1,GroupZomSoldier,5,5,GroupGenericZombie,0,0,GroupZomSoldier,10,10" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
   <property name="SleeperIsLootVolume" value="False,True,True,False,False,False,False,True,True,False,False,False,True,False,True,False,True,False,False,False,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True" />
   <property name="DistantPOIYOffset" value="0" />
@@ -23,7 +23,7 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,3,3,3,4,4,0,0,5,5,5,5,0,0,0,0,7,7,7,0,6,0,0" />
   <property name="SleeperVolumeFlags" value="0,0,4,4,4,3,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,4,0,0,0,4,0,4,3,0,0,0,0,3,3,3,3,0,0,0,0,0,3,0" />
-  <property name="ShowQuestClearCount" value="1" />
+  <property name="ShowQuestClearCount" value="3" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,True,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="POIMarkerSize" value="7, 13, 3" />
@@ -35,13 +35,14 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="PrefabSize" value="100, 49, 100" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # # # #2# # # # # # # # # # # # # # # # # # # # # # # # # # # #3# # # # #4#4#5#6# # # # # #8# " />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # #10# # # # # # # # # # # # # # # # # # # # # # # # # # # #3# # # # #4#4#5#9# # # # # #8# " />
   <property name="Tags" value="rural" />
-  <property name="TriggerVolumeSize" value="13, 1, 7" />
-  <property name="TriggerVolumeStart" value="32, 8, 65" />
-  <property name="TriggerVolumeTriggers" value="4" />
+  <property name="ThemeTags" value="siteMilitary" />
+  <property name="ThemeRepeatDistance" value="500" />
+  <property name="TriggerVolumeSize" value="13, 1, 7#4, 1, 5#4, 1, 12" />
+  <property name="TriggerVolumeStart" value="32, 8, 65#24, 8, 63#41, 14, 56" />
+  <property name="TriggerVolumeTriggers" value="4#9#10" />
   <property name="SVS47" value="spawn GroupZomSoldier 5^waitalive 2^spawn GroupZomSoldier 5" />
-  <property name="SVS41" value="spawn GroupZomSoldier 5^waitalive 2^spawn GroupZomSoldier 5" />
   <property name="SVS40" value="spawn GroupZomSoldier 5^waitalive 2^spawn GroupZomBadass 5" />
   <property name="SVS39" value="spawn GroupZomSoldier 5^waitalive 2^spawn GroupZomBadass 5" />
   <property name="SVS38" value="spawn GroupZomSoldier 5^waitalive 2^spawn GroupZomBadass 5^trigger 5^" />
@@ -50,25 +51,24 @@
   <property name="SVS29" value="spawn GroupZomSoldier 5^waitalive 2^spawn GroupZomSoldier 5" />
   <property name="SVS28" value="spawn GroupZomSoldier 5^waitalive 2^spawn GroupZomSoldier 5" />
   <property name="SVS27" value="spawn GroupZomSoldier 10^waitalive 4^spawn GroupZomSoldier 10" />
-  <property name="SVS5" value="spawn GroupZomSoldier 5 5^waitalive 2^spawn GroupZomSoldier 5 5" />
   <property class="Stats">
-    <property name="TotalVertices" value="2814060" />
-    <property name="TotalTriangles" value="1117270" />
+    <property name="TotalVertices" value="2809640" />
+    <property name="TotalTriangles" value="1107986" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2374991" />
-      <property name="Triangles" value="827848" />
+      <property name="Vertices" value="2369579" />
+      <property name="Triangles" value="818473" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="394819" />
-      <property name="Triangles" value="225942" />
+      <property name="Vertices" value="395825" />
+      <property name="Triangles" value="226045" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="7870" />
-      <property name="Triangles" value="5024" />
+      <property name="Vertices" value="7862" />
+      <property name="Triangles" value="5016" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="480" />
@@ -79,8 +79,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="35900" />
-      <property name="Triangles" value="58216" />
+      <property name="Vertices" value="35894" />
+      <property name="Triangles" value="58212" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -98,11 +98,27 @@
     <property class="challenge_pallet">
       <property name="0" value="54, 2, 63" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="90, 13, 80" />
+      <property name="1" value="89, 14, 81" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="83, 15, 88" />
+      <property name="1" value="85, 14, 88" />
+      <property name="2" value="87, 14, 88" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="25, 2, 54" />
+      <property name="1" value="29, 2, 54" />
+      <property name="2" value="29, 2, 58" />
+      <property name="3" value="25, 2, 59" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="85, 14, 89" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="86, 14, 86" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="82, 14, 82" />
+      <property name="1" value="86, 14, 86" />
     </property>
     <property class="quest_wood">
       <property name="0" value="55, 14, 68" />
@@ -117,13 +133,7 @@
       <property name="0" value="56, 4, 72" />
       <property name="1" value="51, 10, 74" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="85, 13, 61" />
-      <property name="1" value="87, 13, 61" />
-      <property name="2" value="87, 13, 62" />
-      <property name="3" value="85, 13, 63" />
-    </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="41, 8, 69" />
       <property name="1" value="42, 8, 69" />
     </property>

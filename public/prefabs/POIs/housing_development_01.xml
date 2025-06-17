@@ -25,44 +25,40 @@
   <property name="SleeperVolumeSize" value="45, 3, 56#36, 4, 15#10, 3, 10#15, 3, 2#14, 3, 20#3, 3, 5#15, 6, 7#12, 6, 23#5, 3, 12#1, 8, 6#4, 3, 8#77, 4, 30#2, 3, 6#8, 3, 7#1, 3, 7#1, 3, 2#4, 3, 7#4, 3, 9#4, 3, 11#3, 2, 5#18, 3, 13#17, 4, 17#4, 5, 4#8, 3, 10#5, 1, 4#7, 3, 6#1, 3, 7#11, 3, 13#13, 3, 8#1, 3, 12#2, 3, 2#3, 3, 3#2, 3, 5#2, 1, 3#3, 1, 3#4, 1, 2#9, 4, 7#2, 3, 9" />
   <property name="SleeperVolumeStart" value="27, 4, 24#31, 3, 5#6, 4, 35#1, 4, 45#1, 4, 47#3, 4, 37#3, 4, 28#3, 4, 5#15, 4, 5#82, 4, 39#78, 9, 44#12, 14, 6#80, 9, 48#74, 4, 57#73, 4, 57#92, 4, 58#24, 9, 17#16, 9, 18#20, 9, 19#92, 4, 52#67, 9, 10#70, 3, 8#75, 9, 46#77, 4, 45#53, 13, 85#48, 9, 88#29, 4, 10#14, 4, 51#49, 9, 80#28, 4, 10#53, 4, 85#92, 7, 51#1, 4, 37#24, 4, 12#22, 8, 15#23, 8, 10#21, 4, 10#86, 9, 47" />
   <property name="SleeperVolumeGroupId" value="4,8,2,2,0,0,3,3,3,5,0,8,5,6,6,6,0,0,0,0,0,0,0,98,9,9,4,0,0,3,0,0,0,77,77,77,77,98" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,4,5,S_-Group_Generic_Zombie,0,0,S_Zom_Utility_Worker,2,3,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,2,2,S_-_Group_Special_Infected,1,1,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0,zombieLumberjackFeral,1,1,S_Zom_Utility_Worker,1,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,0,0,S_Zom_Utility_Worker,3,3,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0,zombiePartyGirlFeral,1,1,S_Zom_Businessman,1,1,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,1,S_Zom_Utility_Worker,1,2,zombieUtilityWorkerFeral,1,1,S_Zom_Utility_Worker,1,2,S_-Group_Generic_Zombie,1,2,zombieUtilityWorkerFeral,1,1,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0,zombieUtilityWorkerFeral,1,1,zombieUtilityWorkerFeral,1,1,S_-Group_Generic_Zombie,0,0,zombieUtilityWorkerFeral,2,3,S_-_Group_Zom_Badass_Only,2,2,S_-_Group_Special_Infected,2,3,S_-_Group_Special_Infected,2,2,zombieUtilityWorkerFeral,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,4,5,GroupGenericZombie,0,0,ZomUtilityWorker,2,3,GroupGenericZombie,0,0,GroupGenericZombie,2,2,GroupSpecialInfected,1,1,GroupGenericZombie,1,2,GroupGenericZombie,0,0,GroupGenericZombie,0,0,zombieLumberjackFeral,1,1,ZomUtilityWorker,1,2,GroupGenericZombie,2,3,GroupGenericZombie,0,0,ZomUtilityWorker,3,3,GroupGenericZombie,0,0,GroupGenericZombie,0,0,zombiePartyGirlFeral,1,1,ZomBusinessman,1,1,GroupGenericZombie,1,2,GroupGenericZombie,1,1,ZomUtilityWorker,1,2,zombieUtilityWorkerFeral,1,1,ZomUtilityWorker,1,2,GroupGenericZombie,1,2,zombieUtilityWorkerFeral,1,1,GroupGenericZombie,0,0,GroupGenericZombie,0,0,zombieUtilityWorkerFeral,1,1,zombieUtilityWorkerFeral,1,1,GroupGenericZombie,0,0,zombieUtilityWorkerFeral,2,3,GroupZomBadassOnly,2,2,GroupSpecialInfected,2,3,GroupSpecialInfected,2,2,zombieUtilityWorkerFeral,2,2,GroupGenericZombie,3,3,GroupGenericZombie,0,0,GroupGenericZombie,0,0" />
   <property name="SleeperIsLootVolume" value="False,False,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,True,False,True" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,3,3,3,2,0,2,2,2" />
   <property name="PrefabSize" value="100, 26, 100" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #5#6#4# # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1070030" />
-    <property name="TotalTriangles" value="463610" />
+    <property name="TotalVertices" value="1075268" />
+    <property name="TotalTriangles" value="463878" />
     <property class="BlockEntities">
-      <property name="Vertices" value="769288" />
-      <property name="Triangles" value="274994" />
+      <property name="Vertices" value="774849" />
+      <property name="Triangles" value="275426" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="263214" />
-      <property name="Triangles" value="138632" />
+      <property name="Vertices" value="262867" />
+      <property name="Triangles" value="138456" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="7424" />
       <property name="Triangles" value="3712" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1328" />
+      <property name="Triangles" value="796" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1304" />
-      <property name="Triangles" value="784" />
-    </property>
-    <property class="ChunkMeshes4">
       <property name="Vertices" value="272" />
       <property name="Triangles" value="136" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="28528" />
       <property name="Triangles" value="45352" />
     </property>
@@ -80,17 +76,16 @@
       <property name="0" value="49, 4, 13" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="83, 4, 44" />
-      <property name="1" value="86, 5, 49" />
+      <property name="0" value="93, 5, 51" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="69, 4, 72" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="93, 4, 51" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="93, 4, 53" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="63, 4, 76" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="94, 4, 59" />
@@ -108,8 +103,8 @@
     <property class="quest_feather">
       <property name="0" value="45, 11, 85" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="26, 9, 27" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="77, 9, 42" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="81, 4, 34" />

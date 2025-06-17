@@ -11,7 +11,7 @@
   <property name="PrefabSize" value="57, 8, 60" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="test" />
+  <property name="Tags" value="testonly" />
   <property name="EditorGroups" value="test stuff" />
   <property name="SleeperVolumeSize" value="7, 3, 11" />
   <property name="SleeperVolumeStart" value="42, 1, 9" />

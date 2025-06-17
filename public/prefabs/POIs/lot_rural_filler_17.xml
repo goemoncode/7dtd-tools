@@ -9,19 +9,19 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-2" />
-  <property name="PrefabSize" value="60, 4, 60" />
+  <property name="PrefabSize" value="60, 23, 60" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="rural,hideui" />
+  <property name="Tags" value="rural, hideui" />
   <property name="ThemeTags" value="ruralfiller" />
   <property name="ThemeDistance" value="500" />
   <property name="DuplicateRepeatDistance" value="750" />
   <property class="Stats">
-    <property name="TotalVertices" value="108559" />
-    <property name="TotalTriangles" value="104817" />
+    <property name="TotalVertices" value="82773" />
+    <property name="TotalTriangles" value="93836" />
     <property class="BlockEntities">
-      <property name="Vertices" value="99243" />
-      <property name="Triangles" value="89161" />
+      <property name="Vertices" value="73461" />
+      <property name="Triangles" value="78188" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="0" />
@@ -44,20 +44,19 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="9316" />
-      <property name="Triangles" value="15656" />
+      <property name="Vertices" value="9312" />
+      <property name="Triangles" value="15648" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_stone_boulder">
+      <property name="0" value="53, 2, 31" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="52, 2, 52" />
     </property>
-    <property class="quest_stone_boulder">
-      <property name="0" value="53, 2, 31" />
+    <property class="challenge_gore">
+      <property name="0" value="14, 2, 48" />
     </property>
   </property>
 </prefab>

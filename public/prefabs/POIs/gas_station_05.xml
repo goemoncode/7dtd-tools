@@ -10,7 +10,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="16, 4, 18#13, 5, 17#21, 3, 10#11, 5, 13#5, 5, 10#7, 7, 13#19, 7, 18#15, 7, 19#15, 3, 15#6, 3, 10#4, 5, 5#4, 5, 9#5, 10, 7#12, 4, 16#4, 5, 7#4, 4, 5#3, 6, 4" />
   <property name="SleeperVolumeStart" value="11, 0, 30#14, 5, 30#27, 5, 49#36, 5, 30#27, 5, 37#33, 11, 34#13, 11, 30#32, 11, 14#32, 19, 33#40, 15, 34#43, 5, 43#32, 5, 30#47, 5, 38#34, 0, 32#28, 5, 30#38, 5, 44#43, 11, 43" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,3,3,S_-_Group_Biker_Bar,5,5,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_Zom_Businessman,3,3,S_-_Group_Biker_Bar,3,3,S_-_Group_Biker_Bar,3,3,S_-_Group_Zom_Badass,5,5,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,zombieFatHawaiianFeral,1,1,S_-Group_Generic_Zombie,5,5,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,3,3,GroupGenericZombie,3,3,GroupBikerBar,5,5,GroupGenericZombie,2,2,GroupGenericZombie,3,3,ZomBusinessman,3,3,GroupBikerBar,3,3,GroupBikerBar,3,3,GroupZomBadass,5,5,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,3,3,zombieFatHawaiianFeral,1,1,GroupGenericZombie,5,5,GroupGenericZombie,1,1" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="DistantPOIYOffset" value="0" />
@@ -24,8 +24,8 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False" />
   <property name="Tags" value="commercial" />
-  <property name="ThemeTags" value="gas" />
-  <property name="ThemeDistance" value="500" />
+  <property name="ThemeTags" value="stationGas" />
+  <property name="ThemeDistance" value="300" />
   <property name="POIMarkerSize" value="10, 13, 3#10, 13, 3" />
   <property name="POIMarkerStart" value="3, 4, -3#46, 4, -3" />
   <property name="POIMarkerGroup" value="driveway,driveway2" />
@@ -40,37 +40,33 @@
   <property name="TriggerVolumeStart" value="31, 0, 32#33, 2, 41#38, 5, 43#46, 11, 38" />
   <property name="TriggerVolumeTriggers" value="1#2#3#5" />
   <property class="Stats">
-    <property name="TotalVertices" value="941422" />
-    <property name="TotalTriangles" value="398538" />
+    <property name="TotalVertices" value="787245" />
+    <property name="TotalTriangles" value="334639" />
     <property class="BlockEntities">
-      <property name="Vertices" value="810085" />
-      <property name="Triangles" value="313300" />
+      <property name="Vertices" value="672097" />
+      <property name="Triangles" value="258041" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="107881" />
-      <property name="Triangles" value="60390" />
+      <property name="Vertices" value="91848" />
+      <property name="Triangles" value="51854" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="9984" />
       <property name="Triangles" value="4992" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="156" />
-      <property name="Triangles" value="104" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="2676" />
       <property name="Triangles" value="1596" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="10640" />
       <property name="Triangles" value="18156" />
     </property>
@@ -86,12 +82,33 @@
       <property name="0" value="46, 5, 39" />
       <property name="1" value="47, 11, 39" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="48, 5, 39" />
+      <property name="1" value="48, 5, 42" />
+      <property name="2" value="51, 8, 43" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="35, 11, 35" />
+      <property name="1" value="34, 11, 45" />
+    </property>
     <property class="POILight">
       <property name="0" value="46, 16, 57" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="28, 5, 33" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="50, 5, 44" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="46, 8, 35" />
       <property name="1" value="46, 12, 43" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="46, 5, 47" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="41, 11, 42" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="45, 5, 53" />

@@ -12,7 +12,7 @@
   <property name="TraderArea" value="False" />
   <property name="SleeperVolumeSize" value="8, 6, 9#12, 7, 16#9, 4, 8#3, 4, 4#3, 4, 4#2, 1, 3#29, 3, 13#29, 3, 8#9, 3, 42#9, 3, 46#3, 4, 3#9, 1, 8#6, 1, 4#5, 1, 5" />
   <property name="SleeperVolumeStart" value="15, 6, 27#29, 5, 24#30, 6, 16#35, 10, 40#16, 10, 18#34, 5, 30#12, 5, 42#12, 5, 8#3, 5, 9#41, 5, 9#20, 1, 16#14, 1, 20#14, 1, 16#19, 1, 28" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Soldier,5,5,S_Zom_Burnt,5,5,S_-_Group_Zom_Soldier,2,2,S_-_Group_Zom_Soldier,2,2,S_-_Group_Zom_Soldier,2,2,zombieBurntFeral,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-_Group_Zom_Soldier,2,2,S_-Group_Generic_Zombie,8,8,zombieFatHawaiianFeral,1,1,S_-_Group_Special_Infected,3,3" />
+  <property name="SleeperVolumeGroup" value="GroupZomSoldier,5,5,ZomBurnt,5,5,GroupZomSoldier,2,2,GroupZomSoldier,2,2,GroupZomSoldier,2,2,zombieBurntFeral,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupZomSoldier,2,2,GroupGenericZombie,8,8,zombieFatHawaiianFeral,1,1,GroupSpecialInfected,3,3" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,True,False,False,False,False,False,False,False,False" />
   <property name="DistantPOIYOffset" value="0" />
@@ -27,6 +27,8 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="ThemeTags" value="siteMilitary" />
+  <property name="ThemeRepeatDistance" value="1000" />
   <property name="POIMarkerSize" value="3, 1, 3" />
   <property name="POIMarkerStart" value="26, 5, 0" />
   <property name="POIMarkerGroup" value="new" />
@@ -41,8 +43,8 @@
   <property name="TriggerVolumeStart" value="20, 6, 16" />
   <property name="TriggerVolumeTriggers" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1011960" />
-    <property name="TotalTriangles" value="775459" />
+    <property name="TotalVertices" value="1002024" />
+    <property name="TotalTriangles" value="758767" />
     <property class="BlockEntities">
       <property name="Vertices" value="973988" />
       <property name="Triangles" value="743117" />
@@ -70,10 +72,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="9936" />
-      <property name="Triangles" value="16692" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

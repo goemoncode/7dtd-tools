@@ -15,7 +15,7 @@
   <property name="SleeperVolumeSize" value="21, 21, 24" />
   <property name="SleeperVolumeStart" value="2, 0, 1" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,0,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,0,1" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsBossVolume" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -25,8 +25,8 @@
   <property name="PrefabSize" value="25, 21, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="91694" />
-    <property name="TotalTriangles" value="48928" />
+    <property name="TotalVertices" value="90020" />
+    <property name="TotalTriangles" value="46028" />
     <property class="BlockEntities">
       <property name="Vertices" value="59293" />
       <property name="Triangles" value="23683" />
@@ -54,10 +54,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1674" />
-      <property name="Triangles" value="2900" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

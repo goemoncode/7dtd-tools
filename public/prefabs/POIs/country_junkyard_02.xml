@@ -20,7 +20,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,2,0,0,0,0,3,3,3,3,3,3,0,0" />
   <property name="QuestTags" value="clear, fetch, infested" />
-  <property name="Tags" value="industrial, countrytown, nodiagonal" />
+  <property name="Tags" value="countrytown, industrial, nodiagonal" />
   <property name="POIMarkerSize" value="7, 13, 2#8, 13, 2#8, 13, 1#7, 13, 1" />
   <property name="POIMarkerStart" value="5, 1, -2#48, 1, -2#48, 1, -1#5, 1, -1" />
   <property name="POIMarkerGroup" value="driveway1,driveway2,driveway3,driveway4" />

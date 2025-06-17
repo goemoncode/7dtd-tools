@@ -10,7 +10,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="18, 19, 34#19, 4, 9#15, 2, 4#8, 10, 11#6, 2, 4#15, 2, 3" />
   <property name="SleeperVolumeStart" value="-102, 1, 9#5, 2, 28#10, 3, 23#13, 19, 14#14, 8, 11#10, 12, 17" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,animalZombieVulture,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,5,6,GroupGenericZombie,2,2,GroupGenericZombie,2,2,animalZombieVulture,1,1,GroupGenericZombie,2,2,GroupGenericZombie,2,2" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
   <property name="DistantPOIYOffset" value="0" />
@@ -26,37 +26,33 @@
   <property name="QuestTags" value="clear, fetch" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="373222" />
-    <property name="TotalTriangles" value="156931" />
+    <property name="TotalVertices" value="265081" />
+    <property name="TotalTriangles" value="115879" />
     <property class="BlockEntities">
-      <property name="Vertices" value="292560" />
-      <property name="Triangles" value="106574" />
+      <property name="Vertices" value="184624" />
+      <property name="Triangles" value="65660" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="76140" />
-      <property name="Triangles" value="44025" />
+      <property name="Vertices" value="75935" />
+      <property name="Triangles" value="43887" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="830" />
       <property name="Triangles" value="644" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="3692" />
       <property name="Triangles" value="5688" />
     </property>
@@ -65,19 +61,35 @@
     <property class="quest_wood_trees">
       <property name="0" value="4, 1, 37" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="4, 2, 30" />
+    </property>
     <property class="POILight">
       <property name="0" value="38, 11, 38" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="16, 8, 12" />
+      <property name="1" value="17, 3, 16" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="23, 10, 25" />
       <property name="1" value="23, 10, 32" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="25, 2, 21" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="23, 8, 21" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="13, 8, 17" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="18, 12, 33" />
       <property name="1" value="18, 3, 35" />
     </property>
     <property class="Rally">
-      <property name="0" value="30, 1, 2" />
+      <property name="0" value="32, 1, 2" />
     </property>
   </property>
 </prefab>

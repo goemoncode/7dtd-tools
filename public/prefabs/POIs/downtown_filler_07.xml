@@ -27,15 +27,15 @@
   <property name="Tags" value="downtown" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="634621" />
-    <property name="TotalTriangles" value="254369" />
+    <property name="TotalVertices" value="638744" />
+    <property name="TotalTriangles" value="256063" />
     <property class="BlockEntities">
-      <property name="Vertices" value="504284" />
-      <property name="Triangles" value="171414" />
+      <property name="Vertices" value="508258" />
+      <property name="Triangles" value="173007" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="121669" />
-      <property name="Triangles" value="75243" />
+      <property name="Vertices" value="121818" />
+      <property name="Triangles" value="75344" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3968" />
@@ -64,18 +64,26 @@
       <property name="1" value="21, 4, 10" />
     </property>
     <property class="challenge_gore">
-      <property name="0" value="15, 8, 12" />
-      <property name="1" value="18, 8, 12" />
-      <property name="2" value="13, 3, 18" />
-      <property name="3" value="15, 3, 18" />
-      <property name="4" value="13, 8, 21" />
-      <property name="5" value="16, 8, 21" />
-      <property name="6" value="13, 8, 23" />
-      <property name="7" value="18, 8, 23" />
-      <property name="8" value="19, 8, 23" />
+      <property name="0" value="18, 8, 12" />
+      <property name="1" value="13, 3, 18" />
+      <property name="2" value="15, 3, 18" />
+      <property name="3" value="13, 8, 21" />
+      <property name="4" value="16, 8, 21" />
+      <property name="5" value="13, 8, 23" />
+      <property name="6" value="18, 8, 23" />
+      <property name="7" value="19, 8, 23" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="15, 8, 14" />
+    <property class="challenge_polymers">
+      <property name="0" value="19, 2, 14" />
+      <property name="1" value="20, 2, 17" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="12, 20, 14" />
+      <property name="1" value="15, 8, 14" />
+      <property name="2" value="16, 14, 14" />
+      <property name="3" value="16, 20, 14" />
+      <property name="4" value="20, 14, 14" />
+      <property name="5" value="20, 20, 14" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="5, 2, 4" />
@@ -105,6 +113,25 @@
     <property class="quest_feather">
       <property name="0" value="21, 26, 9" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="14, 14, 14" />
+      <property name="1" value="14, 20, 14" />
+      <property name="2" value="18, 14, 14" />
+      <property name="3" value="18, 20, 14" />
+      <property name="4" value="13, 14, 15" />
+      <property name="5" value="15, 14, 15" />
+      <property name="6" value="15, 20, 15" />
+      <property name="7" value="19, 14, 15" />
+      <property name="8" value="19, 20, 15" />
+      <property name="9" value="13, 8, 18" />
+      <property name="10" value="18, 8, 18" />
+      <property name="11" value="16, 8, 19" />
+      <property name="12" value="20, 8, 19" />
+      <property name="13" value="13, 3, 20" />
+      <property name="14" value="15, 3, 20" />
+      <property name="15" value="20, 3, 20" />
+      <property name="16" value="20, 8, 21" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="13, 2, 13" />
       <property name="1" value="19, 2, 13" />
@@ -112,17 +139,9 @@
       <property name="3" value="14, 8, 17" />
       <property name="4" value="19, 8, 17" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="8, 8, 9" />
       <property name="1" value="9, 8, 9" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="18, 8, 18" />
-      <property name="1" value="20, 8, 19" />
-      <property name="2" value="13, 3, 20" />
-      <property name="3" value="15, 3, 20" />
-      <property name="4" value="20, 3, 20" />
-      <property name="5" value="20, 8, 21" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="7, 5, 22" />

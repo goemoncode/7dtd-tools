@@ -32,15 +32,15 @@
   <property name="PrefabSize" value="60, 26, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="2381638" />
-    <property name="TotalTriangles" value="1080798" />
+    <property name="TotalVertices" value="2391267" />
+    <property name="TotalTriangles" value="1085804" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2287612" />
-      <property name="Triangles" value="1017197" />
+      <property name="Vertices" value="2297225" />
+      <property name="Triangles" value="1022202" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="82618" />
-      <property name="Triangles" value="44817" />
+      <property name="Vertices" value="82634" />
+      <property name="Triangles" value="44818" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -76,6 +76,15 @@
     <property class="quest_feather">
       <property name="0" value="3, 11, 40" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="30, 3, 47" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="33, 8, 47" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="46, 7, 52" />
+    </property>
     <property class="challenge_cars">
       <property name="0" value="16, 7, 35" />
     </property>
@@ -83,11 +92,14 @@
       <property name="0" value="26, 13, 46" />
       <property name="1" value="29, 8, 49" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="30, 3, 38" />
+    <property class="challenge_steel">
+      <property name="0" value="22, 11, 42" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="32, 7, 31" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="32, 13, 40" />
     </property>
     <property class="Rally">
       <property name="0" value="38, 7, 51" />

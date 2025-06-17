@@ -16,7 +16,7 @@
   <property name="SleeperVolumeSize" value="21, 15, 15#3, 7, 3#5, 9, 2" />
   <property name="SleeperVolumeStart" value="2, 1, 2#13, 8, 18#7, 7, 18" />
   <property name="SleeperVolumeGroupId" value="1,1,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,4,4,S_Zom_Utility_Worker,0,0,S_Zom_Utility_Worker,1,1" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,4,4,ZomUtilityWorker,0,0,ZomUtilityWorker,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2" />
@@ -47,8 +47,8 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="176933" />
-    <property name="TotalTriangles" value="89780" />
+    <property name="TotalVertices" value="174525" />
+    <property name="TotalTriangles" value="85532" />
     <property class="BlockEntities">
       <property name="Vertices" value="103615" />
       <property name="Triangles" value="29972" />
@@ -76,10 +76,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="2408" />
-      <property name="Triangles" value="4248" />
     </property>
   </property>
 </prefab>

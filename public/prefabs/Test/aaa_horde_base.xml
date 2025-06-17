@@ -13,7 +13,7 @@
   <property name="YOffset" value="-1" />
   <property name="Zoning" value="none" />
   <property name="EditorGroups" value="test stuff" />
-  <property name="Tags" value="test" />
+  <property name="Tags" value="testonly" />
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">
       <property name="0" value="12, 5, 12" />

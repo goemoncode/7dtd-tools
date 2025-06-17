@@ -23,15 +23,15 @@
   <property name="YOffset" value="-2" />
   <property name="Tags" value="commercial" />
   <property class="Stats">
-    <property name="TotalVertices" value="588648" />
-    <property name="TotalTriangles" value="249007" />
+    <property name="TotalVertices" value="593880" />
+    <property name="TotalTriangles" value="251311" />
     <property class="BlockEntities">
-      <property name="Vertices" value="445705" />
-      <property name="Triangles" value="157251" />
+      <property name="Vertices" value="451145" />
+      <property name="Triangles" value="160029" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="135721" />
-      <property name="Triangles" value="82824" />
+      <property name="Vertices" value="135513" />
+      <property name="Triangles" value="82350" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -60,14 +60,30 @@
       <property name="1" value="34, 2, 22" />
       <property name="2" value="36, 2, 22" />
       <property name="3" value="26, 2, 25" />
-      <property name="4" value="34, 3, 26" />
-      <property name="5" value="36, 3, 26" />
-      <property name="6" value="24, 3, 27" />
-      <property name="7" value="34, 3, 28" />
-      <property name="8" value="36, 3, 28" />
-      <property name="9" value="32, 2, 32" />
-      <property name="10" value="34, 2, 32" />
-      <property name="11" value="36, 2, 32" />
+      <property name="4" value="23, 9, 26" />
+      <property name="5" value="23, 10, 26" />
+      <property name="6" value="23, 11, 26" />
+      <property name="7" value="26, 8, 26" />
+      <property name="8" value="26, 9, 26" />
+      <property name="9" value="34, 3, 26" />
+      <property name="10" value="36, 3, 26" />
+      <property name="11" value="21, 3, 27" />
+      <property name="12" value="24, 3, 27" />
+      <property name="13" value="23, 9, 28" />
+      <property name="14" value="23, 10, 28" />
+      <property name="15" value="23, 11, 28" />
+      <property name="16" value="29, 8, 28" />
+      <property name="17" value="29, 9, 28" />
+      <property name="18" value="34, 3, 28" />
+      <property name="19" value="36, 3, 28" />
+      <property name="20" value="32, 2, 32" />
+      <property name="21" value="34, 2, 32" />
+      <property name="22" value="36, 2, 32" />
+      <property name="23" value="21, 4, 34" />
+      <property name="24" value="23, 3, 36" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="23, 2, 11" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="32, 3, 10" />
@@ -87,7 +103,7 @@
     <property class="Rally">
       <property name="0" value="19, 2, 4" />
     </property>
-    <property class="challenge_booths">
+    <property class="challenge_leather">
       <property name="0" value="22, 2, 9" />
       <property name="1" value="24, 2, 9" />
       <property name="2" value="26, 2, 9" />
@@ -134,8 +150,11 @@
       <property name="0" value="28, 2, 27" />
       <property name="1" value="36, 2, 31" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="25, 2, 34" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="27, 8, 11" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="21, 3, 32" />

@@ -29,7 +29,7 @@
   <property name="SleeperVolumeSize" value="18, 7, 13#9, 3, 8#13, 8, 7#5, 1, 5#6, 1, 1#23, 3, 9" />
   <property name="SleeperVolumeStart" value="18, 2, 2#31, 2, 32#14, 11, 16#14, 18, 23#12, 18, 30#0, 2, 33" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,True,False,False" />
   <property name="SleeperIsQuestExclude" value="False,True,False,False,True,True" />
   <property name="SleeperVolumeFlags" value="0,0,0,3,3,0" />
@@ -38,42 +38,45 @@
   <property name="TriggerVolumeStart" value="14, 18, 23" />
   <property name="TriggerVolumeTriggers" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="201870" />
-    <property name="TotalTriangles" value="110064" />
+    <property name="TotalVertices" value="153462" />
+    <property name="TotalTriangles" value="87323" />
     <property class="BlockEntities">
-      <property name="Vertices" value="165352" />
-      <property name="Triangles" value="80194" />
+      <property name="Vertices" value="116972" />
+      <property name="Triangles" value="57513" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="29076" />
-      <property name="Triangles" value="18286" />
+      <property name="Vertices" value="29048" />
+      <property name="Triangles" value="18226" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="312" />
       <property name="Triangles" value="156" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="7130" />
       <property name="Triangles" value="11428" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="13, 22, 21" />
+      <property name="1" value="14, 18, 23" />
+      <property name="2" value="15, 18, 23" />
+      <property name="3" value="14, 18, 24" />
+      <property name="4" value="14, 22, 27" />
+    </property>
     <property class="quest_stone_boulder">
       <property name="0" value="24, 2, 36" />
     </property>
@@ -83,12 +86,21 @@
     <property class="quest_wood_trees">
       <property name="0" value="39, 2, 9" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="34, 2, 36" />
+    </property>
     <property class="Rally">
-      <property name="0" value="8, 2, 1" />
+      <property name="0" value="10, 2, 4" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="5, 2, 4" />
     </property>
     <property class="POILight">
       <property name="0" value="24, 12, 12" />
       <property name="1" value="21, 19, 19" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="14, 23, 23" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="16, 22, 23" />

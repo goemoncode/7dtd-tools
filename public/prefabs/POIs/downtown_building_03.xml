@@ -26,15 +26,15 @@
   <property name="PrefabSize" value="60, 35, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # #6#7# # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1224131" />
-    <property name="TotalTriangles" value="540460" />
+    <property name="TotalVertices" value="1224136" />
+    <property name="TotalTriangles" value="540493" />
     <property class="BlockEntities">
       <property name="Vertices" value="787677" />
       <property name="Triangles" value="260754" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="402872" />
-      <property name="Triangles" value="243660" />
+      <property name="Vertices" value="402877" />
+      <property name="Triangles" value="243693" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -61,14 +61,14 @@
     <property class="quest_feather">
       <property name="0" value="55, 23, 31" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="56, 22, 32" />
       <property name="1" value="47, 7, 38" />
       <property name="2" value="47, 12, 38" />
       <property name="3" value="52, 12, 43" />
       <property name="4" value="49, 12, 44" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="55, 12, 21" />
       <property name="1" value="56, 12, 21" />
     </property>
@@ -125,27 +125,27 @@
       <property name="1" value="54, 17, 36" />
       <property name="2" value="54, 12, 39" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="47, 6, 57" />
+    </property>
     <property class="QuestRestorePower">
       <property name="0" value="25, 28, 40" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="20, 24, 44" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="25, 28, 23" />
+    <property class="challenge_leather">
+      <property name="0" value="57, 7, 31" />
+      <property name="1" value="57, 7, 32" />
+      <property name="2" value="57, 7, 34" />
+      <property name="3" value="57, 7, 35" />
+      <property name="4" value="57, 7, 37" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="50, 6, 54" />
     </property>
     <property class="Rally">
       <property name="0" value="46, 6, 8" />
-    </property>
-    <property class="challenge_booths">
-      <property name="0" value="57, 7, 31" />
-      <property name="1" value="57, 7, 32" />
-      <property name="2" value="57, 7, 34" />
-      <property name="3" value="57, 7, 35" />
-      <property name="4" value="57, 7, 37" />
     </property>
   </property>
 </prefab>

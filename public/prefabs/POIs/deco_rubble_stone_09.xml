@@ -11,12 +11,13 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="9, 3, 9" />
+  <property name="YOffset" value="-1" />
   <property class="Stats">
-    <property name="TotalVertices" value="5804" />
-    <property name="TotalTriangles" value="8227" />
+    <property name="TotalVertices" value="6173" />
+    <property name="TotalTriangles" value="3819" />
     <property class="BlockEntities">
-      <property name="Vertices" value="4492" />
-      <property name="Triangles" value="6772" />
+      <property name="Vertices" value="5037" />
+      <property name="Triangles" value="2463" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="834" />
@@ -35,28 +36,17 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="198" />
-      <property name="Triangles" value="135" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="302" />
+      <property name="Triangles" value="428" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="280" />
-      <property name="Triangles" value="392" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="7, 1, 4" />
     </property>
   </property>
 </prefab>

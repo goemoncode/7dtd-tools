@@ -26,14 +26,14 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property name="Tags" value="downtown, tdowntowntile" />
   <property class="Stats">
-    <property name="TotalVertices" value="893542" />
-    <property name="TotalTriangles" value="369698" />
+    <property name="TotalVertices" value="888900" />
+    <property name="TotalTriangles" value="369155" />
     <property class="BlockEntities">
-      <property name="Vertices" value="686456" />
-      <property name="Triangles" value="239415" />
+      <property name="Vertices" value="681832" />
+      <property name="Triangles" value="238872" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="183864" />
+      <property name="Vertices" value="183846" />
       <property name="Triangles" value="106041" />
     </property>
     <property class="ChunkMeshes1">
@@ -83,6 +83,9 @@
       <property name="21" value="49, 8, 40" />
       <property name="22" value="52, 12, 42" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="57, 3, 47" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="56, 15, 32" />
     </property>
@@ -104,15 +107,18 @@
       <property name="0" value="48, 15, 31" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="47, 5, 41" />
+      <property name="0" value="46, 17, 32" />
+      <property name="1" value="49, 17, 32" />
+      <property name="2" value="46, 17, 34" />
+      <property name="3" value="49, 17, 34" />
+      <property name="4" value="57, 4, 38" />
+      <property name="5" value="46, 6, 40" />
+      <property name="6" value="50, 6, 40" />
+      <property name="7" value="47, 5, 41" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="7, 15, 36" />
-      <property name="1" value="8, 15, 36" />
-      <property name="2" value="2, 15, 37" />
-    </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="52, 15, 37" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="46, 10, 30" />
+      <property name="1" value="52, 15, 37" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="54, 3, 44" />
@@ -127,7 +133,7 @@
       <property name="3" value="18, 3, 27" />
       <property name="4" value="22, 3, 27" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="52, 3, 34" />
     </property>
   </property>

@@ -34,15 +34,15 @@
   <property name="PrefabSize" value="42, 16, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="471952" />
-    <property name="TotalTriangles" value="197569" />
+    <property name="TotalVertices" value="477872" />
+    <property name="TotalTriangles" value="193985" />
     <property class="BlockEntities">
-      <property name="Vertices" value="369606" />
-      <property name="Triangles" value="136792" />
+      <property name="Vertices" value="376751" />
+      <property name="Triangles" value="133861" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="89378" />
-      <property name="Triangles" value="47443" />
+      <property name="Vertices" value="88153" />
+      <property name="Triangles" value="46790" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="4928" />
@@ -66,11 +66,18 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="37, 5, 38" />
+      <property name="1" value="37, 5, 39" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="22, 5, 28" />
     </property>
-    <property class="Rally">
-      <property name="0" value="1, 5, 31" />
+    <property class="challenge_polymers">
+      <property name="0" value="22, 6, 22" />
+      <property name="1" value="23, 5, 22" />
+      <property name="2" value="34, 5, 28" />
+      <property name="3" value="31, 5, 33" />
     </property>
     <property class="quest_wood">
       <property name="0" value="5, 5, 40" />
@@ -85,18 +92,17 @@
       <property name="2" value="24, 5, 32" />
       <property name="3" value="30, 5, 33" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="22, 5, 25" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="17, 10, 29" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="37, 5, 38" />
-      <property name="1" value="37, 5, 39" />
+    <property class="Rally">
+      <property name="0" value="7, 5, 37" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="37, 5, 10" />
-    </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="22, 5, 25" />
     </property>
   </property>
 </prefab>

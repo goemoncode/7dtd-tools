@@ -15,6 +15,8 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="ThemeTags" value="siteMilitary" />
+  <property name="ThemeRepeatDistance" value="1000" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="SleeperVolumeSize" value="2, 3, 1#1, 3, 2#2, 3, 1#2, 3, 1#2, 3, 1#1, 3, 3#3, 3, 2#7, 3, 3#7, 3, 3#7, 2, 3#7, 2, 4#7, 2, 7#1, 3, 7#3, 3, 4#3, 3, 13#5, 3, 1#4, 3, 6#7, 3, 10#10, 3, 7#2, 3, 20#15, 3, 21#13, 3, 5#3, 4, 8#3, 3, 5#5, 3, 3#19, 4, 17#25, 3, 6#2, 3, 2#3, 3, 5#3, 3, 13#6, 4, 5#24, 5, 17#1, 5, 23#7, 3, 9#4, 3, 7#3, 3, 3#1, 3, 2#4, 3, 2#10, 3, 6#6, 5, 5#7, 3, 7#10, 5, 19" />
   <property name="SleeperVolumeStart" value="25, 5, 36#26, 5, 34#24, 5, 34#24, 5, 35#51, 5, 45#51, 5, 39#50, 5, 46#39, 5, 52#36, 7, 27#11, 4, 52#11, 4, 48#11, 4, 48#7, 5, 40#4, 5, 40#5, 5, 36#12, 4, 47#19, 3, 21#14, 3, 7#6, 3, 17#11, 3, 7#8, 3, 6#5, 3, 25#24, 4, 25#5, 4, 30#22, 4, 37#5, 3, 30#3, 4, 41#51, 2, 22#29, 2, 19#24, 3, 8#41, 1, 20#23, 2, 7#23, 3, 7#50, 2, 11#47, 2, 11#38, 2, 26#6, 4, 50#29, 5, 32#19, 5, 47#45, 15, 27#22, 11, 48#23, 2, 7" />
@@ -36,15 +38,15 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1240948" />
-    <property name="TotalTriangles" value="506498" />
+    <property name="TotalVertices" value="1249662" />
+    <property name="TotalTriangles" value="508972" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1122573" />
-      <property name="Triangles" value="417990" />
+      <property name="Vertices" value="1131465" />
+      <property name="Triangles" value="420622" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="106759" />
-      <property name="Triangles" value="70374" />
+      <property name="Vertices" value="106581" />
+      <property name="Triangles" value="70216" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -68,8 +70,8 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="challenge_barrels">
-      <property name="0" value="46, 2, 21" />
+    <property class="challenge_polymers">
+      <property name="0" value="50, 5, 37" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="50, 5, 46" />
@@ -85,20 +87,19 @@
     <property class="FetchContainer">
       <property name="0" value="52, 7, 44" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="49, 20, 29" />
+    </property>
     <property class="POILight">
       <property name="0" value="46, 5, 43" />
       <property name="1" value="51, 7, 43" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="4, 6, 39" />
-      <property name="1" value="7, 5, 42" />
     </property>
     <property class="quest_feather">
       <property name="0" value="41, 3, 15" />
       <property name="1" value="32, 6, 27" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="11, 4, 49" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="44, 5, 40" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="36, 5, 46" />
@@ -106,6 +107,9 @@
     </property>
     <property class="quest_stone_boulder">
       <property name="0" value="20, 4, 40" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="39, 7, 25" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="29, 5, 51" />
@@ -116,6 +120,9 @@
     </property>
     <property class="Rally">
       <property name="0" value="54, 2, 3" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="48, 5, 49" />
     </property>
   </property>
 </prefab>

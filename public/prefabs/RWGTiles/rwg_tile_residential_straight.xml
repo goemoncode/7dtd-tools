@@ -22,15 +22,15 @@
   <property name="PrefabSize" value="150, 23, 150" />
   <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="453756" />
-    <property name="TotalTriangles" value="388726" />
+    <property name="TotalVertices" value="450877" />
+    <property name="TotalTriangles" value="387635" />
     <property class="BlockEntities">
-      <property name="Vertices" value="310636" />
-      <property name="Triangles" value="244128" />
+      <property name="Vertices" value="307849" />
+      <property name="Triangles" value="243129" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="85052" />
-      <property name="Triangles" value="50334" />
+      <property name="Vertices" value="84960" />
+      <property name="Triangles" value="50242" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -49,10 +49,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="58068" />
       <property name="Triangles" value="94264" />
     </property>
@@ -63,6 +59,15 @@
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="145, 3, 130" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="128, 3, 133" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="138, 3, 75" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="133, 9, 106" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="48, 1, 140" />

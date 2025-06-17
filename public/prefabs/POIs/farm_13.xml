@@ -12,7 +12,7 @@
   <property name="EditorGroups" value="house old" />
   <property name="SleeperVolumeSize" value="9, 4, 14#6, 3, 7#9, 4, 7#3, 3, 4#9, 3, 4#5, 3, 5#3, 3, 1#5, 2, 11#11, 5, 13#3, 2, 11#32, 9, 36#5, 3, 5" />
   <property name="SleeperVolumeStart" value="77, 1, 70#77, 6, 77#77, 6, 70#77, 11, 80#77, 11, 76#81, 11, 70#84, 11, 72#79, 16, 72#15, 7, 69#19, 14, 68#3, 5, 3#13, 5, 17" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,3,GroupGenericZombie,2,2,GroupGenericZombie,3,3,GroupGenericZombie,0,1,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,3,3,GroupGenericZombie,3,3,GroupGenericZombie,1,1,GroupGenericZombie,2,3,GroupGenericZombie,0,0" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,True,False,False,False,False,True" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False" />
   <property name="QuestTags" value="clear, fetch, infested" />
@@ -34,8 +34,8 @@
   <property name="PrefabSize" value="100, 25, 100" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="2278546" />
-    <property name="TotalTriangles" value="1183473" />
+    <property name="TotalVertices" value="2249462" />
+    <property name="TotalTriangles" value="1137141" />
     <property class="BlockEntities">
       <property name="Vertices" value="2073998" />
       <property name="Triangles" value="1042621" />
@@ -63,10 +63,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="29084" />
-      <property name="Triangles" value="46332" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

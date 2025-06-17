@@ -30,15 +30,15 @@
   <property name="Tags" value="streettile, rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="988489" />
-    <property name="TotalTriangles" value="518483" />
+    <property name="TotalVertices" value="988546" />
+    <property name="TotalTriangles" value="518510" />
     <property class="BlockEntities">
       <property name="Vertices" value="608270" />
       <property name="Triangles" value="221380" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="268861" />
-      <property name="Triangles" value="159823" />
+      <property name="Vertices" value="268918" />
+      <property name="Triangles" value="159850" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="38912" />
@@ -62,8 +62,14 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="139, 16, 141" />
+    </property>
     <property class="POILight">
       <property name="0" value="148, 10, 142" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="122, 13, 147" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="146, 16, 130" />
@@ -79,14 +85,14 @@
       <property name="0" value="148, 10, 127" />
       <property name="1" value="139, 10, 136" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="39, 12, 64" />
+    <property class="challenge_steel">
+      <property name="0" value="146, 18, 2" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="146, 16, 142" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="59, 12, 111" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="139, 16, 141" />
     </property>
   </property>
 </prefab>

@@ -30,15 +30,15 @@
   <property name="Tags" value="streettile, rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="887410" />
-    <property name="TotalTriangles" value="531209" />
+    <property name="TotalVertices" value="879673" />
+    <property name="TotalTriangles" value="530983" />
     <property class="BlockEntities">
-      <property name="Vertices" value="413257" />
-      <property name="Triangles" value="175452" />
+      <property name="Vertices" value="403408" />
+      <property name="Triangles" value="174206" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="377809" />
-      <property name="Triangles" value="212733" />
+      <property name="Vertices" value="380009" />
+      <property name="Triangles" value="213785" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3584" />
@@ -49,16 +49,16 @@
       <property name="Triangles" value="568" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="7392" />
-      <property name="Triangles" value="3696" />
+      <property name="Vertices" value="7296" />
+      <property name="Triangles" value="3648" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="84480" />
-      <property name="Triangles" value="136968" />
+      <property name="Vertices" value="84488" />
+      <property name="Triangles" value="136984" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -76,8 +76,18 @@
     <property class="quest_wood">
       <property name="0" value="67, 19, 137" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="130, 4, 5" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="147, 5, 55" />
+      <property name="1" value="148, 5, 55" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="144, 5, 59" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="146, 6, 60" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="134, 4, 70" />
@@ -85,10 +95,7 @@
     <property class="challenge_gore">
       <property name="0" value="134, 4, 26" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="130, 4, 5" />
-    </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="131, 4, 49" />
     </property>
   </property>

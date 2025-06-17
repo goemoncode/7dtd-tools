@@ -10,7 +10,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="4, 4, 6#14, 4, 9#6, 4, 3#13, 4, 11#8, 2, 9#9, 2, 6#8, 5, 12#5, 2, 8#5, 3, 3" />
   <property name="SleeperVolumeStart" value="32, 7, 15#16, 7, 21#30, 7, 22#9, 1, 16#10, 12, 16#24, 12, 16#10, 7, 7#17, 12, 17#16, 7, 25" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,0,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,0,1,GroupGenericZombie,3,3,GroupGenericZombie,1,1,GroupGenericZombie,3,4,GroupGenericZombie,1,1,GroupGenericZombie,3,3,GroupGenericZombie,1,1,GroupGenericZombie,0,1,GroupGenericZombie,0,1" />
   <property name="SleeperVolumeGameStageAdjust" value=",easy" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,True,True" />
   <property name="DistantPOIYOffset" value="0" />
@@ -35,8 +35,8 @@
   <property name="PrefabSize" value="42, 26, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="516750" />
-    <property name="TotalTriangles" value="201285" />
+    <property name="TotalVertices" value="510350" />
+    <property name="TotalTriangles" value="190909" />
     <property class="BlockEntities">
       <property name="Vertices" value="443536" />
       <property name="Triangles" value="155251" />
@@ -64,10 +64,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="6400" />
-      <property name="Triangles" value="10376" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

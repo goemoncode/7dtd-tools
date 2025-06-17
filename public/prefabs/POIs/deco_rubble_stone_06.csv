@@ -1,9 +1,8 @@
 id,name,count
-2,terrainFiller,20
-8948,corrugatedMetalShapes:rebar,1
-10854,iBeamBent,1
-10860,iBeamCenteredFoundation,1
-11235,rubblePileBricksSmall,1
-12275,scrapMetalPile,1
-12857,cinderBlocks01,1
-13198,goreBlockHumanCorpse,1
+2,terrainFiller,25
+15493,corrugatedMetalShapes:rebar,1
+18669,scrapMetalPile,1
+20026,goreBlockHumanCorpse,1
+22864,iBeamBent,1
+22870,iBeamCenteredFoundation,1
+22946,rubblePileBricksSmall,1

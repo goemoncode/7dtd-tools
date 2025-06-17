@@ -12,16 +12,27 @@
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-1" />
   <property name="PrefabSize" value="170, 7, 133" />
+  <property name="SleeperVolumeSize" value="5, 5, 5" />
+  <property name="SleeperVolumeStart" value="33, 1, 125" />
+  <property name="SleeperVolumeGroupId" value="0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,5,6" />
+  <property name="SleeperIsLootVolume" value="False" />
+  <property name="SleeperIsQuestExclude" value="False" />
+  <property name="SleeperVolumeFlags" value="0" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
+  <property name="QuestTags" value="clear, infested" />
+  <property name="EditorGroups" value="test stuff" />
+  <property name="Tags" value="testonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="19723889" />
-    <property name="TotalTriangles" value="6563197" />
+    <property name="TotalVertices" value="21225795" />
+    <property name="TotalTriangles" value="7104186" />
     <property class="BlockEntities">
-      <property name="Vertices" value="19263526" />
-      <property name="Triangles" value="6313090" />
+      <property name="Vertices" value="20766556" />
+      <property name="Triangles" value="6854579" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="457647" />
-      <property name="Triangles" value="245323" />
+      <property name="Vertices" value="456513" />
+      <property name="Triangles" value="244799" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -40,11 +51,31 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="2716" />
-      <property name="Triangles" value="4784" />
+      <property name="Vertices" value="2726" />
+      <property name="Triangles" value="4808" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_mech_parts">
+      <property name="0" value="117, 1, 87" />
+      <property name="1" value="118, 1, 87" />
+      <property name="2" value="119, 1, 87" />
+      <property name="3" value="120, 1, 87" />
+      <property name="4" value="121, 1, 87" />
+      <property name="5" value="122, 1, 87" />
+      <property name="6" value="123, 1, 87" />
+      <property name="7" value="124, 1, 87" />
+      <property name="8" value="125, 1, 87" />
+      <property name="9" value="117, 1, 89" />
+      <property name="10" value="118, 1, 89" />
+      <property name="11" value="119, 1, 89" />
+      <property name="12" value="120, 1, 89" />
+      <property name="13" value="121, 1, 89" />
+      <property name="14" value="122, 1, 89" />
+      <property name="15" value="123, 1, 89" />
+      <property name="16" value="124, 1, 89" />
+      <property name="17" value="125, 1, 89" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="117, 1, 123" />
       <property name="1" value="118, 1, 123" />
@@ -55,6 +86,17 @@
       <property name="6" value="123, 1, 123" />
       <property name="7" value="124, 1, 123" />
       <property name="8" value="125, 1, 123" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="117, 1, 111" />
+      <property name="1" value="118, 1, 111" />
+      <property name="2" value="119, 1, 111" />
+      <property name="3" value="120, 1, 111" />
+      <property name="4" value="121, 1, 111" />
+      <property name="5" value="122, 1, 111" />
+      <property name="6" value="123, 1, 111" />
+      <property name="7" value="124, 1, 111" />
+      <property name="8" value="125, 1, 111" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="166, 1, 118" />
@@ -71,8 +113,42 @@
       <property name="7" value="124, 2, 131" />
       <property name="8" value="125, 2, 131" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="38, 1, 35" />
+    <property class="challenge_steel">
+      <property name="0" value="69, 1, 120" />
+      <property name="1" value="70, 1, 120" />
+      <property name="2" value="71, 1, 120" />
+      <property name="3" value="72, 1, 120" />
+      <property name="4" value="73, 1, 120" />
+      <property name="5" value="74, 1, 120" />
+      <property name="6" value="75, 1, 120" />
+      <property name="7" value="76, 1, 120" />
+      <property name="8" value="77, 1, 120" />
+      <property name="9" value="78, 1, 120" />
+      <property name="10" value="79, 1, 120" />
+      <property name="11" value="80, 1, 120" />
+      <property name="12" value="81, 1, 120" />
+      <property name="13" value="82, 1, 120" />
+      <property name="14" value="83, 1, 120" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="69, 1, 69" />
+      <property name="1" value="70, 1, 69" />
+      <property name="2" value="71, 1, 69" />
+      <property name="3" value="72, 1, 69" />
+      <property name="4" value="73, 1, 69" />
+      <property name="5" value="74, 1, 69" />
+      <property name="6" value="75, 1, 69" />
+      <property name="7" value="76, 1, 69" />
+      <property name="8" value="77, 1, 69" />
+      <property name="9" value="78, 1, 69" />
+      <property name="10" value="79, 1, 69" />
+      <property name="11" value="80, 1, 69" />
+      <property name="12" value="81, 1, 69" />
+      <property name="13" value="82, 1, 69" />
+      <property name="14" value="83, 1, 69" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="85, 1, 0" />
     </property>
     <property class="challenge_stump">
       <property name="0" value="117, 1, 43" />

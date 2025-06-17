@@ -11,16 +11,17 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="5, 3, 5" />
+  <property name="YOffset" value="-1" />
   <property class="Stats">
-    <property name="TotalVertices" value="2574" />
-    <property name="TotalTriangles" value="3094" />
+    <property name="TotalVertices" value="1328" />
+    <property name="TotalTriangles" value="632" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2011" />
-      <property name="Triangles" value="2606" />
+      <property name="Vertices" value="908" />
+      <property name="Triangles" value="204" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="433" />
-      <property name="Triangles" value="360" />
+      <property name="Vertices" value="304" />
+      <property name="Triangles" value="292" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -35,28 +36,17 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="24" />
-      <property name="Triangles" value="12" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="116" />
+      <property name="Triangles" value="136" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="106" />
-      <property name="Triangles" value="116" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="challenge_gore">
+      <property name="0" value="2, 1, 2" />
     </property>
   </property>
 </prefab>

@@ -37,15 +37,15 @@
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="SVS1" value="sleep 1^trigger 3^sleep 1^trigger 4^sleep 1^trigger 5^sleep 1^trigger 7" />
   <property class="Stats">
-    <property name="TotalVertices" value="1046012" />
-    <property name="TotalTriangles" value="453834" />
+    <property name="TotalVertices" value="1055097" />
+    <property name="TotalTriangles" value="456184" />
     <property class="BlockEntities">
-      <property name="Vertices" value="912516" />
-      <property name="Triangles" value="358732" />
+      <property name="Vertices" value="922343" />
+      <property name="Triangles" value="361706" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="123788" />
-      <property name="Triangles" value="79396" />
+      <property name="Vertices" value="123046" />
+      <property name="Triangles" value="78772" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -69,12 +69,16 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="50, 3, 33" />
+      <property name="1" value="48, 3, 36" />
+      <property name="2" value="47, 3, 38" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="46, 3, 46" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="48, 3, 36" />
-      <property name="1" value="47, 3, 38" />
+    <property class="challenge_polymers">
+      <property name="0" value="44, 5, 46" />
     </property>
     <property class="POILight">
       <property name="0" value="49, 5, 30" />
@@ -84,6 +88,9 @@
       <property name="4" value="46, 3, 41" />
       <property name="5" value="46, 5, 41" />
       <property name="6" value="46, 4, 45" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="16, 2, 36" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="46, 3, 37" />
@@ -102,17 +109,13 @@
     <property class="quest_wood_trees">
       <property name="0" value="56, 2, 13" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="27, 3, 49" />
-      <property name="1" value="27, 3, 50" />
-    </property>
     <property class="Rally">
       <property name="0" value="41, 2, 19" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="46, 4, 41" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="48, 3, 25" />
       <property name="1" value="48, 3, 27" />
     </property>

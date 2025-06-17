@@ -11,7 +11,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-2" />
-  <property name="PrefabSize" value="60, 22, 60" />
+  <property name="PrefabSize" value="60, 19, 60" />
   <property name="SleeperVolumeSize" value="13, 3, 14#5, 5, 8#24, 3, 28#15, 5, 8#3, 1, 10#1, 2, 2#3, 2, 4#1, 2, 2#9, 5, 4#16, 4, 4#15, 5, 5#7, 3, 11" />
   <property name="SleeperVolumeStart" value="44, 2, 4#48, 2, 9#34, 2, 18#38, 11, 45#41, 8, 47#45, 11, 51#47, 8, 51#45, 8, 54#5, 0, 50#6, 0, 51#5, 0, 45#9, 7, 44" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,1,1,1,1,2,0,2,2" />
@@ -31,15 +31,15 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1410718" />
-    <property name="TotalTriangles" value="679454" />
+    <property name="TotalVertices" value="1361641" />
+    <property name="TotalTriangles" value="649647" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1288496" />
-      <property name="Triangles" value="597243" />
+      <property name="Vertices" value="1239384" />
+      <property name="Triangles" value="567438" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="111912" />
-      <property name="Triangles" value="65797" />
+      <property name="Vertices" value="111947" />
+      <property name="Triangles" value="65795" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -75,15 +75,18 @@
       <property name="2" value="48, 6, 53" />
       <property name="3" value="48, 10, 53" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="8, 7, 48" />
-      <property name="1" value="8, 7, 49" />
+    <property class="challenge_polymers">
+      <property name="0" value="46, 3, 49" />
+      <property name="1" value="46, 8, 49" />
     </property>
     <property class="quest_feather">
       <property name="0" value="45, 8, 44" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="53, 2, 47" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="46, 3, 57" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="40, 3, 50" />
@@ -98,8 +101,11 @@
     <property class="TraderOnOff">
       <property name="0" value="56, 2, 45" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="42, 8, 54" />
+    <property class="challenge_leather">
+      <property name="0" value="42, 3, 47" />
+      <property name="1" value="44, 3, 51" />
+      <property name="2" value="44, 3, 52" />
+      <property name="3" value="44, 3, 53" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="49, 8, 53" />

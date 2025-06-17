@@ -25,44 +25,40 @@
   <property name="SleeperVolumeSize" value="20, 2, 10#5, 7, 6#3, 3, 9#5, 3, 4#4, 3, 4#5, 6, 6#12, 3, 3#13, 3, 3#2, 4, 5#11, 3, 6#2, 3, 3" />
   <property name="SleeperVolumeStart" value="9, 6, 33#40, 10, 41#56, 7, 6#48, 5, 39#48, 6, 47#17, 16, 38#10, 23, 43#23, 23, 43#43, 6, 42#45, 6, 25#22, 18, 39" />
   <property name="SleeperVolumeGroupId" value="0,0,2,0,0,9,0,0,0,2,9" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,zombieUtilityWorker,2,2,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,1,2,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,3,3,S_Zom_Utility_Worker,1,2,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,0,0,S_Zom_Utility_Worker,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,zombieUtilityWorker,2,2,ZomUtilityWorker,1,1,ZomUtilityWorker,1,2,ZomUtilityWorker,1,1,ZomUtilityWorker,2,2,ZomUtilityWorker,3,3,ZomUtilityWorker,1,2,ZomUtilityWorker,1,1,ZomUtilityWorker,0,0,ZomUtilityWorker,0,0" />
   <property name="SleeperIsLootVolume" value="False,True,True,True,True,True,True,True,True,True,True" />
   <property name="SleeperIsQuestExclude" value="True,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,2,2,2,2,2,2,2,2" />
   <property name="PrefabSize" value="60, 29, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="472047" />
-    <property name="TotalTriangles" value="246705" />
+    <property name="TotalVertices" value="494841" />
+    <property name="TotalTriangles" value="261994" />
     <property class="BlockEntities">
-      <property name="Vertices" value="245922" />
-      <property name="Triangles" value="79348" />
+      <property name="Vertices" value="269233" />
+      <property name="Triangles" value="95707" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="213715" />
-      <property name="Triangles" value="146829" />
+      <property name="Vertices" value="213286" />
+      <property name="Triangles" value="145803" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="88" />
-      <property name="Triangles" value="44" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="256" />
       <property name="Triangles" value="128" />
     </property>
-    <property class="ChunkMeshes4">
+    <property class="ChunkMeshes3">
       <property name="Vertices" value="112" />
       <property name="Triangles" value="56" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="11954" />
       <property name="Triangles" value="20300" />
     </property>
@@ -78,6 +74,13 @@
     <property class="FetchContainer">
       <property name="0" value="48, 11, 42" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="49, 6, 47" />
+      <property name="1" value="49, 7, 47" />
+      <property name="2" value="50, 6, 47" />
+      <property name="3" value="50, 7, 47" />
+      <property name="4" value="51, 7, 49" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="54, 6, 56" />
     </property>
@@ -86,11 +89,6 @@
     </property>
     <property class="Rally">
       <property name="0" value="50, 6, 2" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="57, 8, 6" />
-      <property name="1" value="56, 7, 13" />
-      <property name="2" value="58, 7, 13" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="53, 6, 25" />

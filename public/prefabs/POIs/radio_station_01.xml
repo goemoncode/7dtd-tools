@@ -34,10 +34,10 @@
   <property name="Tags" value="gateway, nocheckpoint" />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="559355" />
+    <property name="TotalVertices" value="559367" />
     <property name="TotalTriangles" value="238779" />
     <property class="BlockEntities">
-      <property name="Vertices" value="439826" />
+      <property name="Vertices" value="439838" />
       <property name="Triangles" value="158007" />
     </property>
     <property class="ChunkMeshes0">
@@ -85,37 +85,48 @@
     <property class="challenge_gore">
       <property name="0" value="21, 6, 18" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="39, 6, 20" />
+      <property name="1" value="30, 1, 29" />
     </property>
     <property class="quest_feather">
       <property name="0" value="21, 12, 21" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="30, 6, 31" />
+      <property name="1" value="32, 2, 31" />
+      <property name="2" value="30, 7, 33" />
+      <property name="3" value="38, 12, 33" />
+      <property name="4" value="30, 7, 34" />
+      <property name="5" value="30, 14, 35" />
+      <property name="6" value="37, 7, 36" />
+      <property name="7" value="39, 7, 36" />
+      <property name="8" value="30, 14, 37" />
+      <property name="9" value="36, 6, 39" />
+      <property name="10" value="39, 6, 39" />
+      <property name="11" value="33, 7, 45" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="30, 13, 35" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="30, 6, 37" />
+      <property name="1" value="33, 6, 43" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="32, 12, 22" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="30, 6, 31" />
-      <property name="1" value="30, 7, 33" />
-      <property name="2" value="30, 7, 34" />
-      <property name="3" value="37, 7, 36" />
-      <property name="4" value="39, 7, 36" />
-      <property name="5" value="36, 6, 39" />
-      <property name="6" value="39, 6, 39" />
-      <property name="7" value="33, 7, 45" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="16, 1, 35" />
-      <property name="1" value="24, 1, 36" />
+    <property class="challenge_elec_parts">
+      <property name="0" value="29, 13, 29" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="33, 1, 35" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="34, 6, 40" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="37, 6, 39" />
     </property>
   </property>
 </prefab>

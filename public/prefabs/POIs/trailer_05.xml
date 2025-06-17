@@ -31,15 +31,15 @@
   <property name="EditorGroups" value="house old" />
   <property name="Tags" value="countryresidential" />
   <property class="Stats">
-    <property name="TotalVertices" value="159160" />
-    <property name="TotalTriangles" value="69811" />
+    <property name="TotalVertices" value="163580" />
+    <property name="TotalTriangles" value="71223" />
     <property class="BlockEntities">
-      <property name="Vertices" value="127236" />
-      <property name="Triangles" value="48165" />
+      <property name="Vertices" value="131630" />
+      <property name="Triangles" value="49561" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="28140" />
-      <property name="Triangles" value="17690" />
+      <property name="Vertices" value="28166" />
+      <property name="Triangles" value="17706" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="1536" />
@@ -63,6 +63,11 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="13, 1, 14" />
+      <property name="1" value="21, 2, 19" />
+      <property name="2" value="20, 2, 23" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="23, 2, 17" />
     </property>
@@ -77,9 +82,8 @@
       <property name="4" value="18, 5, 14" />
       <property name="5" value="16, 5, 16" />
     </property>
-    <property class="challenge_booths">
-      <property name="0" value="7, 3, 11" />
-      <property name="1" value="9, 3, 11" />
+    <property class="challenge_leather">
+      <property name="0" value="7, 2, 18" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="14, 3, 14" />
@@ -89,7 +93,7 @@
       <property name="0" value="15, 3, 12" />
       <property name="1" value="16, 4, 12" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="20, 3, 14" />
     </property>
     <property class="challenge_gore">

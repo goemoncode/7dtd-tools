@@ -31,15 +31,15 @@
   <property name="POIMarkerPartRotations" value="0,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="955775" />
-    <property name="TotalTriangles" value="404148" />
+    <property name="TotalVertices" value="963821" />
+    <property name="TotalTriangles" value="405139" />
     <property class="BlockEntities">
-      <property name="Vertices" value="663364" />
-      <property name="Triangles" value="209337" />
+      <property name="Vertices" value="673772" />
+      <property name="Triangles" value="212251" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="277761" />
-      <property name="Triangles" value="173727" />
+      <property name="Vertices" value="275399" />
+      <property name="Triangles" value="171804" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -63,9 +63,9 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="challenge_barrels">
-      <property name="0" value="33, 4, 57" />
-      <property name="1" value="33, 4, 58" />
+    <property class="challenge_polymers">
+      <property name="0" value="46, 4, 46" />
+      <property name="1" value="46, 4, 57" />
     </property>
     <property class="POILight">
       <property name="0" value="48, 13, 47" />
@@ -80,6 +80,32 @@
     </property>
     <property class="Rally">
       <property name="0" value="11, 4, 15" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="49, 10, 46" />
+      <property name="1" value="47, 10, 47" />
+      <property name="2" value="51, 10, 47" />
+      <property name="3" value="47, 10, 50" />
+      <property name="4" value="49, 10, 50" />
+      <property name="5" value="51, 10, 50" />
+      <property name="6" value="53, 10, 50" />
+      <property name="7" value="57, 6, 53" />
+      <property name="8" value="57, 7, 53" />
+      <property name="9" value="57, 8, 53" />
+      <property name="10" value="57, 6, 54" />
+      <property name="11" value="57, 7, 54" />
+      <property name="12" value="57, 6, 55" />
+      <property name="13" value="57, 7, 55" />
+      <property name="14" value="57, 2, 56" />
+      <property name="15" value="57, 6, 56" />
+      <property name="16" value="57, 7, 56" />
+      <property name="17" value="54, 1, 57" />
+      <property name="18" value="54, 2, 57" />
+      <property name="19" value="55, 7, 57" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="47, 4, 51" />
+      <property name="1" value="54, 2, 53" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="29, 4, 8" />
@@ -96,24 +122,18 @@
       <property name="0" value="47, 10, 39" />
       <property name="1" value="46, 10, 45" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="49, 10, 46" />
-      <property name="1" value="47, 10, 47" />
-      <property name="2" value="51, 10, 47" />
-      <property name="3" value="47, 10, 50" />
-      <property name="4" value="49, 10, 50" />
-      <property name="5" value="51, 10, 50" />
-      <property name="6" value="53, 10, 50" />
+    <property class="challenge_steel">
+      <property name="0" value="48, 10, 41" />
+      <property name="1" value="53, 10, 41" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="17, 4, 54" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="35, 10, 40" />
+    <property class="challenge_leather">
+      <property name="0" value="36, 10, 37" />
     </property>
-    <property class="challenge_vending">
-      <property name="0" value="48, 10, 41" />
-      <property name="1" value="53, 10, 41" />
+    <property class="challenge_elec_parts">
+      <property name="0" value="54, 5, 44" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="55, 1, 55" />

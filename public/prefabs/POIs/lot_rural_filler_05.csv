@@ -1,8 +1,7 @@
 id,name,count
 2,terrainFiller,4696
-10831,treeSmallRandomHelper,5
-10832,treeMediumRandomHelper,3
-10833,treeLargeRandomHelper,2
-12045,rockResource,3
-12047,rockResourceBroke2,1
-12048,rockResource02,2
+19140,resourceRock01,3
+19141,resourceRock02,3
+22686,treeSmallRandomHelper,5
+22688,treeMediumRandomHelper,3
+22689,treeLargeRandomHelper,2

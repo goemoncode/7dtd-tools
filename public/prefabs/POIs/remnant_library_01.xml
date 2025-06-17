@@ -36,15 +36,15 @@
   <property name="ThemeTags" value="library" />
   <property name="ThemeRepeatDistance" value="1200" />
   <property class="Stats">
-    <property name="TotalVertices" value="819943" />
-    <property name="TotalTriangles" value="343931" />
+    <property name="TotalVertices" value="802780" />
+    <property name="TotalTriangles" value="339432" />
     <property class="BlockEntities">
-      <property name="Vertices" value="613360" />
-      <property name="Triangles" value="215148" />
+      <property name="Vertices" value="596256" />
+      <property name="Triangles" value="210691" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="182427" />
-      <property name="Triangles" value="105475" />
+      <property name="Vertices" value="182368" />
+      <property name="Triangles" value="105433" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="4096" />
@@ -68,6 +68,10 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="50, 8, 39" />
+      <property name="1" value="51, 8, 41" />
+    </property>
     <property class="POILight">
       <property name="0" value="54, 12, 30" />
       <property name="1" value="49, 6, 33" />
@@ -102,11 +106,13 @@
       <property name="3" value="50, 3, 39" />
       <property name="4" value="51, 14, 39" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="46, 3, 37" />
       <property name="1" value="49, 3, 37" />
       <property name="2" value="54, 3, 37" />
-      <property name="3" value="47, 3, 40" />
+      <property name="3" value="46, 8, 38" />
+      <property name="4" value="47, 3, 40" />
+      <property name="5" value="51, 14, 41" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="33, 2, 15" />
@@ -118,9 +124,10 @@
       <property name="0" value="52, 3, 39" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="43, 3, 39" />
-      <property name="1" value="43, 3, 41" />
-      <property name="2" value="45, 9, 42" />
+      <property name="0" value="46, 3, 19" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="23, 3, 42" />
     </property>
     <property class="quest_wood">
       <property name="0" value="42, 8, 30" />

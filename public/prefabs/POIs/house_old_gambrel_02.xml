@@ -17,7 +17,7 @@
   <property name="SleeperIsBossVolume" value="False,False,False,False" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="1" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,3,3,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,0,0,GroupGenericZombie,0,0" />
   <property name="ExcludePOICulling" value="False" />
   <property name="SleeperVolumeGroupId" value="1,0,2,1,0,1,2" />
   <property name="SleeperVolumeFlags" value="0,0,2,0,0,0,2" />
@@ -35,44 +35,43 @@
   <property name="PrefabSize" value="42, 20, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="384781" />
-    <property name="TotalTriangles" value="170872" />
+    <property name="TotalVertices" value="294992" />
+    <property name="TotalTriangles" value="126061" />
     <property class="BlockEntities">
-      <property name="Vertices" value="307967" />
-      <property name="Triangles" value="124263" />
+      <property name="Vertices" value="218188" />
+      <property name="Triangles" value="79464" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="71690" />
-      <property name="Triangles" value="38727" />
+      <property name="Vertices" value="71688" />
+      <property name="Triangles" value="38719" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="8" />
-      <property name="Triangles" value="4" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="254" />
       <property name="Triangles" value="218" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="4862" />
       <property name="Triangles" value="7660" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
-      <property name="0" value="31, 2, 37" />
+      <property name="0" value="30, 2, 36" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="23, 2, 10" />
     </property>
     <property class="POILight">
       <property name="0" value="24, 9, 22" />
@@ -83,9 +82,33 @@
     <property class="TraderOnOff">
       <property name="0" value="23, 13, 22" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="23, 3, 22" />
+      <property name="1" value="29, 5, 23" />
+      <property name="2" value="30, 5, 23" />
+      <property name="3" value="23, 9, 25" />
+      <property name="4" value="24, 9, 25" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="21, 5, 21" />
       <property name="1" value="23, 11, 25" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="26, 2, 25" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="16, 14, 19" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="22, 4, 21" />
+      <property name="1" value="27, 2, 23" />
+      <property name="2" value="28, 2, 23" />
+      <property name="3" value="29, 2, 23" />
+      <property name="4" value="22, 4, 25" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="30, 2, 23" />
+      <property name="1" value="31, 3, 23" />
     </property>
     <property class="Rally">
       <property name="0" value="27, 2, 27" />

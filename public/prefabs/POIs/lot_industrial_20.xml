@@ -9,7 +9,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="industrial, countrytown, nodiagonal" />
+  <property name="Tags" value="countrytown, industrial, nodiagonal" />
   <property name="Zoning" value="Industrial" />
   <property name="EditorGroups" value="industrial" />
   <property name="YOffset" value="-2" />

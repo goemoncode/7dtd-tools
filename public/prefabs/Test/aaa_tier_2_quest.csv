@@ -1,0 +1,11 @@
+id,name,count
+6979,concreteShapes:cube,800
+15886,corrugatedMetalShapes:signNumber_2,1
+15902,corrugatedMetalShapes:signLetter_i,1
+15913,corrugatedMetalShapes:signLetter_t,1
+18474,cntQuestInfestedT2LootHelper,1
+24268,questRallyMarker,1
+24270,cntQuestRandomLootHelper,1
+24272,questGeneratorSmall,1
+24281,sleeperIdle,3
+24298,infestedSleeperIdle,3

@@ -23,10 +23,10 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,2,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="887471" />
+    <property name="TotalVertices" value="887472" />
     <property name="TotalTriangles" value="382412" />
     <property class="BlockEntities">
-      <property name="Vertices" value="671754" />
+      <property name="Vertices" value="671755" />
       <property name="Triangles" value="241533" />
     </property>
     <property class="ChunkMeshes0">
@@ -58,9 +58,19 @@
     <property class="quest_wood_trees">
       <property name="0" value="54, 3, 30" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="33, 4, 14" />
+      <property name="1" value="41, 4, 14" />
+      <property name="2" value="32, 4, 15" />
+    </property>
     <property class="POILight">
       <property name="0" value="46, 11, 30" />
       <property name="1" value="46, 11, 32" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="52, 3, 50" />
+      <property name="1" value="52, 3, 51" />
+      <property name="2" value="56, 3, 52" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="46, 9, 31" />
@@ -69,9 +79,9 @@
     <property class="challenge_sinks">
       <property name="0" value="49, 4, 30" />
       <property name="1" value="49, 9, 30" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="56, 3, 52" />
+      <property name="2" value="46, 4, 32" />
+      <property name="3" value="50, 4, 34" />
+      <property name="4" value="50, 4, 35" />
     </property>
     <property class="quest_feather">
       <property name="0" value="50, 15, 22" />
@@ -79,15 +89,13 @@
     <property class="challenge_pallet">
       <property name="0" value="17, 5, 29" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="33, 4, 14" />
-      <property name="1" value="41, 4, 14" />
-      <property name="2" value="32, 4, 15" />
-    </property>
     <property class="challenge_gore">
       <property name="0" value="51, 4, 23" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_leather">
+      <property name="0" value="43, 4, 28" />
+    </property>
+    <property class="challenge_steel">
       <property name="0" value="39, 4, 31" />
     </property>
   </property>

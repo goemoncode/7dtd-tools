@@ -17,15 +17,15 @@
   <property name="SleeperVolumeSize" value="5, 2, 6#4, 3, 9#8, 3, 3#9, 3, 13#9, 3, 13#7, 6, 7#6, 4, 12#8, 3, 5#9, 4, 7#11, 3, 4#9, 3, 4#8, 7, 12#1, 2, 9#6, 3, 6#3, 3, 2#4, 4, 2#12, 4, 14#11, 3, 3#1, 2, 9#5, 3, 19" />
   <property name="SleeperVolumeStart" value="17, 6, 18#24, 10, 9#9, 7, 30#8, 10, 13#29, 9, 13#8, 2, 33#2, 2, 28#9, 2, 30#16, 2, 33#29, 3, 36#29, 3, 29#30, 2, 15#17, 6, 24#24, 6, 18#27, 6, 24#32, 3, 27#17, 2, 14#17, 2, 29#18, 6, 24#23, 9, 22" />
   <property name="SleeperVolumeGroupId" value="5,0,3,3,3,0,0,0,0,0,0,6,5,5,5,6,5,0,5,0" />
-  <property name="SleeperVolumeGroup" value="zombieMoe,1,1,S_-_Group_Zom_Badass,1,1,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_Zom_Utility_Worker,3,3,zombieFatHawaiian,1,1,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,zombieFemaleFat,1,1,S_-Group_Generic_Zombie,2,2,zombieFemaleFat,1,1,zombieBiker,1,1,zombieFatHawaiian,1,1,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,1,zombieFatCop,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="zombieMoe,1,1,GroupZomBadass,1,1,GroupGenericZombie,0,0,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,2,2,ZomUtilityWorker,3,3,zombieFatHawaiian,1,1,GroupGenericZombie,2,3,GroupGenericZombie,2,3,zombieFemaleFat,1,1,GroupGenericZombie,2,2,zombieFemaleFat,1,1,zombieBiker,1,1,zombieFatHawaiian,1,1,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,1,1,zombieFatCop,1,1,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="True,True,True,False,False,False,True,True,True,True,True,True,True,True,True,True,False,True,True,True" />
   <property name="SleeperIsQuestExclude" value="False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2" />
   <property name="PrefabSize" value="42, 14, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="518957" />
-    <property name="TotalTriangles" value="231520" />
+    <property name="TotalVertices" value="513503" />
+    <property name="TotalTriangles" value="222848" />
     <property class="BlockEntities">
       <property name="Vertices" value="356598" />
       <property name="Triangles" value="127517" />
@@ -53,10 +53,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="5454" />
-      <property name="Triangles" value="8672" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

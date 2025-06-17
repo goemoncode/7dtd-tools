@@ -11,16 +11,17 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="7, 3, 7" />
+  <property name="YOffset" value="-1" />
   <property class="Stats">
-    <property name="TotalVertices" value="2133" />
-    <property name="TotalTriangles" value="1575" />
+    <property name="TotalVertices" value="2010" />
+    <property name="TotalTriangles" value="880" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1448" />
-      <property name="Triangles" value="964" />
+      <property name="Vertices" value="1460" />
+      <property name="Triangles" value="336" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="375" />
-      <property name="Triangles" value="271" />
+      <property name="Vertices" value="330" />
+      <property name="Triangles" value="248" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -35,28 +36,12 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="96" />
-      <property name="Triangles" value="48" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="214" />
-      <property name="Triangles" value="292" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="220" />
+      <property name="Triangles" value="296" />
     </property>
   </property>
 </prefab>

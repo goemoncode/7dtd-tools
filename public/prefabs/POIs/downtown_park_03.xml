@@ -13,7 +13,6 @@
   <property name="YOffset" value="-7" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="downtown, inter02downtowntile" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="ThemeTags" value="downtownpark" />
   <property name="ThemeRepeatDistance" value="500" />
   <property name="EditorGroups" value="downtown" />

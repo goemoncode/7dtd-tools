@@ -6,13 +6,12 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="False" />
   <property name="QuestTags" value="clear, fetch, infested" />
-  <property name="ThemeRepeatDistance" value="500" />
   <property name="DifficultyTier" value="1" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="60, 22, 60" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="ThemeTags" value="grocery" />
+  <property name="ThemeTags" value="storeGrocery" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-2" />
   <property name="SleeperVolumeSize" value="5, 3, 4#5, 3, 14#2, 3, 8#6, 3, 4#6, 3, 4#2, 6, 7#9, 3, 6#17, 3, 9#12, 6, 6" />
@@ -32,12 +31,13 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_10,part_driveway_rural_10" />
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
+  <property name="DuplicateRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="386524" />
-    <property name="TotalTriangles" value="221775" />
+    <property name="TotalVertices" value="386832" />
+    <property name="TotalTriangles" value="221851" />
     <property class="BlockEntities">
-      <property name="Vertices" value="319349" />
-      <property name="Triangles" value="175120" />
+      <property name="Vertices" value="319657" />
+      <property name="Triangles" value="175196" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="57745" />
@@ -82,6 +82,9 @@
     <property class="Rally">
       <property name="0" value="16, 2, 21" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="46, 2, 40" />
+    </property>
     <property class="challenge_sinks">
       <property name="0" value="18, 2, 25" />
       <property name="1" value="14, 2, 26" />
@@ -91,10 +94,13 @@
     <property class="FetchContainer">
       <property name="0" value="47, 5, 41" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="30, 3, 35" />
+    </property>
     <property class="challenge_pallet">
       <property name="0" value="35, 2, 43" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="34, 2, 19" />
     </property>
     <property class="challenge_cars">
@@ -102,9 +108,6 @@
     </property>
     <property class="quest_feather">
       <property name="0" value="30, 7, 21" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="46, 2, 40" />
     </property>
   </property>
 </prefab>

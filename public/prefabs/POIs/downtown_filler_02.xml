@@ -17,7 +17,7 @@
   <property name="SleeperVolumeSize" value="2, 3, 3#5, 5, 7#8, 4, 9#3, 5, 5#8, 5, 7#7, 8, 7#3, 8, 5#4, 6, 3#6, 5, 8#7, 4, 8#14, 3, 8#5, 4, 7#6, 6, 13#6, 2, 9#9, 2, 10#5, 1, 2#1, 2, 1#5, 9, 4#4, 5, 3#10, 5, 3#10, 5, 3#6, 5, 8" />
   <property name="SleeperVolumeStart" value="22, 8, 13#17, 8, 11#15, 9, 2#2, 9, 11#2, 9, 4#2, 0, 4#2, 0, 11#12, 8, 20#6, 14, 15#16, 14, 2#1, 15, 3#6, 21, 13#11, 21, 11#5, 25, 12#15, 19, 1#17, 3, 20#21, 3, 10#17, 5, 18#12, 14, 20#6, 14, 12#6, 9, 12#6, 9, 15" />
   <property name="SleeperVolumeGroupId" value="1,1,0,2,2,3,3,7,6,0,0,4,4,4,4,5,5,1,6,6,7,7" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Janitor_Only,1,1,S_Zom_Janitor_Only,1,1,S_Zom_Businessman,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_Zom_Businessman,1,1,S_-_Group_Biker_Bar,1,1,S_-_Group_Biker_Bar,0,0,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,0,0,S_Zom_Janitor_Only,0,0,S_-_Group_Biker_Bar,1,1,S_-_Group_Biker_Bar,1,1,S_-_Group_Biker_Bar,0,0,S_-Group_Generic_Zombie,0,0" />
+  <property name="SleeperVolumeGroup" value="ZomJanitorOnly,1,1,ZomJanitorOnly,1,1,ZomBusinessman,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,ZomBusinessman,1,1,GroupBikerBar,1,1,GroupBikerBar,0,0,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,3,3,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,0,0,ZomJanitorOnly,0,0,GroupBikerBar,1,1,GroupBikerBar,1,1,GroupBikerBar,0,0,GroupGenericZombie,0,0" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,2,0,0,2,2,0" />
@@ -27,8 +27,8 @@
   <property name="TriggerVolumeStart" value="11, 21, 10" />
   <property name="TriggerVolumeTriggers" value="5" />
   <property class="Stats">
-    <property name="TotalVertices" value="727597" />
-    <property name="TotalTriangles" value="303037" />
+    <property name="TotalVertices" value="725625" />
+    <property name="TotalTriangles" value="299573" />
     <property class="BlockEntities">
       <property name="Vertices" value="607936" />
       <property name="Triangles" value="231682" />
@@ -56,10 +56,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1972" />
-      <property name="Triangles" value="3464" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

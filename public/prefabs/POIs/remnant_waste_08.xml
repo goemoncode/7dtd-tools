@@ -16,7 +16,7 @@
   <property name="SleeperVolumeSize" value="15, 3, 6#3, 2, 5#5, 3, 5#22, 7, 12#2, 4, 2#14, 2, 4#31, 4, 7#22, 14, 15#6, 2, 5" />
   <property name="SleeperVolumeStart" value="12, 18, 13#3, 6, 19#33, 18, 13#9, 6, 13#18, 7, 29#12, 1, 27#8, 29, 12#16, 31, 20#17, 29, 27" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,1,1,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,1,2,S_Zom_Utility_Worker,2,2,S_-Group_Generic_Zombie,1,1,S_Zom_Utility_Worker,2,2,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,2,S_-_Group_Zom_Badass,1,1" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,1,1,ZomUtilityWorker,2,2,ZomUtilityWorker,1,2,ZomUtilityWorker,2,2,GroupGenericZombie,1,1,ZomUtilityWorker,2,2,GroupGenericZombie,0,0,GroupGenericZombie,1,2,GroupZomBadass,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,2,2,2,2,2,2" />
@@ -31,8 +31,8 @@
   <property name="PrefabSize" value="42, 45, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="427300" />
-    <property name="TotalTriangles" value="206729" />
+    <property name="TotalVertices" value="421094" />
+    <property name="TotalTriangles" value="196685" />
     <property class="BlockEntities">
       <property name="Vertices" value="212977" />
       <property name="Triangles" value="64519" />
@@ -60,10 +60,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="6206" />
-      <property name="Triangles" value="10044" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

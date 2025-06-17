@@ -5,7 +5,7 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="False" />
-  <property name="DifficultyTier" value="2" />
+  <property name="DifficultyTier" value="3" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -17,30 +17,30 @@
   <property name="SleeperVolumeSize" value="8, 7, 5#8, 4, 6#5, 3, 7#14, 3, 11#18, 3, 12#6, 3, 6#9, 4, 14#6, 3, 11#8, 3, 5#6, 3, 5#5, 3, 5#8, 3, 5#9, 3, 5#5, 3, 11#3, 3, 5" />
   <property name="SleeperVolumeStart" value="11, 9, 23#11, 9, 27#4, 4, 17#4, 4, 4#2, 14, 2#4, 14, 13#2, 14, 21#12, 4, 22#4, 4, 28#12, 9, 4#13, 9, 10#4, 9, 4#4, 9, 16#4, 9, 22#9, 9, 28" />
   <property name="SleeperVolumeGroupId" value="2,2,0,0,1,1,0,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="zombieBurnt,1,1,GroupGenericZombie,0,0,zombieJanitor,1,1,GroupGenericZombie,2,2,GroupGenericZombie,3,3,GroupGenericZombie,0,0,zombieBurnt,1,1,GroupGenericZombie,1,1,zombieMaleHazmat,1,1,zombieBusinessMan,1,1,zombieNurse,1,1,GroupGenericZombie,1,1,zombieBurnt,1,1,zombieMaleHazmat,1,1,zombieBurnt,1,1" />
+  <property name="SleeperVolumeGroup" value="zombieBurnt,2,2,GroupGenericZombie,0,0,zombieJanitor,1,1,GroupGenericZombie,2,2,GroupGenericZombie,5,5,GroupGenericZombie,0,0,zombieBurnt,1,1,GroupGenericZombie,1,1,zombieMaleHazmat,1,1,zombieBusinessMan,1,1,zombieNurse,1,1,GroupGenericZombie,1,1,zombieBurnt,1,1,zombieMaleHazmat,1,1,zombieBurnt,1,1" />
   <property name="SleeperIsLootVolume" value="True,True,True,True,True,False,True,True,True,True,True,True,True,True,True" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,0,2,0,2,2,2,0,0,0,0,0,2,0,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="702123" />
-    <property name="TotalTriangles" value="275982" />
+    <property name="TotalVertices" value="708973" />
+    <property name="TotalTriangles" value="277656" />
     <property class="BlockEntities">
-      <property name="Vertices" value="536577" />
-      <property name="Triangles" value="178965" />
+      <property name="Vertices" value="543943" />
+      <property name="Triangles" value="181095" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="148306" />
-      <property name="Triangles" value="81573" />
+      <property name="Vertices" value="147670" />
+      <property name="Triangles" value="81113" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="11874" />
-      <property name="Triangles" value="7084" />
+      <property name="Vertices" value="11994" />
+      <property name="Triangles" value="7088" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="136" />
@@ -59,12 +59,14 @@
     <property class="POILight">
       <property name="0" value="27, 3, 35" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="17, 4, 23" />
-      <property name="1" value="5, 9, 31" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="21, 3, 12" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="6, 5, 26" />
+      <property name="0" value="37, 3, 23" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="40, 3, 2" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="6, 12, 22" />
@@ -84,7 +86,7 @@
     <property class="Rally">
       <property name="0" value="20, 4, 6" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="13, 4, 16" />
       <property name="1" value="14, 4, 16" />
     </property>

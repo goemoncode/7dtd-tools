@@ -35,15 +35,15 @@
   <property name="TriggerVolumeStart" value="50, 16, 22" />
   <property name="TriggerVolumeTriggers" value="7" />
   <property class="Stats">
-    <property name="TotalVertices" value="918890" />
-    <property name="TotalTriangles" value="409258" />
+    <property name="TotalVertices" value="926103" />
+    <property name="TotalTriangles" value="410243" />
     <property class="BlockEntities">
-      <property name="Vertices" value="578760" />
-      <property name="Triangles" value="197984" />
+      <property name="Vertices" value="587642" />
+      <property name="Triangles" value="200391" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="321698" />
-      <property name="Triangles" value="185476" />
+      <property name="Vertices" value="320029" />
+      <property name="Triangles" value="184054" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="1024" />
@@ -79,8 +79,9 @@
       <property name="8" value="50, 12, 56" />
       <property name="9" value="53, 12, 56" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="54, 11, 6" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="50, 10, 14" />
+      <property name="1" value="55, 11, 20" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="49, 9, 50" />
@@ -97,6 +98,9 @@
       <property name="4" value="50, 9, 57" />
       <property name="5" value="52, 9, 57" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="54, 9, 55" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="54, 9, 47" />
       <property name="1" value="53, 10, 53" />
@@ -109,10 +113,7 @@
     <property class="Rally">
       <property name="0" value="15, 9, 3" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="48, 13, 14" />
-    </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="36, 9, 52" />
       <property name="1" value="37, 9, 54" />
     </property>

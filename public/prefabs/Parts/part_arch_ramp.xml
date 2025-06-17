@@ -11,7 +11,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="EditorGroups" value="parts" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="test,part" />
+  <property name="Tags" value="part" />
   <property name="PrefabSize" value="9, 6, 9" />
   <property class="Stats">
     <property name="TotalVertices" value="2532" />

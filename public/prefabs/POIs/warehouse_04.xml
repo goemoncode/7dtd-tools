@@ -16,7 +16,7 @@
   <property name="SleeperVolumeSize" value="6, 4, 16#6, 3, 1#9, 3, 8#5, 3, 4#4, 3, 1#10, 3, 14#4, 3, 5#7, 3, 14#35, 3, 33" />
   <property name="SleeperVolumeStart" value="31, 1, 13#25, 2, 23#32, 2, 33#27, 2, 33#33, 2, 31#2, 2, 25#24, 2, 36#13, 2, 25#2, 8, 6" />
   <property name="SleeperVolumeGroupId" value="1,1,0,2,2,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,3,4,S_Zom_Utility_Worker,0,0,S_-Group_Generic_Zombie,1,1,S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,0,0,S_Zom_Utility_Worker,2,3,S_-Group_Generic_Zombie,1,1,S_-_Group_Zom_Badass,2,2,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,3,4,ZomUtilityWorker,0,0,GroupGenericZombie,1,1,ZomUtilityWorker,2,2,ZomUtilityWorker,0,0,ZomUtilityWorker,2,3,GroupGenericZombie,1,1,GroupZomBadass,2,2,GroupGenericZombie,2,2" />
   <property name="SleeperIsLootVolume" value="True,True,True,True,True,True,True,True,True" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,2,2,0,0,0,2" />
@@ -32,8 +32,8 @@
   <property name="PrefabSize" value="42, 14, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="478994" />
-    <property name="TotalTriangles" value="197766" />
+    <property name="TotalVertices" value="473842" />
+    <property name="TotalTriangles" value="189578" />
     <property class="BlockEntities">
       <property name="Vertices" value="387753" />
       <property name="Triangles" value="140600" />
@@ -61,10 +61,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="5152" />
-      <property name="Triangles" value="8188" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

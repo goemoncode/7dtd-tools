@@ -25,22 +25,22 @@
   <property name="ThemeTags" value="zipcoffee" />
   <property name="ThemeRepeatDistance" value="150" />
   <property class="Stats">
-    <property name="TotalVertices" value="1018362" />
-    <property name="TotalTriangles" value="418782" />
+    <property name="TotalVertices" value="1020536" />
+    <property name="TotalTriangles" value="419855" />
     <property class="BlockEntities">
-      <property name="Vertices" value="708588" />
-      <property name="Triangles" value="235163" />
+      <property name="Vertices" value="710379" />
+      <property name="Triangles" value="236450" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="277008" />
-      <property name="Triangles" value="154264" />
+      <property name="Vertices" value="277334" />
+      <property name="Triangles" value="154050" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3200" />
       <property name="Triangles" value="1600" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="16080" />
+      <property name="Vertices" value="16137" />
       <property name="Triangles" value="8867" />
     </property>
     <property class="ChunkMeshes3">
@@ -67,21 +67,37 @@
       <property name="0" value="34, 45, 32" />
       <property name="1" value="37, 40, 37" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_polymers">
+      <property name="0" value="36, 15, 31" />
+      <property name="1" value="39, 15, 32" />
+      <property name="2" value="33, 15, 33" />
+      <property name="3" value="33, 25, 33" />
+      <property name="4" value="36, 40, 33" />
+      <property name="5" value="37, 10, 34" />
+    </property>
+    <property class="challenge_mech_parts">
       <property name="0" value="31, 15, 30" />
       <property name="1" value="40, 30, 30" />
       <property name="2" value="40, 25, 31" />
       <property name="3" value="37, 25, 32" />
       <property name="4" value="31, 25, 33" />
+      <property name="5" value="33, 35, 33" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="36, 47, 30" />
+      <property name="1" value="38, 16, 31" />
+      <property name="2" value="33, 30, 32" />
+      <property name="3" value="30, 46, 33" />
+      <property name="4" value="31, 30, 33" />
+      <property name="5" value="43, 6, 40" />
+      <property name="6" value="37, 2, 42" />
+      <property name="7" value="43, 6, 42" />
+      <property name="8" value="32, 1, 43" />
+      <property name="9" value="32, 2, 43" />
+      <property name="10" value="43, 6, 44" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="33, 1, 48" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="38, 16, 31" />
-      <property name="1" value="33, 30, 32" />
-      <property name="2" value="31, 30, 33" />
-      <property name="3" value="37, 2, 42" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="23, 30, 31" />
@@ -89,8 +105,11 @@
     <property class="challenge_pallet">
       <property name="0" value="32, 20, 32" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="38, 10, 33" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="37, 45, 33" />
     </property>
   </property>
 </prefab>

@@ -29,15 +29,15 @@
   <property name="SVS12" value="sleep 1^sound explosion_buzzer1" />
   <property name="SVS11" value="sleep 1^sound explosion_buzzer1^sleep 2^sound explosion_buzzer1^sleep 2^sound explosion_buzzer1^sleep 3^trigger 6^sleep 1^trigger 7^sleep 1^trigger 8^sleep 1^trigger 9" />
   <property class="Stats">
-    <property name="TotalVertices" value="1026913" />
-    <property name="TotalTriangles" value="447534" />
+    <property name="TotalVertices" value="1028797" />
+    <property name="TotalTriangles" value="448254" />
     <property class="BlockEntities">
-      <property name="Vertices" value="665897" />
-      <property name="Triangles" value="205212" />
+      <property name="Vertices" value="667968" />
+      <property name="Triangles" value="206282" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="345466" />
-      <property name="Triangles" value="221726" />
+      <property name="Vertices" value="345279" />
+      <property name="Triangles" value="221376" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -61,11 +61,26 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="59, 3, 46" />
+      <property name="1" value="49, 3, 50" />
+      <property name="2" value="58, 3, 50" />
+      <property name="3" value="58, 3, 51" />
+      <property name="4" value="50, 3, 59" />
+      <property name="5" value="59, 3, 59" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="58, 3, 41" />
     </property>
     <property class="POILight">
       <property name="0" value="55, 3, 14" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="50, 4, 3" />
+      <property name="1" value="54, 3, 6" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="40, 39, 50" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="50, 3, 33" />
@@ -73,21 +88,18 @@
     <property class="quest_feather">
       <property name="0" value="37, 44, 49" />
     </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="29, 3, 4" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="41, 39, 48" />
       <property name="1" value="35, 29, 50" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="53, 3, 4" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="54, 3, 6" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="35, 29, 47" />
       <property name="1" value="32, 44, 50" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="50, 3, 6" />
       <property name="1" value="51, 3, 6" />
     </property>

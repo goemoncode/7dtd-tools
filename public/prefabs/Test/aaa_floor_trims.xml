@@ -10,7 +10,7 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="testonly,test" />
+  <property name="Tags" value="testonly" />
   <property name="PrefabSize" value="17, 1, 5" />
   <property class="Stats">
     <property name="TotalVertices" value="1999" />

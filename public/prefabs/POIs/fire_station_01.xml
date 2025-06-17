@@ -24,8 +24,9 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False" />
   <property name="Tags" value="commercial, countrytown, nodiagonal" />
-  <property name="ThemeTags" value="fire" />
-  <property name="ThemeRepeatDistance" value="500" />
+  <property name="ThemeTags" value="stationFire" />
+  <property name="ThemeDistance" value="500" />
+  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="POIMarkerSize" value="7, 13, 2#14, 13, 2" />
   <property name="POIMarkerStart" value="4, 5, -2#24, 5, -2" />
   <property name="POIMarkerGroup" value="driveway,driveway3" />

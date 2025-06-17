@@ -22,12 +22,12 @@
   <property name="SleeperVolumeSize" value="11, 3, 8#15, 5, 20#8, 4, 3#6, 6, 24#13, 4, 4" />
   <property name="SleeperVolumeStart" value="64, 2, 63#85, 1, 62#118, 3, 63#53, 2, 64#124, 2, 80" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,1,2,S_Zom_HazMat_Only,6,7,S_Zom_HazMat_Only,1,1,S_Zom_Utility_Worker,1,3,S_Zom_Utility_Worker,1,2" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,1,2,ZomHazMatOnly,6,7,ZomHazMatOnly,1,1,ZomUtilityWorker,1,3,ZomUtilityWorker,1,2" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,2,2" />
   <property name="PrefabSize" value="150, 21, 150" />
-  <property name="Tags" value="streettile,rwgonly" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
     <property name="TotalVertices" value="608379" />
@@ -59,10 +59,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="24" />
       <property name="Triangles" value="12" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

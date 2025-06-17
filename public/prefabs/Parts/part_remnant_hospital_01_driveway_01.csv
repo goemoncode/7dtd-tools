@@ -1,0 +1,17 @@
+id,name,count
+2,terrainFiller,255
+17,terrAsphalt,53
+6925,concreteShapes:cube,48
+8237,concreteShapes:cubeTrimQuarterEdgeTwoSided,20
+8257,concreteShapes:cubeTrimCornerRound,2
+8966,concreteShapes:farmPlot,12
+8976,concreteShapes:roadPaintDash,14
+8996,concreteShapes:roadPaintArrowStraight,1
+18513,newspaperDecor01,1
+18514,newspaperDecor02,1
+18525,rubbishDecor10,1
+18527,rubbishDecor12,1
+18530,bloodDecor02,1
+23086,signNoParking,2
+23868,treeForestGrassDiagonal,15
+24104,poiPartHelper,1

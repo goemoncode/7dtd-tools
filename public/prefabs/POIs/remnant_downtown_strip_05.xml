@@ -37,13 +37,18 @@
     <property class="TraderOnOff">
       <property name="0" value="38, 8, 29" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="22, 7, 24" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="38, 12, 22" />
+      <property name="1" value="37, 7, 24" />
+      <property name="2" value="37, 8, 27" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="3, 7, 27" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="22, 7, 24" />
-    </property>
-    <property class="challenge_booths">
+    <property class="challenge_leather">
       <property name="0" value="37, 12, 25" />
     </property>
     <property class="challenge_gore">
@@ -55,24 +60,20 @@
     <property class="quest_wood">
       <property name="0" value="37, 7, 1" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="23, 8, 27" />
-      <property name="1" value="22, 8, 28" />
-    </property>
     <property class="quest_feather">
       <property name="0" value="40, 13, 14" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="569274" />
-    <property name="TotalTriangles" value="244071" />
+    <property name="TotalVertices" value="568526" />
+    <property name="TotalTriangles" value="243527" />
     <property class="BlockEntities">
-      <property name="Vertices" value="405798" />
-      <property name="Triangles" value="134790" />
+      <property name="Vertices" value="405665" />
+      <property name="Triangles" value="134749" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="138665" />
-      <property name="Triangles" value="88713" />
+      <property name="Vertices" value="138050" />
+      <property name="Triangles" value="88210" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="13056" />

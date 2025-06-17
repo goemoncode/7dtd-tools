@@ -29,15 +29,15 @@
   <property name="ThemeTags" value="wildernesspoi" />
   <property name="ThemeRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="154595" />
-    <property name="TotalTriangles" value="60935" />
+    <property name="TotalVertices" value="159351" />
+    <property name="TotalTriangles" value="61528" />
     <property class="BlockEntities">
-      <property name="Vertices" value="143674" />
-      <property name="Triangles" value="51939" />
+      <property name="Vertices" value="148424" />
+      <property name="Triangles" value="52580" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="9233" />
-      <property name="Triangles" value="6088" />
+      <property name="Vertices" value="9239" />
+      <property name="Triangles" value="6040" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -70,8 +70,33 @@
     <property class="quest_wood">
       <property name="0" value="16, 2, 17" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="10, 5, 11" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="14, 7, 12" />
+      <property name="1" value="13, 6, 13" />
+      <property name="2" value="14, 2, 13" />
+      <property name="3" value="14, 3, 13" />
+      <property name="4" value="14, 4, 13" />
+      <property name="5" value="14, 5, 13" />
+      <property name="6" value="14, 6, 13" />
+      <property name="7" value="14, 7, 13" />
+      <property name="8" value="15, 3, 13" />
+      <property name="9" value="12, 3, 14" />
+      <property name="10" value="12, 5, 14" />
+      <property name="11" value="12, 6, 14" />
+      <property name="12" value="14, 3, 14" />
+      <property name="13" value="14, 7, 14" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="6, 2, 13" />
+    </property>
     <property class="POILight">
       <property name="0" value="13, 7, 11" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="16, 2, 15" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="14, 2, 18" />

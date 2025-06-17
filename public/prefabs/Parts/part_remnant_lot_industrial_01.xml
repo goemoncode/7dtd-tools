@@ -13,13 +13,14 @@
   <property name="Tags" value="part" />
   <property name="Zoning" value="none" />
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="8, 4, 2" />
+      <property name="1" value="14, 4, 2" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="8, 4, 3" />
       <property name="1" value="12, 4, 4" />
       <property name="2" value="9, 5, 6" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="14, 4, 2" />
     </property>
     <property class="POILight">
       <property name="0" value="10, 6, 3" />

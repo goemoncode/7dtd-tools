@@ -12,56 +12,69 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="EditorGroups" value="parts" />
-  <property name="Tags" value="part,hideui" />
+  <property name="Tags" value="part, hideui" />
   <property name="SleeperVolumeSize" value="3, 3, 10" />
   <property name="SleeperVolumeStart" value="1, 1, 7" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,2" />
   <property name="SleeperIsLootVolume" value="True" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="IndexedBlockOffsets">
+    <property class="challenge_leather">
+      <property name="0" value="1, 1, 9" />
+      <property name="1" value="1, 1, 11" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="4, 0, 11" />
+      <property name="1" value="4, 0, 12" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="2, 1, 12" />
+      <property name="1" value="3, 1, 15" />
+      <property name="2" value="2, 2, 16" />
+      <property name="3" value="3, 1, 16" />
+    </property>
     <property class="POILight">
       <property name="0" value="3, 2, 12" />
       <property name="1" value="2, 3, 16" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="2, 1, 10" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="3, 1, 13" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="54876" />
-    <property name="TotalTriangles" value="26220" />
+    <property name="TotalVertices" value="49500" />
+    <property name="TotalTriangles" value="23070" />
     <property class="BlockEntities">
-      <property name="Vertices" value="43132" />
-      <property name="Triangles" value="18750" />
+      <property name="Vertices" value="37774" />
+      <property name="Triangles" value="15614" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="11408" />
-      <property name="Triangles" value="7302" />
+      <property name="Vertices" value="11390" />
+      <property name="Triangles" value="7288" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="336" />
       <property name="Triangles" value="168" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

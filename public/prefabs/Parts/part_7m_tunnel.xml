@@ -9,7 +9,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="test,part" />
+  <property name="Tags" value="part" />
   <property name="Zoning" value="none" />
   <property name="EditorGroups" value="parts" />
   <property name="PrefabSize" value="9, 9, 21" />

@@ -21,8 +21,8 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,2,2,2,2,2,0,0,2,2,0,3,3" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # #1#1" />
   <property name="Tags" value="countrytown, nodiagonal" />
-  <property name="ThemeTags" value="fire" />
-  <property name="ThemeRepeatDistance" value="500" />
+  <property name="ThemeTags" value="stationFire" />
+  <property name="ThemeDistance" value="500" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="POIMarkerSize" value="23, 13, 2#9, 13, 2" />
   <property name="POIMarkerStart" value="3, 0, -2#33, 0, -2" />
@@ -37,19 +37,20 @@
       <property name="0" value="31, 1, 21" />
       <property name="1" value="35, 1, 25" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="23, 1, 41" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="24, 12, 11" />
+      <property name="1" value="26, 12, 16" />
+      <property name="2" value="21, 12, 18" />
+    </property>
     <property class="quest_wood">
       <property name="0" value="37, 1, 14" />
     </property>
     <property class="POILight">
       <property name="0" value="23, 4, 23" />
       <property name="1" value="35, 1, 31" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="7, 1, 11" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="8, 7, 23" />
-      <property name="1" value="9, 7, 23" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="15, 7, 11" />
@@ -71,32 +72,32 @@
     <property class="quest_feather">
       <property name="0" value="38, 18, 35" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="36, 1, 31" />
+      <property name="1" value="35, 2, 32" />
+      <property name="2" value="35, 2, 36" />
+    </property>
     <property class="QuestRestorePower">
       <property name="0" value="11, 2, 35" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="25, 6, 12" />
-      <property name="1" value="27, 1, 16" />
-      <property name="2" value="26, 1, 19" />
-    </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="22, 6, 19" />
       <property name="1" value="22, 6, 20" />
     </property>
     <property class="Rally">
-      <property name="0" value="37, 1, 7" />
+      <property name="0" value="36, 1, 6" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="575946" />
-    <property name="TotalTriangles" value="223168" />
+    <property name="TotalVertices" value="583790" />
+    <property name="TotalTriangles" value="224760" />
     <property class="BlockEntities">
-      <property name="Vertices" value="456756" />
-      <property name="Triangles" value="143341" />
+      <property name="Vertices" value="465916" />
+      <property name="Triangles" value="146109" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="112600" />
-      <property name="Triangles" value="72615" />
+      <property name="Vertices" value="111284" />
+      <property name="Triangles" value="71439" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

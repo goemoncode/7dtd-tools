@@ -31,15 +31,15 @@
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # #5# " />
   <property class="Stats">
-    <property name="TotalVertices" value="1013428" />
-    <property name="TotalTriangles" value="446322" />
+    <property name="TotalVertices" value="1017508" />
+    <property name="TotalTriangles" value="447899" />
     <property class="BlockEntities">
-      <property name="Vertices" value="737728" />
-      <property name="Triangles" value="271809" />
+      <property name="Vertices" value="742490" />
+      <property name="Triangles" value="274350" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="255090" />
-      <property name="Triangles" value="150819" />
+      <property name="Vertices" value="254408" />
+      <property name="Triangles" value="149855" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="6656" />
@@ -77,6 +77,16 @@
     </property>
     <property class="challenge_sinks">
       <property name="0" value="55, 8, 51" />
+      <property name="1" value="46, 7, 53" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="46, 12, 47" />
+      <property name="1" value="49, 12, 48" />
+      <property name="2" value="52, 7, 50" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="54, 2, 20" />
+      <property name="1" value="47, 6, 22" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="53, 7, 49" />
@@ -97,22 +107,17 @@
     <property class="quest_wood">
       <property name="0" value="4, 13, 57" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="51, 12, 45" />
     </property>
     <property class="Rally">
       <property name="0" value="42, 6, 25" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="52, 6, 12" />
-    </property>
-    <property class="challenge_booths">
-      <property name="0" value="46, 6, 31" />
-      <property name="1" value="47, 6, 31" />
-      <property name="2" value="46, 6, 32" />
-      <property name="3" value="47, 6, 32" />
-      <property name="4" value="46, 6, 34" />
-      <property name="5" value="47, 6, 34" />
+    <property class="challenge_leather">
+      <property name="0" value="52, 7, 54" />
+      <property name="1" value="52, 7, 55" />
+      <property name="2" value="52, 7, 56" />
+      <property name="3" value="52, 7, 57" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="49, 6, 32" />

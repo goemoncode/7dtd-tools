@@ -32,15 +32,15 @@
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="576543" />
-    <property name="TotalTriangles" value="279976" />
+    <property name="TotalVertices" value="583221" />
+    <property name="TotalTriangles" value="274909" />
     <property class="BlockEntities">
-      <property name="Vertices" value="466795" />
-      <property name="Triangles" value="203003" />
+      <property name="Vertices" value="473454" />
+      <property name="Triangles" value="198010" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="97732" />
-      <property name="Triangles" value="59709" />
+      <property name="Vertices" value="97751" />
+      <property name="Triangles" value="59635" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -67,8 +67,11 @@
     <property class="quest_wood_trees">
       <property name="0" value="48, 2, 51" />
     </property>
-    <property class="challenge_vending">
-      <property name="0" value="9, 2, 18" />
+    <property class="challenge_sinks">
+      <property name="0" value="48, 6, 32" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="53, 8, 7" />
     </property>
     <property class="POILight">
       <property name="0" value="47, 4, 30" />
@@ -76,26 +79,28 @@
     <property class="TraderOnOff">
       <property name="0" value="45, 4, 30" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="45, 4, 32" />
+      <property name="1" value="30, 4, 33" />
+      <property name="2" value="32, 3, 36" />
+    </property>
     <property class="challenge_pallet">
       <property name="0" value="21, 2, 40" />
       <property name="1" value="29, 2, 42" />
       <property name="2" value="29, 4, 45" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="37, 5, 34" />
-    </property>
     <property class="quest_wood">
       <property name="0" value="38, 2, 45" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="30, 4, 43" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="41, 6, 30" />
     </property>
-    <property class="challenge_booths">
+    <property class="challenge_leather">
       <property name="0" value="14, 4, 46" />
       <property name="1" value="27, 4, 46" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="23, 4, 46" />
     </property>
     <property class="Rally">
       <property name="0" value="17, 2, 13" />

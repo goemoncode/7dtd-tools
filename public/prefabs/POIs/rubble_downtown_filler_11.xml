@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="25, 18, 25" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="YOffset" value="-7" />
+  <property name="Zoning" value="none" />
+  <property name="EditorGroups" value="downtown" />
+  <property name="Tags" value="downtown" />
+  <property name="SleeperVolumeSize" value="1, 1, 1#4, 2, 1#1, 1, 1#19, 4, 8#14, 7, 10#11, 4, 8#10, 6, 9#1, 1, 1" />
+  <property name="SleeperVolumeStart" value="12, 2, 20#1, 2, 17#6, 2, 20#3, 2, 5#8, 12, 5#10, 2, 13#3, 7, 13#13, 2, 17" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,0,0,zombieFatCop,1,1,GroupGenericZombie,0,0,GroupGenericZombie,1,1,zombiePartyGirl,1,2,GroupGenericZombie,1,1,zombieBusinessMan,1,1,GroupGenericZombie,0,0" />
+  <property name="SleeperIsLootVolume" value="False,True,False,True,True,True,True,False" />
+  <property name="SleeperIsQuestExclude" value="True,False,True,False,False,False,False,True" />
+  <property name="SleeperVolumeFlags" value="3,3,3,0,2,0,0,3" />
+  <property name="SleeperVolumeTriggeredBy" value="2#7#5# # # # #1" />
+  <property name="SVS7" value="sound explosion_buzzer1" />
+  <property name="TriggerVolumeSize" value="3, 3, 6#4, 3, 6" />
+  <property name="TriggerVolumeStart" value="9, 2, 15#4, 2, 15" />
+  <property name="TriggerVolumeTriggers" value="2#5" />
+  <property name="SVS2" value="sleep 1^trigger 7^sleep 1^trigger 6" />
+  <property name="SVS0" value="sleep 0.5^sound explosion_buzzer1^trigger 3^sleep 1^trigger 4^sleep 2.5^sound light_bay2^trigger 8^sleep 1^trigger 8^sleep 0.2^sound light_bay2^trigger 8" />
+  <property name="ThemeTags" value="hnnbank" />
+  <property name="ThemeRepeatDistance" value="1000" />
+  <property class="Stats">
+    <property name="TotalVertices" value="198086" />
+    <property name="TotalTriangles" value="77215" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="148566" />
+      <property name="Triangles" value="41400" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="45238" />
+      <property name="Triangles" value="29635" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="1290" />
+      <property name="Triangles" value="836" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="2992" />
+      <property name="Triangles" value="5344" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="14, 7, 24" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="4, 3, 12" />
+      <property name="1" value="2, 8, 15" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="12, 5, 17" />
+      <property name="1" value="12, 5, 18" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="17, 12, 6" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="20, 12, 8" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="17, 7, 5" />
+    </property>
+  </property>
+</prefab>

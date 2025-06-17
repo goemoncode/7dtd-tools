@@ -11,7 +11,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="60, 27, 60" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="ThemeTags" value="grocery" />
+  <property name="ThemeTags" value="storeGrocery" />
   <property name="ThemeRepeatDistance" value="500" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-7" />
@@ -34,11 +34,11 @@
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="394260" />
-    <property name="TotalTriangles" value="198895" />
+    <property name="TotalVertices" value="394273" />
+    <property name="TotalTriangles" value="198897" />
     <property class="BlockEntities">
-      <property name="Vertices" value="305179" />
-      <property name="Triangles" value="132639" />
+      <property name="Vertices" value="305192" />
+      <property name="Triangles" value="132641" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="76933" />
@@ -69,6 +69,9 @@
     <property class="quest_wood_trees">
       <property name="0" value="51, 7, 31" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="30, 8, 47" />
+    </property>
     <property class="POILight">
       <property name="0" value="33, 4, 38" />
       <property name="1" value="33, 10, 43" />
@@ -85,9 +88,6 @@
       <property name="1" value="30, 12, 28" />
       <property name="2" value="33, 10, 28" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="31, 2, 41" />
-    </property>
     <property class="challenge_sinks">
       <property name="0" value="30, 8, 42" />
       <property name="1" value="30, 8, 43" />
@@ -97,6 +97,9 @@
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="27, 2, 43" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="40, 7, 26" />
     </property>
   </property>
 </prefab>

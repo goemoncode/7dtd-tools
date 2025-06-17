@@ -1,11 +1,6 @@
 id,name,count
-1,terrStone,63
-11235,rubblePileBricksSmall,1
-11570,corrugatedMetalShapes:shantywall02,2
-11591,treeDeadTree02,1
-11950,signRoadStop,1
-12839,cntBagsRandomLootHelper,1
-12902,woodPoleUtilitySupport,2
-12903,woodPillar375,10
-12904,woodPillar375UtilityTop,1
-12907,utilityInsulator,2
+2,terrainFiller,68
+15573,corrugatedMetalShapes:shantywall02,1
+18813,cntBagsRandomLootHelper,1
+22946,rubblePileBricksSmall,1
+23961,treeDeadTree02,1

@@ -39,15 +39,15 @@
   <property name="SVS28" value="sleep 1^trigger 6" />
   <property name="SVS27" value="sleep 1^trigger 5^sleep 3^trigger 5" />
   <property class="Stats">
-    <property name="TotalVertices" value="441743" />
-    <property name="TotalTriangles" value="199455" />
+    <property name="TotalVertices" value="443598" />
+    <property name="TotalTriangles" value="199515" />
     <property class="BlockEntities">
-      <property name="Vertices" value="338948" />
-      <property name="Triangles" value="135336" />
+      <property name="Vertices" value="341442" />
+      <property name="Triangles" value="135723" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="96107" />
-      <property name="Triangles" value="54659" />
+      <property name="Vertices" value="95468" />
+      <property name="Triangles" value="54332" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -77,6 +77,12 @@
     <property class="Rally">
       <property name="0" value="20, 6, 7" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="22, 2, 12" />
+      <property name="1" value="26, 2, 12" />
+      <property name="2" value="23, 3, 15" />
+      <property name="3" value="23, 12, 17" />
+    </property>
     <property class="quest_wood">
       <property name="0" value="21, 5, 24" />
       <property name="1" value="22, 5, 25" />
@@ -97,6 +103,13 @@
     <property class="challenge_sinks">
       <property name="0" value="24, 11, 22" />
       <property name="1" value="25, 11, 22" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="18, 1, 13" />
+      <property name="1" value="18, 2, 20" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="17, 11, 15" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="22, 1, 18" />

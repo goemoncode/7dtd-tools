@@ -17,15 +17,15 @@
   <property name="ThemeTags" value="downtownplaza" />
   <property name="ThemeRepeatDistance" value="500" />
   <property class="Stats">
-    <property name="TotalVertices" value="59430" />
-    <property name="TotalTriangles" value="29168" />
+    <property name="TotalVertices" value="56150" />
+    <property name="TotalTriangles" value="28814" />
     <property class="BlockEntities">
-      <property name="Vertices" value="42003" />
-      <property name="Triangles" value="16950" />
+      <property name="Vertices" value="37721" />
+      <property name="Triangles" value="15632" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="13787" />
-      <property name="Triangles" value="7934" />
+      <property name="Vertices" value="14789" />
+      <property name="Triangles" value="8898" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="1536" />
@@ -36,26 +36,22 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes4">
       <property name="Vertices" value="168" />
       <property name="Triangles" value="84" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="1936" />
       <property name="Triangles" value="3432" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="13, 1, 12" />
-      <property name="1" value="12, 1, 13" />
+      <property name="0" value="12, 2, 12" />
+      <property name="1" value="12, 4, 12" />
       <property name="2" value="17, 2, 17" />
       <property name="3" value="12, 3, 23" />
       <property name="4" value="22, 3, 23" />
@@ -65,6 +61,9 @@
     </property>
     <property class="quest_wood">
       <property name="0" value="14, 3, 21" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="9, 2, 11" />
     </property>
   </property>
 </prefab>

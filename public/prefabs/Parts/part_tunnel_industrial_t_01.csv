@@ -1,0 +1,14 @@
+id,name,count
+5,terrDirt,33
+16,terrGravel,22
+29,terrStoneHelper,253
+6982,concreteShapes:cubeThreeQuarter,5
+6994,concreteShapes:cubeHalf,5
+13699,corrugatedMetalShapes:cube,3
+13799,corrugatedMetalShapes:poleSquareCircle,1
+13934,corrugatedMetalShapes:pillar0.0125Centered,2
+15153,corrugatedMetalShapes:doorTrim1mDouble,11
+15622,corrugatedMetalShapes:trussing,4
+15637,corrugatedMetalShapes:securityGateCentered,3
+15733,corrugatedMetalShapes:fenceCentered,6
+19217,lightIndustrialHangingWhite,1

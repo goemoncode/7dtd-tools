@@ -35,15 +35,15 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # #2# # # # " />
   <property name="EditorGroups" value="Wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="804038" />
-    <property name="TotalTriangles" value="327719" />
+    <property name="TotalVertices" value="810272" />
+    <property name="TotalTriangles" value="329602" />
     <property class="BlockEntities">
-      <property name="Vertices" value="638337" />
-      <property name="Triangles" value="223533" />
+      <property name="Vertices" value="644521" />
+      <property name="Triangles" value="225602" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="154637" />
-      <property name="Triangles" value="87358" />
+      <property name="Vertices" value="154687" />
+      <property name="Triangles" value="87172" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -85,32 +85,43 @@
     <property class="FetchContainer">
       <property name="0" value="49, 4, 46" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="46, 4, 46" />
+      <property name="1" value="53, 5, 47" />
+      <property name="2" value="49, 4, 48" />
+      <property name="3" value="46, 4, 53" />
+      <property name="4" value="47, 4, 53" />
+      <property name="5" value="48, 4, 53" />
+    </property>
     <property class="challenge_pallet">
       <property name="0" value="47, 7, 50" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="47, 4, 49" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="14, 11, 23" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="51, 2, 21" />
+      <property name="1" value="55, 2, 21" />
+      <property name="2" value="47, 2, 26" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="51, 4, 46" />
+      <property name="1" value="46, 7, 50" />
+      <property name="2" value="50, 4, 50" />
+      <property name="3" value="48, 4, 52" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="54, 2, 14" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="46, 7, 50" />
-    </property>
     <property class="quest_feather">
       <property name="0" value="18, 7, 56" />
     </property>
+    <property class="challenge_leather">
+      <property name="0" value="36, 4, 46" />
+      <property name="1" value="39, 4, 49" />
+    </property>
     <property class="challenge_cars">
       <property name="0" value="50, 2, 23" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="46, 4, 46" />
-      <property name="1" value="53, 5, 47" />
-      <property name="2" value="49, 4, 48" />
-      <property name="3" value="48, 4, 53" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="14, 3, 48" />
@@ -119,6 +130,9 @@
       <property name="0" value="33, 3, 36" />
       <property name="1" value="37, 3, 36" />
       <property name="2" value="35, 3, 37" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="47, 2, 12" />
     </property>
     <property class="Rally">
       <property name="0" value="52, 2, 13" />

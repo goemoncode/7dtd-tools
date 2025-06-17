@@ -18,7 +18,7 @@
   <property name="YOffset" value="-28" />
   <property name="SleeperVolumeSize" value="11, 4, 9#6, 4, 4#7, 4, 4#8, 4, 8#7, 5, 8#4, 5, 18#6, 4, 5#11, 3, 4#9, 3, 7#5, 4, 7#16, 4, 4#4, 2, 10#2, 2, 1#1, 2, 2#1, 2, 1#5, 5, 27#2, 5, 3#18, 4, 3#18, 4, 3#9, 3, 3#7, 5, 6#3, 2, 5#3, 7, 11#5, 3, 4#24, 15, 15#8, 4, 15#3, 7, 2#3, 8, 2" />
   <property name="SleeperVolumeStart" value="36, 31, 25#18, 31, 36#10, 36, 25#41, 36, 30#24, 41, 23#11, 20, 27#16, 31, 25#25, 31, 32#22, 36, 22#36, 36, 22#25, 36, 33#37, 41, 23#32, 41, 21#32, 41, 26#39, 41, 21#28, 17, 23#26, 17, 26#37, 4, 44#37, 4, 26#41, 9, 47#41, 7, 9#43, 6, 15#53, 9, 15#39, 15, 21#28, 2, 29#52, 4, 29#25, 33, 30#28, 32, 30" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,1,S_-_Group_Zom_Badass_Only,0,0,S_-_Group_Lab_Worker,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-_Group_Special_Infected,1,1,S_-_Group_Zom_Badass_Only,1,1,S_-_Group_Lab_Worker,5,6,S_-Group_Generic_Zombie,0,0,S_-_Group_Zom_Badass_Only,3,3,S_-_Group_Special_Infected,3,3,S_-_Group_Hospital,2,2,S_-_Group_Lab_Worker,2,2,S_-Group_Generic_Zombie,0,0,S_-_Group_Lab_Worker,2,2,S_-_Group_Lab_Worker,3,3,zombieFatHawaiianRadiated,0,0,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,1,2,GroupGenericZombie,3,3,GroupGenericZombie,1,1,GroupZomBadassOnly,0,0,GroupLabWorker,1,1,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,0,0,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupSpecialInfected,1,1,GroupZomBadassOnly,1,1,GroupLabWorker,5,6,GroupGenericZombie,0,0,GroupZomBadassOnly,3,3,GroupSpecialInfected,3,3,GroupHospital,2,2,GroupLabWorker,2,2,GroupGenericZombie,0,0,GroupLabWorker,2,2,GroupLabWorker,3,3,zombieFatHawaiianRadiated,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,True" />
   <property name="SleeperVolumeGroupId" value="0,8,60,1,2,3,6,0,0,0,1,0,2,2,2,13,3,4,4,0,7,7,0,14,20,4,6,8" />
@@ -85,8 +85,8 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1609553" />
-    <property name="TotalTriangles" value="657025" />
+    <property name="TotalVertices" value="1581133" />
+    <property name="TotalTriangles" value="610005" />
     <property class="BlockEntities">
       <property name="Vertices" value="1188171" />
       <property name="Triangles" value="382767" />
@@ -114,10 +114,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="28420" />
-      <property name="Triangles" value="47020" />
     </property>
   </property>
 </prefab>

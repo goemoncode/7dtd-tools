@@ -34,15 +34,15 @@
   <property name="TriggerVolumeStart" value="2, 26, 8" />
   <property name="TriggerVolumeTriggers" value="8" />
   <property class="Stats">
-    <property name="TotalVertices" value="1628464" />
-    <property name="TotalTriangles" value="736609" />
+    <property name="TotalVertices" value="1634395" />
+    <property name="TotalTriangles" value="732136" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1013897" />
-      <property name="Triangles" value="308043" />
+      <property name="Vertices" value="1021139" />
+      <property name="Triangles" value="310078" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="588357" />
-      <property name="Triangles" value="401218" />
+      <property name="Vertices" value="587046" />
+      <property name="Triangles" value="394710" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="11136" />
@@ -66,6 +66,14 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="49, 10, 50" />
+      <property name="1" value="54, 10, 51" />
+      <property name="2" value="55, 10, 51" />
+      <property name="3" value="47, 10, 53" />
+      <property name="4" value="51, 10, 53" />
+      <property name="5" value="55, 10, 54" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="49, 12, 52" />
     </property>
@@ -76,24 +84,23 @@
     <property class="FetchContainer">
       <property name="0" value="48, 3, 37" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="48, 14, 43" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="46, 9, 31" />
+      <property name="1" value="53, 14, 35" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="51, 9, 47" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="21, 9, 16" />
-    </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="51, 14, 5" />
-      <property name="1" value="50, 14, 8" />
-      <property name="2" value="54, 14, 8" />
-      <property name="3" value="54, 14, 11" />
-      <property name="4" value="47, 14, 13" />
-      <property name="5" value="49, 14, 13" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="46, 9, 33" />
       <property name="1" value="53, 3, 33" />
       <property name="2" value="46, 1, 37" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="25, 9, 58" />
     </property>
     <property class="quest_stone">
       <property name="0" value="56, 9, 56" />
@@ -107,16 +114,12 @@
     <property class="quest_feather">
       <property name="0" value="57, 17, 54" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="44, 9, 9" />
       <property name="1" value="45, 9, 9" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="50, 9, 14" />
-      <property name="1" value="46, 9, 15" />
-      <property name="2" value="46, 9, 16" />
-      <property name="3" value="48, 9, 16" />
-      <property name="4" value="50, 9, 16" />
+    <property class="challenge_leather">
+      <property name="0" value="50, 9, 4" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="53, 10, 37" />

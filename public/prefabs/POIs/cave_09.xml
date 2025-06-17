@@ -34,15 +34,15 @@
   <property name="TriggerVolumeTriggers" value="4#4" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="674163" />
-    <property name="TotalTriangles" value="390610" />
+    <property name="TotalVertices" value="771328" />
+    <property name="TotalTriangles" value="420131" />
     <property class="BlockEntities">
-      <property name="Vertices" value="563259" />
-      <property name="Triangles" value="279404" />
+      <property name="Vertices" value="660721" />
+      <property name="Triangles" value="309365" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="60238" />
-      <property name="Triangles" value="37934" />
+      <property name="Vertices" value="59953" />
+      <property name="Triangles" value="37510" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="7296" />
@@ -61,8 +61,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="43118" />
-      <property name="Triangles" value="69456" />
+      <property name="Vertices" value="43106" />
+      <property name="Triangles" value="69440" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -71,6 +71,9 @@
     </property>
     <property class="challenge_gore">
       <property name="0" value="58, 14, 16" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="65, 7, 67" />
     </property>
     <property class="POILight">
       <property name="0" value="58, 26, 50" />
@@ -86,20 +89,22 @@
     <property class="FetchContainer">
       <property name="0" value="65, 7, 69" />
     </property>
+    <property class="challenge_leather">
+      <property name="0" value="24, 11, 61" />
+    </property>
     <property class="challenge_pallet">
       <property name="0" value="65, 7, 68" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="66, 13, 11" />
+    </property>
     <property class="Rally">
-      <property name="0" value="44, 12, 11" />
+      <property name="0" value="41, 12, 11" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="55, 14, 22" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="38, 7, 76" />
-      <property name="1" value="38, 7, 77" />
-    </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="58, 14, 12" />
       <property name="1" value="58, 14, 13" />
     </property>

@@ -27,15 +27,15 @@
   <property name="Tags" value="commercial" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="407552" />
-    <property name="TotalTriangles" value="179853" />
+    <property name="TotalVertices" value="413919" />
+    <property name="TotalTriangles" value="179828" />
     <property class="BlockEntities">
-      <property name="Vertices" value="316072" />
-      <property name="Triangles" value="120090" />
+      <property name="Vertices" value="322390" />
+      <property name="Triangles" value="120077" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="82810" />
-      <property name="Triangles" value="49511" />
+      <property name="Vertices" value="82859" />
+      <property name="Triangles" value="49499" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -64,6 +64,9 @@
       <property name="1" value="34, 5, 37" />
       <property name="2" value="35, 3, 37" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="40, 2, 39" />
+    </property>
     <property class="quest_stone">
       <property name="0" value="6, 2, 22" />
     </property>
@@ -74,26 +77,17 @@
       <property name="0" value="37, 4, 22" />
       <property name="1" value="40, 5, 22" />
     </property>
-    <property class="challenge_booths">
+    <property class="challenge_leather">
       <property name="0" value="37, 2, 21" />
       <property name="1" value="38, 2, 21" />
       <property name="2" value="37, 2, 23" />
       <property name="3" value="38, 2, 23" />
     </property>
-    <property class="Rally">
-      <property name="0" value="11, 2, 29" />
-    </property>
     <property class="challenge_sinks">
-      <property name="0" value="28, 2, 22" />
-      <property name="1" value="28, 2, 25" />
-      <property name="2" value="30, 2, 25" />
-      <property name="3" value="26, 3, 28" />
-      <property name="4" value="26, 3, 29" />
-      <property name="5" value="28, 2, 30" />
-      <property name="6" value="30, 2, 30" />
-      <property name="7" value="32, 2, 30" />
-      <property name="8" value="34, 2, 30" />
-      <property name="9" value="35, 2, 30" />
+      <property name="0" value="27, 5, 39" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="13, 2, 29" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="25, 2, 23" />
@@ -107,8 +101,14 @@
       <property name="1" value="33, 5, 32" />
       <property name="2" value="23, 5, 34" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="37, 3, 22" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="38, 8, 25" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="39, 2, 36" />
     </property>
   </property>
 </prefab>

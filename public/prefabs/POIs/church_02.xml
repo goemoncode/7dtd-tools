@@ -16,7 +16,7 @@
   <property name="SleeperVolumeSize" value="11, 3, 34#16, 3, 11#16, 3, 15#5, 3, 8#4, 8, 5#5, 3, 8" />
   <property name="SleeperVolumeStart" value="0, 2, 3#12, 3, 25#12, 3, 10#17, 9, 7#18, 12, 7#35, 2, 26" />
   <property name="SleeperVolumeGroupId" value="0,0,0,1,1,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,True" />
   <property name="SleeperVolumeFlags" value="0,0,0,2,2,0" />
@@ -28,40 +28,36 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_02" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="Tags" value="countrytown,nodiagonal" />
+  <property name="Tags" value="countrytown, nodiagonal" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="450685" />
-    <property name="TotalTriangles" value="218430" />
+    <property name="TotalVertices" value="345611" />
+    <property name="TotalTriangles" value="176785" />
     <property class="BlockEntities">
-      <property name="Vertices" value="357186" />
-      <property name="Triangles" value="160913" />
+      <property name="Vertices" value="250773" />
+      <property name="Triangles" value="118447" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="86953" />
-      <property name="Triangles" value="48521" />
+      <property name="Vertices" value="88260" />
+      <property name="Triangles" value="49326" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1344" />
+      <property name="Triangles" value="1104" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1312" />
-      <property name="Triangles" value="1088" />
-    </property>
-    <property class="ChunkMeshes4">
       <property name="Vertices" value="320" />
       <property name="Triangles" value="160" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="4914" />
       <property name="Triangles" value="7748" />
     </property>
@@ -87,8 +83,27 @@
     <property class="FetchContainer">
       <property name="0" value="22, 3, 35" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="38, 2, 27" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="25, 9, 11" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="26, 4, 33" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="25, 4, 35" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="25, 3, 37" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="21, 3, 12" />
+      <property name="1" value="21, 9, 12" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="33, 2, 13" />
     </property>
   </property>
 </prefab>

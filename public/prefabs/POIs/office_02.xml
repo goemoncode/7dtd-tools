@@ -16,7 +16,7 @@
   <property name="SleeperVolumeSize" value="7, 2, 6#13, 4, 11#5, 10, 18#13, 4, 7#8, 4, 11#15, 3, 5#26, 3, 29#3, 3, 2#8, 2, 7#3, 3, 5#12, 3, 8#2, 3, 5" />
   <property name="SleeperVolumeStart" value="30, 6, 13#16, 0, 12#11, 1, 14#16, 0, 23#29, 0, 19#22, 1, 30#14, 11, 11#30, 6, 21#29, 6, 28#17, 6, 30#17, 6, 13#26, 11, 30" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Businessman,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_Zom_Businessman,1,1,S_-Group_Generic_Zombie,1,1,S_Zom_Businessman,1,1,S_-_Group_Zom_Badass,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-_Group_Zom_Badass,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="ZomBusinessman,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,ZomBusinessman,1,1,GroupGenericZombie,1,1,ZomBusinessman,1,1,GroupZomBadass,3,3,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupZomBadass,1,1,GroupGenericZombie,1,1,GroupGenericZombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,True" />
   <property name="SleeperIsQuestExclude" value="False,False,True,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="3,0,0,0,0,0,0,0,0,3,0,3" />
@@ -91,8 +91,8 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="459933" />
-    <property name="TotalTriangles" value="182849" />
+    <property name="TotalVertices" value="457163" />
+    <property name="TotalTriangles" value="178609" />
     <property class="BlockEntities">
       <property name="Vertices" value="373857" />
       <property name="Triangles" value="130158" />
@@ -120,10 +120,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="2770" />
-      <property name="Triangles" value="4240" />
     </property>
   </property>
 </prefab>
