@@ -41,15 +41,16 @@
   <property name="ThemeTags" value="storeHardware" />
   <property name="ThemeRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="1067745" />
-    <property name="TotalTriangles" value="358088" />
+    <property name="LightsVolume" value="16089.25" />
+    <property name="TotalVertices" value="1099611" />
+    <property name="TotalTriangles" value="369160" />
     <property class="BlockEntities">
-      <property name="Vertices" value="945430" />
-      <property name="Triangles" value="277615" />
+      <property name="Vertices" value="975303" />
+      <property name="Triangles" value="288127" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="110715" />
-      <property name="Triangles" value="63713" />
+      <property name="Vertices" value="112708" />
+      <property name="Triangles" value="64273" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -105,19 +106,14 @@
       <property name="0" value="36, 10, 34" />
       <property name="1" value="38, 2, 45" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="32, 9, 47" />
+      <property name="1" value="35, 9, 47" />
+      <property name="2" value="32, 9, 50" />
+      <property name="3" value="35, 9, 50" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="32, 3, 42" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="30, 2, 38" />
-      <property name="1" value="30, 4, 38" />
-      <property name="2" value="31, 2, 38" />
-      <property name="3" value="31, 4, 38" />
-      <property name="4" value="32, 2, 38" />
-      <property name="5" value="32, 4, 38" />
-      <property name="6" value="33, 2, 38" />
-      <property name="7" value="33, 4, 38" />
-      <property name="8" value="35, 3, 42" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="27, 2, 42" />

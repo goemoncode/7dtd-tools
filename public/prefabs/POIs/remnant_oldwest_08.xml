@@ -14,41 +14,38 @@
   <property name="EditorGroups" value="oldwest, remnant" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="oldwest" />
-  <property name="PrefabSize" value="25, 22, 25" />
+  <property name="PrefabSize" value="25, 19, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="32880" />
-    <property name="TotalTriangles" value="20628" />
+    <property name="LightsVolume" value="268.0826" />
+    <property name="TotalVertices" value="32371" />
+    <property name="TotalTriangles" value="20258" />
     <property class="BlockEntities">
-      <property name="Vertices" value="10010" />
-      <property name="Triangles" value="3448" />
+      <property name="Vertices" value="9836" />
+      <property name="Triangles" value="3730" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="19183" />
-      <property name="Triangles" value="11482" />
+      <property name="Vertices" value="18871" />
+      <property name="Triangles" value="10946" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="754" />
+      <property name="Triangles" value="530" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="717" />
-      <property name="Triangles" value="530" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="2970" />
-      <property name="Triangles" value="5168" />
+      <property name="Vertices" value="2910" />
+      <property name="Triangles" value="5052" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

@@ -46,20 +46,24 @@
     <property class="challenge_sinks">
       <property name="0" value="15, 12, 11" />
     </property>
+    <property class="POILight">
+      <property name="0" value="13, 11, 13" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="19, 10, 14" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="133380" />
-    <property name="TotalTriangles" value="60948" />
+    <property name="LightsVolume" value="43546.09" />
+    <property name="TotalVertices" value="133448" />
+    <property name="TotalTriangles" value="59976" />
     <property class="BlockEntities">
-      <property name="Vertices" value="100297" />
-      <property name="Triangles" value="39888" />
+      <property name="Vertices" value="100299" />
+      <property name="Triangles" value="38864" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="21861" />
-      <property name="Triangles" value="12172" />
+      <property name="Vertices" value="21929" />
+      <property name="Triangles" value="12228" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="8640" />
@@ -78,8 +82,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="2582" />
-      <property name="Triangles" value="4568" />
+      <property name="Vertices" value="2580" />
+      <property name="Triangles" value="4564" />
     </property>
   </property>
 </prefab>

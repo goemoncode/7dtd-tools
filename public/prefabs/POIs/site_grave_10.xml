@@ -32,8 +32,8 @@
   <property name="Tags" value="wilderness" />
   <property name="ThemeTags" value="wildernesspoi" />
   <property class="Stats">
-    <property name="TotalVertices" value="50237" />
-    <property name="TotalTriangles" value="21786" />
+    <property name="TotalVertices" value="49113" />
+    <property name="TotalTriangles" value="21174" />
     <property class="BlockEntities">
       <property name="Vertices" value="34760" />
       <property name="Triangles" value="9073" />
@@ -43,8 +43,8 @@
       <property name="Triangles" value="4065" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="6272" />
-      <property name="Triangles" value="3136" />
+      <property name="Vertices" value="5184" />
+      <property name="Triangles" value="2592" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="0" />
@@ -59,8 +59,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="3126" />
-      <property name="Triangles" value="5512" />
+      <property name="Vertices" value="3090" />
+      <property name="Triangles" value="5444" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

@@ -30,15 +30,16 @@
   <property name="Tags" value="streettile, rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="988546" />
-    <property name="TotalTriangles" value="518510" />
+    <property name="LightsVolume" value="18722.19" />
+    <property name="TotalVertices" value="984342" />
+    <property name="TotalTriangles" value="517141" />
     <property class="BlockEntities">
-      <property name="Vertices" value="608270" />
-      <property name="Triangles" value="221380" />
+      <property name="Vertices" value="603027" />
+      <property name="Triangles" value="220940" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="268918" />
-      <property name="Triangles" value="159850" />
+      <property name="Vertices" value="269957" />
+      <property name="Triangles" value="158921" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="38912" />
@@ -71,12 +72,12 @@
     <property class="challenge_mech_parts">
       <property name="0" value="122, 13, 147" />
     </property>
-    <property class="challenge_gore">
-      <property name="0" value="146, 16, 130" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="143, 10, 128" />
       <property name="1" value="146, 16, 135" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="146, 16, 130" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="130, 13, 81" />

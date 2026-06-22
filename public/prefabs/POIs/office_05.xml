@@ -73,23 +73,24 @@
     <property class="quest_wood_trees">
       <property name="0" value="32, 1, 40" />
     </property>
-    <property class="quest_stone_boulder">
-      <property name="0" value="26, 1, 24" />
-    </property>
     <property class="Rally">
       <property name="0" value="28, 1, 5" />
     </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="26, 1, 24" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="820760" />
-    <property name="TotalTriangles" value="335554" />
+    <property name="LightsVolume" value="10423.35" />
+    <property name="TotalVertices" value="809880" />
+    <property name="TotalTriangles" value="330140" />
     <property class="BlockEntities">
-      <property name="Vertices" value="625085" />
-      <property name="Triangles" value="220538" />
+      <property name="Vertices" value="614658" />
+      <property name="Triangles" value="215838" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="183833" />
-      <property name="Triangles" value="104438" />
+      <property name="Vertices" value="183380" />
+      <property name="Triangles" value="103724" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

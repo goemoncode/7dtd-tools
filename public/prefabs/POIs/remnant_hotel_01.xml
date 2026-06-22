@@ -21,7 +21,6 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
-  <property name="Tags" value="commercial" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="90, 5, 88" />
@@ -42,16 +41,16 @@
       <property name="6" value="66, 9, 54" />
       <property name="7" value="66, 13, 54" />
     </property>
-    <property class="challenge_mech_parts">
-      <property name="0" value="71, 5, 53" />
-      <property name="1" value="71, 9, 53" />
-      <property name="2" value="71, 13, 53" />
-    </property>
     <property class="POILight">
       <property name="0" value="70, 7, 83" />
       <property name="1" value="70, 7, 85" />
       <property name="2" value="71, 7, 87" />
       <property name="3" value="73, 7, 87" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="71, 5, 53" />
+      <property name="1" value="71, 9, 53" />
+      <property name="2" value="71, 13, 53" />
     </property>
     <property class="quest_feather">
       <property name="0" value="30, 21, 39" />
@@ -93,14 +92,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="978397" />
-    <property name="TotalTriangles" value="472962" />
+    <property name="LightsVolume" value="4821.297" />
+    <property name="TotalVertices" value="978537" />
+    <property name="TotalTriangles" value="450326" />
     <property class="BlockEntities">
-      <property name="Vertices" value="761124" />
-      <property name="Triangles" value="323794" />
+      <property name="Vertices" value="760986" />
+      <property name="Triangles" value="301158" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="160471" />
+      <property name="Vertices" value="160749" />
       <property name="Triangles" value="87396" />
     </property>
     <property class="ChunkMeshes1">

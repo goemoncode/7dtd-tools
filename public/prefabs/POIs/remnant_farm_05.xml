@@ -19,27 +19,28 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
-  <property name="POIMarkerSize" value="19, 13, 3" />
-  <property name="POIMarkerStart" value="30, 6, -2" />
-  <property name="POIMarkerGroup" value="new" />
+  <property name="POIMarkerSize" value="20, 13, 3" />
+  <property name="POIMarkerStart" value="30, 6, -3" />
+  <property name="POIMarkerGroup" value="driveway" />
   <property name="POIMarkerTags" value="" />
   <property name="POIMarkerType" value="PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_04" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_19" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="YOffset" value="-7" />
   <property name="EditorGroups" value="rural" />
   <property name="Tags" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="122930" />
-    <property name="TotalTriangles" value="74637" />
+    <property name="LightsVolume" value="2323.776" />
+    <property name="TotalVertices" value="466140" />
+    <property name="TotalTriangles" value="221535" />
     <property class="BlockEntities">
-      <property name="Vertices" value="26209" />
-      <property name="Triangles" value="8235" />
+      <property name="Vertices" value="366213" />
+      <property name="Triangles" value="154227" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="68315" />
-      <property name="Triangles" value="38628" />
+      <property name="Vertices" value="71449" />
+      <property name="Triangles" value="39498" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="16576" />
@@ -50,8 +51,8 @@
       <property name="Triangles" value="502" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="72" />
+      <property name="Triangles" value="36" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -78,6 +79,7 @@
       <property name="0" value="47, 9, 18" />
       <property name="1" value="46, 8, 24" />
       <property name="2" value="46, 9, 24" />
+      <property name="3" value="47, 8, 24" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="48, 8, 14" />

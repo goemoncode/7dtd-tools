@@ -24,22 +24,23 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # #1#6" />
   <property name="Zoning" value="none" />
   <property class="Stats">
-    <property name="TotalVertices" value="1800694" />
-    <property name="TotalTriangles" value="736495" />
+    <property name="LightsVolume" value="28521.1" />
+    <property name="TotalVertices" value="1800568" />
+    <property name="TotalTriangles" value="738596" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1474748" />
-      <property name="Triangles" value="536506" />
+      <property name="Vertices" value="1471210" />
+      <property name="Triangles" value="538627" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="298368" />
-      <property name="Triangles" value="171833" />
+      <property name="Vertices" value="301744" />
+      <property name="Triangles" value="171813" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="16352" />
+      <property name="Vertices" value="16388" />
       <property name="Triangles" value="10540" />
     </property>
     <property class="ChunkMeshes3">
@@ -68,6 +69,9 @@
       <property name="1" value="47, 12, 31" />
       <property name="2" value="47, 17, 31" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="49, 7, 25" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="34, 12, 22" />
       <property name="1" value="34, 17, 28" />
@@ -79,14 +83,6 @@
       <property name="3" value="47, 7, 29" />
       <property name="4" value="47, 12, 29" />
       <property name="5" value="47, 17, 29" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="34, 7, 30" />
-      <property name="1" value="34, 12, 30" />
-      <property name="2" value="34, 17, 30" />
-      <property name="3" value="43, 7, 30" />
-      <property name="4" value="43, 12, 30" />
-      <property name="5" value="43, 17, 30" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="3, 2, 22" />

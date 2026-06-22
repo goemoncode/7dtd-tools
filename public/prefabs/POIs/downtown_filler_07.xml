@@ -27,15 +27,16 @@
   <property name="Tags" value="downtown" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="638744" />
-    <property name="TotalTriangles" value="256063" />
+    <property name="LightsVolume" value="10478.06" />
+    <property name="TotalVertices" value="641444" />
+    <property name="TotalTriangles" value="255342" />
     <property class="BlockEntities">
-      <property name="Vertices" value="508258" />
-      <property name="Triangles" value="173007" />
+      <property name="Vertices" value="511485" />
+      <property name="Triangles" value="173343" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="121818" />
-      <property name="Triangles" value="75344" />
+      <property name="Vertices" value="121291" />
+      <property name="Triangles" value="74287" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3968" />
@@ -85,9 +86,6 @@
       <property name="4" value="20, 14, 14" />
       <property name="5" value="20, 20, 14" />
     </property>
-    <property class="QuestRestorePower">
-      <property name="0" value="5, 2, 4" />
-    </property>
     <property class="POILight">
       <property name="0" value="13, 5, 12" />
       <property name="1" value="15, 17, 12" />
@@ -96,19 +94,24 @@
       <property name="4" value="19, 17, 12" />
       <property name="5" value="19, 23, 12" />
       <property name="6" value="13, 12, 13" />
-      <property name="7" value="16, 9, 13" />
-      <property name="8" value="16, 12, 13" />
-      <property name="9" value="14, 5, 15" />
-      <property name="10" value="19, 5, 17" />
-      <property name="11" value="20, 3, 18" />
-      <property name="12" value="14, 5, 19" />
-      <property name="13" value="14, 11, 19" />
-      <property name="14" value="15, 11, 19" />
-      <property name="15" value="19, 5, 19" />
-      <property name="16" value="19, 11, 19" />
-      <property name="17" value="14, 11, 20" />
-      <property name="18" value="15, 11, 20" />
-      <property name="19" value="14, 10, 21" />
+      <property name="7" value="15, 9, 13" />
+      <property name="8" value="16, 9, 13" />
+      <property name="9" value="16, 12, 13" />
+      <property name="10" value="12, 15, 15" />
+      <property name="11" value="14, 5, 15" />
+      <property name="12" value="19, 5, 17" />
+      <property name="13" value="20, 3, 18" />
+      <property name="14" value="14, 5, 19" />
+      <property name="15" value="14, 11, 19" />
+      <property name="16" value="15, 11, 19" />
+      <property name="17" value="19, 5, 19" />
+      <property name="18" value="19, 11, 19" />
+      <property name="19" value="14, 11, 20" />
+      <property name="20" value="15, 11, 20" />
+      <property name="21" value="14, 10, 21" />
+    </property>
+    <property class="QuestRestorePower">
+      <property name="0" value="5, 2, 4" />
     </property>
     <property class="quest_feather">
       <property name="0" value="21, 26, 9" />
@@ -138,6 +141,7 @@
       <property name="2" value="19, 2, 16" />
       <property name="3" value="14, 8, 17" />
       <property name="4" value="19, 8, 17" />
+      <property name="5" value="14, 8, 22" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="8, 8, 9" />

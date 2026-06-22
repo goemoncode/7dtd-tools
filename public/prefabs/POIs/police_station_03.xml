@@ -36,35 +36,36 @@
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1027460" />
-    <property name="TotalTriangles" value="407175" />
+    <property name="LightsVolume" value="12576.85" />
+    <property name="TotalVertices" value="773527" />
+    <property name="TotalTriangles" value="323963" />
     <property class="BlockEntities">
-      <property name="Vertices" value="930953" />
-      <property name="Triangles" value="352623" />
+      <property name="Vertices" value="670726" />
+      <property name="Triangles" value="255861" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="93635" />
-      <property name="Triangles" value="52836" />
+      <property name="Vertices" value="90533" />
+      <property name="Triangles" value="50570" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="1624" />
       <property name="Triangles" value="1092" />
     </property>
-    <property class="ChunkMeshes4">
+    <property class="ChunkMeshes3">
       <property name="Vertices" value="1248" />
       <property name="Triangles" value="624" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="9396" />
+      <property name="Triangles" value="15816" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -84,19 +85,44 @@
       <property name="0" value="31, 5, 33" />
       <property name="1" value="40, 4, 33" />
       <property name="2" value="42, 5, 33" />
-      <property name="3" value="37, 3, 36" />
-      <property name="4" value="34, 5, 38" />
-      <property name="5" value="40, 4, 39" />
+      <property name="3" value="32, 3, 36" />
+      <property name="4" value="37, 3, 36" />
+      <property name="5" value="37, 3, 37" />
+      <property name="6" value="34, 5, 38" />
+      <property name="7" value="40, 4, 39" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="51, 2, 48" />
+      <property name="1" value="59, 2, 52" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="47, 2, 52" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="35, 8, 33" />
+      <property name="1" value="34, 7, 34" />
+      <property name="2" value="34, 8, 34" />
+      <property name="3" value="34, 8, 35" />
+      <property name="4" value="40, 2, 39" />
+      <property name="5" value="40, 2, 40" />
+      <property name="6" value="33, 3, 42" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="40, 2, 37" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="34, 2, 31" />
-      <property name="1" value="41, 2, 33" />
-      <property name="2" value="35, 2, 35" />
-      <property name="3" value="39, 2, 35" />
-      <property name="4" value="38, 2, 39" />
+      <property name="0" value="50, 2, 16" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="40, 3, 36" />
+      <property name="1" value="42, 2, 36" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="21, 2, 17" />
+      <property name="1" value="21, 2, 18" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="34, 7, 33" />
     </property>
     <property class="quest_feather">
       <property name="0" value="32, 10, 34" />

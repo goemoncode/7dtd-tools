@@ -26,7 +26,6 @@ id,name,count
 403,woodShapes:plateCornerTwoWall,1
 413,woodShapes:plateHalf,1
 445,woodShapes:billboardQuarterTrim,5
-447,woodShapes:billboard,5
 461,woodShapes:halfPillar1mPlate,3
 518,woodShapes:poleSupport,8
 696,woodShapes:cubeHalfQuarterRoundInside,6
@@ -134,7 +133,7 @@ id,name,count
 2132,woodShapes:sidingBurnt04,1
 2138,woodShapes:woodDebris03,1
 2141,woodShapes:shantywall03,1
-2142,woodShapes:shantywall04,3
+2142,woodShapes:shantywall04,5
 2154,woodShapes:floorJoist,15
 2158,woodShapes:cubeHollowFloor,1
 2159,woodShapes:wallStud,6
@@ -272,8 +271,6 @@ id,name,count
 15478,corrugatedMetalShapes:windowPanel,2
 15618,corrugatedMetalShapes:bracketDouble,1
 15711,corrugatedMetalShapes:ladderRound,3
-16127,frameShapes:billboard,1
-17822,frameShapes:shantywall04,3
 18412,cntAmmoPileMedium,1
 18423,cntMedicLootPileB,1
 18440,cntShippingCrateConstructionSupplies,2
@@ -450,6 +447,8 @@ id,name,count
 23213,pipeSmallWallOutsideCornerGrey,1
 23253,waterHeaterWhite,1
 23270,utilityGasMeter01,1
+23609,fakeCabinetDoorTrap1x1Sheet,3
+23611,fakeCabinetDoorTrap1x2Sheet,2
 24077,treeDeadPineLeaf,3
 24087,plantShrubRandomHelper,17
 24089,plantHangingIvy02,2

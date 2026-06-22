@@ -52,15 +52,16 @@
   <property name="SVS28" value="spawn GroupZomSoldier 5^waitalive 2^spawn GroupZomSoldier 5" />
   <property name="SVS27" value="spawn GroupZomSoldier 10^waitalive 4^spawn GroupZomSoldier 10" />
   <property class="Stats">
-    <property name="TotalVertices" value="2809640" />
-    <property name="TotalTriangles" value="1107986" />
+    <property name="LightsVolume" value="42216.78" />
+    <property name="TotalVertices" value="2795216" />
+    <property name="TotalTriangles" value="1095522" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2369579" />
-      <property name="Triangles" value="818473" />
+      <property name="Vertices" value="2354587" />
+      <property name="Triangles" value="807042" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="395825" />
-      <property name="Triangles" value="226045" />
+      <property name="Vertices" value="396393" />
+      <property name="Triangles" value="225012" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

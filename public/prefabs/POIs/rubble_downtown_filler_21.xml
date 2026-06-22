@@ -31,15 +31,16 @@
   <property name="EditorGroups" value="downtown" />
   <property name="Tags" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="180445" />
-    <property name="TotalTriangles" value="90297" />
+    <property name="LightsVolume" value="68691.9" />
+    <property name="TotalVertices" value="180425" />
+    <property name="TotalTriangles" value="90280" />
     <property class="BlockEntities">
       <property name="Vertices" value="127859" />
       <property name="Triangles" value="52987" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="50338" />
-      <property name="Triangles" value="33602" />
+      <property name="Vertices" value="50318" />
+      <property name="Triangles" value="33585" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

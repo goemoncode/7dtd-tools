@@ -25,19 +25,20 @@
   <property name="Tags" value="testonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # #1# # " />
   <property name="SVS9" value="log trigger 1^trigger 1^sound trader_bob_announce_open^" />
-  <property name="SVS8" value="log start g1^sleep 1^spawn GroupZomSoldier 2 3^waitalive 1^spawn ZomLumberJack 1^" />
+  <property name="SVS8" value="log start grp1^^label l1^sleep 2^log spawn^spawn GroupZomSoldier 1^waitalive 0^loop l1 2^" />
   <property name="TriggerVolumeSize" value="1, 1, 1" />
   <property name="TriggerVolumeStart" value="66, 11, 27" />
   <property name="TriggerVolumeTriggers" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="825657" />
-    <property name="TotalTriangles" value="442937" />
+    <property name="LightsVolume" value="6330.476" />
+    <property name="TotalVertices" value="824343" />
+    <property name="TotalTriangles" value="441564" />
     <property class="BlockEntities">
-      <property name="Vertices" value="521868" />
-      <property name="Triangles" value="231910" />
+      <property name="Vertices" value="520506" />
+      <property name="Triangles" value="230537" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="240397" />
+      <property name="Vertices" value="240445" />
       <property name="Triangles" value="131285" />
     </property>
     <property class="ChunkMeshes1">
@@ -66,6 +67,19 @@
       <property name="0" value="124, 12, 36" />
       <property name="1" value="115, 11, 37" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="119, 17, 19" />
+      <property name="1" value="128, 7, 20" />
+      <property name="2" value="128, 7, 21" />
+      <property name="3" value="118, 7, 24" />
+      <property name="4" value="118, 17, 28" />
+      <property name="5" value="118, 18, 28" />
+      <property name="6" value="125, 12, 28" />
+      <property name="7" value="120, 8, 29" />
+      <property name="8" value="125, 12, 29" />
+      <property name="9" value="125, 13, 29" />
+      <property name="10" value="118, 13, 32" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="115, 11, 7" />
       <property name="1" value="129, 11, 10" />
@@ -80,17 +94,20 @@
     <property class="POILight">
       <property name="0" value="124, 15, 36" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="121, 12, 21" />
+      <property name="1" value="127, 12, 22" />
+      <property name="2" value="128, 8, 23" />
+      <property name="3" value="120, 25, 29" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="123, 21, 34" />
     </property>
     <property class="Rally">
       <property name="0" value="110, 11, 24" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="118, 18, 28" />
-      <property name="1" value="125, 12, 28" />
-      <property name="2" value="125, 13, 29" />
-      <property name="3" value="118, 13, 32" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="125, 8, 22" />
     </property>
     <property class="quest_stone_boulder">
       <property name="0" value="121, 16, 61" />

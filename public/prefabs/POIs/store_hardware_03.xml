@@ -26,15 +26,16 @@
   <property name="ThemeTags" value="storeHardware" />
   <property name="ThemeRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="1157975" />
-    <property name="TotalTriangles" value="514987" />
+    <property name="LightsVolume" value="27996.12" />
+    <property name="TotalVertices" value="1166991" />
+    <property name="TotalTriangles" value="506185" />
     <property class="BlockEntities">
-      <property name="Vertices" value="916365" />
-      <property name="Triangles" value="346250" />
+      <property name="Vertices" value="928477" />
+      <property name="Triangles" value="340049" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="210054" />
-      <property name="Triangles" value="121061" />
+      <property name="Vertices" value="206958" />
+      <property name="Triangles" value="118460" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -83,15 +84,16 @@
     <property class="challenge_sinks">
       <property name="0" value="66, 9, 73" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="50, 5, 88" />
+      <property name="1" value="59, 6, 88" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="50, 2, 88" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="57, 6, 87" />
       <property name="1" value="58, 2, 87" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="59, 6, 88" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="28, 6, 59" />

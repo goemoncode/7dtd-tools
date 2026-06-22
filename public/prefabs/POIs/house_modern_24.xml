@@ -39,23 +39,24 @@
   <property name="SVS46" value="sleep 0.5^sound explosion_buzzer1^sleep 1^trigger 13^sleep 0.2^trigger 14" />
   <property name="SVS45" value="sleep 1^sound elevator_ding4^sleep 0.5^trigger 12^sleep 2^trigger 10^sound explosion_buzzer1^sleep 1^trigger 11" />
   <property class="Stats">
-    <property name="TotalVertices" value="2084092" />
-    <property name="TotalTriangles" value="932426" />
+    <property name="LightsVolume" value="26763.23" />
+    <property name="TotalVertices" value="2086882" />
+    <property name="TotalTriangles" value="904223" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1615585" />
-      <property name="Triangles" value="622461" />
+      <property name="Vertices" value="1619950" />
+      <property name="Triangles" value="596009" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="393667" />
-      <property name="Triangles" value="228481" />
+      <property name="Vertices" value="392220" />
+      <property name="Triangles" value="226794" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="24320" />
       <property name="Triangles" value="12160" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="7884" />
-      <property name="Triangles" value="4028" />
+      <property name="Vertices" value="7756" />
+      <property name="Triangles" value="3964" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="2648" />

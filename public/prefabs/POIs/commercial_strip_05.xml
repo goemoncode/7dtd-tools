@@ -31,15 +31,16 @@
   <property name="SleeperVolumeFlags" value="2,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2,2,2,2,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1001062" />
-    <property name="TotalTriangles" value="401527" />
+    <property name="LightsVolume" value="7250.991" />
+    <property name="TotalVertices" value="997656" />
+    <property name="TotalTriangles" value="396373" />
     <property class="BlockEntities">
-      <property name="Vertices" value="817990" />
-      <property name="Triangles" value="286703" />
+      <property name="Vertices" value="818370" />
+      <property name="Triangles" value="286521" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="169870" />
-      <property name="Triangles" value="96696" />
+      <property name="Vertices" value="166148" />
+      <property name="Triangles" value="91756" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -50,8 +51,8 @@
       <property name="Triangles" value="1260" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1232" />
-      <property name="Triangles" value="616" />
+      <property name="Vertices" value="1168" />
+      <property name="Triangles" value="584" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -70,13 +71,18 @@
       <property name="0" value="49, 4, 48" />
     </property>
     <property class="challenge_polymers">
-      <property name="0" value="46, 8, 48" />
+      <property name="0" value="50, 3, 32" />
     </property>
     <property class="POILight">
       <property name="0" value="47, 11, 47" />
       <property name="1" value="47, 9, 48" />
       <property name="2" value="47, 6, 50" />
       <property name="3" value="48, 10, 50" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="46, 3, 46" />
+      <property name="1" value="46, 3, 49" />
+      <property name="2" value="46, 8, 49" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="36, 3, 39" />
@@ -86,11 +92,6 @@
     </property>
     <property class="challenge_leather">
       <property name="0" value="12, 8, 7" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="46, 3, 46" />
-      <property name="1" value="46, 3, 49" />
-      <property name="2" value="46, 8, 49" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="47, 3, 45" />

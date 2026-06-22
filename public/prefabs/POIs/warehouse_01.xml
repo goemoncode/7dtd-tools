@@ -22,14 +22,14 @@
   <property name="SleeperVolumeFlags" value="3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3" />
   <property name="Tags" value="industrial" />
   <property name="QuestTags" value="clear, fetch, infested" />
-  <property name="POIMarkerSize" value="9, 13, 1#10, 13, 1#10, 13, 1#1, 13, 40" />
-  <property name="POIMarkerStart" value="1, 1, -1#12, 1, -1#83, 1, -1#100, 1, 37" />
-  <property name="POIMarkerGroup" value="driveway,driveway2,driveway3,driveway4" />
-  <property name="POIMarkerTags" value="industrial#industrial#industrial#industrial" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_industrial_08,part_driveway_industrial_04,part_driveway_industrial_04,part_driveway_industrial_07" />
-  <property name="POIMarkerPartRotations" value="2,2,2,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1" />
+  <property name="POIMarkerSize" value="9, 13, 1#10, 13, 1#10, 13, 1#1, 13, 33#1, 13, 9" />
+  <property name="POIMarkerStart" value="1, 1, -1#12, 1, -1#83, 1, -1#100, 1, 55#100, 1, 44" />
+  <property name="POIMarkerGroup" value="driveway,driveway2,driveway3,driveway4,driveway5" />
+  <property name="POIMarkerTags" value="industrial#industrial#industrial#industrial#industrial" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_industrial_08,part_driveway_industrial_04,part_driveway_industrial_04,part_driveway_industrial_14,part_driveway_industrial_08" />
+  <property name="POIMarkerPartRotations" value="2,2,2,1,1" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1" />
   <property name="PrefabSize" value="100, 20, 100" />
   <property name="SleeperVolumeTriggeredBy" value="18#17# # # # # # # # # # # # # # # # # # # # # #5#9#4#20#21" />
   <property name="TriggerVolumeSize" value="19, 10, 11#34, 7, 31#3, 7, 8" />
@@ -49,8 +49,7 @@
       <property name="2" value="98, 18, 96" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="71, 7, 56" />
-      <property name="1" value="80, 7, 56" />
+      <property name="0" value="82, 2, 2" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="89, 2, 50" />
@@ -95,17 +94,21 @@
     <property class="Rally">
       <property name="0" value="73, 2, 0" />
     </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="96, 2, 54" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1783788" />
-    <property name="TotalTriangles" value="769182" />
+    <property name="LightsVolume" value="90727.55" />
+    <property name="TotalVertices" value="1782974" />
+    <property name="TotalTriangles" value="764205" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1317349" />
-      <property name="Triangles" value="469247" />
+      <property name="Vertices" value="1315778" />
+      <property name="Triangles" value="466225" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="425175" />
-      <property name="Triangles" value="248945" />
+      <property name="Vertices" value="425868" />
+      <property name="Triangles" value="246958" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -116,8 +119,8 @@
       <property name="Triangles" value="7258" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="2544" />
-      <property name="Triangles" value="1272" />
+      <property name="Vertices" value="2608" />
+      <property name="Triangles" value="1304" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />

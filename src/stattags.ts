@@ -10,7 +10,7 @@ async function main() {
   prefabs
     .flatMap((props) => (props.tags ? props.tags.split(',') : []))
     .forEach((tag) => {
-      stats.set(tag, (stats.get(tag) ?? 0) + 1);
+      stats.set(tag.trim(), (stats.get(tag) ?? 0) + 1);
     });
   console.log(Object.fromEntries(stats));
 }

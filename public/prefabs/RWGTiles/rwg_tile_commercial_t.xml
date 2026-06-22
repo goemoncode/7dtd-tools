@@ -11,14 +11,14 @@
   <property name="YOffset" value="-11" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="60, 0, 60#42, 0, 42#60, 0, 60#42, 0, 42#42, 0, 42#11, 6, 7#8, 2, 13#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1" />
-  <property name="POIMarkerStart" value="90, 11, 90#9, 11, 97#90, 11, 0#9, 11, 55#9, 11, 13#104, 11, 81#66, 10, 65#61, 20, 80#80, 13, 62#65, 17, 63#79, 13, 80#68, 20, 126" />
-  <property name="POIMarkerGroup" value="1,2,5,4,3,fdtrk,caracc,light,light2,light3,light4,light5" />
-  <property name="POIMarkerTags" value="###########" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,,part_kiosk_foodtrailer_01,part_car_accident_01,part_streetlight_single_diagonal,part_crosswalk,part_trafficlight_single,part_crosswalk,part_streetlight_quad" />
-  <property name="POIMarkerPartRotations" value="1,3,1,3,3,0,2,0,2,2,1,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.8257576,0.5606061,1,0.2,0.2,0.2,0.2" />
+  <property name="POIMarkerSize" value="60, 0, 60#42, 0, 42#60, 0, 60#42, 0, 42#42, 0, 42#11, 5, 7#8, 3, 13#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#11, 5, 7#11, 5, 7#11, 5, 7#11, 5, 7#11, 5, 7" />
+  <property name="POIMarkerStart" value="90, 11, 90#9, 11, 97#90, 11, 0#9, 11, 55#9, 11, 13#104, 11, 81#66, 10, 65#61, 20, 80#80, 13, 62#65, 17, 63#79, 13, 80#68, 20, 126#104, 11, 81#104, 11, 81#104, 11, 81#104, 11, 81#104, 11, 81" />
+  <property name="POIMarkerGroup" value="1,2,5,4,3,fdtrk,caracc,light,light2,light3,light4,light5,fdtrk,fdtrk,fdtrk,fdtrk,fdtrk" />
+  <property name="POIMarkerTags" value="################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,part_kiosk_foodtrailer_01,part_car_accident_01,part_streetlight_single_diagonal,part_crosswalk,part_trafficlight_single,part_crosswalk,part_streetlight_quad,part_kiosk_foodtrailer_03,part_kiosk_foodtrailer_04,part_kiosk_foodtrailer_05,part_kiosk_foodtrailer_06,part_kiosk_foodtrailer_07" />
+  <property name="POIMarkerPartRotations" value="1,3,1,3,3,0,2,0,2,2,1,0,0,0,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.4,0.5606061,1,0.2,0.2,0.2,0.2,0.4,0.4,0.4,0.4,0.4" />
   <property name="SleeperVolumeSize" value="11, 3, 8#15, 5, 20#8, 4, 3#6, 6, 24#13, 4, 4" />
   <property name="SleeperVolumeStart" value="64, 2, 63#85, 1, 62#118, 3, 63#53, 2, 64#124, 2, 80" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
@@ -26,39 +26,40 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,2,2" />
-  <property name="PrefabSize" value="150, 21, 150" />
+  <property name="PrefabSize" value="150, 31, 150" />
   <property name="Tags" value="streettile, rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="608379" />
-    <property name="TotalTriangles" value="310755" />
+    <property name="LightsVolume" value="2762.769" />
+    <property name="TotalVertices" value="588172" />
+    <property name="TotalTriangles" value="380633" />
     <property class="BlockEntities">
-      <property name="Vertices" value="384786" />
-      <property name="Triangles" value="163619" />
+      <property name="Vertices" value="298641" />
+      <property name="Triangles" value="123085" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="206705" />
-      <property name="Triangles" value="138692" />
+      <property name="Vertices" value="203391" />
+      <property name="Triangles" value="135272" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="16768" />
       <property name="Triangles" value="8384" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="96" />
       <property name="Triangles" value="48" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="24" />
+      <property name="Triangles" value="12" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="24" />
-      <property name="Triangles" value="12" />
+      <property name="Vertices" value="69252" />
+      <property name="Triangles" value="113832" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -68,8 +69,37 @@
     <property class="POILight">
       <property name="0" value="139, 5, 83" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="86, 4, 62" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="139, 11, 65" />
+      <property name="1" value="142, 11, 68" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="148, 11, 83" />
+      <property name="1" value="144, 11, 86" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="60, 3, 67" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="85, 4, 63" />
+      <property name="1" value="84, 3, 69" />
+      <property name="2" value="84, 4, 69" />
+      <property name="3" value="84, 3, 70" />
+      <property name="4" value="84, 4, 70" />
+      <property name="5" value="84, 3, 71" />
+      <property name="6" value="84, 4, 71" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="65, 3, 74" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="79, 11, 120" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="93, 3, 68" />
     </property>
   </property>
 </prefab>

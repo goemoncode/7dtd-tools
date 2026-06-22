@@ -27,7 +27,7 @@
   <property name="TriggerVolumeStart" value="8, 12, 12" />
   <property name="TriggerVolumeTriggers" value="2" />
   <property name="ThemeTags" value="police" />
-  <property name="ThemeRepeatDistance" value="500" />
+  <property name="ThemeRepeatDistance" value="2000" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="20, 4, 12" />
@@ -38,19 +38,29 @@
       <property name="5" value="22, 7, 14" />
       <property name="6" value="16, 8, 15" />
       <property name="7" value="20, 9, 15" />
-      <property name="8" value="13, 15, 17" />
-      <property name="9" value="16, 8, 17" />
-      <property name="10" value="17, 14, 17" />
-      <property name="11" value="12, 5, 18" />
-      <property name="12" value="17, 4, 18" />
-      <property name="13" value="17, 13, 18" />
-      <property name="14" value="21, 4, 18" />
-      <property name="15" value="21, 7, 18" />
-      <property name="16" value="17, 9, 19" />
-      <property name="17" value="13, 14, 20" />
-      <property name="18" value="17, 13, 20" />
-      <property name="19" value="24, 4, 21" />
-      <property name="20" value="19, 5, 22" />
+      <property name="8" value="12, 14, 16" />
+      <property name="9" value="13, 15, 17" />
+      <property name="10" value="16, 8, 17" />
+      <property name="11" value="17, 14, 17" />
+      <property name="12" value="12, 5, 18" />
+      <property name="13" value="17, 4, 18" />
+      <property name="14" value="17, 13, 18" />
+      <property name="15" value="21, 4, 18" />
+      <property name="16" value="21, 8, 18" />
+      <property name="17" value="17, 9, 19" />
+      <property name="18" value="13, 14, 20" />
+      <property name="19" value="17, 13, 20" />
+      <property name="20" value="24, 4, 21" />
+      <property name="21" value="19, 5, 22" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="20, 1, 13" />
+      <property name="1" value="20, 6, 13" />
+      <property name="2" value="18, 6, 15" />
+      <property name="3" value="17, 1, 17" />
+      <property name="4" value="17, 11, 19" />
+      <property name="5" value="17, 1, 20" />
+      <property name="6" value="23, 1, 21" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="2, 7, 21" />
@@ -81,12 +91,6 @@
       <property name="15" value="21, 3, 22" />
       <property name="16" value="21, 2, 24" />
     </property>
-    <property class="TraderOnOff">
-      <property name="0" value="20, 6, 13" />
-      <property name="1" value="18, 6, 15" />
-      <property name="2" value="17, 1, 17" />
-      <property name="3" value="17, 11, 19" />
-    </property>
     <property class="FetchContainer">
       <property name="0" value="13, 16, 13" />
       <property name="1" value="17, 6, 13" />
@@ -106,15 +110,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="685342" />
-    <property name="TotalTriangles" value="257654" />
+    <property name="LightsVolume" value="6428.56" />
+    <property name="TotalVertices" value="669415" />
+    <property name="TotalTriangles" value="248542" />
     <property class="BlockEntities">
-      <property name="Vertices" value="565511" />
-      <property name="Triangles" value="187140" />
+      <property name="Vertices" value="551243" />
+      <property name="Triangles" value="181255" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="116367" />
-      <property name="Triangles" value="68118" />
+      <property name="Vertices" value="114708" />
+      <property name="Triangles" value="64891" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

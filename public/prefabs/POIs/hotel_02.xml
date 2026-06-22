@@ -43,15 +43,16 @@
   <property name="SVS1" value="sleep 5^spawn zombieJanitorFeral 2^waitalive 0^spawn zombieJanitorFeral 2" />
   <property name="SVS0" value="spawn GroupAllFeral 1^waitalive 0^sleep 2^spawn GroupSpecialInfected 1^trigger 23" />
   <property class="Stats">
-    <property name="TotalVertices" value="3814565" />
-    <property name="TotalTriangles" value="1546002" />
+    <property name="LightsVolume" value="28029.59" />
+    <property name="TotalVertices" value="3825017" />
+    <property name="TotalTriangles" value="1534262" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3028771" />
-      <property name="Triangles" value="1025615" />
+      <property name="Vertices" value="3024156" />
+      <property name="Triangles" value="1016176" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="722786" />
-      <property name="Triangles" value="447003" />
+      <property name="Vertices" value="737803" />
+      <property name="Triangles" value="444698" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="8192" />
@@ -62,16 +63,16 @@
       <property name="Triangles" value="3976" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="10136" />
-      <property name="Triangles" value="5068" />
+      <property name="Vertices" value="10200" />
+      <property name="Triangles" value="5100" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="37208" />
-      <property name="Triangles" value="60244" />
+      <property name="Vertices" value="37194" />
+      <property name="Triangles" value="60216" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -106,12 +107,12 @@
       <property name="0" value="69, 12, 42" />
       <property name="1" value="69, 22, 42" />
     </property>
-    <property class="FetchContainer">
-      <property name="0" value="82, 6, 85" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="67, 4, 82" />
       <property name="1" value="70, 10, 95" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="82, 6, 85" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="89, 8, 97" />

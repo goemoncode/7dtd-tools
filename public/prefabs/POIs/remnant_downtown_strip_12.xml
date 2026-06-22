@@ -23,15 +23,16 @@
   <property name="EditorGroups" value="downtown" />
   <property name="Tags" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="588809" />
-    <property name="TotalTriangles" value="213977" />
+    <property name="LightsVolume" value="4284.943" />
+    <property name="TotalVertices" value="577983" />
+    <property name="TotalTriangles" value="208323" />
     <property class="BlockEntities">
-      <property name="Vertices" value="474915" />
-      <property name="Triangles" value="145478" />
+      <property name="Vertices" value="466028" />
+      <property name="Triangles" value="141841" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="104432" />
-      <property name="Triangles" value="57949" />
+      <property name="Vertices" value="102493" />
+      <property name="Triangles" value="55932" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -63,7 +64,10 @@
       <property name="0" value="25, 2, 26" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="39, 2, 14" />
+      <property name="0" value="39, 2, 23" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="15, 2, 23" />
     </property>
     <property class="quest_feather">
       <property name="0" value="38, 7, 4" />
@@ -78,9 +82,6 @@
     </property>
     <property class="challenge_pallet">
       <property name="0" value="15, 2, 12" />
-    </property>
-    <property class="challenge_steel">
-      <property name="0" value="15, 2, 23" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="21, 2, 3" />

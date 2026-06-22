@@ -29,15 +29,16 @@
   <property name="ThemeTags" value="police" />
   <property name="ThemeRepeatDistance" value="500" />
   <property class="Stats">
-    <property name="TotalVertices" value="1338727" />
-    <property name="TotalTriangles" value="518431" />
+    <property name="LightsVolume" value="20209.24" />
+    <property name="TotalVertices" value="1324313" />
+    <property name="TotalTriangles" value="506822" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1055931" />
-      <property name="Triangles" value="348422" />
+      <property name="Vertices" value="1044893" />
+      <property name="Triangles" value="339249" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="260552" />
-      <property name="Triangles" value="141599" />
+      <property name="Vertices" value="257176" />
+      <property name="Triangles" value="139163" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

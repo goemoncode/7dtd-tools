@@ -24,15 +24,16 @@
   <property name="PrefabSize" value="42, 16, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="332464" />
-    <property name="TotalTriangles" value="143249" />
+    <property name="LightsVolume" value="5489.078" />
+    <property name="TotalVertices" value="333433" />
+    <property name="TotalTriangles" value="143000" />
     <property class="BlockEntities">
-      <property name="Vertices" value="242911" />
-      <property name="Triangles" value="82996" />
+      <property name="Vertices" value="244379" />
+      <property name="Triangles" value="83525" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="81407" />
-      <property name="Triangles" value="50065" />
+      <property name="Vertices" value="80908" />
+      <property name="Triangles" value="49287" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -56,24 +57,27 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="34, 2, 22" />
+      <property name="1" value="24, 9, 25" />
+      <property name="2" value="24, 9, 27" />
+      <property name="3" value="29, 2, 27" />
+    </property>
     <property class="Rally">
       <property name="0" value="14, 2, 11" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="28, 8, 21" />
       <property name="1" value="22, 8, 25" />
+      <property name="2" value="22, 2, 26" />
+      <property name="3" value="26, 2, 26" />
+      <property name="4" value="29, 2, 29" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="22, 2, 23" />
     </property>
     <property class="POILight">
       <property name="0" value="39, 12, 39" />
-    </property>
-    <property class="challenge_polymers">
-      <property name="0" value="24, 9, 25" />
-      <property name="1" value="30, 2, 26" />
-      <property name="2" value="24, 9, 27" />
-      <property name="3" value="29, 2, 27" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="28, 8, 27" />

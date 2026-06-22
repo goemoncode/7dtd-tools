@@ -35,15 +35,16 @@
   <property name="ThemeTags" value="ruralchurch" />
   <property name="ThemeRepeatDistance" value="1500" />
   <property class="Stats">
-    <property name="TotalVertices" value="402138" />
-    <property name="TotalTriangles" value="218336" />
+    <property name="LightsVolume" value="6974.372" />
+    <property name="TotalVertices" value="416206" />
+    <property name="TotalTriangles" value="225487" />
     <property class="BlockEntities">
-      <property name="Vertices" value="273500" />
-      <property name="Triangles" value="132584" />
+      <property name="Vertices" value="287522" />
+      <property name="Triangles" value="139997" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="114240" />
-      <property name="Triangles" value="61774" />
+      <property name="Vertices" value="114282" />
+      <property name="Triangles" value="61504" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -62,8 +63,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="13946" />
-      <property name="Triangles" value="23752" />
+      <property name="Vertices" value="13950" />
+      <property name="Triangles" value="23760" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

@@ -35,22 +35,23 @@
   <property name="ThemeTags" value="storeHardware" />
   <property name="ThemeRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="321622" />
-    <property name="TotalTriangles" value="125639" />
+    <property name="LightsVolume" value="2075.259" />
+    <property name="TotalVertices" value="328985" />
+    <property name="TotalTriangles" value="127089" />
     <property class="BlockEntities">
-      <property name="Vertices" value="258286" />
-      <property name="Triangles" value="84824" />
+      <property name="Vertices" value="265701" />
+      <property name="Triangles" value="86710" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="56934" />
-      <property name="Triangles" value="32202" />
+      <property name="Vertices" value="56861" />
+      <property name="Triangles" value="31766" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1688" />
+      <property name="Vertices" value="1709" />
       <property name="Triangles" value="1209" />
     </property>
     <property class="ChunkMeshes3">

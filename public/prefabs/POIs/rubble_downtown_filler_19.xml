@@ -21,6 +21,7 @@
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property name="YOffset" value="-2" />
   <property name="Tags" value="downtown" />
+  <property name="EditorGroups" value="downtown" />
   <property class="Stats">
     <property name="TotalVertices" value="104020" />
     <property name="TotalTriangles" value="46596" />

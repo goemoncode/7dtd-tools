@@ -58,15 +58,16 @@
   <property name="SVS3" value="spawn zombieBurnt 2^waitalive 0^spawn zombieBurnt 1" />
   <property name="SVS2" value="spawn zombieNurseFeral 1^spawn zombieNurse 1^spawn GroupGenericZombie 1^spawn zombieSoldier 1^spawn zombieLab 1" />
   <property class="Stats">
-    <property name="TotalVertices" value="2155864" />
-    <property name="TotalTriangles" value="917505" />
+    <property name="LightsVolume" value="12485.63" />
+    <property name="TotalVertices" value="2151349" />
+    <property name="TotalTriangles" value="900078" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1633884" />
-      <property name="Triangles" value="579288" />
+      <property name="Vertices" value="1625304" />
+      <property name="Triangles" value="561670" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="413872" />
-      <property name="Triangles" value="247985" />
+      <property name="Vertices" value="417937" />
+      <property name="Triangles" value="248176" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="66112" />
@@ -123,11 +124,17 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="71, 13, 35" />
-      <property name="1" value="67, 13, 40" />
-      <property name="2" value="68, 13, 40" />
-      <property name="3" value="74, 8, 40" />
-      <property name="4" value="68, 8, 42" />
-      <property name="5" value="68, 13, 42" />
+      <property name="1" value="72, 8, 38" />
+      <property name="2" value="72, 13, 38" />
+      <property name="3" value="67, 13, 40" />
+      <property name="4" value="68, 13, 40" />
+      <property name="5" value="74, 8, 40" />
+      <property name="6" value="74, 13, 40" />
+      <property name="7" value="68, 8, 42" />
+      <property name="8" value="68, 13, 42" />
+      <property name="9" value="73, 8, 42" />
+      <property name="10" value="73, 13, 42" />
+      <property name="11" value="68, 8, 45" />
     </property>
     <property class="quest_feather">
       <property name="0" value="53, 18, 49" />

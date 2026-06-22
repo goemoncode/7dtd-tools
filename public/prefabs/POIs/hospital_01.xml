@@ -9,8 +9,8 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="commercial" />
-  <property name="SleeperVolumeSize" value="13, 4, 17#6, 4, 14#10, 7, 20#13, 6, 17#10, 6, 14#11, 3, 19#4, 2, 8#11, 5, 10#19, 4, 22#17, 4, 12#19, 5, 23#2, 5, 20#15, 4, 14#17, 4, 17#17, 4, 17#4, 4, 13#17, 4, 19#26, 7, 35#1, 3, 2#9, 7, 15#5, 7, 5#9, 5, 18#13, 8, 15#23, 4, 20#3, 4, 6#24, 4, 16#14, 4, 10#14, 4, 16#19, 4, 13#10, 4, 18#13, 5, 12#19, 4, 5#8, 2, 7#14, 5, 2#9, 3, 10#6, 3, 14#5, 4, 3#7, 4, 4#9, 8, 10#4, 4, 16#13, 4, 3#11, 4, 12#3, 4, 2#24, 4, 14#2, 1, 1#11, 4, 3#6, 4, 13#14, 4, 19#11, 1, 19#2, 2, 1#4, 4, 5#4, 2, 9#2, 3, 8#1, 3, 2#1, 3, 2#2, 2, 1#2, 3, 1" />
-  <property name="SleeperVolumeStart" value="71, 8, 40#55, 8, 44#61, 0, 36#53, 0, 58#35, 0, 73#30, 0, 40#22, 3, 38#5, 7, 45#10, 8, 60#30, 8, 59#29, 12, 32#9, 12, 55#55, 13, 44#30, 18, 54#30, 23, 50#43, 28, 53#16, 33, 41#11, 43, 33#41, 33, 50#20, 0, 61#42, 0, 60#61, 17, 37#71, 13, 55#62, 23, 36#75, 13, 43#4, 18, 40#48, 23, 49#48, 28, 43#29, 13, 59#61, 8, 37#4, 12, 44#28, 28, 44#53, 5, 51#15, 12, 80#6, 12, 75#38, 12, 72#36, 13, 56#71, 13, 38#34, 27, 53#30, 28, 50#34, 28, 50#22, 38, 41#50, 1, 69#30, 8, 44#33, 8, 75#33, 28, 41#22, 28, 39#71, 18, 36#30, 5, 40#29, 44, 56#33, 38, 46#22, 3, 47#15, 4, 45#43, 23, 68#33, 23, 68#29, 44, 44#32, 33, 62" />
+  <property name="SleeperVolumeSize" value="13, 4, 17#6, 4, 14#10, 7, 20#13, 6, 17#10, 6, 14#11, 3, 19#4, 2, 8#11, 5, 10#19, 4, 22#17, 4, 12#19, 6, 23#2, 5, 20#15, 4, 14#17, 4, 17#17, 4, 17#4, 4, 13#17, 4, 19#26, 7, 35#1, 3, 2#9, 7, 15#5, 7, 5#9, 5, 18#13, 8, 15#23, 4, 20#3, 4, 6#24, 4, 16#14, 4, 10#14, 4, 16#19, 4, 13#10, 4, 18#13, 5, 12#19, 4, 5#8, 2, 7#14, 5, 2#9, 3, 10#6, 3, 14#5, 4, 3#7, 4, 4#9, 8, 10#4, 4, 16#13, 4, 3#11, 4, 12#3, 4, 2#24, 3, 14#2, 1, 1#11, 4, 3#6, 4, 13#14, 4, 19#11, 1, 19#2, 2, 1#4, 4, 5#4, 2, 9#2, 3, 8#1, 3, 2#1, 3, 2#2, 2, 1#2, 3, 1" />
+  <property name="SleeperVolumeStart" value="71, 8, 40#55, 8, 44#61, 0, 36#53, 0, 58#35, 0, 73#30, 0, 40#22, 3, 38#5, 7, 45#10, 8, 60#30, 8, 59#29, 11, 32#9, 12, 55#55, 13, 44#30, 18, 54#30, 23, 50#43, 28, 53#16, 33, 41#11, 43, 33#41, 33, 50#20, 0, 61#42, 0, 60#61, 17, 37#71, 13, 55#62, 23, 36#75, 13, 43#4, 18, 40#48, 23, 49#48, 28, 43#29, 13, 59#61, 8, 37#4, 12, 44#28, 28, 44#53, 5, 51#15, 12, 80#6, 12, 75#38, 12, 72#36, 13, 56#71, 13, 38#34, 27, 53#30, 28, 50#34, 28, 50#22, 38, 41#50, 1, 69#30, 8, 44#33, 8, 75#33, 28, 41#22, 28, 39#71, 18, 36#30, 5, 40#29, 44, 56#33, 38, 46#22, 3, 47#15, 4, 45#43, 23, 68#33, 23, 68#29, 44, 44#32, 33, 62" />
   <property name="SleeperVolumeGroup" value="GroupHospital,5,5,GroupHospital,5,5,GroupHospital,1,1,GroupSpecialInfected,3,3,ZomUtilityWorker,3,3,GroupHospital,5,5,GroupHospital,0,0,GroupHospital,2,2,GroupHospital,5,5,zombieFatCop,1,1,GroupHospital,5,5,animalZombieVulture,1,1,GroupBikerBar,5,5,GroupHospital,7,7,GroupSpecialInfected,2,2,GroupZomBadass,1,1,ZomUtilityWorker,3,3,GroupZomBadass,10,10,GroupHospital,0,0,GroupSpecialInfected,5,5,GroupGenericZombie,3,3,GroupHospital,3,3,GroupHospital,3,3,GroupHospital,10,10,zombieScreamerFeral,1,1,GroupHospital,4,4,GroupHospital,5,5,GroupHospital,4,4,GroupZomSoldier,5,5,GroupHospital,2,2,GroupHospital,2,2,GroupHospital,5,5,zombieUtilityWorkerFeralGroup,2,2,animalZombieVulture,1,1,GroupGenericZombie,0,0,animalZombieDog,3,3,zombieBikerFeral,1,1,GroupHospital,3,3,GroupHospital,0,0,GroupZomBadass,2,2,GroupZomBadass,1,1,ZomUtilityWorker,1,1,GroupHospital,1,2,GroupGenericZombie,5,5,ZomUtilityWorker,0,0,GroupGenericZombie,3,3,ZomUtilityWorker,1,1,ZomBusinessman,2,2,GroupHospital,0,0,GroupGenericZombie,0,0,ZomUtilityWorker,2,2,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
@@ -25,14 +25,6 @@
   <property name="PrefabSize" value="100, 64, 100" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # #5# # # # # # # # # # # #7#2#2# # # # # # # # # # # # # # # # #6#9# # # # # #8# # # #5#7# #5#5#9#9#7#7" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="54, 1, 1" />
-  <property name="POIMarkerStart" value="41, 6, -1" />
-  <property name="POIMarkerGroup" value="driveway" />
-  <property name="POIMarkerTags" value="commercial" />
-  <property name="POIMarkerType" value="PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_hospital_01" />
-  <property name="POIMarkerPartRotations" value="2" />
-  <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="TriggerVolumeSize" value="10, 1, 10#1, 3, 2#20, 7, 21#6, 5, 13#19, 1, 21#17, 2, 16" />
   <property name="TriggerVolumeStart" value="31, 1, 43#74, 13, 43#15, 42, 39#16, 38, 47#11, 8, 60#30, 23, 50" />
   <property name="TriggerVolumeTriggers" value="5#6#7#7#8#9" />
@@ -49,15 +41,16 @@
   <property name="SVS18" value="sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 0^sound sleeperspawnmetal^spawn zombieNurseFeralGroup 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 0^sound sleeperspawnmetal^spawn zombieNurseFeralGroup 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1" />
   <property name="SVS6" value="sound elevator_ding4^spawn GroupHospital 1^waitalive 1^sound sleeperspawnmetal^spawn GroupHospital 1^waitalive 0^sound sleeperspawnmetal^spawn GroupHospital 1" />
   <property class="Stats">
-    <property name="TotalVertices" value="4044251" />
-    <property name="TotalTriangles" value="1518776" />
+    <property name="LightsVolume" value="50689.38" />
+    <property name="TotalVertices" value="3894829" />
+    <property name="TotalTriangles" value="1428535" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3380096" />
-      <property name="Triangles" value="1116286" />
+      <property name="Vertices" value="3229074" />
+      <property name="Triangles" value="1029828" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="616857" />
-      <property name="Triangles" value="345508" />
+      <property name="Vertices" value="618447" />
+      <property name="Triangles" value="341705" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -76,8 +69,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="29244" />
-      <property name="Triangles" value="47176" />
+      <property name="Vertices" value="29254" />
+      <property name="Triangles" value="47196" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -137,7 +130,7 @@
       <property name="0" value="77, 8, 65" />
     </property>
     <property class="Rally">
-      <property name="0" value="77, 8, 61" />
+      <property name="0" value="77, 8, 60" />
     </property>
   </property>
 </prefab>

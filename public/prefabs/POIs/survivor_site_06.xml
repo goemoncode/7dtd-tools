@@ -39,15 +39,16 @@
   <property name="TriggerVolumeStart" value="15, 7, 3" />
   <property name="TriggerVolumeTriggers" value="2" />
   <property class="Stats">
-    <property name="TotalVertices" value="351280" />
-    <property name="TotalTriangles" value="152433" />
+    <property name="LightsVolume" value="4749.659" />
+    <property name="TotalVertices" value="362875" />
+    <property name="TotalTriangles" value="156729" />
     <property class="BlockEntities">
-      <property name="Vertices" value="303893" />
-      <property name="Triangles" value="122418" />
+      <property name="Vertices" value="314949" />
+      <property name="Triangles" value="126746" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="44517" />
-      <property name="Triangles" value="26323" />
+      <property name="Vertices" value="45056" />
+      <property name="Triangles" value="26291" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,6 +72,10 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="15, 7, 19" />
+      <property name="1" value="13, 7, 20" />
+    </property>
     <property class="POILight">
       <property name="0" value="14, 5, 20" />
       <property name="1" value="17, 5, 20" />
@@ -87,19 +92,24 @@
     <property class="challenge_pallet">
       <property name="0" value="18, 2, 5" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="3, 2, 9" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="20, 2, 16" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="15, 7, 19" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="12, 2, 1" />
+      <property name="1" value="14, 7, 19" />
+      <property name="2" value="18, 3, 19" />
+      <property name="3" value="14, 3, 21" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="15, 3, 19" />
       <property name="1" value="20, 4, 19" />
       <property name="2" value="15, 3, 20" />
+      <property name="3" value="20, 3, 21" />
+      <property name="4" value="21, 4, 21" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="12, 2, 1" />
     </property>
   </property>
 </prefab>

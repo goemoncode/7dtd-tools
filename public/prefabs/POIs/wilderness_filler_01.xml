@@ -26,15 +26,16 @@
   <property name="ThemeTags" value="wildernesspoi" />
   <property name="ThemeRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="120190" />
-    <property name="TotalTriangles" value="76156" />
+    <property name="LightsVolume" value="561.6375" />
+    <property name="TotalVertices" value="118720" />
+    <property name="TotalTriangles" value="67746" />
     <property class="BlockEntities">
-      <property name="Vertices" value="105527" />
-      <property name="Triangles" value="64984" />
+      <property name="Vertices" value="103541" />
+      <property name="Triangles" value="56214" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="12635" />
-      <property name="Triangles" value="8052" />
+      <property name="Vertices" value="13151" />
+      <property name="Triangles" value="8412" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -65,18 +66,25 @@
       <property name="0" value="15, 2, 16" />
     </property>
     <property class="POILight">
-      <property name="0" value="6, 5, 13" />
-      <property name="1" value="6, 4, 15" />
-      <property name="2" value="6, 5, 15" />
-      <property name="3" value="8, 4, 15" />
-      <property name="4" value="6, 5, 17" />
-      <property name="5" value="7, 5, 19" />
-      <property name="6" value="6, 3, 21" />
-      <property name="7" value="8, 3, 21" />
+      <property name="0" value="5, 4, 13" />
+      <property name="1" value="5, 5, 13" />
+      <property name="2" value="6, 5, 13" />
+      <property name="3" value="6, 4, 15" />
+      <property name="4" value="6, 5, 15" />
+      <property name="5" value="8, 4, 15" />
+      <property name="6" value="6, 5, 17" />
+      <property name="7" value="7, 5, 19" />
+      <property name="8" value="6, 3, 21" />
+      <property name="9" value="8, 3, 21" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="5, 3, 12" />
       <property name="1" value="5, 3, 14" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="7, 3, 12" />
+      <property name="1" value="8, 3, 16" />
+      <property name="2" value="7, 3, 17" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="20, 1, 9" />
@@ -88,9 +96,6 @@
       <property name="3" value="8, 3, 18" />
       <property name="4" value="7, 4, 19" />
       <property name="5" value="8, 3, 19" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="8, 3, 16" />
     </property>
     <property class="quest_wood">
       <property name="0" value="21, 2, 18" />

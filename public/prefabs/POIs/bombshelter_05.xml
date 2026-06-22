@@ -31,15 +31,16 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="Tags" value="wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="146668" />
-    <property name="TotalTriangles" value="55331" />
+    <property name="LightsVolume" value="4006.578" />
+    <property name="TotalVertices" value="148207" />
+    <property name="TotalTriangles" value="56867" />
     <property class="BlockEntities">
-      <property name="Vertices" value="125898" />
-      <property name="Triangles" value="40021" />
+      <property name="Vertices" value="127254" />
+      <property name="Triangles" value="41405" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="18200" />
-      <property name="Triangles" value="10802" />
+      <property name="Vertices" value="18383" />
+      <property name="Triangles" value="10954" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -68,7 +69,7 @@
     </property>
     <property class="challenge_sinks">
       <property name="0" value="2, 9, 15" />
-      <property name="1" value="4, 10, 15" />
+      <property name="1" value="4, 9, 15" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="22, 7, 5" />

@@ -28,46 +28,79 @@
   <property name="TriggerVolumeStart" value="4, 12, 22" />
   <property name="TriggerVolumeTriggers" value="5" />
   <property class="Stats">
-    <property name="TotalVertices" value="1250971" />
-    <property name="TotalTriangles" value="518892" />
+    <property name="LightsVolume" value="20889.97" />
+    <property name="TotalVertices" value="972434" />
+    <property name="TotalTriangles" value="407526" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1037882" />
-      <property name="Triangles" value="393854" />
+      <property name="Vertices" value="756857" />
+      <property name="Triangles" value="278261" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="207607" />
-      <property name="Triangles" value="121070" />
+      <property name="Vertices" value="205385" />
+      <property name="Triangles" value="117909" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="5482" />
       <property name="Triangles" value="3968" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="4710" />
+      <property name="Triangles" value="7388" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_leather">
+      <property name="0" value="39, 2, 6" />
+      <property name="1" value="39, 7, 6" />
+      <property name="2" value="39, 7, 7" />
+      <property name="3" value="39, 12, 7" />
+      <property name="4" value="39, 2, 8" />
+      <property name="5" value="39, 7, 8" />
+      <property name="6" value="39, 12, 8" />
+      <property name="7" value="39, 12, 9" />
+      <property name="8" value="39, 2, 10" />
+      <property name="9" value="39, 2, 12" />
+      <property name="10" value="39, 2, 14" />
+      <property name="11" value="39, 2, 16" />
+    </property>
     <property class="POILight">
       <property name="0" value="38, 9, 27" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="40, 1, 35" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="39, 2, 25" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="41, 5, 26" />
+      <property name="1" value="37, 9, 27" />
+      <property name="2" value="37, 2, 31" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="12, 2, 25" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="39, 14, 13" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="37, 7, 6" />
+      <property name="1" value="38, 7, 14" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="37, 7, 20" />
     </property>
     <property class="quest_feather">
       <property name="0" value="41, 12, 18" />
@@ -75,8 +108,14 @@
     <property class="QuestRestorePower">
       <property name="0" value="26, 12, 12" />
     </property>
+    <property class="challenge_steel">
+      <property name="0" value="22, 7, 16" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="23, 1, 31" />
+    </property>
     <property class="Rally">
-      <property name="0" value="38, 1, 2" />
+      <property name="0" value="38, 1, 1" />
     </property>
   </property>
 </prefab>

@@ -1,0 +1,17 @@
+id,name,count
+6979,concreteShapes:cube,800
+15888,corrugatedMetalShapes:signNumber_4,1
+15902,corrugatedMetalShapes:signLetter_i,1
+15913,corrugatedMetalShapes:signLetter_t,1
+18413,cntAmmoPileLarge,1
+18423,cntMedicLootPileB,1
+18457,cntHardenedChestSecure,1
+18476,cntQuestInfestedT4LootHelper,1
+21660,rustyIronTable,2
+22256,cntPostMailbox,69
+24263,cntStoreCratesRandomLootHelper,3
+24269,questRallyMarker,1
+24271,cntQuestRandomLootHelper,1
+24273,questGeneratorSmall,1
+24282,sleeperIdle,3
+24299,infestedSleeperIdle,3

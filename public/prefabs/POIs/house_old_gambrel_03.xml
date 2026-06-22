@@ -37,22 +37,23 @@
   <property name="TriggerVolumeStart" value="58, 26, 51" />
   <property name="TriggerVolumeTriggers" value="9" />
   <property class="Stats">
-    <property name="TotalVertices" value="1704270" />
-    <property name="TotalTriangles" value="760418" />
+    <property name="LightsVolume" value="24226.05" />
+    <property name="TotalVertices" value="1672740" />
+    <property name="TotalTriangles" value="725197" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1467718" />
-      <property name="Triangles" value="584624" />
+      <property name="Vertices" value="1442915" />
+      <property name="Triangles" value="556025" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="191368" />
-      <property name="Triangles" value="105836" />
+      <property name="Vertices" value="184676" />
+      <property name="Triangles" value="99354" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="2266" />
+      <property name="Vertices" value="2301" />
       <property name="Triangles" value="1494" />
     </property>
     <property class="ChunkMeshes3">
@@ -64,8 +65,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="42918" />
-      <property name="Triangles" value="68464" />
+      <property name="Vertices" value="42848" />
+      <property name="Triangles" value="68324" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

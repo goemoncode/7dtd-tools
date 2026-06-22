@@ -15,45 +15,47 @@
   <property name="Zoning" value="NoZone" />
   <property name="Tags" value="wilderness" />
   <property name="EditorGroups" value="rural" />
-  <property name="SleeperVolumeSize" value="14, 4, 3#4, 3, 5#7, 4, 9#3, 3, 3#7, 3, 3#25, 3, 32#14, 1, 14#4, 3, 12#13, 3, 9#1, 3, 14#9, 5, 13#30, 4, 28#14, 3, 28#1, 4, 15#3, 3, 3#9, 4, 12#2, 3, 2#3, 3, 3#6, 3, 3#4, 4, 3#1, 2, 1" />
-  <property name="SleeperVolumeStart" value="28, 2, 80#52, 1, 82#63, 1, 76#52, 3, 71#68, 2, 70#54, 1, 30#29, 1, 72#59, 1, 75#45, 1, 74#44, 1, 73#59, 1, 63#23, 1, 34#43, 1, 34#78, 0, 47#56, 1, 82#59, 1, 64#50, 3, 71#47, 3, 71#52, 5, 83#75, 1, 70#21, 0, 78" />
-  <property name="SleeperVolumeGroupId" value="5,6,3,1,3,10,7,3,0,5,3,10,10,10,6,3,5,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="zombieBiker,1,1,zombieUtilityWorkerFeral,1,1,zombieUtilityWorkerFeral,2,2,zombieBikerFeral,2,2,ZomUtilityWorker,2,3,GroupGenericZombie,3,3,GroupGenericZombie,3,4,ZomUtilityWorker,0,0,GroupGenericZombie,2,3,zombieBiker,0,0,GroupGenericZombie,0,0,GroupGenericZombie,3,3,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupSpecialInfected,1,1,GroupGenericZombie,2,2,zombieUtilityWorkerFeral,2,2,zombieBikerFeral,2,2,GroupGenericZombie,0,0" />
-  <property name="SleeperIsLootVolume" value="True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False" />
-  <property name="SleeperVolumeFlags" value="2,2,2,3,2,2,0,0,0,2,2,2,2,2,0,2,3,3,3,3,3" />
-  <property name="POIMarkerSize" value="7, 1, 7#7, 2, 2#7, 2, 2#7, 2, 2#7, 2, 2#7, 5, 11" />
-  <property name="POIMarkerStart" value="47, 0, -4#47, 5, 71#47, 5, 71#47, 5, 71#47, 5, 71#22, 1, 31" />
-  <property name="POIMarkerGroup" value="new,sign1,sign2,sign3,sign4,food" />
-  <property name="POIMarkerTags" value="#####" />
-  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",part_concert_sign_01,part_concert_sign_02,part_concert_sign_03,part_concert_sign_04,part_kiosk_foodtrailer_01" />
-  <property name="POIMarkerPartRotations" value="2,2,2,2,2,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.25,0.25,0.25,0.25,1" />
+  <property name="SleeperVolumeSize" value="14, 4, 3#4, 3, 5#7, 4, 9#3, 3, 6#7, 3, 3#25, 3, 32#14, 1, 18#4, 3, 12#13, 2, 9#1, 3, 17#9, 5, 13#30, 4, 28#14, 3, 28#1, 4, 15#3, 3, 3#9, 4, 12#2, 3, 4#3, 3, 6#6, 3, 3#4, 4, 3#1, 2, 1#1, 1, 1" />
+  <property name="SleeperVolumeStart" value="28, 2, 83#52, 1, 85#63, 1, 76#52, 3, 71#68, 2, 70#54, 1, 30#29, 1, 72#59, 1, 75#45, 1, 74#44, 1, 73#59, 1, 63#23, 1, 34#43, 1, 34#78, 0, 47#56, 1, 85#59, 1, 64#50, 3, 71#47, 3, 71#52, 5, 85#75, 1, 70#21, 0, 78#50, 3, 69" />
+  <property name="SleeperVolumeGroupId" value="5,6,3,1,3,10,7,3,0,5,3,10,10,10,6,3,5,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="zombieBiker,1,1,zombieUtilityWorkerFeral,1,1,zombieUtilityWorkerFeral,2,2,zombieBikerFeral,2,2,ZomUtilityWorker,2,3,GroupGenericZombie,3,3,GroupGenericZombie,3,4,ZomUtilityWorker,0,0,GroupGenericZombie,2,3,zombieBiker,0,0,GroupGenericZombie,0,0,GroupGenericZombie,3,3,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupSpecialInfected,1,1,GroupGenericZombie,2,2,zombieUtilityWorkerFeral,2,2,zombieBikerFeral,2,2,GroupGenericZombie,0,0,GroupGenericZombie,0,0" />
+  <property name="SleeperIsLootVolume" value="True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,True,True" />
+  <property name="SleeperVolumeFlags" value="2,2,2,3,2,2,0,0,0,2,2,2,2,2,0,2,3,3,3,3,3,3" />
+  <property name="POIMarkerSize" value="7, 1, 7#7, 5, 11#7, 5, 11#7, 5, 11" />
+  <property name="POIMarkerStart" value="47, 0, -4#22, 1, 31#22, 1, 31#22, 1, 31" />
+  <property name="POIMarkerGroup" value="roadexit,food,food,food" />
+  <property name="POIMarkerTags" value="###" />
+  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",part_kiosk_foodtrailer_01,part_kiosk_foodtrailer_04,part_kiosk_foodtrailer_05" />
+  <property name="POIMarkerPartRotations" value="2,1,1,1" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.6,0.6" />
   <property name="PrefabSize" value="100, 20, 100" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # #4# # # # # # # # # # # # #4#4#5#6#4" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # #8# # # # # # # # # # # # #8#8#5#6#4#4" />
   <property name="TriggerVolumeSize" value="10, 4, 7" />
   <property name="TriggerVolumeStart" value="45, 3, 64" />
   <property name="TriggerVolumeTriggers" value="4" />
+  <property name="SVS21" value="sleep 1^trigger 8^sleep 2^trigger 9" />
   <property name="SVS20" value="sleep 1^trigger 7^sleep 2^trigger 7^sleep 2^trigger 7^sleep 2^trigger 7^sleep 2^trigger 7^sleep 10^trigger 7^sleep 5^trigger 7^sleep 10^trigger 7^sleep 5^trigger 7^sleep 20^trigger 7^sleep 0.5^trigger 7^sleep 0.5^trigger 7^sleep 0.5^trigger 7^sleep 0.5^trigger 7^" />
   <property class="Stats">
-    <property name="TotalVertices" value="1024600" />
-    <property name="TotalTriangles" value="509898" />
+    <property name="LightsVolume" value="5346.014" />
+    <property name="TotalVertices" value="1022420" />
+    <property name="TotalTriangles" value="484350" />
     <property class="BlockEntities">
-      <property name="Vertices" value="835796" />
-      <property name="Triangles" value="363468" />
+      <property name="Vertices" value="826264" />
+      <property name="Triangles" value="336196" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="161592" />
-      <property name="Triangles" value="104574" />
+      <property name="Vertices" value="168992" />
+      <property name="Triangles" value="106330" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="952" />
-      <property name="Triangles" value="476" />
+      <property name="Vertices" value="904" />
+      <property name="Triangles" value="444" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
@@ -112,8 +114,8 @@
       <property name="1" value="69, 1, 79" />
     </property>
     <property class="challenge_leather">
-      <property name="0" value="34, 2, 80" />
-      <property name="1" value="36, 2, 80" />
+      <property name="0" value="34, 2, 83" />
+      <property name="1" value="36, 2, 83" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="71, 2, 66" />

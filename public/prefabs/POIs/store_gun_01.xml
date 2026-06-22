@@ -33,18 +33,17 @@
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="PrefabSize" value="100, 23, 100" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # #2# " />
-  <property name="ThemeTags" value="storeGun" />
-  <property name="ThemeRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="1052628" />
-    <property name="TotalTriangles" value="484029" />
+    <property name="LightsVolume" value="12810.5" />
+    <property name="TotalVertices" value="1070081" />
+    <property name="TotalTriangles" value="474644" />
     <property class="BlockEntities">
-      <property name="Vertices" value="898949" />
-      <property name="Triangles" value="372248" />
+      <property name="Vertices" value="923988" />
+      <property name="Triangles" value="367153" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="125407" />
-      <property name="Triangles" value="68233" />
+      <property name="Vertices" value="117821" />
+      <property name="Triangles" value="63943" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,32 +70,40 @@
     <property class="quest_wood_trees">
       <property name="0" value="93, 3, 18" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="72, 3, 78" />
+    </property>
     <property class="Rally">
       <property name="0" value="47, 3, 18" />
     </property>
     <property class="POILight">
-      <property name="0" value="81, 11, 67" />
-      <property name="1" value="70, 6, 68" />
-      <property name="2" value="76, 5, 70" />
-      <property name="3" value="67, 5, 71" />
-      <property name="4" value="77, 6, 71" />
-      <property name="5" value="78, 6, 71" />
-      <property name="6" value="77, 6, 72" />
-      <property name="7" value="78, 6, 72" />
-      <property name="8" value="70, 6, 74" />
-      <property name="9" value="76, 5, 75" />
-      <property name="10" value="77, 6, 76" />
-      <property name="11" value="78, 6, 76" />
-      <property name="12" value="73, 5, 77" />
-      <property name="13" value="75, 5, 77" />
-      <property name="14" value="77, 6, 77" />
-      <property name="15" value="78, 6, 77" />
+      <property name="0" value="72, 9, 67" />
+      <property name="1" value="74, 9, 67" />
+      <property name="2" value="76, 9, 67" />
+      <property name="3" value="81, 11, 67" />
+      <property name="4" value="70, 6, 68" />
+      <property name="5" value="76, 5, 70" />
+      <property name="6" value="67, 5, 71" />
+      <property name="7" value="77, 6, 71" />
+      <property name="8" value="78, 6, 71" />
+      <property name="9" value="77, 6, 72" />
+      <property name="10" value="78, 6, 72" />
+      <property name="11" value="70, 6, 74" />
+      <property name="12" value="76, 5, 75" />
+      <property name="13" value="79, 4, 75" />
+      <property name="14" value="77, 6, 76" />
+      <property name="15" value="78, 6, 76" />
+      <property name="16" value="73, 5, 77" />
+      <property name="17" value="75, 5, 77" />
+      <property name="18" value="77, 6, 77" />
+      <property name="19" value="78, 6, 77" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="76, 5, 68" />
-      <property name="1" value="66, 3, 71" />
-      <property name="2" value="76, 3, 74" />
-      <property name="3" value="74, 3, 77" />
+      <property name="0" value="76, 3, 68" />
+      <property name="1" value="76, 5, 68" />
+      <property name="2" value="66, 3, 71" />
+      <property name="3" value="76, 3, 74" />
+      <property name="4" value="74, 3, 77" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="67, 4, 73" />
@@ -107,9 +114,6 @@
       <property name="0" value="68, 3, 71" />
       <property name="1" value="76, 3, 75" />
       <property name="2" value="73, 3, 78" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="72, 3, 78" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="73, 6, 75" />

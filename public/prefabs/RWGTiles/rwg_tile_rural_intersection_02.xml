@@ -22,11 +22,12 @@
   <property name="PrefabSize" value="150, 28, 150" />
   <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="546919" />
-    <property name="TotalTriangles" value="597317" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="604253" />
+    <property name="TotalTriangles" value="549418" />
     <property class="BlockEntities">
-      <property name="Vertices" value="470961" />
-      <property name="Triangles" value="487937" />
+      <property name="Vertices" value="528295" />
+      <property name="Triangles" value="440038" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="15528" />

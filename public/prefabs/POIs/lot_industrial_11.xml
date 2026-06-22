@@ -19,7 +19,7 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="EditorGroups" value="industrial" />
-  <property name="Tags" value="countrytown, countryresidential, industrial, nodiagonal" />
+  <property name="Tags" value="industrial, nodiagonal" />
   <property name="POIMarkerSize" value="7, 13, 1#5, 13, 1#5, 13, 2" />
   <property name="POIMarkerStart" value="16, 6, -1#17, 6, -1#17, 6, -2" />
   <property name="POIMarkerGroup" value="driveway,driveway2,driveway3" />
@@ -78,15 +78,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="155305" />
-    <property name="TotalTriangles" value="64061" />
+    <property name="LightsVolume" value="1261.632" />
+    <property name="TotalVertices" value="161507" />
+    <property name="TotalTriangles" value="64540" />
     <property class="BlockEntities">
-      <property name="Vertices" value="115566" />
-      <property name="Triangles" value="35139" />
+      <property name="Vertices" value="119226" />
+      <property name="Triangles" value="35955" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="37177" />
-      <property name="Triangles" value="24470" />
+      <property name="Vertices" value="39719" />
+      <property name="Triangles" value="24133" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

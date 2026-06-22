@@ -34,15 +34,16 @@
   <property name="TriggerVolumeStart" value="2, 3, 16" />
   <property name="TriggerVolumeTriggers" value="2" />
   <property class="Stats">
-    <property name="TotalVertices" value="633606" />
-    <property name="TotalTriangles" value="250608" />
+    <property name="LightsVolume" value="8888.612" />
+    <property name="TotalVertices" value="636089" />
+    <property name="TotalTriangles" value="249708" />
     <property class="BlockEntities">
-      <property name="Vertices" value="448500" />
-      <property name="Triangles" value="141867" />
+      <property name="Vertices" value="452423" />
+      <property name="Triangles" value="142893" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="177192" />
-      <property name="Triangles" value="98861" />
+      <property name="Vertices" value="175752" />
+      <property name="Triangles" value="96935" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -80,7 +81,8 @@
       <property name="0" value="39, 2, 26" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="25, 2, 38" />
+      <property name="0" value="38, 2, 38" />
+      <property name="1" value="38, 2, 39" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="29, 2, 38" />

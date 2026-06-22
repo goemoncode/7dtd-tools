@@ -32,27 +32,28 @@
   <property name="PrefabSize" value="60, 26, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="488780" />
-    <property name="TotalTriangles" value="222299" />
+    <property name="LightsVolume" value="5389.729" />
+    <property name="TotalVertices" value="490459" />
+    <property name="TotalTriangles" value="220337" />
     <property class="BlockEntities">
-      <property name="Vertices" value="363493" />
-      <property name="Triangles" value="140428" />
+      <property name="Vertices" value="365274" />
+      <property name="Triangles" value="138854" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="112937" />
-      <property name="Triangles" value="63139" />
+      <property name="Vertices" value="112783" />
+      <property name="Triangles" value="62711" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="428" />
-      <property name="Triangles" value="264" />
+      <property name="Vertices" value="504" />
+      <property name="Triangles" value="316" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1488" />
-      <property name="Triangles" value="744" />
+      <property name="Vertices" value="1464" />
+      <property name="Triangles" value="732" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -81,9 +82,22 @@
       <property name="13" value="30, 13, 57" />
       <property name="14" value="35, 13, 57" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="34, 1, 50" />
+      <property name="1" value="34, 6, 50" />
+      <property name="2" value="36, 6, 50" />
+      <property name="3" value="31, 6, 51" />
+      <property name="4" value="42, 1, 52" />
+      <property name="5" value="43, 1, 52" />
+      <property name="6" value="41, 6, 54" />
+      <property name="7" value="34, 8, 57" />
+    </property>
     <property class="TraderOnOff">
-      <property name="0" value="33, 6, 56" />
-      <property name="1" value="34, 6, 56" />
+      <property name="0" value="36, 1, 52" />
+      <property name="1" value="44, 6, 52" />
+      <property name="2" value="37, 6, 55" />
+      <property name="3" value="33, 6, 56" />
+      <property name="4" value="34, 6, 56" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="11, 6, 13" />
@@ -103,13 +117,6 @@
     </property>
     <property class="quest_feather">
       <property name="0" value="7, 12, 29" />
-    </property>
-    <property class="challenge_polymers">
-      <property name="0" value="34, 1, 50" />
-      <property name="1" value="36, 6, 50" />
-      <property name="2" value="31, 6, 51" />
-      <property name="3" value="43, 1, 52" />
-      <property name="4" value="34, 8, 57" />
     </property>
     <property class="challenge_stump">
       <property name="0" value="40, 6, 56" />

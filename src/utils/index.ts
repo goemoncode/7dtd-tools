@@ -8,13 +8,18 @@ dotenv.config({ path: '.env.local' });
 
 export interface AppConfig {
   steamAppsGameDir: string;
+  gameDataDir: string;
   gameConfigDir: string;
 }
 
 export async function loadAppConfig(): Promise<AppConfig> {
   const { STEAMAPPS_GAME_DIR = '' } = process.env;
   if (!STEAMAPPS_GAME_DIR) throw new Error('The STEAMAPPS_GAME_DIR environment variable is not defined or is empty.');
-  return { steamAppsGameDir: STEAMAPPS_GAME_DIR, gameConfigDir: join(STEAMAPPS_GAME_DIR, 'Data', 'Config') };
+  return {
+    steamAppsGameDir: STEAMAPPS_GAME_DIR,
+    gameDataDir: join(STEAMAPPS_GAME_DIR, 'Data'),
+    gameConfigDir: join(STEAMAPPS_GAME_DIR, 'Data', 'Config'),
+  };
 }
 
 export async function handleMain(main: (config: AppConfig) => Promise<void | number | undefined>) {

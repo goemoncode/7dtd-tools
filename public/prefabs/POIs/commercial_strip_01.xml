@@ -11,7 +11,7 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="countrytown" />
+  <property name="Tags" value="commercial" />
   <property name="YOffset" value="-1" />
   <property name="SleeperVolumeSize" value="12, 2, 5#6, 2, 5#8, 5, 14#7, 3, 5#8, 6, 5#8, 3, 8#4, 3, 4#7, 3, 13#2, 3, 1#4, 2, 11" />
   <property name="SleeperVolumeStart" value="22, 6, 17#15, 6, 21#13, 14, 18#27, 5, 24#12, 1, 26#22, 1, 18#23, 1, 28#7, 8, 20#19, 15, 16#7, 1, 18" />
@@ -31,15 +31,16 @@
   <property name="PrefabSize" value="42, 20, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="531796" />
-    <property name="TotalTriangles" value="204462" />
+    <property name="LightsVolume" value="5022.34" />
+    <property name="TotalVertices" value="525137" />
+    <property name="TotalTriangles" value="200087" />
     <property class="BlockEntities">
-      <property name="Vertices" value="456929" />
-      <property name="Triangles" value="156342" />
+      <property name="Vertices" value="452474" />
+      <property name="Triangles" value="154239" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="70111" />
-      <property name="Triangles" value="41892" />
+      <property name="Vertices" value="67907" />
+      <property name="Triangles" value="39620" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -73,17 +74,22 @@
       <property name="3" value="30, 1, 29" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="21, 6, 25" />
-      <property name="1" value="32, 6, 28" />
-      <property name="2" value="26, 1, 29" />
+      <property name="0" value="34, 1, 21" />
+      <property name="1" value="21, 6, 25" />
+      <property name="2" value="32, 6, 28" />
+      <property name="3" value="26, 1, 29" />
+      <property name="4" value="31, 1, 32" />
+      <property name="5" value="28, 1, 33" />
     </property>
     <property class="POILight">
-      <property name="0" value="25, 4, 22" />
-      <property name="1" value="28, 4, 22" />
-      <property name="2" value="31, 4, 22" />
-      <property name="3" value="22, 10, 25" />
-      <property name="4" value="21, 2, 26" />
-      <property name="5" value="28, 3, 31" />
+      <property name="0" value="23, 2, 22" />
+      <property name="1" value="25, 4, 22" />
+      <property name="2" value="28, 4, 22" />
+      <property name="3" value="31, 4, 22" />
+      <property name="4" value="22, 10, 25" />
+      <property name="5" value="21, 2, 26" />
+      <property name="6" value="21, 2, 27" />
+      <property name="7" value="28, 3, 31" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="23, 8, 21" />

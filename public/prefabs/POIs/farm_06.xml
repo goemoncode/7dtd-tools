@@ -55,15 +55,15 @@
       <property name="0" value="48, 2, 26" />
       <property name="1" value="48, 2, 28" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="46, 8, 45" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="49, 2, 48" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="54, 2, 9" />
       <property name="1" value="54, 2, 10" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="54, 3, 17" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="31, 2, 5" />
@@ -85,14 +85,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1171078" />
-    <property name="TotalTriangles" value="514700" />
+    <property name="LightsVolume" value="44555.18" />
+    <property name="TotalVertices" value="1176953" />
+    <property name="TotalTriangles" value="516258" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1015767" />
-      <property name="Triangles" value="413828" />
+      <property name="Vertices" value="1018042" />
+      <property name="Triangles" value="415386" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="144811" />
+      <property name="Vertices" value="148411" />
       <property name="Triangles" value="84332" />
     </property>
     <property class="ChunkMeshes1">

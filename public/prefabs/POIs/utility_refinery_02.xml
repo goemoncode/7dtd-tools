@@ -22,7 +22,7 @@
   <property name="SleeperVolumeFlags" value="2,2,2,2,0,2,0,0,3,3,3,3,0,2,0,0,2,2,2,3,0,0,3,0,0,3,0,2,2,1,2,0,0,2,2,2,2,1,2,2,2,2,2,3,2,2,2,3,3,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # #2#3#3#3# # # # # # # #13# # #3# # #20# # # # # # # # # # # # # # # # # #19# # # #20#21# " />
   <property name="POIMarkerSize" value="8, 13, 1" />
-  <property name="POIMarkerStart" value="46, 12, -1" />
+  <property name="POIMarkerStart" value="16, 12, -1" />
   <property name="POIMarkerGroup" value="driveway" />
   <property name="POIMarkerTags" value="industrial" />
   <property name="POIMarkerType" value="PartSpawn" />
@@ -31,15 +31,16 @@
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="Tags" value="industrial" />
   <property class="Stats">
-    <property name="TotalVertices" value="2090104" />
-    <property name="TotalTriangles" value="873370" />
+    <property name="LightsVolume" value="1347826" />
+    <property name="TotalVertices" value="2066403" />
+    <property name="TotalTriangles" value="857899" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1536883" />
-      <property name="Triangles" value="447506" />
+      <property name="Vertices" value="1520452" />
+      <property name="Triangles" value="440753" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="508603" />
-      <property name="Triangles" value="359826" />
+      <property name="Vertices" value="501323" />
+      <property name="Triangles" value="351088" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -58,8 +59,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="38656" />
-      <property name="Triangles" value="62788" />
+      <property name="Vertices" value="38666" />
+      <property name="Triangles" value="62808" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -67,7 +68,8 @@
       <property name="0" value="96, 23, 96" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="85, 13, 58" />
+      <property name="0" value="97, 13, 50" />
+      <property name="1" value="85, 13, 58" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="76, 13, 83" />
@@ -89,19 +91,19 @@
     <property class="challenge_gore">
       <property name="0" value="86, 13, 79" />
     </property>
+    <property class="Rally">
+      <property name="0" value="20, 13, 3" />
+    </property>
     <property class="challenge_pallet">
-      <property name="0" value="35, 14, 5" />
-      <property name="1" value="35, 14, 6" />
-      <property name="2" value="36, 14, 6" />
+      <property name="0" value="52, 14, 5" />
+      <property name="1" value="52, 14, 6" />
+      <property name="2" value="53, 14, 6" />
     </property>
     <property class="challenge_elec_parts">
       <property name="0" value="48, 13, 27" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="37, 7, 28" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="50, 13, 3" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="74, 13, 5" />

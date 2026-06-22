@@ -44,11 +44,11 @@
     <property class="POILight">
       <property name="0" value="46, 10, 33" />
     </property>
-    <property class="challenge_mech_parts">
-      <property name="0" value="14, 5, 55" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="40, 8, 25" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="14, 5, 55" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="49, 8, 25" />
@@ -70,15 +70,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="780599" />
-    <property name="TotalTriangles" value="392289" />
+    <property name="LightsVolume" value="8284.38" />
+    <property name="TotalVertices" value="786455" />
+    <property name="TotalTriangles" value="388298" />
     <property class="BlockEntities">
-      <property name="Vertices" value="644564" />
-      <property name="Triangles" value="301129" />
+      <property name="Vertices" value="651416" />
+      <property name="Triangles" value="298218" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="109583" />
-      <property name="Triangles" value="60840" />
+      <property name="Vertices" value="108587" />
+      <property name="Triangles" value="59760" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="10176" />

@@ -8,7 +8,7 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="25, 20, 25" />
+  <property name="PrefabSize" value="25, 21, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-1" />
   <property name="Zoning" value="none" />
@@ -17,7 +17,7 @@
   <property name="ThemeRepeatDistance" value="0" />
   <property name="DuplicateRepeatDistance" value="0" />
   <property name="POIMarkerSize" value="4, 1, 4" />
-  <property name="POIMarkerStart" value="16, 0, -3" />
+  <property name="POIMarkerStart" value="13, 0, -2" />
   <property name="POIMarkerGroup" value="new" />
   <property name="POIMarkerTags" value="" />
   <property name="POIMarkerType" value="RoadExit" />
@@ -25,35 +25,36 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="IndexedBlockOffsets">
-    <property class="quest_wood">
-      <property name="0" value="14, 1, 15" />
+    <property class="quest_wood_trees">
+      <property name="0" value="22, 1, 21" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="13, 2, 16" />
-    </property>
-    <property class="challenge_polymers">
-      <property name="0" value="5, 2, 18" />
+      <property name="0" value="15, 2, 13" />
     </property>
     <property class="POILight">
-      <property name="0" value="3, 3, 17" />
+      <property name="0" value="7, 3, 14" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="9, 2, 15" />
     </property>
     <property class="challenge_gore">
-      <property name="0" value="6, 2, 19" />
+      <property name="0" value="10, 2, 16" />
     </property>
-    <property class="quest_wood_trees">
-      <property name="0" value="22, 1, 22" />
+    <property class="quest_wood">
+      <property name="0" value="16, 1, 12" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="92163" />
-    <property name="TotalTriangles" value="34814" />
+    <property name="LightsVolume" value="164.2617" />
+    <property name="TotalVertices" value="98480" />
+    <property name="TotalTriangles" value="50338" />
     <property class="BlockEntities">
-      <property name="Vertices" value="76929" />
-      <property name="Triangles" value="23153" />
+      <property name="Vertices" value="84567" />
+      <property name="Triangles" value="39937" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="13504" />
-      <property name="Triangles" value="8787" />
+      <property name="Vertices" value="12199" />
+      <property name="Triangles" value="7551" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -72,8 +73,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="1572" />
-      <property name="Triangles" value="2720" />
+      <property name="Vertices" value="1556" />
+      <property name="Triangles" value="2696" />
     </property>
   </property>
 </prefab>

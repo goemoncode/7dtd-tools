@@ -27,23 +27,24 @@
   <property name="TriggerVolumeTriggers" value="3" />
   <property name="SVS6" value="trigger 5^sleep 1^trigger 4" />
   <property class="Stats">
-    <property name="TotalVertices" value="333960" />
-    <property name="TotalTriangles" value="131830" />
+    <property name="LightsVolume" value="2701.482" />
+    <property name="TotalVertices" value="325495" />
+    <property name="TotalTriangles" value="128295" />
     <property class="BlockEntities">
-      <property name="Vertices" value="253958" />
-      <property name="Triangles" value="82871" />
+      <property name="Vertices" value="245911" />
+      <property name="Triangles" value="80449" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="72942" />
-      <property name="Triangles" value="41378" />
+      <property name="Vertices" value="72462" />
+      <property name="Triangles" value="40328" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="4212" />
-      <property name="Triangles" value="2545" />
+      <property name="Vertices" value="4274" />
+      <property name="Triangles" value="2482" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="24" />
@@ -59,6 +60,21 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="POILight">
+      <property name="0" value="13, 10, 13" />
+      <property name="1" value="15, 5, 13" />
+      <property name="2" value="15, 9, 13" />
+      <property name="3" value="20, 10, 14" />
+      <property name="4" value="18, 8, 15" />
+      <property name="5" value="18, 8, 16" />
+      <property name="6" value="20, 10, 18" />
+      <property name="7" value="12, 4, 19" />
+      <property name="8" value="15, 9, 20" />
+      <property name="9" value="16, 4, 20" />
+      <property name="10" value="13, 4, 21" />
+      <property name="11" value="20, 10, 21" />
+      <property name="12" value="20, 10, 23" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="12, 7, 13" />
       <property name="1" value="13, 5, 13" />
@@ -74,29 +90,16 @@
       <property name="2" value="14, 2, 14" />
       <property name="3" value="21, 7, 14" />
       <property name="4" value="21, 7, 16" />
-      <property name="5" value="18, 12, 20" />
-      <property name="6" value="20, 7, 22" />
-    </property>
-    <property class="POILight">
-      <property name="0" value="13, 10, 13" />
-      <property name="1" value="15, 5, 13" />
-      <property name="2" value="15, 9, 13" />
-      <property name="3" value="20, 10, 14" />
-      <property name="4" value="18, 8, 16" />
-      <property name="5" value="20, 10, 18" />
-      <property name="6" value="12, 4, 19" />
-      <property name="7" value="16, 4, 20" />
-      <property name="8" value="13, 4, 21" />
-      <property name="9" value="20, 10, 21" />
-      <property name="10" value="20, 10, 23" />
+      <property name="5" value="14, 2, 20" />
+      <property name="6" value="18, 12, 20" />
+      <property name="7" value="20, 7, 22" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="15, 12, 9" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="12, 2, 3" />
-      <property name="1" value="13, 2, 3" />
-      <property name="2" value="13, 2, 5" />
+      <property name="0" value="13, 8, 19" />
+      <property name="1" value="24, 8, 20" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="12, 2, 12" />

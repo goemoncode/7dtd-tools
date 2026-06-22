@@ -13,7 +13,7 @@
   <property name="YOffset" value="-1" />
   <property name="SleeperVolumeSize" value="6, 5, 6#9, 5, 3#10, 4, 10#1, 5, 4#10, 5, 8#16, 5, 8" />
   <property name="SleeperVolumeStart" value="16, 0, 8#16, 0, 15#12, 6, 8#15, 0, 8#12, 5, 18#9, 0, 18" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,4,4,GroupGenericZombie,1,1,GroupGenericZombie,4,4,GroupGenericZombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,True" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,True" />
   <property name="EditorGroups" value="house new" />
@@ -34,37 +34,34 @@
   <property name="PrefabSize" value="42, 21, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="406845" />
-    <property name="TotalTriangles" value="178467" />
+    <property name="LightsVolume" value="6266.954" />
+    <property name="TotalVertices" value="344586" />
+    <property name="TotalTriangles" value="140235" />
     <property class="BlockEntities">
-      <property name="Vertices" value="356623" />
-      <property name="Triangles" value="147941" />
+      <property name="Vertices" value="295661" />
+      <property name="Triangles" value="110419" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="45570" />
-      <property name="Triangles" value="23846" />
+      <property name="Vertices" value="44273" />
+      <property name="Triangles" value="23136" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="336" />
       <property name="Triangles" value="168" />
     </property>
-    <property class="ChunkMeshes4">
+    <property class="ChunkMeshes3">
       <property name="Vertices" value="264" />
       <property name="Triangles" value="132" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="4052" />
       <property name="Triangles" value="6380" />
     </property>
@@ -94,8 +91,34 @@
       <property name="1" value="21, 7, 19" />
       <property name="2" value="24, 3, 19" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="21, 2, 9" />
+      <property name="1" value="26, 1, 14" />
+      <property name="2" value="26, 1, 15" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="21, 2, 10" />
+      <property name="1" value="26, 1, 16" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="23, 1, 21" />
+      <property name="1" value="24, 2, 21" />
+      <property name="2" value="21, 6, 23" />
+      <property name="3" value="22, 2, 25" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="13, 1, 21" />
+      <property name="1" value="13, 1, 22" />
+      <property name="2" value="13, 1, 23" />
+      <property name="3" value="10, 1, 24" />
+      <property name="4" value="11, 1, 24" />
+      <property name="5" value="12, 1, 24" />
+    </property>
     <property class="Rally">
       <property name="0" value="18, 1, 29" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="21, 1, 12" />
     </property>
   </property>
 </prefab>

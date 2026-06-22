@@ -21,16 +21,26 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property name="EditorGroups" value="remnant, rural" />
   <property name="YOffset" value="-2" />
+  <property name="POIMarkerSize" value="5, 13, 3" />
+  <property name="POIMarkerStart" value="34, 1, -3" />
+  <property name="POIMarkerGroup" value="new" />
+  <property name="POIMarkerTags" value="" />
+  <property name="POIMarkerType" value="PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_02" />
+  <property name="POIMarkerPartRotations" value="2" />
+  <property name="POIMarkerPartSpawnChance" value="1" />
+  <property name="Tags" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="476814" />
-    <property name="TotalTriangles" value="227752" />
+    <property name="LightsVolume" value="4200.31" />
+    <property name="TotalVertices" value="476386" />
+    <property name="TotalTriangles" value="218294" />
     <property class="BlockEntities">
-      <property name="Vertices" value="391042" />
-      <property name="Triangles" value="170744" />
+      <property name="Vertices" value="389964" />
+      <property name="Triangles" value="161400" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="73684" />
-      <property name="Triangles" value="39602" />
+      <property name="Vertices" value="74334" />
+      <property name="Triangles" value="39488" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

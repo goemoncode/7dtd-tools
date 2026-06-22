@@ -26,15 +26,16 @@
   <property name="SleeperVolumeFlags" value="0,0,3,0,3" />
   <property name="SleeperVolumeTriggeredBy" value=" # #2,3# #4" />
   <property class="Stats">
-    <property name="TotalVertices" value="99707" />
-    <property name="TotalTriangles" value="48616" />
+    <property name="LightsVolume" value="1621.659" />
+    <property name="TotalVertices" value="99621" />
+    <property name="TotalTriangles" value="48379" />
     <property class="BlockEntities">
-      <property name="Vertices" value="61769" />
-      <property name="Triangles" value="20069" />
+      <property name="Vertices" value="61945" />
+      <property name="Triangles" value="20108" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="35074" />
-      <property name="Triangles" value="24353" />
+      <property name="Vertices" value="34812" />
+      <property name="Triangles" value="24077" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -60,11 +61,13 @@
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="12, 4, 15" />
-      <property name="1" value="14, 6, 16" />
-      <property name="2" value="15, 8, 19" />
-      <property name="3" value="15, 6, 20" />
-      <property name="4" value="13, 6, 21" />
-      <property name="5" value="15, 6, 22" />
+      <property name="1" value="12, 4, 16" />
+      <property name="2" value="14, 6, 16" />
+      <property name="3" value="15, 8, 19" />
+      <property name="4" value="15, 6, 20" />
+      <property name="5" value="13, 6, 21" />
+      <property name="6" value="15, 5, 21" />
+      <property name="7" value="15, 6, 22" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="15, 4, 24" />
@@ -86,8 +89,9 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="15, 3, 15" />
-      <property name="1" value="12, 3, 18" />
-      <property name="2" value="14, 3, 19" />
+      <property name="1" value="16, 3, 17" />
+      <property name="2" value="12, 3, 18" />
+      <property name="3" value="14, 3, 19" />
     </property>
   </property>
 </prefab>

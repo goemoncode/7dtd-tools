@@ -26,15 +26,16 @@
   <property name="ThemeRepeatDistance" value="1200" />
   <property name="DuplicateRepeatDistance" value="3000" />
   <property class="Stats">
-    <property name="TotalVertices" value="704254" />
-    <property name="TotalTriangles" value="338436" />
+    <property name="LightsVolume" value="9767.978" />
+    <property name="TotalVertices" value="701410" />
+    <property name="TotalTriangles" value="335437" />
     <property class="BlockEntities">
-      <property name="Vertices" value="384116" />
-      <property name="Triangles" value="132188" />
+      <property name="Vertices" value="379458" />
+      <property name="Triangles" value="130113" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="285837" />
-      <property name="Triangles" value="174582" />
+      <property name="Vertices" value="287651" />
+      <property name="Triangles" value="173658" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="6656" />
@@ -72,26 +73,29 @@
     </property>
     <property class="POILight">
       <property name="0" value="47, 9, 49" />
-      <property name="1" value="46, 12, 50" />
-      <property name="2" value="52, 6, 50" />
-      <property name="3" value="53, 13, 50" />
-      <property name="4" value="50, 6, 52" />
-      <property name="5" value="50, 12, 52" />
-      <property name="6" value="53, 8, 52" />
-      <property name="7" value="57, 9, 52" />
-      <property name="8" value="46, 13, 53" />
-      <property name="9" value="47, 12, 53" />
-      <property name="10" value="49, 12, 53" />
-      <property name="11" value="47, 8, 54" />
-      <property name="12" value="53, 13, 54" />
-      <property name="13" value="55, 6, 55" />
+      <property name="1" value="52, 11, 49" />
+      <property name="2" value="46, 12, 50" />
+      <property name="3" value="52, 6, 50" />
+      <property name="4" value="53, 6, 50" />
+      <property name="5" value="53, 13, 50" />
+      <property name="6" value="50, 6, 52" />
+      <property name="7" value="50, 12, 52" />
+      <property name="8" value="53, 8, 52" />
+      <property name="9" value="57, 9, 52" />
+      <property name="10" value="46, 13, 53" />
+      <property name="11" value="47, 12, 53" />
+      <property name="12" value="49, 12, 53" />
+      <property name="13" value="47, 8, 54" />
+      <property name="14" value="53, 13, 54" />
+      <property name="15" value="55, 6, 55" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="51, 10, 50" />
       <property name="1" value="53, 11, 50" />
-      <property name="2" value="48, 10, 53" />
-      <property name="3" value="49, 5, 54" />
-      <property name="4" value="51, 10, 54" />
+      <property name="2" value="56, 5, 52" />
+      <property name="3" value="48, 10, 53" />
+      <property name="4" value="49, 5, 54" />
+      <property name="5" value="51, 10, 54" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="46, 10, 52" />

@@ -48,7 +48,7 @@
       <property name="5" value="55, 15, 57" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="49, 8, 38" />
+      <property name="0" value="56, 9, 55" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="49, 6, 50" />
@@ -84,15 +84,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1829817" />
-    <property name="TotalTriangles" value="791757" />
+    <property name="LightsVolume" value="26696.29" />
+    <property name="TotalVertices" value="1823536" />
+    <property name="TotalTriangles" value="787636" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1754228" />
-      <property name="Triangles" value="729115" />
+      <property name="Vertices" value="1743629" />
+      <property name="Triangles" value="723286" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="60795" />
-      <property name="Triangles" value="37578" />
+      <property name="Vertices" value="65089" />
+      <property name="Triangles" value="39258" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -111,8 +112,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="14392" />
-      <property name="Triangles" value="24836" />
+      <property name="Vertices" value="14416" />
+      <property name="Triangles" value="24864" />
     </property>
   </property>
 </prefab>

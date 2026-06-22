@@ -30,22 +30,23 @@
   <property name="TriggerVolumeTriggers" value="3" />
   <property name="SVS10" value="spawn GroupGenericZombie 4^waitalive 2^spawn GroupGenericZombie 2" />
   <property class="Stats">
-    <property name="TotalVertices" value="920233" />
-    <property name="TotalTriangles" value="363803" />
+    <property name="LightsVolume" value="18591.92" />
+    <property name="TotalVertices" value="921209" />
+    <property name="TotalTriangles" value="365432" />
     <property class="BlockEntities">
-      <property name="Vertices" value="662853" />
-      <property name="Triangles" value="211413" />
+      <property name="Vertices" value="663653" />
+      <property name="Triangles" value="216184" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="248493" />
-      <property name="Triangles" value="141082" />
+      <property name="Vertices" value="248602" />
+      <property name="Triangles" value="137940" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="3297" />
+      <property name="Vertices" value="3364" />
       <property name="Triangles" value="2416" />
     </property>
     <property class="ChunkMeshes3">
@@ -62,18 +63,23 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="challenge_booths">
-      <property name="0" value="5, 5, 5" />
-      <property name="1" value="11, 5, 5" />
-      <property name="2" value="13, 5, 5" />
-      <property name="3" value="5, 5, 6" />
-      <property name="4" value="11, 5, 6" />
-      <property name="5" value="13, 5, 6" />
+    <property class="challenge_leather">
+      <property name="0" value="28, 6, 28" />
+      <property name="1" value="29, 6, 28" />
+      <property name="2" value="30, 6, 28" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="37, 21, 9" />
     </property>
     <property class="POILight">
       <property name="0" value="37, 8, 22" />
-      <property name="1" value="38, 15, 27" />
-      <property name="2" value="37, 8, 28" />
+      <property name="1" value="38, 7, 26" />
+      <property name="2" value="38, 15, 27" />
+      <property name="3" value="37, 8, 28" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="37, 12, 9" />
+      <property name="1" value="38, 12, 19" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="37, 6, 23" />
@@ -88,13 +94,10 @@
     <property class="challenge_pallet">
       <property name="0" value="37, 6, 10" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="24, 5, 37" />
-    </property>
     <property class="FetchContainer">
       <property name="0" value="37, 7, 28" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="35, 1, 22" />
       <property name="1" value="35, 1, 23" />
     </property>

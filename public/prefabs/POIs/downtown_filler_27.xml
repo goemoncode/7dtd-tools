@@ -23,7 +23,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,2,0,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,0,2,2,2,0,2,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # " />
-  <property name="POIMarkerSize" value="10, 8, 4#10, 8, 4" />
+  <property name="POIMarkerSize" value="10, 7, 4#10, 7, 4" />
   <property name="POIMarkerStart" value="14, 12, 1#14, 12, 1" />
   <property name="POIMarkerGroup" value="billboard,billboard2" />
   <property name="POIMarkerTags" value="#" />
@@ -32,19 +32,26 @@
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="0.35,0.87" />
   <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="21, 7, 18" />
+      <property name="1" value="16, 1, 20" />
+      <property name="2" value="23, 7, 21" />
+      <property name="3" value="15, 1, 23" />
+    </property>
     <property class="POILight">
       <property name="0" value="15, 4, 12" />
       <property name="1" value="16, 10, 12" />
       <property name="2" value="21, 10, 12" />
       <property name="3" value="22, 8, 14" />
-      <property name="4" value="19, 5, 15" />
-      <property name="5" value="17, 10, 16" />
-      <property name="6" value="20, 10, 16" />
-      <property name="7" value="19, 5, 19" />
-      <property name="8" value="15, 3, 20" />
-      <property name="9" value="17, 3, 20" />
-      <property name="10" value="19, 10, 20" />
-      <property name="11" value="24, 9, 21" />
+      <property name="4" value="18, 8, 15" />
+      <property name="5" value="19, 5, 15" />
+      <property name="6" value="17, 10, 16" />
+      <property name="7" value="20, 10, 16" />
+      <property name="8" value="19, 5, 19" />
+      <property name="9" value="15, 3, 20" />
+      <property name="10" value="17, 3, 20" />
+      <property name="11" value="19, 10, 20" />
+      <property name="12" value="24, 9, 21" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="15, 1, 12" />
@@ -82,9 +89,6 @@
       <property name="0" value="7, 16, 5" />
       <property name="1" value="8, 16, 8" />
     </property>
-    <property class="TraderOnOff">
-      <property name="0" value="16, 1, 20" />
-    </property>
     <property class="challenge_gore">
       <property name="0" value="8, 1, 9" />
     </property>
@@ -102,15 +106,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="607275" />
-    <property name="TotalTriangles" value="236996" />
+    <property name="LightsVolume" value="6437.313" />
+    <property name="TotalVertices" value="597560" />
+    <property name="TotalTriangles" value="232316" />
     <property class="BlockEntities">
-      <property name="Vertices" value="489886" />
-      <property name="Triangles" value="166391" />
+      <property name="Vertices" value="480877" />
+      <property name="Triangles" value="162858" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="114087" />
-      <property name="Triangles" value="68111" />
+      <property name="Vertices" value="113381" />
+      <property name="Triangles" value="66964" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

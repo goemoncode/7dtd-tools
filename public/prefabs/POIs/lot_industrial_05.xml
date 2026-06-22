@@ -19,19 +19,20 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="2" />
   <property name="EditorGroups" value="industrial" />
-  <property name="Tags" value="industrial, countrytown, nodiagonal" />
+  <property name="Tags" value="industrial, nodiagonal" />
   <property name="PrefabSize" value="25, 14, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="83640" />
-    <property name="TotalTriangles" value="44438" />
+    <property name="LightsVolume" value="523.5988" />
+    <property name="TotalVertices" value="83342" />
+    <property name="TotalTriangles" value="43730" />
     <property class="BlockEntities">
-      <property name="Vertices" value="41487" />
-      <property name="Triangles" value="12836" />
+      <property name="Vertices" value="41762" />
+      <property name="Triangles" value="12934" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="40333" />
-      <property name="Triangles" value="28534" />
+      <property name="Vertices" value="39760" />
+      <property name="Triangles" value="27728" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -55,6 +56,9 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_mech_parts">
+      <property name="0" value="11, 13, 12" />
+    </property>
     <property class="POILight">
       <property name="0" value="11, 11, 3" />
     </property>
@@ -63,6 +67,10 @@
     </property>
     <property class="quest_feather">
       <property name="0" value="6, 12, 16" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="20, 3, 3" />
+      <property name="1" value="20, 3, 4" />
     </property>
   </property>
 </prefab>

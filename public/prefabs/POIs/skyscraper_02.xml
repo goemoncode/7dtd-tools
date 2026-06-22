@@ -27,21 +27,22 @@
   <property name="TriggerVolumeTriggers" value="5#6" />
   <property name="SVS24" value="sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 2^sound sleeperspawnmetal^spawn GroupZomBadass 1^sleep 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 2^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1" />
   <property name="SVS23" value="sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 2^sound sleeperspawnmetal^spawn GroupZomBadass 1^sleep 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 2^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1" />
-  <property name="SVS22" value="sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 2^sound sleeperspawnmetal^spawn GroupZomBadass 1^sleep 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 2^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1" />
+  <property name="SVS22" value="sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 0^sleep 1^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 0^sleep 1^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 0^sleep 1^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 0^sleep 1^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1" />
   <property name="SVS21" value="sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 2^sound sleeperspawnmetal^spawn GroupZomBadass 1^sleep 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 2^sound sleeperspawnmetal^spawn GroupZomBadass 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1" />
   <property name="SVS20" value="sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn GroupZomBadass 1^sleep 3^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn GroupZomBadass 1^sleep 3^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 2^sound sleeperspawnmetal^spawn GroupZomBadass 1^sleep 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 2^sound sleeperspawnmetal^spawn GroupZomBadass 1^sleep 2^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1" />
   <property name="SVS11" value="sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1" />
   <property name="SVS9" value="sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^sleep 3^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1109050" />
-    <property name="TotalTriangles" value="452882" />
+    <property name="LightsVolume" value="22150.32" />
+    <property name="TotalVertices" value="1095274" />
+    <property name="TotalTriangles" value="444121" />
     <property class="BlockEntities">
-      <property name="Vertices" value="836331" />
-      <property name="Triangles" value="290271" />
+      <property name="Vertices" value="823305" />
+      <property name="Triangles" value="284084" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="259101" />
-      <property name="Triangles" value="149585" />
+      <property name="Vertices" value="258351" />
+      <property name="Triangles" value="147011" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -77,6 +78,24 @@
     <property class="POILight">
       <property name="0" value="37, 7, 25" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="28, 20, 22" />
+      <property name="1" value="34, 2, 22" />
+      <property name="2" value="34, 17, 26" />
+      <property name="3" value="24, 20, 27" />
+      <property name="4" value="34, 2, 28" />
+      <property name="5" value="34, 8, 28" />
+      <property name="6" value="34, 14, 28" />
+      <property name="7" value="34, 20, 28" />
+      <property name="8" value="34, 26, 28" />
+      <property name="9" value="34, 2, 31" />
+      <property name="10" value="34, 8, 31" />
+      <property name="11" value="34, 14, 31" />
+      <property name="12" value="34, 20, 31" />
+      <property name="13" value="34, 26, 31" />
+      <property name="14" value="27, 2, 33" />
+      <property name="15" value="34, 5, 33" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="38, 8, 18" />
     </property>
@@ -86,19 +105,6 @@
     <property class="FetchContainer">
       <property name="0" value="31, 27, 21" />
       <property name="1" value="30, 34, 29" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="28, 20, 22" />
-      <property name="1" value="34, 2, 22" />
-      <property name="2" value="34, 17, 26" />
-      <property name="3" value="24, 20, 27" />
-      <property name="4" value="34, 2, 28" />
-      <property name="5" value="34, 8, 28" />
-      <property name="6" value="34, 14, 28" />
-      <property name="7" value="34, 2, 31" />
-      <property name="8" value="34, 8, 31" />
-      <property name="9" value="27, 2, 33" />
-      <property name="10" value="34, 5, 33" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="37, 7, 11" />

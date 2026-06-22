@@ -32,15 +32,16 @@
   <property name="SVS3" value="spawn zombieUtilityWorker 1" />
   <property name="ThemeTags" value="siteTower" />
   <property class="Stats">
-    <property name="TotalVertices" value="219213" />
-    <property name="TotalTriangles" value="90762" />
+    <property name="LightsVolume" value="3500.407" />
+    <property name="TotalVertices" value="218740" />
+    <property name="TotalTriangles" value="90302" />
     <property class="BlockEntities">
-      <property name="Vertices" value="156871" />
-      <property name="Triangles" value="44063" />
+      <property name="Vertices" value="155784" />
+      <property name="Triangles" value="43599" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="60096" />
-      <property name="Triangles" value="43163" />
+      <property name="Vertices" value="60710" />
+      <property name="Triangles" value="43167" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -72,10 +73,12 @@
       <property name="0" value="22, 3, 21" />
     </property>
     <property class="POILight">
-      <property name="0" value="12, 4, 15" />
-      <property name="1" value="12, 7, 16" />
-      <property name="2" value="12, 63, 18" />
-      <property name="3" value="14, 8, 18" />
+      <property name="0" value="18, 5, 12" />
+      <property name="1" value="18, 4, 14" />
+      <property name="2" value="12, 4, 15" />
+      <property name="3" value="12, 7, 16" />
+      <property name="4" value="12, 63, 18" />
+      <property name="5" value="14, 8, 18" />
     </property>
     <property class="challenge_elec_parts">
       <property name="0" value="14, 5, 17" />

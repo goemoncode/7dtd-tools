@@ -39,15 +39,16 @@
   <property name="SVS29" value="sound sleeperspawndirt^spawn zombieBurntFeral 3^waitalive 2^sound sleeperspawndirt^spawn zombieBurntFeral 3^waitalive 2^sound sleeperspawndirt^spawn zombieBurntFeral 3" />
   <property name="SVS28" value="sound sleeperspawndirt^spawn zombieBurntFeral 3^waitalive 2^sound sleeperspawndirt^spawn zombieBurntFeral 3^waitalive 2^sound sleeperspawndirt^spawn zombieBurntFeral 3" />
   <property class="Stats">
-    <property name="TotalVertices" value="2273930" />
-    <property name="TotalTriangles" value="913333" />
+    <property name="LightsVolume" value="89299.95" />
+    <property name="TotalVertices" value="2272606" />
+    <property name="TotalTriangles" value="906105" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1981754" />
-      <property name="Triangles" value="701034" />
+      <property name="Vertices" value="1977788" />
+      <property name="Triangles" value="693670" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="251760" />
-      <property name="Triangles" value="154391" />
+      <property name="Vertices" value="254320" />
+      <property name="Triangles" value="154387" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="4160" />
@@ -66,8 +67,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="33766" />
-      <property name="Triangles" value="54356" />
+      <property name="Vertices" value="33848" />
+      <property name="Triangles" value="54496" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -75,13 +76,18 @@
       <property name="0" value="82, 15, 87" />
     </property>
     <property class="challenge_cars">
-      <property name="0" value="82, 15, 14" />
+      <property name="0" value="82, 15, 15" />
     </property>
     <property class="POILight">
       <property name="0" value="86, 20, 85" />
       <property name="1" value="86, 22, 87" />
       <property name="2" value="88, 20, 87" />
       <property name="3" value="86, 20, 89" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="87, 15, 78" />
+      <property name="1" value="87, 15, 79" />
+      <property name="2" value="88, 15, 80" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="87, 15, 56" />
@@ -93,11 +99,6 @@
     </property>
     <property class="challenge_gore">
       <property name="0" value="85, 15, 60" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="87, 15, 78" />
-      <property name="1" value="87, 15, 79" />
-      <property name="2" value="88, 15, 80" />
     </property>
     <property class="quest_feather">
       <property name="0" value="79, 39, 20" />
@@ -118,15 +119,11 @@
     <property class="QuestRestorePower">
       <property name="0" value="70, 15, 57" />
     </property>
-    <property class="quest_wood_trees">
-      <property name="0" value="66, 15, 1" />
-      <property name="1" value="79, 15, 1" />
-    </property>
     <property class="challenge_steel">
       <property name="0" value="59, 16, 24" />
     </property>
     <property class="Rally">
-      <property name="0" value="91, 15, 16" />
+      <property name="0" value="91, 15, 15" />
     </property>
   </property>
 </prefab>

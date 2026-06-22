@@ -13,9 +13,9 @@
   <property name="YOffset" value="-2" />
   <property name="Zoning" value="none" />
   <property name="EditorGroups" value="downtown, remnant" />
-  <property name="POIMarkerSize" value="11, 5, 7#10, 3, 2#9, 3, 18#10, 2, 4#10, 2, 4#60, 14, 6" />
+  <property name="POIMarkerSize" value="11, 5, 7#10, 3, 2#9, 3, 18#10, 4, 4#10, 4, 4#60, 14, 6" />
   <property name="POIMarkerStart" value="7, 2, 3#25, 1, -2#-9, 0, 48#12, 12, 28#12, 12, 28#0, 0, 60" />
-  <property name="POIMarkerGroup" value="coffee,deco1,deco2,ducts1,ducts2,parking" />
+  <property name="POIMarkerGroup" value="coffee,deco1,deco2,ducts,ducts,parking" />
   <property name="POIMarkerTags" value="###downtown#downtown#downtown" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_coffee_stand,part_library_01_deco_01,part_library_01_deco_02,part_library_01_ducts_01,part_library_01_ducts_02,part_library_01_deco_03" />
@@ -36,15 +36,16 @@
   <property name="ThemeTags" value="library" />
   <property name="ThemeRepeatDistance" value="1200" />
   <property class="Stats">
-    <property name="TotalVertices" value="802780" />
-    <property name="TotalTriangles" value="339432" />
+    <property name="LightsVolume" value="7115.854" />
+    <property name="TotalVertices" value="785972" />
+    <property name="TotalTriangles" value="327383" />
     <property class="BlockEntities">
-      <property name="Vertices" value="596256" />
-      <property name="Triangles" value="210691" />
+      <property name="Vertices" value="579154" />
+      <property name="Triangles" value="199334" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="182368" />
-      <property name="Triangles" value="105433" />
+      <property name="Vertices" value="182662" />
+      <property name="Triangles" value="104741" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="4096" />
@@ -68,10 +69,6 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="challenge_polymers">
-      <property name="0" value="50, 8, 39" />
-      <property name="1" value="51, 8, 41" />
-    </property>
     <property class="POILight">
       <property name="0" value="54, 12, 30" />
       <property name="1" value="49, 6, 33" />
@@ -81,30 +78,39 @@
       <property name="5" value="54, 10, 33" />
       <property name="6" value="47, 5, 35" />
       <property name="7" value="49, 5, 35" />
-      <property name="8" value="50, 4, 36" />
-      <property name="9" value="52, 12, 36" />
-      <property name="10" value="54, 12, 36" />
-      <property name="11" value="46, 11, 37" />
-      <property name="12" value="50, 11, 37" />
-      <property name="13" value="52, 12, 38" />
-      <property name="14" value="54, 12, 38" />
-      <property name="15" value="46, 6, 39" />
-      <property name="16" value="48, 4, 39" />
-      <property name="17" value="49, 6, 39" />
-      <property name="18" value="53, 6, 39" />
-      <property name="19" value="47, 10, 40" />
-      <property name="20" value="49, 10, 40" />
-      <property name="21" value="52, 12, 40" />
-      <property name="22" value="52, 14, 40" />
-      <property name="23" value="54, 12, 40" />
-      <property name="24" value="54, 12, 42" />
+      <property name="8" value="46, 4, 36" />
+      <property name="9" value="49, 4, 36" />
+      <property name="10" value="50, 4, 36" />
+      <property name="11" value="52, 12, 36" />
+      <property name="12" value="54, 12, 36" />
+      <property name="13" value="46, 11, 37" />
+      <property name="14" value="50, 11, 37" />
+      <property name="15" value="52, 12, 38" />
+      <property name="16" value="54, 4, 38" />
+      <property name="17" value="54, 12, 38" />
+      <property name="18" value="46, 6, 39" />
+      <property name="19" value="47, 4, 39" />
+      <property name="20" value="48, 4, 39" />
+      <property name="21" value="49, 6, 39" />
+      <property name="22" value="53, 6, 39" />
+      <property name="23" value="47, 10, 40" />
+      <property name="24" value="49, 10, 40" />
+      <property name="25" value="52, 12, 40" />
+      <property name="26" value="52, 14, 40" />
+      <property name="27" value="54, 12, 40" />
+      <property name="28" value="54, 12, 42" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="50, 8, 39" />
+      <property name="1" value="51, 8, 41" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="51, 3, 33" />
-      <property name="1" value="48, 10, 34" />
-      <property name="2" value="52, 8, 38" />
-      <property name="3" value="50, 3, 39" />
-      <property name="4" value="51, 14, 39" />
+      <property name="1" value="51, 8, 33" />
+      <property name="2" value="48, 10, 34" />
+      <property name="3" value="52, 8, 38" />
+      <property name="4" value="50, 3, 39" />
+      <property name="5" value="51, 14, 39" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="46, 3, 37" />

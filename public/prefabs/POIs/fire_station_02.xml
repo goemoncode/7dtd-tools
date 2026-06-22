@@ -33,17 +33,17 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property name="ThemeTags" value="stationFire" />
   <property name="ThemeDistance" value="500" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="503022" />
-    <property name="TotalTriangles" value="236037" />
+    <property name="LightsVolume" value="10099.67" />
+    <property name="TotalVertices" value="494555" />
+    <property name="TotalTriangles" value="215206" />
     <property class="BlockEntities">
-      <property name="Vertices" value="399034" />
-      <property name="Triangles" value="173212" />
+      <property name="Vertices" value="402172" />
+      <property name="Triangles" value="158617" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="99402" />
-      <property name="Triangles" value="57389" />
+      <property name="Vertices" value="87797" />
+      <property name="Triangles" value="51153" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -67,6 +67,11 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="27, 2, 25" />
+      <property name="1" value="26, 4, 27" />
+      <property name="2" value="28, 2, 27" />
+    </property>
     <property class="POILight">
       <property name="0" value="23, 4, 24" />
       <property name="1" value="28, 4, 24" />
@@ -96,9 +101,6 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="23, 1, 23" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="29, 1, 16" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="11, 1, 22" />

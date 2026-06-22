@@ -26,15 +26,16 @@
   <property name="ThemeTags" value="zipcoffee" />
   <property name="ThemeRepeatDistance" value="150" />
   <property class="Stats">
-    <property name="TotalVertices" value="880044" />
-    <property name="TotalTriangles" value="356750" />
+    <property name="LightsVolume" value="7498.321" />
+    <property name="TotalVertices" value="866673" />
+    <property name="TotalTriangles" value="347721" />
     <property class="BlockEntities">
-      <property name="Vertices" value="651860" />
-      <property name="Triangles" value="222135" />
+      <property name="Vertices" value="641897" />
+      <property name="Triangles" value="217287" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="219764" />
-      <property name="Triangles" value="127875" />
+      <property name="Vertices" value="216356" />
+      <property name="Triangles" value="123694" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -85,21 +86,26 @@
     <property class="FetchContainer">
       <property name="0" value="39, 7, 15" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="24, 6, 10" />
+      <property name="1" value="24, 11, 10" />
+      <property name="2" value="27, 16, 10" />
+      <property name="3" value="23, 1, 13" />
+      <property name="4" value="34, 1, 13" />
+      <property name="5" value="22, 6, 15" />
+      <property name="6" value="22, 11, 15" />
+      <property name="7" value="24, 6, 15" />
+      <property name="8" value="33, 7, 17" />
+      <property name="9" value="36, 7, 17" />
+      <property name="10" value="26, 1, 19" />
+      <property name="11" value="32, 2, 19" />
+      <property name="12" value="35, 2, 19" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="37, 7, 5" />
       <property name="1" value="39, 1, 12" />
       <property name="2" value="37, 1, 14" />
       <property name="3" value="37, 2, 20" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="24, 6, 10" />
-      <property name="1" value="23, 1, 13" />
-      <property name="2" value="34, 1, 13" />
-      <property name="3" value="22, 6, 15" />
-      <property name="4" value="22, 11, 15" />
-      <property name="5" value="24, 6, 15" />
-      <property name="6" value="33, 7, 17" />
-      <property name="7" value="35, 2, 19" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="18, 6, 22" />

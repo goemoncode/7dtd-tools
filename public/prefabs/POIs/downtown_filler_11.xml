@@ -11,17 +11,17 @@
   <property name="YOffset" value="-2" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="SleeperVolumeSize" value="9, 3, 6#9, 3, 12#3, 2, 6#15, 3, 4#9, 2, 8#17, 3, 16#5, 2, 5#1, 2, 1#2, 1, 2#15, 3, 12#5, 3, 9#6, 3, 12#18, 3, 7#1, 1, 1" />
-  <property name="SleeperVolumeStart" value="3, 2, 4#9, 2, 10#15, 12, 16#4, 12, 0#2, 12, 4#2, 22, 7#12, 25, 4#6, 26, 13#20, 17, 20#3, 17, 10#18, 25, 11#3, 2, 10#1, 17, 3#20, 19, 19" />
-  <property name="SleeperVolumeGroupId" value="3,0,1,1,1,2,2,2,2,0,2,3,1,0" />
-  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupZomBadass,2,2,GroupGenericZombie,2,2,GroupGenericZombie,0,0,ZomUtilityWorker,4,4,GroupGenericZombie,1,1,GroupZomBadass,1,1,GroupZomBadass,2,2,GroupGenericZombie,2,2,GroupGenericZombie,0,0,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,0,0" />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False,True,False,True,False,False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,True,False,False,False,False,True" />
-  <property name="SleeperVolumeFlags" value="0,4,0,2,2,2,0,2,3,4,2,0,2,3" />
+  <property name="SleeperVolumeSize" value="9, 3, 6#9, 3, 12#3, 2, 6#15, 3, 4#9, 2, 8#17, 3, 16#5, 2, 5#1, 2, 1#2, 1, 2#15, 3, 12#5, 3, 9#6, 3, 12#18, 3, 7#1, 1, 1#16, 4, 20" />
+  <property name="SleeperVolumeStart" value="3, 2, 4#9, 2, 10#15, 12, 16#4, 12, 0#2, 12, 4#2, 22, 7#12, 25, 4#6, 26, 13#20, 17, 20#3, 17, 10#18, 25, 11#3, 2, 10#1, 17, 3#20, 19, 19#3, 7, 2" />
+  <property name="SleeperVolumeGroupId" value="3,0,1,1,1,2,2,2,2,0,2,3,1,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupZomBadass,2,2,GroupGenericZombie,2,2,GroupGenericZombie,0,0,ZomUtilityWorker,4,4,GroupGenericZombie,1,1,GroupZomBadass,1,1,GroupZomBadass,2,2,GroupGenericZombie,2,2,GroupGenericZombie,0,0,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,0,0,GroupGenericZombie,2,2" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,True,False,True,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,True,False,False,False,False,True,False" />
+  <property name="SleeperVolumeFlags" value="0,4,2,2,2,2,0,2,3,4,2,0,2,3,0" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="Tags" value="downtown" />
   <property name="PrefabSize" value="25, 30, 25" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # #1# # # # #1" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # #1# # # # #1# " />
   <property name="TriggerVolumeSize" value="16, 3, 13" />
   <property name="TriggerVolumeStart" value="3, 22, 10" />
   <property name="TriggerVolumeTriggers" value="1" />
@@ -43,18 +43,24 @@
       <property name="4" value="22, 19, 13" />
       <property name="5" value="13, 9, 14" />
       <property name="6" value="16, 4, 14" />
-      <property name="7" value="16, 3, 16" />
-      <property name="8" value="24, 4, 16" />
-      <property name="9" value="20, 24, 17" />
-      <property name="10" value="13, 9, 18" />
-      <property name="11" value="16, 15, 18" />
-      <property name="12" value="20, 24, 19" />
+      <property name="7" value="16, 3, 15" />
+      <property name="8" value="16, 3, 16" />
+      <property name="9" value="24, 4, 16" />
+      <property name="10" value="20, 24, 17" />
+      <property name="11" value="13, 9, 18" />
+      <property name="12" value="16, 15, 18" />
+      <property name="13" value="20, 24, 19" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="14, 12, 14" />
       <property name="1" value="13, 2, 15" />
       <property name="2" value="23, 2, 16" />
-      <property name="3" value="20, 22, 18" />
+      <property name="3" value="14, 12, 17" />
+      <property name="4" value="20, 22, 18" />
+      <property name="5" value="20, 2, 19" />
+      <property name="6" value="20, 7, 19" />
+      <property name="7" value="20, 12, 19" />
+      <property name="8" value="20, 17, 19" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="16, 12, 13" />
@@ -91,15 +97,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="636280" />
-    <property name="TotalTriangles" value="240474" />
+    <property name="LightsVolume" value="7726.016" />
+    <property name="TotalVertices" value="624388" />
+    <property name="TotalTriangles" value="235739" />
     <property class="BlockEntities">
-      <property name="Vertices" value="512297" />
-      <property name="Triangles" value="166323" />
+      <property name="Vertices" value="499553" />
+      <property name="Triangles" value="161666" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="118227" />
-      <property name="Triangles" value="68751" />
+      <property name="Vertices" value="119085" />
+      <property name="Triangles" value="68685" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -118,8 +125,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="1754" />
-      <property name="Triangles" value="3064" />
+      <property name="Vertices" value="1748" />
+      <property name="Triangles" value="3052" />
     </property>
   </property>
 </prefab>

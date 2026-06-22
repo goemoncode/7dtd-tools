@@ -9,7 +9,7 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="42, 15, 42" />
+  <property name="PrefabSize" value="42, 12, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-2" />
@@ -23,15 +23,16 @@
   <property name="SleeperVolumeFlags" value="0,2,1,2,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="424963" />
-    <property name="TotalTriangles" value="180495" />
+    <property name="LightsVolume" value="5634.756" />
+    <property name="TotalVertices" value="418415" />
+    <property name="TotalTriangles" value="174063" />
     <property class="BlockEntities">
-      <property name="Vertices" value="327561" />
-      <property name="Triangles" value="115586" />
+      <property name="Vertices" value="324099" />
+      <property name="Triangles" value="113830" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="91044" />
-      <property name="Triangles" value="56261" />
+      <property name="Vertices" value="87958" />
+      <property name="Triangles" value="51585" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -58,16 +59,14 @@
     <property class="POILight">
       <property name="0" value="41, 10, 41" />
     </property>
-    <property class="challenge_steel">
-      <property name="0" value="30, 2, 12" />
+    <property class="challenge_polymers">
+      <property name="0" value="38, 2, 37" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="37, 2, 22" />
     </property>
-    <property class="challenge_polymers">
-      <property name="0" value="37, 5, 21" />
-      <property name="1" value="38, 2, 27" />
-      <property name="2" value="38, 3, 30" />
+    <property class="challenge_steel">
+      <property name="0" value="30, 2, 12" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="26, 3, 25" />

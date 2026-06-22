@@ -1,10 +1,9 @@
 import { basename, dirname, extname, join } from 'node:path';
-import { createWriteStream, statSync } from 'node:fs';
-import { readFile } from 'node:fs/promises';
+import { statSync } from 'node:fs';
 import { program } from 'commander';
 import { red } from 'ansi-colors';
-import { PNG } from 'pngjs';
 import { handleMain } from './utils';
+import { DTM } from './utils/parseRaw';
 
 handleMain(async () => {
   program
@@ -18,31 +17,9 @@ handleMain(async () => {
 });
 
 async function main(srcFileName: string) {
-  const raw = await readFile(srcFileName);
-  if (raw.length % 2 !== 0) throw Error(`Invalid raw data format: dataLength=${raw.length}`);
-  const size = Math.sqrt(raw.length / 2);
-  if (!Number.isSafeInteger(size)) throw Error(`Invalid raw data or size: dataLength=${raw.length} size=${size}`);
-  console.log({ size });
-
-  const png = new PNG({
-    width: size,
-    height: size,
-    colorType: 4, // grayscale & alpha
-  });
-  for (let i = 0; i < raw.length; i += 2) {
-    // raw[i] Sub height
-    // raw[i + 1] Height
-    png.data[i * 2] = raw[i + 1];
-    png.data[i * 2 + 1] = raw[i + 1];
-    png.data[i * 2 + 2] = raw[i + 1];
-    png.data[i * 2 + 3] = raw[i];
-  }
-
+  const dtm = await DTM.load(srcFileName);
   const dstFileName = join(dirname(srcFileName), basename(srcFileName, extname(srcFileName)) + '.png');
-  await new Promise((resolve, reject) => {
-    png.pack().pipe(createWriteStream(dstFileName)).on('finish', resolve).on('error', reject);
-  });
-
+  await dtm.saveAsPng(dstFileName);
   const srcSize = statSync(srcFileName).size;
   const dstSize = statSync(dstFileName).size;
   console.log('Compress: %d (%d / %d)', (dstSize / srcSize) * 100, dstSize, srcSize);

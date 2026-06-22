@@ -14,15 +14,16 @@
   <property name="Tags" value="testonly" />
   <property name="PrefabSize" value="141, 21, 174" />
   <property class="Stats">
-    <property name="TotalVertices" value="5003234" />
-    <property name="TotalTriangles" value="1716455" />
+    <property name="LightsVolume" value="33342.37" />
+    <property name="TotalVertices" value="5075346" />
+    <property name="TotalTriangles" value="1732496" />
     <property class="BlockEntities">
-      <property name="Vertices" value="4720934" />
-      <property name="Triangles" value="1570735" />
+      <property name="Vertices" value="4791253" />
+      <property name="Triangles" value="1586010" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="281684" />
-      <property name="Triangles" value="145348" />
+      <property name="Vertices" value="283477" />
+      <property name="Triangles" value="146114" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

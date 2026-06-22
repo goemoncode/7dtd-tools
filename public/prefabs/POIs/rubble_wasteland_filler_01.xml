@@ -16,46 +16,55 @@
   <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="0" />
   <property name="POIMarkerSize" value="4, 1, 4" />
-  <property name="POIMarkerStart" value="16, 0, -3" />
+  <property name="POIMarkerStart" value="13, 0, -2" />
   <property name="POIMarkerGroup" value="new" />
   <property name="POIMarkerTags" value="" />
   <property name="POIMarkerType" value="RoadExit" />
   <property name="POIMarkerPartToSpawn" value="" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
+  <property name="SleeperVolumeSize" value="25, 10, 25" />
+  <property name="SleeperVolumeStart" value="0, 1, 0" />
+  <property name="SleeperVolumeGroupId" value="0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1" />
+  <property name="SleeperIsLootVolume" value="False" />
+  <property name="SleeperIsQuestExclude" value="False" />
+  <property name="SleeperVolumeFlags" value="0" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="IndexedBlockOffsets">
     <property class="challenge_polymers">
-      <property name="0" value="5, 2, 18" />
-      <property name="1" value="6, 2, 19" />
-      <property name="2" value="5, 2, 20" />
+      <property name="0" value="7, 2, 13" />
+      <property name="1" value="8, 2, 14" />
+      <property name="2" value="7, 2, 16" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="5, 4, 14" />
+      <property name="1" value="9, 3, 16" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="7, 7, 15" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="7, 7, 16" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="22, 1, 2" />
     </property>
-    <property class="POILight">
-      <property name="0" value="3, 4, 19" />
-      <property name="1" value="7, 3, 21" />
-    </property>
-    <property class="challenge_mech_parts">
-      <property name="0" value="5, 7, 20" />
-    </property>
-    <property class="challenge_gore">
-      <property name="0" value="5, 7, 21" />
-    </property>
     <property class="challenge_cars">
-      <property name="0" value="15, 1, 9" />
+      <property name="0" value="15, 1, 7" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="48482" />
-    <property name="TotalTriangles" value="26057" />
+    <property name="LightsVolume" value="268.0826" />
+    <property name="TotalVertices" value="46007" />
+    <property name="TotalTriangles" value="24996" />
     <property class="BlockEntities">
-      <property name="Vertices" value="37920" />
-      <property name="Triangles" value="15009" />
+      <property name="Vertices" value="36177" />
+      <property name="Triangles" value="14976" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="8944" />
-      <property name="Triangles" value="8308" />
+      <property name="Vertices" value="8212" />
+      <property name="Triangles" value="7280" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

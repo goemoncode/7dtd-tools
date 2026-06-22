@@ -23,15 +23,16 @@
   <property name="EditorGroups" value="downtown" />
   <property name="Tags" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="265726" />
-    <property name="TotalTriangles" value="103956" />
+    <property name="LightsVolume" value="3436.903" />
+    <property name="TotalVertices" value="252257" />
+    <property name="TotalTriangles" value="97799" />
     <property class="BlockEntities">
-      <property name="Vertices" value="201539" />
-      <property name="Triangles" value="66351" />
+      <property name="Vertices" value="189323" />
+      <property name="Triangles" value="61355" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="61295" />
-      <property name="Triangles" value="35361" />
+      <property name="Vertices" value="60042" />
+      <property name="Triangles" value="34200" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -68,17 +69,21 @@
     <property class="POILight">
       <property name="0" value="12, 4, 13" />
       <property name="1" value="19, 4, 14" />
-      <property name="2" value="14, 9, 16" />
-      <property name="3" value="19, 9, 16" />
-      <property name="4" value="19, 3, 17" />
-      <property name="5" value="13, 9, 19" />
-      <property name="6" value="15, 4, 19" />
-      <property name="7" value="20, 9, 20" />
-      <property name="8" value="21, 4, 20" />
-      <property name="9" value="16, 3, 21" />
-      <property name="10" value="19, 8, 21" />
-      <property name="11" value="16, 4, 23" />
-      <property name="12" value="19, 9, 23" />
+      <property name="2" value="21, 2, 14" />
+      <property name="3" value="19, 7, 15" />
+      <property name="4" value="14, 9, 16" />
+      <property name="5" value="19, 9, 16" />
+      <property name="6" value="19, 3, 17" />
+      <property name="7" value="13, 9, 19" />
+      <property name="8" value="14, 7, 19" />
+      <property name="9" value="15, 4, 19" />
+      <property name="10" value="20, 7, 19" />
+      <property name="11" value="20, 9, 20" />
+      <property name="12" value="21, 4, 20" />
+      <property name="13" value="16, 3, 21" />
+      <property name="14" value="19, 8, 21" />
+      <property name="15" value="16, 4, 23" />
+      <property name="16" value="19, 9, 23" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="12, 6, 14" />

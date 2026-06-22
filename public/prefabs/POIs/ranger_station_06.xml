@@ -15,7 +15,7 @@
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="POIMarkerSize" value="3, 1, 3" />
-  <property name="POIMarkerStart" value="27, 1, -3" />
+  <property name="POIMarkerStart" value="27, 1, -1" />
   <property name="POIMarkerGroup" value="new" />
   <property name="POIMarkerTags" value="" />
   <property name="POIMarkerType" value="RoadExit" />
@@ -35,15 +35,16 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # #2# # # # " />
   <property name="EditorGroups" value="Wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="810272" />
-    <property name="TotalTriangles" value="329602" />
+    <property name="LightsVolume" value="6185.748" />
+    <property name="TotalVertices" value="806440" />
+    <property name="TotalTriangles" value="329867" />
     <property class="BlockEntities">
-      <property name="Vertices" value="644521" />
-      <property name="Triangles" value="225602" />
+      <property name="Vertices" value="639739" />
+      <property name="Triangles" value="226257" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="154687" />
-      <property name="Triangles" value="87172" />
+      <property name="Vertices" value="155637" />
+      <property name="Triangles" value="86782" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -93,11 +94,11 @@
       <property name="4" value="47, 4, 53" />
       <property name="5" value="48, 4, 53" />
     </property>
-    <property class="challenge_pallet">
-      <property name="0" value="47, 7, 50" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="47, 4, 49" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="47, 7, 50" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="51, 2, 21" />

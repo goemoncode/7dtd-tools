@@ -13,26 +13,27 @@
   <property name="YOffset" value="-2" />
   <property name="Zoning" value="none" />
   <property name="EditorGroups" value="downtown" />
-  <property name="SleeperVolumeSize" value="1, 1, 1#16, 3, 21#6, 3, 14#14, 3, 18#4, 4, 13" />
-  <property name="SleeperVolumeStart" value="13, 7, 4#7, 7, 2#1, 7, 4#8, 2, 4#3, 2, 5" />
-  <property name="SleeperVolumeGroupId" value="0,1,1,0,0" />
-  <property name="SleeperVolumeGroup" value="GroupGenericZombie,0,0,GroupGenericZombie,2,2,GroupGenericZombie,0,0,GroupNightClub,2,2,zombieJanitor,1,2" />
-  <property name="SleeperIsLootVolume" value="False,True,False,True,True" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="3,0,0,0,0" />
-  <property name="SleeperVolumeTriggeredBy" value="6# # # # " />
-  <property name="SVS0" value="trigger 2^sleep 0.5^trigger 3" />
+  <property name="SleeperVolumeSize" value="16, 3, 21#6, 3, 14#14, 3, 18#4, 4, 13#1, 1, 1" />
+  <property name="SleeperVolumeStart" value="7, 7, 2#1, 7, 4#8, 2, 4#3, 2, 5#15, 2, 1" />
+  <property name="SleeperVolumeGroupId" value="1,1,0,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,0,0,GroupNightClub,2,2,zombieJanitor,1,2,GroupGenericZombie,0,0" />
+  <property name="SleeperIsLootVolume" value="True,False,True,True,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,True" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,3" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # #6" />
   <property name="Tags" value="downtown" />
+  <property name="SVS4" value="trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^^^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^trigger 3^sleep 0.7^trigger 3^trigger 4^sleep 0.7^trigger 4^trigger 5^sleep 0.7^trigger 5^sleep 0.7^trigger 5^trigger 4^trigger 3" />
   <property class="Stats">
-    <property name="TotalVertices" value="323384" />
-    <property name="TotalTriangles" value="128519" />
+    <property name="LightsVolume" value="1459.749" />
+    <property name="TotalVertices" value="321540" />
+    <property name="TotalTriangles" value="126651" />
     <property class="BlockEntities">
-      <property name="Vertices" value="269940" />
-      <property name="Triangles" value="93269" />
+      <property name="Vertices" value="269170" />
+      <property name="Triangles" value="93353" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="50620" />
-      <property name="Triangles" value="31520" />
+      <property name="Vertices" value="49546" />
+      <property name="Triangles" value="29568" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

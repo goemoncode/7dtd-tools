@@ -31,15 +31,16 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1361641" />
-    <property name="TotalTriangles" value="649647" />
+    <property name="LightsVolume" value="9729.512" />
+    <property name="TotalVertices" value="1368442" />
+    <property name="TotalTriangles" value="644603" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1239384" />
-      <property name="Triangles" value="567438" />
+      <property name="Vertices" value="1245243" />
+      <property name="Triangles" value="562422" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="111947" />
-      <property name="Triangles" value="65795" />
+      <property name="Vertices" value="112889" />
+      <property name="Triangles" value="65767" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -85,6 +86,9 @@
     <property class="challenge_gore">
       <property name="0" value="53, 2, 47" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="48, 8, 51" />
+    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="46, 3, 57" />
     </property>
@@ -97,9 +101,6 @@
     </property>
     <property class="challenge_cars">
       <property name="0" value="39, 2, 14" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="56, 2, 45" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="42, 3, 47" />

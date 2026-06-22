@@ -32,11 +32,12 @@
   <property name="SleeperVolumeFlags" value="0,0,2,0,0,0,0,0,0,0,0,0,2,2,1,1,0,2,2,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="762460" />
-    <property name="TotalTriangles" value="398846" />
+    <property name="LightsVolume" value="13419.42" />
+    <property name="TotalVertices" value="759603" />
+    <property name="TotalTriangles" value="376456" />
     <property class="BlockEntities">
-      <property name="Vertices" value="601293" />
-      <property name="Triangles" value="280651" />
+      <property name="Vertices" value="598436" />
+      <property name="Triangles" value="258261" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="135257" />
@@ -77,12 +78,12 @@
     <property class="challenge_polymers">
       <property name="0" value="54, 10, 30" />
     </property>
+    <property class="challenge_cars">
+      <property name="0" value="15, 18, 7" />
+    </property>
     <property class="POILight">
       <property name="0" value="54, 13, 30" />
       <property name="1" value="54, 8, 32" />
-    </property>
-    <property class="challenge_cars">
-      <property name="0" value="15, 18, 7" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="58, 11, 31" />

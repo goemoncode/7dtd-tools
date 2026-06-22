@@ -31,15 +31,16 @@
   <property name="EditorGroups" value="house old" />
   <property name="Tags" value="countryresidential" />
   <property class="Stats">
-    <property name="TotalVertices" value="163580" />
-    <property name="TotalTriangles" value="71223" />
+    <property name="LightsVolume" value="559.7271" />
+    <property name="TotalVertices" value="164149" />
+    <property name="TotalTriangles" value="72768" />
     <property class="BlockEntities">
-      <property name="Vertices" value="131630" />
-      <property name="Triangles" value="49561" />
+      <property name="Vertices" value="131105" />
+      <property name="Triangles" value="50332" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="28166" />
-      <property name="Triangles" value="17706" />
+      <property name="Vertices" value="29260" />
+      <property name="Triangles" value="18480" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="1536" />
@@ -80,7 +81,9 @@
       <property name="2" value="21, 4, 13" />
       <property name="3" value="16, 5, 14" />
       <property name="4" value="18, 5, 14" />
-      <property name="5" value="16, 5, 16" />
+      <property name="5" value="20, 5, 14" />
+      <property name="6" value="21, 4, 14" />
+      <property name="7" value="16, 5, 16" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="7, 2, 18" />
@@ -88,6 +91,8 @@
     <property class="TraderOnOff">
       <property name="0" value="14, 3, 14" />
       <property name="1" value="17, 3, 14" />
+      <property name="2" value="18, 3, 13" />
+      <property name="3" value="16, 3, 14" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="15, 3, 12" />

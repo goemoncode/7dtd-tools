@@ -34,35 +34,36 @@
   <property name="PrefabSize" value="100, 25, 100" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="2249462" />
-    <property name="TotalTriangles" value="1137141" />
+    <property name="LightsVolume" value="15085.74" />
+    <property name="TotalVertices" value="2139887" />
+    <property name="TotalTriangles" value="1079138" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2073998" />
-      <property name="Triangles" value="1042621" />
+      <property name="Vertices" value="1935039" />
+      <property name="Triangles" value="938372" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="138672" />
-      <property name="Triangles" value="76002" />
+      <property name="Vertices" value="138958" />
+      <property name="Triangles" value="75916" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="36288" />
       <property name="Triangles" value="18144" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="518" />
+      <property name="Triangles" value="374" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="504" />
-      <property name="Triangles" value="374" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="29084" />
+      <property name="Triangles" value="46332" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -70,11 +71,29 @@
       <property name="0" value="84, 8, 82" />
       <property name="1" value="84, 8, 85" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="80, 6, 83" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="90, 5, 98" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="82, 6, 82" />
+      <property name="1" value="84, 6, 84" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="84, 6, 82" />
+      <property name="1" value="84, 11, 82" />
+      <property name="2" value="85, 1, 82" />
+      <property name="3" value="85, 6, 83" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="70, 5, 79" />
+      <property name="1" value="71, 5, 79" />
+      <property name="2" value="70, 5, 80" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="49, 5, 19" />
     </property>
     <property class="quest_wood">
       <property name="0" value="85, 5, 57" />
@@ -83,6 +102,10 @@
     <property class="quest_stone_boulder">
       <property name="0" value="67, 5, 66" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="81, 16, 83" />
+      <property name="1" value="77, 6, 85" />
+    </property>
     <property class="Rally">
       <property name="0" value="71, 5, 74" />
     </property>
@@ -90,6 +113,10 @@
       <property name="0" value="85, 14, 74" />
       <property name="1" value="82, 9, 77" />
       <property name="2" value="85, 1, 79" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="83, 16, 73" />
+      <property name="1" value="82, 1, 78" />
     </property>
   </property>
 </prefab>

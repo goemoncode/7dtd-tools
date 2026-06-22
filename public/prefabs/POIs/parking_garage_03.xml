@@ -14,40 +14,44 @@
   <property name="Zoning" value="downtown" />
   <property name="Tags" value="downtown" />
   <property name="EditorGroups" value="downtown" />
-  <property name="SleeperVolumeSize" value="38, 3, 13#37, 3, 14#19, 3, 24#15, 3, 31#17, 8, 18#40, 6, 25#14, 3, 16" />
-  <property name="SleeperVolumeStart" value="2, 12, 9#3, 17, 9#22, 2, 8#1, 2, 9#3, 7, 22#1, 22, 8#26, 12, 23" />
-  <property name="SleeperVolumeGroupId" value="1,0,0,0,7,0,7" />
-  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupZomBadass,2,2,GroupGenericZombie,2,3,GroupGenericZombie,2,3,GroupGenericZombie,4,4,GroupGenericZombie,0,0" />
-  <property name="SleeperIsLootVolume" value="True,True,True,True,True,True,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="2,2,2,2,2,2,0" />
+  <property name="SleeperVolumeSize" value="38, 3, 13#37, 3, 14#19, 3, 24#15, 3, 31#17, 8, 18#40, 6, 25#14, 3, 16#1, 1, 1#1, 1, 1" />
+  <property name="SleeperVolumeStart" value="2, 12, 9#3, 17, 9#22, 2, 8#1, 2, 9#3, 7, 22#1, 22, 8#26, 12, 23#33, 5, 22#15, 5, 35" />
+  <property name="SleeperVolumeGroupId" value="1,0,0,0,7,0,7,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupZomBadass,2,2,GroupGenericZombie,2,3,GroupGenericZombie,2,3,GroupGenericZombie,4,4,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0" />
+  <property name="SleeperIsLootVolume" value="True,True,True,True,True,True,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,True,True" />
+  <property name="SleeperVolumeFlags" value="2,2,2,2,2,2,0,3,3" />
   <property name="PrefabSize" value="42, 31, 42" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
-  <property name="TriggerVolumeSize" value="39, 4, 1" />
-  <property name="TriggerVolumeStart" value="2, 17, 22" />
-  <property name="TriggerVolumeTriggers" value="7" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # #8#10" />
+  <property name="TriggerVolumeSize" value="39, 4, 1#17, 2, 14#18, 2, 21" />
+  <property name="TriggerVolumeStart" value="2, 17, 22#22, 2, 12#4, 2, 19" />
+  <property name="TriggerVolumeTriggers" value="7#8#10" />
+  <property name="SVS8" value="sleep 3^sleep 0.5^sound electric_fence_impact^trigger 11^sleep 0.5^trigger 11" />
+  <property name="SVS7" value="sleep 2^sleep 0.5^sound electric_fence_impact^trigger 9^sleep 0.5^trigger 9" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="39, 30, 39" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="37, 17, 22" />
+      <property name="1" value="37, 22, 27" />
+      <property name="2" value="41, 7, 35" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="39, 22, 12" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="23, 3, 29" />
+      <property name="1" value="24, 3, 29" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="1, 3, 27" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="24, 2, 31" />
-    </property>
-    <property class="challenge_polymers">
-      <property name="0" value="37, 22, 27" />
+      <property name="0" value="36, 7, 40" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="26, 2, 26" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="23, 3, 29" />
-      <property name="1" value="24, 3, 29" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="34, 2, 39" />
@@ -60,19 +64,20 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="622418" />
-    <property name="TotalTriangles" value="271407" />
+    <property name="LightsVolume" value="46154.48" />
+    <property name="TotalVertices" value="637777" />
+    <property name="TotalTriangles" value="277672" />
     <property class="BlockEntities">
-      <property name="Vertices" value="355946" />
-      <property name="Triangles" value="115068" />
+      <property name="Vertices" value="369927" />
+      <property name="Triangles" value="121269" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="186862" />
-      <property name="Triangles" value="108879" />
+      <property name="Vertices" value="186832" />
+      <property name="Triangles" value="108239" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="72320" />
-      <property name="Triangles" value="36160" />
+      <property name="Vertices" value="73728" />
+      <property name="Triangles" value="36864" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="420" />

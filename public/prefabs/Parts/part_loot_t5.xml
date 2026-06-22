@@ -13,11 +13,11 @@
   <property name="PrefabSize" value="5, 2, 4" />
   <property name="Tags" value="part" />
   <property class="Stats">
-    <property name="TotalVertices" value="52707" />
-    <property name="TotalTriangles" value="51377" />
+    <property name="TotalVertices" value="36744" />
+    <property name="TotalTriangles" value="10907" />
     <property class="BlockEntities">
-      <property name="Vertices" value="52299" />
-      <property name="Triangles" value="51173" />
+      <property name="Vertices" value="36440" />
+      <property name="Triangles" value="10755" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="304" />
@@ -42,22 +42,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="104" />
-      <property name="Triangles" value="52" />
     </property>
   </property>
 </prefab>

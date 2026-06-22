@@ -9,6 +9,7 @@ program
   .name(basename(__filename, ".ts"))
   .description('Find blocks can loot item')
   .argument('<pattern>', 'Regular expression for item name you want loot')
+  .option("-i, --input <inputFile>", "loot.xml file")
   .configureOutput({ outputError: (str, write) => write(red(str)) })
   .showHelpAfterError()
   .parse();
@@ -17,7 +18,8 @@ handleMain(main);
 
 async function main({ gameConfigDir }: AppConfig) {
   const pattern = new RegExp(program.args[0]);
-  const loot = await Loot.loadFromXml(join(gameConfigDir, 'loot.xml'));
+  const options = program.opts();
+  const loot = await Loot.loadFromXml(options.input ?? join(gameConfigDir, 'loot.xml'));
   const lootContainers = loot.findLootContainer(pattern);
   const items = flattenItems(lootContainers);
 

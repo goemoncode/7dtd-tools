@@ -37,6 +37,9 @@
       <property name="0" value="31, 1, 21" />
       <property name="1" value="35, 1, 25" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="37, 1, 10" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="23, 1, 41" />
     </property>
@@ -49,18 +52,14 @@
       <property name="0" value="37, 1, 14" />
     </property>
     <property class="POILight">
-      <property name="0" value="23, 4, 23" />
-      <property name="1" value="35, 1, 31" />
+      <property name="0" value="24, 8, 21" />
+      <property name="1" value="23, 4, 23" />
+      <property name="2" value="35, 1, 31" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="15, 7, 11" />
       <property name="1" value="11, 13, 13" />
       <property name="2" value="10, 6, 18" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="21, 1, 21" />
-      <property name="1" value="26, 1, 22" />
-      <property name="2" value="36, 18, 36" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="38, 1, 24" />
@@ -80,24 +79,25 @@
     <property class="QuestRestorePower">
       <property name="0" value="11, 2, 35" />
     </property>
+    <property class="Rally">
+      <property name="0" value="36, 1, 6" />
+    </property>
     <property class="challenge_steel">
       <property name="0" value="22, 6, 19" />
       <property name="1" value="22, 6, 20" />
     </property>
-    <property class="Rally">
-      <property name="0" value="36, 1, 6" />
-    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="583790" />
-    <property name="TotalTriangles" value="224760" />
+    <property name="LightsVolume" value="6928.34" />
+    <property name="TotalVertices" value="580927" />
+    <property name="TotalTriangles" value="222532" />
     <property class="BlockEntities">
-      <property name="Vertices" value="465916" />
-      <property name="Triangles" value="146109" />
+      <property name="Vertices" value="463636" />
+      <property name="Triangles" value="144869" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="111284" />
-      <property name="Triangles" value="71439" />
+      <property name="Vertices" value="110701" />
+      <property name="Triangles" value="70451" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

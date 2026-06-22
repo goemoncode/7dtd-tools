@@ -1,0 +1,14 @@
+id,name,count
+6991,concreteShapes:cube,690
+7006,concreteShapes:cubeHalf,58
+7437,concreteShapes:ramp,394
+7438,concreteShapes:cubeHalfRamp,24
+7732,concreteShapes:halfRampStairs50,10
+8219,concreteShapes:cubeHalfTrimQuarter2SidedOffset,17
+8350,concreteShapes:rampHalfTrimQuarterEdgeFillerOffset,8
+8353,concreteShapes:rampHalfTrimQuarterEdgeFillerOffsetLeft,2
+8356,concreteShapes:rampHalfTrimQuarterEdgeFillerOffsetRight,2
+8360,concreteShapes:rampHalfTrimQuarterEdge2SidedOffset,12
+14770,corrugatedMetalShapes:catwalkV2RailOnly,17
+14776,corrugatedMetalShapes:catwalkV2RailOnlyDiagonal,12
+15177,corrugatedMetalShapes:doorTrim1m,10

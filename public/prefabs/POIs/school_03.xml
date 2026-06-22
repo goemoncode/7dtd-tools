@@ -52,15 +52,16 @@
   <property name="SVS6" value="spawn GroupGenericZombie 1^waitalive 1^spawn GroupGenericZombie 1^waitalive 1^spawn GroupGenericZombie 1^waitalive 1^spawn GroupGenericZombie 1^waitalive 1^spawn GroupGenericZombie 1" />
   <property name="SVS4" value="sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 1^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1^waitalive 0^sound sleeperspawnmetal^spawn zombieUtilityWorkerFeralGroup 1" />
   <property class="Stats">
-    <property name="TotalVertices" value="2894747" />
-    <property name="TotalTriangles" value="1049921" />
+    <property name="LightsVolume" value="29441.96" />
+    <property name="TotalVertices" value="2869096" />
+    <property name="TotalTriangles" value="1031220" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2535487" />
-      <property name="Triangles" value="833903" />
+      <property name="Vertices" value="2512436" />
+      <property name="Triangles" value="817806" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="333966" />
-      <property name="Triangles" value="183326" />
+      <property name="Vertices" value="331366" />
+      <property name="Triangles" value="180722" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -112,9 +113,11 @@
       <property name="0" value="85, 2, 71" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="69, 2, 56" />
-      <property name="1" value="74, 2, 57" />
-      <property name="2" value="78, 2, 57" />
+      <property name="0" value="72, 12, 52" />
+      <property name="1" value="69, 2, 56" />
+      <property name="2" value="81, 2, 56" />
+      <property name="3" value="74, 2, 57" />
+      <property name="4" value="78, 2, 57" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="88, 3, 70" />
@@ -126,6 +129,9 @@
     <property class="challenge_gore">
       <property name="0" value="70, 7, 53" />
     </property>
+    <property class="challenge_pallet">
+      <property name="0" value="77, 2, 72" />
+    </property>
     <property class="Rally">
       <property name="0" value="47, 1, 87" />
     </property>
@@ -134,9 +140,6 @@
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="87, 2, 73" />
-    </property>
-    <property class="challenge_pallet">
-      <property name="0" value="77, 2, 72" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="68, 7, 50" />

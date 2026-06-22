@@ -1,0 +1,10 @@
+id,name,count
+6991,concreteShapes:cube,548
+7006,concreteShapes:cubeHalf,4
+7437,concreteShapes:ramp,404
+7438,concreteShapes:cubeHalfRamp,24
+8219,concreteShapes:cubeHalfTrimQuarter2SidedOffset,1
+8350,concreteShapes:rampHalfTrimQuarterEdgeFillerOffset,4
+8360,concreteShapes:rampHalfTrimQuarterEdge2SidedOffset,6
+14770,corrugatedMetalShapes:catwalkV2RailOnly,1
+14776,corrugatedMetalShapes:catwalkV2RailOnlyDiagonal,6

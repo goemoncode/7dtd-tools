@@ -25,15 +25,16 @@
   <property name="ThemeTags" value="zipcoffee" />
   <property name="ThemeRepeatDistance" value="150" />
   <property class="Stats">
-    <property name="TotalVertices" value="1020536" />
-    <property name="TotalTriangles" value="419855" />
+    <property name="LightsVolume" value="13669.58" />
+    <property name="TotalVertices" value="991506" />
+    <property name="TotalTriangles" value="406429" />
     <property class="BlockEntities">
-      <property name="Vertices" value="710379" />
-      <property name="Triangles" value="236450" />
+      <property name="Vertices" value="680727" />
+      <property name="Triangles" value="223798" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="277334" />
-      <property name="Triangles" value="154050" />
+      <property name="Vertices" value="277956" />
+      <property name="Triangles" value="153276" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3200" />
@@ -83,6 +84,9 @@
       <property name="4" value="31, 25, 33" />
       <property name="5" value="33, 35, 33" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="33, 1, 48" />
+    </property>
     <property class="challenge_sinks">
       <property name="0" value="36, 47, 30" />
       <property name="1" value="38, 16, 31" />
@@ -95,9 +99,6 @@
       <property name="8" value="32, 1, 43" />
       <property name="9" value="32, 2, 43" />
       <property name="10" value="43, 6, 44" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="33, 1, 48" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="23, 30, 31" />

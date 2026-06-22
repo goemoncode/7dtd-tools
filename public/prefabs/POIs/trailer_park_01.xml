@@ -35,15 +35,16 @@
   <property name="PrefabSize" value="42, 11, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="430331" />
-    <property name="TotalTriangles" value="188130" />
+    <property name="LightsVolume" value="6218.783" />
+    <property name="TotalVertices" value="431593" />
+    <property name="TotalTriangles" value="192417" />
     <property class="BlockEntities">
-      <property name="Vertices" value="349620" />
-      <property name="Triangles" value="133365" />
+      <property name="Vertices" value="347347" />
+      <property name="Triangles" value="135450" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="74157" />
-      <property name="Triangles" value="46457" />
+      <property name="Vertices" value="77692" />
+      <property name="Triangles" value="48659" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -79,20 +80,21 @@
       <property name="0" value="37, 4, 31" />
       <property name="1" value="38, 3, 33" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="34, 2, 31" />
+      <property name="1" value="34, 2, 33" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="34, 2, 30" />
     </property>
     <property class="challenge_polymers">
-      <property name="0" value="37, 1, 37" />
+      <property name="0" value="40, 1, 37" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="40, 1, 40" />
     </property>
     <property class="Rally">
       <property name="0" value="20, 1, 1" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="34, 2, 33" />
     </property>
     <property class="quest_wood">
       <property name="0" value="25, 1, 29" />

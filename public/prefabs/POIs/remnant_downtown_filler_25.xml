@@ -26,15 +26,16 @@
   <property name="TriggerVolumeStart" value="10, 2, 4" />
   <property name="TriggerVolumeTriggers" value="4" />
   <property class="Stats">
-    <property name="TotalVertices" value="290783" />
-    <property name="TotalTriangles" value="116680" />
+    <property name="LightsVolume" value="1222.08" />
+    <property name="TotalVertices" value="285717" />
+    <property name="TotalTriangles" value="113206" />
     <property class="BlockEntities">
-      <property name="Vertices" value="240604" />
-      <property name="Triangles" value="85600" />
+      <property name="Vertices" value="236716" />
+      <property name="Triangles" value="83718" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="46579" />
-      <property name="Triangles" value="26864" />
+      <property name="Vertices" value="45401" />
+      <property name="Triangles" value="25272" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -67,8 +68,10 @@
       <property name="0" value="18, 2, 12" />
       <property name="1" value="12, 2, 13" />
       <property name="2" value="14, 2, 15" />
-      <property name="3" value="16, 2, 19" />
-      <property name="4" value="13, 2, 22" />
+      <property name="3" value="12, 2, 17" />
+      <property name="4" value="16, 2, 19" />
+      <property name="5" value="19, 2, 19" />
+      <property name="6" value="13, 2, 22" />
     </property>
     <property class="POILight">
       <property name="0" value="21, 5, 13" />

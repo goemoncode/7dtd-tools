@@ -14,15 +14,16 @@
   <property name="PrefabSize" value="10, 4, 9" />
   <property name="Tags" value="part" />
   <property class="Stats">
-    <property name="TotalVertices" value="23165" />
-    <property name="TotalTriangles" value="8773" />
+    <property name="LightsVolume" value="67.54424" />
+    <property name="TotalVertices" value="22883" />
+    <property name="TotalTriangles" value="8474" />
     <property class="BlockEntities">
-      <property name="Vertices" value="20225" />
-      <property name="Triangles" value="7249" />
+      <property name="Vertices" value="20005" />
+      <property name="Triangles" value="6978" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="2940" />
-      <property name="Triangles" value="1524" />
+      <property name="Vertices" value="2878" />
+      <property name="Triangles" value="1496" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -44,24 +45,11 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="6, 0, 0" />
+    </property>
     <property class="POILight">
       <property name="0" value="5, 2, 4" />
     </property>

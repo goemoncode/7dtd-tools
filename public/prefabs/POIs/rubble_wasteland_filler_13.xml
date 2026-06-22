@@ -31,6 +31,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
+    <property name="LightsVolume" value="4595.103" />
     <property name="TotalVertices" value="148886" />
     <property name="TotalTriangles" value="63732" />
     <property class="BlockEntities">

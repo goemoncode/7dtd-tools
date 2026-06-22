@@ -39,15 +39,16 @@
   <property name="Tags" value="countrytown, nodiagonal" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="805834" />
-    <property name="TotalTriangles" value="308946" />
+    <property name="LightsVolume" value="7921.313" />
+    <property name="TotalVertices" value="813055" />
+    <property name="TotalTriangles" value="307657" />
     <property class="BlockEntities">
-      <property name="Vertices" value="664225" />
-      <property name="Triangles" value="213696" />
+      <property name="Vertices" value="674844" />
+      <property name="Triangles" value="216629" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="129765" />
-      <property name="Triangles" value="78314" />
+      <property name="Vertices" value="126343" />
+      <property name="Triangles" value="74080" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -58,8 +59,8 @@
       <property name="Triangles" value="796" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="984" />
-      <property name="Triangles" value="492" />
+      <property name="Vertices" value="1008" />
+      <property name="Triangles" value="504" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />

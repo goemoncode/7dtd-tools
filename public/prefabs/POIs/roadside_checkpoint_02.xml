@@ -38,15 +38,16 @@
   <property name="TriggerVolumeStart" value="35, 2, 11" />
   <property name="TriggerVolumeTriggers" value="3" />
   <property class="Stats">
-    <property name="TotalVertices" value="662432" />
-    <property name="TotalTriangles" value="290544" />
+    <property name="LightsVolume" value="7301.715" />
+    <property name="TotalVertices" value="664476" />
+    <property name="TotalTriangles" value="274566" />
     <property class="BlockEntities">
-      <property name="Vertices" value="582312" />
-      <property name="Triangles" value="232513" />
+      <property name="Vertices" value="583368" />
+      <property name="Triangles" value="217231" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="69060" />
-      <property name="Triangles" value="41183" />
+      <property name="Vertices" value="70050" />
+      <property name="Triangles" value="40491" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -65,8 +66,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="9500" />
-      <property name="Triangles" value="16016" />
+      <property name="Vertices" value="9498" />
+      <property name="Triangles" value="16012" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -106,6 +107,12 @@
       <property name="0" value="46, 2, 7" />
       <property name="1" value="49, 2, 7" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="53, 2, 31" />
+      <property name="1" value="48, 2, 40" />
+      <property name="2" value="56, 2, 40" />
+      <property name="3" value="56, 2, 41" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="47, 2, 2" />
     </property>
@@ -121,12 +128,6 @@
     <property class="FetchContainer">
       <property name="0" value="35, 2, 36" />
       <property name="1" value="41, 5, 42" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="53, 2, 31" />
-      <property name="1" value="48, 2, 40" />
-      <property name="2" value="56, 2, 40" />
-      <property name="3" value="56, 2, 41" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="50, 2, 54" />

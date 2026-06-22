@@ -36,15 +36,16 @@
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="451646" />
-    <property name="TotalTriangles" value="177233" />
+    <property name="LightsVolume" value="12235.98" />
+    <property name="TotalVertices" value="476304" />
+    <property name="TotalTriangles" value="182953" />
     <property class="BlockEntities">
-      <property name="Vertices" value="366990" />
-      <property name="Triangles" value="118452" />
+      <property name="Vertices" value="391135" />
+      <property name="Triangles" value="125006" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="77394" />
-      <property name="Triangles" value="48737" />
+      <property name="Vertices" value="77907" />
+      <property name="Triangles" value="47903" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,7 +72,7 @@
     <property class="challenge_polymers">
       <property name="0" value="39, 5, 6" />
       <property name="1" value="38, 4, 12" />
-      <property name="2" value="41, 4, 14" />
+      <property name="2" value="41, 4, 16" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="29, 5, 36" />
@@ -88,11 +89,12 @@
     <property class="challenge_sinks">
       <property name="0" value="24, 11, 10" />
       <property name="1" value="36, 4, 12" />
-      <property name="2" value="27, 4, 17" />
-      <property name="3" value="22, 5, 18" />
-      <property name="4" value="26, 4, 19" />
-      <property name="5" value="32, 10, 19" />
-      <property name="6" value="33, 10, 19" />
+      <property name="2" value="24, 10, 13" />
+      <property name="3" value="27, 4, 17" />
+      <property name="4" value="22, 5, 18" />
+      <property name="5" value="26, 4, 19" />
+      <property name="6" value="32, 10, 19" />
+      <property name="7" value="33, 10, 19" />
     </property>
     <property class="quest_stone">
       <property name="0" value="29, 4, 29" />
@@ -101,14 +103,7 @@
       <property name="0" value="31, 8, 21" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="23, 4, 6" />
-      <property name="1" value="28, 11, 6" />
-      <property name="2" value="25, 10, 7" />
-      <property name="3" value="33, 10, 7" />
-      <property name="4" value="28, 7, 13" />
-      <property name="5" value="34, 13, 13" />
-      <property name="6" value="27, 4, 15" />
-      <property name="7" value="29, 10, 17" />
+      <property name="0" value="38, 4, 21" />
     </property>
     <property class="quest_feather">
       <property name="0" value="28, 16, 18" />

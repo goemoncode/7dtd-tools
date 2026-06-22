@@ -31,15 +31,16 @@
   <property name="ThemeTags" value="hnnbank" />
   <property name="ThemeRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="198086" />
-    <property name="TotalTriangles" value="77215" />
+    <property name="LightsVolume" value="654.4823" />
+    <property name="TotalVertices" value="193095" />
+    <property name="TotalTriangles" value="74855" />
     <property class="BlockEntities">
-      <property name="Vertices" value="148566" />
-      <property name="Triangles" value="41400" />
+      <property name="Vertices" value="143707" />
+      <property name="Triangles" value="39466" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="45238" />
-      <property name="Triangles" value="29635" />
+      <property name="Vertices" value="45106" />
+      <property name="Triangles" value="29209" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -74,14 +75,14 @@
       <property name="0" value="12, 5, 17" />
       <property name="1" value="12, 5, 18" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="12, 2, 18" />
+    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="17, 12, 6" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="20, 12, 8" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="17, 7, 5" />
     </property>
   </property>
 </prefab>

@@ -30,15 +30,16 @@
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property name="Tags" value="countrytown, diagonal" />
   <property class="Stats">
-    <property name="TotalVertices" value="270727" />
-    <property name="TotalTriangles" value="111815" />
+    <property name="LightsVolume" value="29388.37" />
+    <property name="TotalVertices" value="267921" />
+    <property name="TotalTriangles" value="110048" />
     <property class="BlockEntities">
-      <property name="Vertices" value="237974" />
-      <property name="Triangles" value="89004" />
+      <property name="Vertices" value="235888" />
+      <property name="Triangles" value="87889" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="29087" />
-      <property name="Triangles" value="17175" />
+      <property name="Vertices" value="28367" />
+      <property name="Triangles" value="16523" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,17 +72,25 @@
       <property name="2" value="30, 1, 30" />
       <property name="3" value="23, 1, 32" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="22, 1, 23" />
+      <property name="1" value="22, 1, 29" />
+      <property name="2" value="27, 1, 29" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="23, 1, 30" />
+      <property name="1" value="24, 1, 30" />
+    </property>
     <property class="challenge_pallet">
       <property name="0" value="22, 1, 21" />
       <property name="1" value="23, 1, 23" />
       <property name="2" value="23, 2, 23" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="17, 1, 26" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="29, 1, 21" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="26, 1, 15" />
-      <property name="1" value="27, 1, 15" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="26, 1, 23" />

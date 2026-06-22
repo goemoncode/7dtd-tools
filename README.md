@@ -2,7 +2,7 @@
 
 This project provides several scripts that generate prefab data files for 7 Days to Die Map renderer.
 
-In addition, the prefab data files with version α21 have already been generated and included in the project and are published at the following website.
+In addition, the prefab data files with version 3.0 have already been generated and included in the project and are published at the following website.
 
 - https://goemoncode-7dtd-tools.onrender.com/
 

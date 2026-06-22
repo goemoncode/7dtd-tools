@@ -23,15 +23,16 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,2,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="311080" />
-    <property name="TotalTriangles" value="133760" />
+    <property name="LightsVolume" value="1655.65" />
+    <property name="TotalVertices" value="311856" />
+    <property name="TotalTriangles" value="133224" />
     <property class="BlockEntities">
-      <property name="Vertices" value="234337" />
-      <property name="Triangles" value="85196" />
+      <property name="Vertices" value="234493" />
+      <property name="Triangles" value="85646" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="71647" />
-      <property name="Triangles" value="43532" />
+      <property name="Vertices" value="72267" />
+      <property name="Triangles" value="42546" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -82,9 +83,11 @@
       <property name="0" value="13, 3, 16" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="12, 8, 14" />
-      <property name="1" value="20, 2, 17" />
-      <property name="2" value="15, 3, 20" />
+      <property name="0" value="19, 2, 13" />
+      <property name="1" value="12, 8, 14" />
+      <property name="2" value="20, 2, 17" />
+      <property name="3" value="15, 3, 20" />
+      <property name="4" value="22, 2, 20" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="20, 2, 12" />

@@ -31,17 +31,17 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_10,part_driveway_rural_10" />
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="386832" />
-    <property name="TotalTriangles" value="221851" />
+    <property name="LightsVolume" value="6686.008" />
+    <property name="TotalVertices" value="404655" />
+    <property name="TotalTriangles" value="211752" />
     <property class="BlockEntities">
-      <property name="Vertices" value="319657" />
-      <property name="Triangles" value="175196" />
+      <property name="Vertices" value="337554" />
+      <property name="Triangles" value="165659" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="57745" />
-      <property name="Triangles" value="31023" />
+      <property name="Vertices" value="57671" />
+      <property name="Triangles" value="30461" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -79,17 +79,14 @@
       <property name="0" value="44, 2, 42" />
       <property name="1" value="45, 2, 42" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="32, 7, 22" />
+    </property>
     <property class="Rally">
       <property name="0" value="16, 2, 21" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="46, 2, 40" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="18, 2, 25" />
-      <property name="1" value="14, 2, 26" />
-      <property name="2" value="17, 2, 27" />
-      <property name="3" value="14, 2, 29" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="47, 5, 41" />

@@ -31,15 +31,16 @@
   <property name="Tags" value="countrytown, nodiagonal" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="294081" />
-    <property name="TotalTriangles" value="132662" />
+    <property name="LightsVolume" value="7769.858" />
+    <property name="TotalVertices" value="293620" />
+    <property name="TotalTriangles" value="133009" />
     <property class="BlockEntities">
-      <property name="Vertices" value="243986" />
-      <property name="Triangles" value="97296" />
+      <property name="Vertices" value="245383" />
+      <property name="Triangles" value="99711" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="44629" />
-      <property name="Triangles" value="27150" />
+      <property name="Vertices" value="42771" />
+      <property name="Triangles" value="25082" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,7 +72,8 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="24, 2, 9" />
-      <property name="1" value="22, 2, 16" />
+      <property name="1" value="32, 2, 15" />
+      <property name="2" value="22, 2, 16" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="26, 5, 10" />

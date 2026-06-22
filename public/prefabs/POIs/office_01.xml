@@ -52,7 +52,8 @@
       <property name="0" value="32, 5, 37" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="29, 2, 38" />
+      <property name="0" value="34, 2, 37" />
+      <property name="1" value="29, 2, 38" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="28, 2, 23" />
@@ -87,15 +88,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="482504" />
-    <property name="TotalTriangles" value="159559" />
+    <property name="LightsVolume" value="13337.32" />
+    <property name="TotalVertices" value="487443" />
+    <property name="TotalTriangles" value="157409" />
     <property class="BlockEntities">
-      <property name="Vertices" value="402973" />
-      <property name="Triangles" value="112333" />
+      <property name="Vertices" value="421470" />
+      <property name="Triangles" value="117171" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="74189" />
-      <property name="Triangles" value="39926" />
+      <property name="Vertices" value="60631" />
+      <property name="Triangles" value="32938" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

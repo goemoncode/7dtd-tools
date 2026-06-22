@@ -36,19 +36,37 @@
     <property class="POILight">
       <property name="0" value="55, 7, 47" />
       <property name="1" value="54, 24, 48" />
-      <property name="2" value="49, 11, 51" />
-      <property name="3" value="51, 11, 51" />
-      <property name="4" value="53, 11, 51" />
-      <property name="5" value="54, 30, 51" />
-      <property name="6" value="55, 7, 51" />
-      <property name="7" value="53, 11, 53" />
-      <property name="8" value="47, 7, 54" />
-      <property name="9" value="49, 12, 54" />
-      <property name="10" value="50, 7, 54" />
-      <property name="11" value="50, 30, 54" />
-      <property name="12" value="49, 22, 55" />
-      <property name="13" value="51, 24, 55" />
-      <property name="14" value="55, 7, 55" />
+      <property name="2" value="49, 4, 49" />
+      <property name="3" value="53, 16, 49" />
+      <property name="4" value="50, 35, 50" />
+      <property name="5" value="56, 28, 50" />
+      <property name="6" value="49, 10, 51" />
+      <property name="7" value="49, 11, 51" />
+      <property name="8" value="51, 11, 51" />
+      <property name="9" value="53, 11, 51" />
+      <property name="10" value="54, 30, 51" />
+      <property name="11" value="55, 7, 51" />
+      <property name="12" value="56, 28, 52" />
+      <property name="13" value="53, 11, 53" />
+      <property name="14" value="47, 7, 54" />
+      <property name="15" value="49, 12, 54" />
+      <property name="16" value="49, 22, 54" />
+      <property name="17" value="50, 7, 54" />
+      <property name="18" value="50, 30, 54" />
+      <property name="19" value="52, 22, 54" />
+      <property name="20" value="53, 10, 54" />
+      <property name="21" value="49, 22, 55" />
+      <property name="22" value="51, 24, 55" />
+      <property name="23" value="55, 7, 55" />
+      <property name="24" value="49, 28, 56" />
+      <property name="25" value="51, 28, 56" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="55, 21, 46" />
+      <property name="1" value="54, 9, 48" />
+      <property name="2" value="47, 9, 52" />
+      <property name="3" value="53, 28, 56" />
+      <property name="4" value="56, 27, 56" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="50, 45, 37" />
@@ -68,57 +86,61 @@
       <property name="0" value="56, 4, 46" />
       <property name="1" value="56, 4, 48" />
       <property name="2" value="46, 22, 49" />
-      <property name="3" value="56, 3, 50" />
-      <property name="4" value="51, 3, 52" />
-      <property name="5" value="56, 3, 52" />
-      <property name="6" value="46, 4, 54" />
-      <property name="7" value="51, 3, 54" />
-      <property name="8" value="56, 3, 54" />
-      <property name="9" value="46, 4, 56" />
-      <property name="10" value="51, 3, 56" />
-      <property name="11" value="56, 3, 56" />
+      <property name="3" value="50, 3, 50" />
+      <property name="4" value="56, 3, 50" />
+      <property name="5" value="51, 35, 51" />
+      <property name="6" value="51, 3, 52" />
+      <property name="7" value="56, 3, 52" />
+      <property name="8" value="46, 4, 54" />
+      <property name="9" value="51, 3, 54" />
+      <property name="10" value="56, 3, 54" />
+      <property name="11" value="46, 4, 56" />
+      <property name="12" value="51, 3, 56" />
+      <property name="13" value="56, 3, 56" />
     </property>
     <property class="quest_feather">
       <property name="0" value="46, 33, 56" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="54, 15, 49" />
-      <property name="1" value="55, 21, 49" />
-      <property name="2" value="53, 21, 50" />
-      <property name="3" value="49, 9, 52" />
-      <property name="4" value="55, 27, 52" />
-      <property name="5" value="52, 9, 54" />
-      <property name="6" value="53, 21, 54" />
-      <property name="7" value="49, 27, 55" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="51, 39, 48" />
+      <property name="1" value="54, 15, 49" />
+      <property name="2" value="55, 21, 49" />
+      <property name="3" value="53, 21, 50" />
+      <property name="4" value="49, 9, 52" />
+      <property name="5" value="55, 27, 52" />
+      <property name="6" value="52, 9, 54" />
+      <property name="7" value="53, 21, 54" />
+      <property name="8" value="49, 27, 55" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="51, 39, 36" />
       <property name="1" value="50, 45, 39" />
       <property name="2" value="46, 45, 40" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="46, 3, 46" />
       <property name="1" value="46, 3, 49" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1116672" />
-    <property name="TotalTriangles" value="496327" />
+    <property name="LightsVolume" value="15907.95" />
+    <property name="TotalVertices" value="1152797" />
+    <property name="TotalTriangles" value="500129" />
     <property class="BlockEntities">
-      <property name="Vertices" value="763933" />
-      <property name="Triangles" value="287128" />
+      <property name="Vertices" value="797594" />
+      <property name="Triangles" value="291718" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="314121" />
-      <property name="Triangles" value="175935" />
+      <property name="Vertices" value="316969" />
+      <property name="Triangles" value="175339" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="9344" />
       <property name="Triangles" value="4672" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="15550" />
-      <property name="Triangles" value="9664" />
+      <property name="Vertices" value="15166" />
+      <property name="Triangles" value="9472" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="3600" />

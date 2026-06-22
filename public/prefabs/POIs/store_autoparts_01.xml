@@ -36,15 +36,16 @@
   <property name="PrefabSize" value="60, 25, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="561756" />
-    <property name="TotalTriangles" value="246349" />
+    <property name="LightsVolume" value="32281.83" />
+    <property name="TotalVertices" value="584494" />
+    <property name="TotalTriangles" value="250963" />
     <property class="BlockEntities">
-      <property name="Vertices" value="470100" />
-      <property name="Triangles" value="179569" />
+      <property name="Vertices" value="493165" />
+      <property name="Triangles" value="185389" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="78690" />
-      <property name="Triangles" value="47364" />
+      <property name="Vertices" value="78363" />
+      <property name="Triangles" value="46158" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -83,7 +84,7 @@
       <property name="4" value="47, 6, 40" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="35, 11, 45" />
+      <property name="0" value="49, 5, 44" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="49, 5, 39" />
@@ -96,15 +97,7 @@
       <property name="0" value="42, 2, 46" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="18, 6, 33" />
-      <property name="1" value="20, 6, 33" />
-      <property name="2" value="17, 5, 37" />
-      <property name="3" value="19, 5, 37" />
-      <property name="4" value="17, 5, 39" />
-      <property name="5" value="19, 5, 39" />
-      <property name="6" value="21, 5, 39" />
-      <property name="7" value="18, 6, 43" />
-      <property name="8" value="20, 6, 43" />
+      <property name="0" value="41, 5, 38" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="46, 1, 36" />

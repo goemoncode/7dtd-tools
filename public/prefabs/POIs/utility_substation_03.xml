@@ -37,15 +37,16 @@
   <property name="TriggerVolumeTriggers" value="3#5" />
   <property name="SVS6" value="sound electric_fence_impact^trigger 4^sleep 0.2^trigger 4^sleep 0.2^trigger 4^sleep 0.5^trigger 4^sound electric_fence_impact^sleep 45^sound electric_fence_impact^trigger 4^sleep 0.2^trigger 4^sleep 0.2^trigger 4^sleep 0.5^trigger 4^sound electric_fence_impact^sleep 60^sound electric_fence_impact^trigger 4^sleep 0.2^trigger 4^sleep 0.2^trigger 4^sleep 0.5^trigger 4^sound electric_fence_impact" />
   <property class="Stats">
-    <property name="TotalVertices" value="254440" />
-    <property name="TotalTriangles" value="138576" />
+    <property name="LightsVolume" value="74812.08" />
+    <property name="TotalVertices" value="254940" />
+    <property name="TotalTriangles" value="130056" />
     <property class="BlockEntities">
-      <property name="Vertices" value="190717" />
-      <property name="Triangles" value="86894" />
+      <property name="Vertices" value="191077" />
+      <property name="Triangles" value="78554" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="54027" />
-      <property name="Triangles" value="35382" />
+      <property name="Vertices" value="54167" />
+      <property name="Triangles" value="35202" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -86,7 +87,7 @@
       <property name="2" value="47, 5, 37" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="33, 5, 38" />
+      <property name="0" value="46, 4, 34" />
     </property>
     <property class="challenge_elec_parts">
       <property name="0" value="13, 4, 38" />

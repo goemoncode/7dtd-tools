@@ -27,15 +27,16 @@
   <property name="InfoVolumeSize" value="53, 31, 55" />
   <property name="InfoVolumeStart" value="0, 0, 0" />
   <property class="Stats">
-    <property name="TotalVertices" value="887799" />
-    <property name="TotalTriangles" value="415649" />
+    <property name="LightsVolume" value="19828.05" />
+    <property name="TotalVertices" value="881551" />
+    <property name="TotalTriangles" value="407736" />
     <property class="BlockEntities">
-      <property name="Vertices" value="630182" />
-      <property name="Triangles" value="247844" />
+      <property name="Vertices" value="624150" />
+      <property name="Triangles" value="241738" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="240547" />
-      <property name="Triangles" value="147205" />
+      <property name="Vertices" value="240331" />
+      <property name="Triangles" value="145398" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3648" />
@@ -71,6 +72,10 @@
       <property name="0" value="44, 17, 30" />
       <property name="1" value="47, 14, 40" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="46, 16, 28" />
+      <property name="1" value="47, 12, 40" />
+    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="46, 12, 25" />
     </property>
@@ -87,6 +92,9 @@
     </property>
     <property class="challenge_steel">
       <property name="0" value="38, 7, 8" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="20, 22, 36" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="31, 10, 8" />

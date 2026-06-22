@@ -39,15 +39,16 @@
   <property name="SleeperVolumeTriggeredBy" value="12#12#12#12#12#12#13#13#13# #7# #14# # # # # # # # # # # # # # # # # # # #3#2# #1" />
   <property name="SVS35" value="sleep 2^sound explosion_buzzer1^sleep 2^sound explosion_buzzer1^sleep 2^sound explosion_buzzer1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1255564" />
-    <property name="TotalTriangles" value="463504" />
+    <property name="LightsVolume" value="12319.15" />
+    <property name="TotalVertices" value="1256064" />
+    <property name="TotalTriangles" value="461155" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1128675" />
-      <property name="Triangles" value="371350" />
+      <property name="Vertices" value="1125601" />
+      <property name="Triangles" value="369405" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="116119" />
-      <property name="Triangles" value="75158" />
+      <property name="Vertices" value="119693" />
+      <property name="Triangles" value="74754" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,6 +72,12 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="47, 3, 47" />
+      <property name="1" value="50, 9, 51" />
+      <property name="2" value="54, 3, 51" />
+      <property name="3" value="51, 9, 52" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="54, 3, 33" />
       <property name="1" value="57, 3, 35" />
@@ -88,9 +95,6 @@
     </property>
     <property class="challenge_pallet">
       <property name="0" value="55, 3, 46" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="54, 3, 51" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="29, 3, 32" />

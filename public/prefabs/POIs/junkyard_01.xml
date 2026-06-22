@@ -31,23 +31,24 @@
   <property name="POIMarkerPartRotations" value="0,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="963821" />
-    <property name="TotalTriangles" value="405139" />
+    <property name="LightsVolume" value="7406.25" />
+    <property name="TotalVertices" value="960562" />
+    <property name="TotalTriangles" value="398674" />
     <property class="BlockEntities">
-      <property name="Vertices" value="673772" />
-      <property name="Triangles" value="212251" />
+      <property name="Vertices" value="662096" />
+      <property name="Triangles" value="206830" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="275399" />
-      <property name="Triangles" value="171804" />
+      <property name="Vertices" value="281528" />
+      <property name="Triangles" value="169616" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="2304" />
+      <property name="Triangles" value="1152" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="3386" />
-      <property name="Triangles" value="2192" />
+      <property name="Vertices" value="3370" />
+      <property name="Triangles" value="2184" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="232" />
@@ -65,7 +66,11 @@
   <property class="IndexedBlockOffsets">
     <property class="challenge_polymers">
       <property name="0" value="46, 4, 46" />
-      <property name="1" value="46, 4, 57" />
+      <property name="1" value="46, 4, 50" />
+      <property name="2" value="46, 4, 57" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="11, 4, 15" />
     </property>
     <property class="POILight">
       <property name="0" value="48, 13, 47" />
@@ -78,8 +83,12 @@
       <property name="7" value="49, 13, 55" />
       <property name="8" value="50, 6, 58" />
     </property>
-    <property class="Rally">
-      <property name="0" value="11, 4, 15" />
+    <property class="TraderOnOff">
+      <property name="0" value="47, 10, 39" />
+      <property name="1" value="50, 5, 41" />
+      <property name="2" value="48, 10, 44" />
+      <property name="3" value="52, 10, 44" />
+      <property name="4" value="46, 10, 45" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="49, 10, 46" />
@@ -117,10 +126,6 @@
       <property name="0" value="55, 4, 46" />
       <property name="1" value="51, 10, 49" />
       <property name="2" value="56, 1, 53" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="47, 10, 39" />
-      <property name="1" value="46, 10, 45" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="48, 10, 41" />

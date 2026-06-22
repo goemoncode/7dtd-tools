@@ -35,15 +35,16 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="276924" />
-    <property name="TotalTriangles" value="118103" />
+    <property name="LightsVolume" value="72524.72" />
+    <property name="TotalVertices" value="267745" />
+    <property name="TotalTriangles" value="108703" />
     <property class="BlockEntities">
-      <property name="Vertices" value="248539" />
-      <property name="Triangles" value="96535" />
+      <property name="Vertices" value="239156" />
+      <property name="Triangles" value="87067" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="23065" />
-      <property name="Triangles" value="13460" />
+      <property name="Vertices" value="23285" />
+      <property name="Triangles" value="13560" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -62,13 +63,13 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="5008" />
-      <property name="Triangles" value="7952" />
+      <property name="Vertices" value="4992" />
+      <property name="Triangles" value="7920" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
-      <property name="0" value="38, 1, 38" />
+      <property name="0" value="36, 1, 5" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="26, 3, 17" />

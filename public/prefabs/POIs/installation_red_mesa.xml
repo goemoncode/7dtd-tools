@@ -25,8 +25,8 @@
   <property name="SleeperIsQuestExclude" value="False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True" />
   <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="10000" />
-  <property name="POIMarkerSize" value="6, 1, 5" />
-  <property name="POIMarkerStart" value="50, 22, -1" />
+  <property name="POIMarkerSize" value="6, 1, 6" />
+  <property name="POIMarkerStart" value="50, 22, -3" />
   <property name="POIMarkerGroup" value="new" />
   <property name="POIMarkerTags" value="" />
   <property name="POIMarkerType" value="RoadExit" />
@@ -52,23 +52,24 @@
   <property name="SVS26" value="sound sleeperspawnmetal^spawn GroupAllFeral 1^sleep 1^sound sleeperspawnmetal^spawn GroupAllFeral 1^waitalive 0^sound sleeperspawnmetal^spawn GroupAllFeral 1^sleep 1^sound sleeperspawnmetal^spawn GroupAllFeral 1^waitalive 0^sound sleeperspawnmetal^spawn GroupAllFeral 1" />
   <property name="SVS5" value="sound sleeperspawnmetal^spawn GroupAllFeral 1^waitalive 0^sound sleeperspawnmetal^spawn GroupAllFeral 1^waitalive 0^sound sleeperspawnmetal^spawn GroupAllFeral 1" />
   <property class="Stats">
-    <property name="TotalVertices" value="2942775" />
-    <property name="TotalTriangles" value="2089988" />
+    <property name="LightsVolume" value="77708.59" />
+    <property name="TotalVertices" value="2948362" />
+    <property name="TotalTriangles" value="2084677" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2449904" />
-      <property name="Triangles" value="1744862" />
+      <property name="Vertices" value="2449724" />
+      <property name="Triangles" value="1740081" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="442263" />
-      <property name="Triangles" value="278830" />
+      <property name="Vertices" value="448194" />
+      <property name="Triangles" value="278464" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="12288" />
       <property name="Triangles" value="6144" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1974" />
-      <property name="Triangles" value="1188" />
+      <property name="Vertices" value="1786" />
+      <property name="Triangles" value="984" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
@@ -79,8 +80,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="36346" />
-      <property name="Triangles" value="58964" />
+      <property name="Vertices" value="36370" />
+      <property name="Triangles" value="59004" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -134,7 +135,7 @@
       <property name="0" value="44, 22, 55" />
     </property>
     <property class="Rally">
-      <property name="0" value="53, 23, 6" />
+      <property name="0" value="53, 23, 7" />
     </property>
   </property>
 </prefab>

@@ -36,15 +36,16 @@
   <property name="SleeperVolumeFlags" value="0,0,2,0,2,1,0,0,0,2,0,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="512307" />
-    <property name="TotalTriangles" value="207349" />
+    <property name="LightsVolume" value="4900.204" />
+    <property name="TotalVertices" value="523157" />
+    <property name="TotalTriangles" value="211925" />
     <property class="BlockEntities">
-      <property name="Vertices" value="472756" />
-      <property name="Triangles" value="180007" />
+      <property name="Vertices" value="482233" />
+      <property name="Triangles" value="184377" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="37519" />
-      <property name="Triangles" value="24194" />
+      <property name="Vertices" value="38892" />
+      <property name="Triangles" value="24400" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -70,15 +71,16 @@
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="20, 4, 12" />
-      <property name="1" value="17, 9, 15" />
-      <property name="2" value="14, 9, 16" />
-      <property name="3" value="15, 4, 16" />
-      <property name="4" value="19, 2, 16" />
-      <property name="5" value="20, 4, 16" />
-      <property name="6" value="23, 8, 16" />
-      <property name="7" value="14, 9, 17" />
-      <property name="8" value="21, 3, 19" />
-      <property name="9" value="20, 4, 21" />
+      <property name="1" value="20, 8, 14" />
+      <property name="2" value="17, 9, 15" />
+      <property name="3" value="14, 9, 16" />
+      <property name="4" value="15, 4, 16" />
+      <property name="5" value="19, 2, 16" />
+      <property name="6" value="20, 4, 16" />
+      <property name="7" value="23, 8, 16" />
+      <property name="8" value="14, 9, 17" />
+      <property name="9" value="21, 3, 19" />
+      <property name="10" value="20, 4, 21" />
     </property>
     <property class="quest_wood">
       <property name="0" value="23, 2, 21" />
@@ -91,29 +93,41 @@
       <property name="0" value="16, 7, 14" />
       <property name="1" value="20, 2, 14" />
       <property name="2" value="15, 2, 18" />
+      <property name="3" value="14, 7, 16" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="22, 7, 19" />
       <property name="1" value="13, 4, 20" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="17, 7, 15" />
+      <property name="1" value="21, 2, 15" />
+      <property name="2" value="22, 7, 17" />
+      <property name="3" value="15, 10, 19" />
+      <property name="4" value="16, 10, 19" />
+      <property name="5" value="19, 2, 21" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="4, 2, 9" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="13, 2, 9" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="15, 10, 19" />
-      <property name="1" value="16, 10, 19" />
+    <property class="challenge_sinks">
+      <property name="0" value="21, 3, 12" />
+      <property name="1" value="14, 8, 14" />
+      <property name="2" value="19, 2, 15" />
+      <property name="3" value="13, 7, 16" />
+      <property name="4" value="19, 7, 16" />
+      <property name="5" value="13, 7, 17" />
+      <property name="6" value="18, 8, 17" />
+      <property name="7" value="19, 8, 17" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="3, 2, 22" />
     </property>
     <property class="Rally">
       <property name="0" value="12, 2, 1" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="19, 2, 15" />
-      <property name="1" value="13, 7, 16" />
-      <property name="2" value="13, 7, 17" />
-      <property name="3" value="18, 8, 17" />
     </property>
   </property>
 </prefab>

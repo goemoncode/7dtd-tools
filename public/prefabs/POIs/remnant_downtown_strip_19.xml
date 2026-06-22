@@ -26,15 +26,16 @@
   <property name="TriggerVolumeStart" value="20, 8, 16" />
   <property name="TriggerVolumeTriggers" value="5" />
   <property class="Stats">
-    <property name="TotalVertices" value="554036" />
-    <property name="TotalTriangles" value="240017" />
+    <property name="LightsVolume" value="4750.167" />
+    <property name="TotalVertices" value="551120" />
+    <property name="TotalTriangles" value="237130" />
     <property class="BlockEntities">
-      <property name="Vertices" value="400769" />
-      <property name="Triangles" value="143020" />
+      <property name="Vertices" value="397479" />
+      <property name="Triangles" value="140971" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="140169" />
-      <property name="Triangles" value="84099" />
+      <property name="Vertices" value="140543" />
+      <property name="Triangles" value="83261" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="2432" />
@@ -81,18 +82,18 @@
       <property name="12" value="30, 14, 23" />
       <property name="13" value="34, 4, 23" />
       <property name="14" value="34, 13, 23" />
-      <property name="15" value="34, 8, 24" />
-      <property name="16" value="34, 13, 24" />
-      <property name="17" value="36, 4, 24" />
-      <property name="18" value="25, 4, 25" />
-      <property name="19" value="27, 3, 25" />
-      <property name="20" value="29, 3, 25" />
-      <property name="21" value="31, 3, 25" />
-      <property name="22" value="32, 14, 25" />
-      <property name="23" value="33, 3, 25" />
-      <property name="24" value="34, 13, 25" />
-      <property name="25" value="23, 8, 24" />
-      <property name="26" value="23, 13, 24" />
+      <property name="15" value="23, 8, 24" />
+      <property name="16" value="23, 13, 24" />
+      <property name="17" value="34, 8, 24" />
+      <property name="18" value="34, 13, 24" />
+      <property name="19" value="36, 4, 24" />
+      <property name="20" value="25, 4, 25" />
+      <property name="21" value="27, 3, 25" />
+      <property name="22" value="29, 3, 25" />
+      <property name="23" value="31, 3, 25" />
+      <property name="24" value="32, 14, 25" />
+      <property name="25" value="33, 3, 25" />
+      <property name="26" value="34, 13, 25" />
     </property>
     <property class="quest_feather">
       <property name="0" value="24, 18, 16" />

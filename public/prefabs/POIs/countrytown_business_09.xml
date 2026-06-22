@@ -35,15 +35,16 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # #3" />
   <property name="SVS12" value="sound explosion_buzzer1" />
   <property class="Stats">
-    <property name="TotalVertices" value="509442" />
-    <property name="TotalTriangles" value="185801" />
+    <property name="LightsVolume" value="7407.686" />
+    <property name="TotalVertices" value="505665" />
+    <property name="TotalTriangles" value="182307" />
     <property class="BlockEntities">
-      <property name="Vertices" value="428872" />
-      <property name="Triangles" value="135965" />
+      <property name="Vertices" value="428119" />
+      <property name="Triangles" value="135511" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="74384" />
-      <property name="Triangles" value="41364" />
+      <property name="Vertices" value="71360" />
+      <property name="Triangles" value="38324" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -74,11 +75,12 @@
       <property name="0" value="4, 2, 18" />
     </property>
     <property class="POILight">
-      <property name="0" value="38, 6, 23" />
-      <property name="1" value="37, 5, 27" />
-      <property name="2" value="37, 6, 27" />
-      <property name="3" value="37, 6, 30" />
-      <property name="4" value="38, 5, 35" />
+      <property name="0" value="38, 4, 22" />
+      <property name="1" value="38, 6, 23" />
+      <property name="2" value="37, 5, 27" />
+      <property name="3" value="37, 6, 27" />
+      <property name="4" value="37, 6, 30" />
+      <property name="5" value="38, 5, 35" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="38, 2, 19" />

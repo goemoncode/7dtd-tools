@@ -23,15 +23,16 @@
   <property name="EditorGroups" value="downtown" />
   <property name="Tags" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="555384" />
-    <property name="TotalTriangles" value="220884" />
+    <property name="LightsVolume" value="4630.559" />
+    <property name="TotalVertices" value="545584" />
+    <property name="TotalTriangles" value="217711" />
     <property class="BlockEntities">
-      <property name="Vertices" value="439403" />
-      <property name="Triangles" value="145864" />
+      <property name="Vertices" value="426187" />
+      <property name="Triangles" value="142465" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="107529" />
-      <property name="Triangles" value="65372" />
+      <property name="Vertices" value="110945" />
+      <property name="Triangles" value="65598" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -57,14 +58,39 @@
   <property class="IndexedBlockOffsets">
     <property class="challenge_sinks">
       <property name="0" value="22, 8, 7" />
-      <property name="1" value="23, 2, 14" />
-      <property name="2" value="25, 2, 14" />
+      <property name="1" value="22, 3, 9" />
+      <property name="2" value="23, 7, 9" />
+      <property name="3" value="27, 14, 10" />
+      <property name="4" value="29, 14, 10" />
+      <property name="5" value="23, 2, 14" />
+      <property name="6" value="25, 2, 14" />
+      <property name="7" value="25, 8, 15" />
     </property>
     <property class="POILight">
-      <property name="0" value="37, 10, 7" />
-      <property name="1" value="38, 6, 8" />
-      <property name="2" value="37, 10, 9" />
-      <property name="3" value="38, 5, 16" />
+      <property name="0" value="39, 3, 5" />
+      <property name="1" value="37, 3, 7" />
+      <property name="2" value="37, 10, 7" />
+      <property name="3" value="39, 3, 7" />
+      <property name="4" value="38, 4, 8" />
+      <property name="5" value="38, 6, 8" />
+      <property name="6" value="37, 10, 9" />
+      <property name="7" value="39, 3, 9" />
+      <property name="8" value="38, 2, 10" />
+      <property name="9" value="37, 4, 12" />
+      <property name="10" value="38, 3, 12" />
+      <property name="11" value="38, 5, 16" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="7, 2, 3" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="39, 3, 6" />
+      <property name="1" value="38, 9, 8" />
+      <property name="2" value="39, 3, 11" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="27, 7, 5" />
+      <property name="1" value="28, 2, 9" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="1, 7, 21" />
@@ -75,13 +101,9 @@
     <property class="TraderOnOff">
       <property name="0" value="22, 5, 21" />
     </property>
-    <property class="challenge_vending">
-      <property name="0" value="14, 1, 11" />
-      <property name="1" value="14, 1, 12" />
-    </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="27, 7, 5" />
-      <property name="1" value="28, 2, 9" />
+    <property class="challenge_steel">
+      <property name="0" value="25, 2, 29" />
+      <property name="1" value="33, 2, 29" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="38, 12, 7" />

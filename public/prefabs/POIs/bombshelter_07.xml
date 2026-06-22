@@ -35,15 +35,16 @@
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="Tags" value="wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="502452" />
-    <property name="TotalTriangles" value="207651" />
+    <property name="LightsVolume" value="11395.41" />
+    <property name="TotalVertices" value="504961" />
+    <property name="TotalTriangles" value="203176" />
     <property class="BlockEntities">
-      <property name="Vertices" value="420413" />
-      <property name="Triangles" value="147991" />
+      <property name="Vertices" value="423130" />
+      <property name="Triangles" value="143932" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="74169" />
-      <property name="Triangles" value="47876" />
+      <property name="Vertices" value="73961" />
+      <property name="Triangles" value="47460" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="1024" />
@@ -79,16 +80,23 @@
       <property name="0" value="17, 6, 12" />
       <property name="1" value="17, 11, 12" />
       <property name="2" value="20, 6, 12" />
-      <property name="3" value="20, 4, 15" />
-      <property name="4" value="20, 6, 16" />
-      <property name="5" value="21, 11, 16" />
-      <property name="6" value="12, 6, 17" />
-      <property name="7" value="12, 11, 17" />
-      <property name="8" value="19, 10, 17" />
-      <property name="9" value="12, 22, 18" />
-      <property name="10" value="12, 10, 20" />
-      <property name="11" value="12, 12, 21" />
-      <property name="12" value="12, 17, 21" />
+      <property name="3" value="19, 4, 15" />
+      <property name="4" value="20, 4, 15" />
+      <property name="5" value="20, 6, 16" />
+      <property name="6" value="21, 11, 16" />
+      <property name="7" value="22, 9, 16" />
+      <property name="8" value="12, 6, 17" />
+      <property name="9" value="12, 11, 17" />
+      <property name="10" value="19, 10, 17" />
+      <property name="11" value="12, 22, 18" />
+      <property name="12" value="12, 10, 20" />
+      <property name="13" value="12, 12, 21" />
+      <property name="14" value="12, 17, 21" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="21, 18, 17" />
+      <property name="1" value="17, 18, 21" />
+      <property name="2" value="16, 18, 24" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="18, 3, 12" />
@@ -104,11 +112,6 @@
     <property class="challenge_polymers">
       <property name="0" value="13, 18, 14" />
       <property name="1" value="17, 3, 14" />
-    </property>
-    <property class="quest_wood">
-      <property name="0" value="21, 18, 17" />
-      <property name="1" value="17, 18, 21" />
-      <property name="2" value="16, 18, 24" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="20, 6, 14" />

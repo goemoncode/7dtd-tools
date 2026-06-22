@@ -41,17 +41,20 @@
       <property name="3" value="27, 3, 25" />
       <property name="4" value="35, 2, 25" />
       <property name="5" value="22, 5, 26" />
-      <property name="6" value="28, 5, 26" />
-      <property name="7" value="34, 5, 26" />
-      <property name="8" value="27, 4, 30" />
-      <property name="9" value="28, 4, 30" />
-      <property name="10" value="33, 4, 30" />
-      <property name="11" value="23, 5, 31" />
-      <property name="12" value="30, 5, 31" />
-      <property name="13" value="33, 4, 31" />
-      <property name="14" value="35, 5, 31" />
-      <property name="15" value="27, 4, 32" />
-      <property name="16" value="28, 4, 32" />
+      <property name="6" value="24, 4, 26" />
+      <property name="7" value="28, 5, 26" />
+      <property name="8" value="34, 5, 26" />
+      <property name="9" value="36, 3, 26" />
+      <property name="10" value="31, 4, 27" />
+      <property name="11" value="27, 4, 30" />
+      <property name="12" value="28, 4, 30" />
+      <property name="13" value="33, 4, 30" />
+      <property name="14" value="23, 5, 31" />
+      <property name="15" value="30, 5, 31" />
+      <property name="16" value="33, 4, 31" />
+      <property name="17" value="35, 5, 31" />
+      <property name="18" value="27, 4, 32" />
+      <property name="19" value="28, 4, 32" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="4, 2, 26" />
@@ -60,11 +63,7 @@
       <property name="0" value="38, 3, 30" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="23, 2, 24" />
-      <property name="1" value="30, 2, 24" />
-      <property name="2" value="21, 2, 29" />
-      <property name="3" value="28, 2, 29" />
-      <property name="4" value="34, 2, 29" />
+      <property name="0" value="39, 2, 24" />
     </property>
     <property class="Rally">
       <property name="0" value="19, 2, 3" />
@@ -92,15 +91,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="390229" />
-    <property name="TotalTriangles" value="151251" />
+    <property name="LightsVolume" value="4781.298" />
+    <property name="TotalVertices" value="388109" />
+    <property name="TotalTriangles" value="149973" />
     <property class="BlockEntities">
-      <property name="Vertices" value="340767" />
-      <property name="Triangles" value="116899" />
+      <property name="Vertices" value="338491" />
+      <property name="Triangles" value="116209" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="44198" />
-      <property name="Triangles" value="26372" />
+      <property name="Vertices" value="44360" />
+      <property name="Triangles" value="25792" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -119,8 +119,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="4942" />
-      <property name="Triangles" value="7792" />
+      <property name="Vertices" value="4936" />
+      <property name="Triangles" value="7784" />
     </property>
   </property>
 </prefab>

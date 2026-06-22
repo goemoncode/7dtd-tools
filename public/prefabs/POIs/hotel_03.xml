@@ -29,7 +29,7 @@
   <property name="SVS97" value="spawn zombieSoldier 1^sleep 2.0^spawn zombieMaleHazmat 1^sleep 2.0^spawn zombieSoldierFeral 1^sleep 2.0^spawn zombieSoldierFeral 1^sleep 2.0^spawn zombieMaleHazmatFeral 1^" />
   <property name="SVS96" value="spawn zombieBusinessManFeral 1^sleep 2.5^spawn zombiePartyGirlFeral 1^sleep 2.5^spawn zombieWightFeral 1^sleep 2.5^spawn GroupSpecialInfected 1^sleep 2.5^spawn GroupSpecialInfected 1^waitalive 3^trigger 28" />
   <property name="SVS95" value="sleep 0.7^trigger 23^sleep 0.1^trigger 23^sleep 0.3^trigger 23^sleep 0.2^trigger 23^sleep 0.2^trigger 23" />
-  <property name="SVS94" value="sleep 3^sound alarm_house_biz_lp3^" />
+  <property name="SVS94" value="sleep 3^sound sysadmin_firedetected^sound alarm_house_biz_lp3^sleep 5^sound sysadmin_system_malfunction2^sleep 2^sound sysadmin_firesuppressionsystems^" />
   <property name="SVS93" value="sound elevator_ding4" />
   <property name="SVS84" value="spawn zombieMaleHazmatFeral 2" />
   <property name="SVS81" value="sleep 2^spawn GroupNightClub 1^sleep 2.5^spawn GroupNightClub 1^sleep 2.5^spawn GroupAllFeral 1^sleep 2.5^spawn zombiePartyGirlFeral 1^sleep 2.5^spawn GroupSpecialInfected 1^waitalive 2^trigger 26" />
@@ -37,15 +37,16 @@
   <property name="SVS39" value="sound elevator_ding4" />
   <property name="SVS2" value="sleep 1^spawn GroupSpecialInfected 2^spawn GroupGenericZombie 3^Spawn zombieMaleHazmatFeral 2^waitalive 2^trigger 27" />
   <property class="Stats">
-    <property name="TotalVertices" value="2950539" />
-    <property name="TotalTriangles" value="1190725" />
+    <property name="LightsVolume" value="40990.07" />
+    <property name="TotalVertices" value="2979038" />
+    <property name="TotalTriangles" value="1191483" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2334313" />
-      <property name="Triangles" value="816932" />
+      <property name="Vertices" value="2360957" />
+      <property name="Triangles" value="820037" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="543596" />
-      <property name="Triangles" value="302014" />
+      <property name="Vertices" value="545431" />
+      <property name="Triangles" value="299627" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="17664" />
@@ -64,8 +65,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="31936" />
-      <property name="Triangles" value="51068" />
+      <property name="Vertices" value="31956" />
+      <property name="Triangles" value="51108" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -99,12 +100,14 @@
       <property name="0" value="73, 4, 93" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="67, 4, 88" />
-      <property name="1" value="66, 4, 90" />
-      <property name="2" value="66, 4, 91" />
-      <property name="3" value="78, 4, 93" />
-      <property name="4" value="66, 4, 95" />
-      <property name="5" value="66, 4, 96" />
+      <property name="0" value="69, 4, 82" />
+      <property name="1" value="67, 4, 88" />
+      <property name="2" value="76, 4, 88" />
+      <property name="3" value="66, 4, 90" />
+      <property name="4" value="66, 4, 91" />
+      <property name="5" value="78, 4, 93" />
+      <property name="6" value="66, 4, 95" />
+      <property name="7" value="66, 4, 96" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="73, 5, 87" />

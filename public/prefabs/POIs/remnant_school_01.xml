@@ -23,23 +23,24 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,2,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="887472" />
-    <property name="TotalTriangles" value="382412" />
+    <property name="LightsVolume" value="3262.045" />
+    <property name="TotalVertices" value="881090" />
+    <property name="TotalTriangles" value="377290" />
     <property class="BlockEntities">
-      <property name="Vertices" value="671755" />
-      <property name="Triangles" value="241533" />
+      <property name="Vertices" value="668808" />
+      <property name="Triangles" value="239253" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="200531" />
-      <property name="Triangles" value="121507" />
+      <property name="Vertices" value="197104" />
+      <property name="Triangles" value="118673" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="5416" />
-      <property name="Triangles" value="3084" />
+      <property name="Vertices" value="5408" />
+      <property name="Triangles" value="3076" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="152" />
@@ -75,6 +76,7 @@
     <property class="TraderOnOff">
       <property name="0" value="46, 9, 31" />
       <property name="1" value="47, 3, 37" />
+      <property name="2" value="57, 3, 39" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="49, 4, 30" />
@@ -97,6 +99,9 @@
     </property>
     <property class="challenge_steel">
       <property name="0" value="39, 4, 31" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="32, 3, 38" />
     </property>
   </property>
 </prefab>

@@ -9,7 +9,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-7" />
-  <property name="PrefabSize" value="25, 28, 25" />
+  <property name="PrefabSize" value="25, 27, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="25, 7, 25#7, 7, 9" />
@@ -31,15 +31,16 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="174424" />
-    <property name="TotalTriangles" value="89672" />
+    <property name="LightsVolume" value="2850.995" />
+    <property name="TotalVertices" value="145340" />
+    <property name="TotalTriangles" value="67991" />
     <property class="BlockEntities">
-      <property name="Vertices" value="148348" />
-      <property name="Triangles" value="70981" />
+      <property name="Vertices" value="119264" />
+      <property name="Triangles" value="49306" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="19912" />
-      <property name="Triangles" value="11423" />
+      <property name="Vertices" value="19918" />
+      <property name="Triangles" value="11425" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="2496" />
@@ -58,8 +59,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="3248" />
-      <property name="Triangles" value="5740" />
+      <property name="Vertices" value="3242" />
+      <property name="Triangles" value="5732" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

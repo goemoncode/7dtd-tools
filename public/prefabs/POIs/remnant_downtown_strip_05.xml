@@ -24,10 +24,11 @@
   <property name="Tags" value="downtown" />
   <property class="IndexedBlockOffsets">
     <property class="challenge_sinks">
-      <property name="0" value="25, 7, 14" />
-      <property name="1" value="27, 7, 14" />
-      <property name="2" value="23, 7, 16" />
-      <property name="3" value="26, 8, 16" />
+      <property name="0" value="23, 13, 7" />
+      <property name="1" value="25, 7, 14" />
+      <property name="2" value="27, 7, 14" />
+      <property name="3" value="23, 7, 16" />
+      <property name="4" value="26, 8, 16" />
     </property>
     <property class="POILight">
       <property name="0" value="38, 11, 5" />
@@ -65,23 +66,24 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="568526" />
-    <property name="TotalTriangles" value="243527" />
+    <property name="LightsVolume" value="8975.493" />
+    <property name="TotalVertices" value="570446" />
+    <property name="TotalTriangles" value="246015" />
     <property class="BlockEntities">
-      <property name="Vertices" value="405665" />
-      <property name="Triangles" value="134749" />
+      <property name="Vertices" value="409207" />
+      <property name="Triangles" value="139594" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="138050" />
-      <property name="Triangles" value="88210" />
+      <property name="Vertices" value="136311" />
+      <property name="Triangles" value="85893" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="13056" />
       <property name="Triangles" value="6528" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="5001" />
-      <property name="Triangles" value="3212" />
+      <property name="Vertices" value="5118" />
+      <property name="Triangles" value="3172" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="72" />

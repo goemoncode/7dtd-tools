@@ -26,21 +26,22 @@
   <property name="SleeperVolumeSize" value="7, 13, 18#4, 3, 3#4, 13, 18#10, 3, 9#10, 3, 4#5, 3, 6#9, 5, 9#19, 9, 8#13, 13, 9#14, 7, 12#13, 7, 7#18, 4, 20" />
   <property name="SleeperVolumeStart" value="5, 1, 14#10, 24, 25#1, 9, 10#5, 19, 10#23, 31, 36#28, 32, 29#15, 19, 19#27, -2, 43#25, 6, 10#32, 16, 1#29, 10, 26#16, 2, 23" />
   <property name="SleeperVolumeGroupId" value="1,1,2,2,3,3,4,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,0,0,zombieUtilityWorker,1,2,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,0,0,GroupGenericZombie,1,2,GroupGenericZombie,1,1,GroupGenericZombie,0,0,zombieUtilityWorker,1,2,GroupGenericZombie,0,0,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,0,1,GroupGenericZombie,2,3" />
   <property name="SleeperIsLootVolume" value="False,True,True,False,False,False,True,False,False,False,False,True" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="2,2,2,0,2,2,2,2,2,2,0,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="433115" />
-    <property name="TotalTriangles" value="296633" />
+    <property name="LightsVolume" value="13722" />
+    <property name="TotalVertices" value="349109" />
+    <property name="TotalTriangles" value="234886" />
     <property class="BlockEntities">
-      <property name="Vertices" value="357017" />
-      <property name="Triangles" value="219741" />
+      <property name="Vertices" value="272925" />
+      <property name="Triangles" value="158014" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="3354" />
-      <property name="Triangles" value="1964" />
+      <property name="Vertices" value="3438" />
+      <property name="Triangles" value="1940" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="39168" />
@@ -59,20 +60,22 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="33576" />
-      <property name="Triangles" value="55344" />
+      <property name="Vertices" value="33578" />
+      <property name="Triangles" value="55348" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="55, 33, 54" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="30, 4, 33" />
+    </property>
     <property class="POILight">
       <property name="0" value="38, 4, 43" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="42, 4, 44" />
     </property>
     <property class="quest_stone_boulder">
       <property name="0" value="47, 33, 2" />
@@ -84,6 +87,9 @@
     <property class="quest_stone">
       <property name="0" value="49, 33, 2" />
       <property name="1" value="46, 33, 5" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="26, 4, 32" />
     </property>
   </property>
 </prefab>

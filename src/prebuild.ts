@@ -19,7 +19,7 @@ handleMain(async ({ steamAppsGameDir }) => {
     .command('prefabs', { isDefault: true })
     .addArgument(new Argument('<inputDir>', 'The path to the folder that contains prefab files').argOptional().default('', defaultInputDir))
     .addArgument(
-      new Argument('<outputDir>', 'The path to the folder where output file is created').argOptional().default('', defaultOutputDir)
+      new Argument('<outputDir>', 'The path to the folder where output file is created').argOptional().default('', defaultOutputDir),
     )
     .action(async (...args) => {
       const inputDir = args[0] || defaultInputDir;
@@ -32,10 +32,10 @@ handleMain(async ({ steamAppsGameDir }) => {
   program
     .command('mods')
     .addArgument(
-      new Argument('<inputDir>', 'The path to the folder that contains mod files').argOptional().default('', defaultInputModsDir)
+      new Argument('<inputDir>', 'The path to the folder that contains mod files').argOptional().default('', defaultInputModsDir),
     )
     .addArgument(
-      new Argument('<outputDir>', 'The path to the folder where output file is created').argOptional().default('', defaultOutputModsDir)
+      new Argument('<outputDir>', 'The path to the folder where output file is created').argOptional().default('', defaultOutputModsDir),
     )
     .action(async (...args) => {
       const inputModsDir = args[0] || defaultInputModsDir;
@@ -75,6 +75,15 @@ async function setupPrefabFiles(inputDir: string, outputDir: string) {
 
     mkdirSync(join(outputDir, folderName), { recursive: true });
 
+    if (!existsSync(nimFileName)) {
+      console.log(blue('File not found: %s'), nimFileName);
+      continue;
+    }
+    if (!existsSync(ttsFileName)) {
+      console.log(blue('File not found: %s'), ttsFileName);
+      continue;
+    }
+
     await copyFileWithLog(xmlFileName, join(outputDir, folderName, baseName + '.xml'));
     await copyFileWithLog(jpgFileName, join(outputDir, folderName, baseName + '.jpg'));
 
@@ -85,7 +94,7 @@ async function setupPrefabFiles(inputDir: string, outputDir: string) {
       const [tts, blocks] = await Promise.all([parseTts(ttsFileName), parseNim(nimFileName)]);
       const rows = Array.from(blocks)
         .filter(([id]) => id > 0 && tts.blockNums.has(id))
-        .map(([id, name]) => ({ id, name, count: tts.blockNums.get(id)! } as BlocksUsedCsv));
+        .map(([id, name]) => ({ id, name, count: tts.blockNums.get(id)! }) as BlocksUsedCsv);
       const csvText = csvStringify(rows, { header: true });
       await writeFile(csvFileName, csvText);
       console.log(cyan('File created: %s'), csvFileName);
@@ -96,13 +105,15 @@ async function setupPrefabFiles(inputDir: string, outputDir: string) {
 
 async function copyFileWithLog(src: string, dest: string) {
   try {
-    if (!existsSync(dest) || statSync(src).mtimeMs !== statSync(dest).mtimeMs) {
+    if (!existsSync(src)) {
+      console.log(blue('File not found: %s'), src);
+    } else if (!existsSync(dest) || statSync(src).mtimeMs !== statSync(dest).mtimeMs) {
       await copyFile(src, dest);
-      return console.log(cyan('File copied: %s'), dest);
+      console.log(cyan('File copied: %s'), dest);
     } else {
-      return console.log(blue('File not modified: %s'), dest);
+      console.log(blue('File not modified: %s'), dest);
     }
   } catch {
-    return console.error(red('File could not be copied: %s'), src);
+    console.error(red('File could not be copied: %s'), src);
   }
 }

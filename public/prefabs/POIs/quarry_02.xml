@@ -29,10 +29,10 @@
   <property name="SleeperIsQuestExclude" value="True,False,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,True,False,True,True,True" />
   <property name="SleeperVolumeFlags" value="3,4,3,3,0,0,0,3,0,3,3,2,2,0,0,0,3,2,0,0,3,3,0,3,0,0,2,0,0,3,2,2,0,3,0,3,3,2,3,2,3,3,2,3,3,2,2,3,3,3,3,3,3,3,3,3,2,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,0,0,2,3,3,3" />
   <property name="SleeperVolumeTriggeredBy" value="1,82# #11#12# # # #20# #21#25# # # # # #26# # #28#29#43#32#31#31#31# #31#34#33# # # #35# #9#50# #39#39#40#41#41#43#42#43# #44#46#51#46#47#46#48#48#10#52#53#54#53#54#55#55#55#55#52#65#59#61#60#52#81# # #66#68#70#8" />
-  <property name="TriggerVolumeSize" value="4, 4, 5#50, 22, 39#47, 22, 32#2, 11, 10#45, 27, 55#69, 14, 51#68, 15, 31#57, 5, 29#15, 4, 8#15, 3, 17#6, 3, 9#5, 4, 1#16, 4, 39#5, 3, 1#1, 4, 5" />
+  <property name="TriggerVolumeSize" value="4, 4, 5#50, 22, 39#47, 22, 32#2, 11, 10#45, 27, 55#69, 14, 51#68, 15, 31#57, 5, 29#15, 4, 8#15, 3, 42#6, 3, 9#5, 4, 1#16, 4, 39#5, 3, 1#1, 4, 5" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="DuplicateRepeatDistance" value="5000" />
-  <property name="TriggerVolumeStart" value="92, 29, 25#3, 6, 26#6, 6, 65#72, 17, 90#52, 7, 26#16, 4, 40#17, 4, 59#23, 6, 47#70, 30, 91#72, 6, 25#18, 22, 17#91, 6, 71#69, 14, 46#56, 6, 49#82, 6, 63" />
+  <property name="TriggerVolumeStart" value="92, 29, 25#3, 6, 26#6, 6, 65#72, 17, 90#52, 7, 26#16, 4, 40#17, 4, 59#23, 6, 47#70, 30, 91#72, 6, 0#18, 22, 17#91, 6, 71#69, 14, 46#56, 6, 49#82, 6, 63" />
   <property name="TriggerVolumeTriggers" value="8#28#31#35#39#42#43#46#50#52#81#65#66#68#70" />
   <property name="SVS77" value="sleep 0.5^sound electric_fence_impact^trigger 84^sleep 0.5^trigger 84" />
   <property name="SVS76" value="sound trap3x3ConcDestroy^sleep 1^trigger 71" />
@@ -100,9 +100,9 @@
   <property name="SVS4" value="spawn zombieYo 1^spawn zombieMoe 1^spawn zombieJanitor 1" />
   <property name="SVS3" value="sound explosion3^sleep 2^trigger 44^sleep 3^sound explosion_buzzer1^sleep 1.5^trigger 13^sound explosion_buzzer1^sleep 1.5^sound explosion_buzzer1^sleep 1.5^trigger 48^sleep 0.5^trigger 14^" />
   <property name="Tags" value="wilderness" />
-  <property name="SVS2" value="sleep 1.5^trigger 16^sleep 0.1^trigger 16^sleep 1^trigger 16^sleep 1^trigger 19^sleep 1^trigger 18^" />
+  <property name="SVS2" value="sleep 0.8^trigger 16^sleep 0.1^trigger 16^sleep 1^trigger 16^sleep 0.5^trigger 19^sleep 0.5^trigger 18^" />
   <property name="SVS1" value="spawn zombieUtilityWorker 1^spawn zombieBusinessMan 1^spawn zombieBoe 1^spawn GroupGenericZombie 1^spawn zombieLab 1" />
-  <property name="SVS0" value="sleep 2^trigger 7^sound elevator_ding2^trigger 2^sleep 6^trigger 3^sleep 0.1^sound elevator_ding2^trigger 2^sleep 6^trigger 4^sound elevator_ding2^sleep 0.1^trigger 3^sleep 0.8^sound sleeperspawnmetal^sleep 2.2^trigger 5^sleep 2^trigger 6^sleep 2.8^sleep 1.5^sound electric_fence_impact^trigger 82^sleep 0.6^trigger 82^trigger 7^sleep 0.2^trigger 7^sleep 0.2^trigger 7^sound batterybank_stop^sleep 1^trigger 83" />
+  <property name="SVS0" value="sleep 2^trigger 7^sound elevator_ding2^trigger 2^sleep 6^trigger 3^sleep 0.1^sound elevator_ding2^trigger 2^sleep 6^trigger 4^sound elevator_ding2^sleep 0.1^trigger 3^sleep 0.8^sound sleeperspawnmetal^sleep 2.2^trigger 5^sleep 2^trigger 6^sleep 2.8^sleep 1.5^sound electric_fence_impact^trigger 82^sleep 0.6^trigger 82^trigger 7^sleep 0.2^trigger 7^sleep 0.2^trigger 7^sound batterybank_stop^sleep 2^sound bunkerwoman_lift_malfunction^sleep 2^sound bunkerwoman_lift_function^sleep 2^trigger 83" />
   <property name="ThemeTags" value="wildernessMine" />
   <property name="ThemeRepeatDistance" value="1000" />
   <property class="IndexedBlockOffsets">
@@ -115,12 +115,13 @@
       <property name="5" value="93, 25, 84" />
       <property name="6" value="85, 33, 85" />
       <property name="7" value="82, 24, 86" />
-      <property name="8" value="88, 33, 88" />
-      <property name="9" value="93, 25, 88" />
-      <property name="10" value="82, 32, 89" />
-      <property name="11" value="93, 25, 89" />
-      <property name="12" value="82, 32, 91" />
-      <property name="13" value="84, 24, 92" />
+      <property name="8" value="82, 31, 86" />
+      <property name="9" value="88, 33, 88" />
+      <property name="10" value="93, 25, 88" />
+      <property name="11" value="82, 32, 89" />
+      <property name="12" value="93, 25, 89" />
+      <property name="13" value="82, 32, 91" />
+      <property name="14" value="84, 24, 92" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="87, 22, 82" />
@@ -134,6 +135,14 @@
       <property name="1" value="92, 30, 86" />
       <property name="2" value="83, 30, 93" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="82, 22, 82" />
+      <property name="1" value="91, 30, 82" />
+      <property name="2" value="82, 22, 88" />
+      <property name="3" value="82, 22, 90" />
+      <property name="4" value="82, 30, 90" />
+      <property name="5" value="84, 22, 91" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="93, 6, 77" />
       <property name="1" value="83, 22, 79" />
@@ -146,13 +155,6 @@
     </property>
     <property class="challenge_sinks">
       <property name="0" value="98, 7, 66" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="82, 22, 82" />
-      <property name="1" value="91, 30, 82" />
-      <property name="2" value="82, 22, 88" />
-      <property name="3" value="82, 22, 90" />
-      <property name="4" value="84, 22, 91" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="90, 35, 94" />
@@ -185,15 +187,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="2491537" />
-    <property name="TotalTriangles" value="1071105" />
+    <property name="LightsVolume" value="78648.59" />
+    <property name="TotalVertices" value="2541104" />
+    <property name="TotalTriangles" value="1084078" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1848956" />
-      <property name="Triangles" value="591073" />
+      <property name="Vertices" value="1891055" />
+      <property name="Triangles" value="603744" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="564956" />
-      <property name="Triangles" value="369517" />
+      <property name="Vertices" value="572426" />
+      <property name="Triangles" value="369823" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="9792" />
@@ -212,8 +215,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="64514" />
-      <property name="Triangles" value="103884" />
+      <property name="Vertices" value="64512" />
+      <property name="Triangles" value="103880" />
     </property>
   </property>
 </prefab>

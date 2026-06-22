@@ -39,15 +39,16 @@
   <property name="SVS22" value="spawn GroupZomBadassOnly 1&#xD;^sleep 1&#xD;^spawn GroupZomBadassOnly 1^waitalive 1^spawn GroupZomBadassOnly 1^waitalive 1^spawn GroupZomBadassOnly 1^waitalive 1^spawn GroupZomBadassOnly 1" />
   <property name="SVS19" value="spawn GroupZomBadassOnly 1&#xD;^sleep 1&#xD;^spawn GroupZomBadassOnly 1^waitalive 1^spawn GroupZomBadassOnly 1^waitalive 1^spawn GroupZomBadassOnly 1^waitalive 1^spawn GroupZomBadassOnly 1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1473340" />
-    <property name="TotalTriangles" value="625081" />
+    <property name="LightsVolume" value="26819.13" />
+    <property name="TotalVertices" value="1478192" />
+    <property name="TotalTriangles" value="620898" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1216535" />
-      <property name="Triangles" value="465771" />
+      <property name="Vertices" value="1221231" />
+      <property name="Triangles" value="462521" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="242462" />
-      <property name="Triangles" value="138423" />
+      <property name="Vertices" value="242618" />
+      <property name="Triangles" value="137490" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -81,16 +82,8 @@
       <property name="0" value="54, 7, 53" />
     </property>
     <property class="POILight">
-      <property name="0" value="30, 13, 47" />
-      <property name="1" value="34, 13, 47" />
-      <property name="2" value="42, 15, 47" />
-      <property name="3" value="43, 9, 47" />
-      <property name="4" value="30, 7, 49" />
-      <property name="5" value="36, 7, 49" />
-      <property name="6" value="40, 7, 49" />
-      <property name="7" value="30, 3, 50" />
-      <property name="8" value="38, 3, 50" />
-      <property name="9" value="43, 7, 50" />
+      <property name="0" value="48, 13, 20" />
+      <property name="1" value="48, 13, 23" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="40, 6, 46" />
@@ -131,9 +124,7 @@
       <property name="0" value="47, 14, 36" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="41, 1, 49" />
-      <property name="1" value="41, 5, 49" />
-      <property name="2" value="33, 5, 50" />
+      <property name="0" value="46, 7, 22" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="18, 12, 22" />

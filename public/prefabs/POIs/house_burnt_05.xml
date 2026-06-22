@@ -34,22 +34,23 @@
   <property name="PrefabSize" value="42, 21, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="331139" />
-    <property name="TotalTriangles" value="165646" />
+    <property name="LightsVolume" value="9827.017" />
+    <property name="TotalVertices" value="345575" />
+    <property name="TotalTriangles" value="166937" />
     <property class="BlockEntities">
-      <property name="Vertices" value="235874" />
-      <property name="Triangles" value="108769" />
+      <property name="Vertices" value="249941" />
+      <property name="Triangles" value="110067" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="88007" />
-      <property name="Triangles" value="47257" />
+      <property name="Vertices" value="88292" />
+      <property name="Triangles" value="47250" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="2512" />
+      <property name="Vertices" value="2596" />
       <property name="Triangles" value="2148" />
     </property>
     <property class="ChunkMeshes3">

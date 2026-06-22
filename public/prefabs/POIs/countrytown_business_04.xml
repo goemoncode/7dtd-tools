@@ -37,15 +37,16 @@
   <property name="TriggerVolumeStart" value="21, 14, 21" />
   <property name="TriggerVolumeTriggers" value="2" />
   <property class="Stats">
-    <property name="TotalVertices" value="375979" />
-    <property name="TotalTriangles" value="171999" />
+    <property name="LightsVolume" value="6128.984" />
+    <property name="TotalVertices" value="385866" />
+    <property name="TotalTriangles" value="171406" />
     <property class="BlockEntities">
-      <property name="Vertices" value="288984" />
-      <property name="Triangles" value="116825" />
+      <property name="Vertices" value="298909" />
+      <property name="Triangles" value="116750" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="79877" />
-      <property name="Triangles" value="45734" />
+      <property name="Vertices" value="79839" />
+      <property name="Triangles" value="45216" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -80,12 +81,12 @@
       <property name="1" value="27, 14, 26" />
     </property>
     <property class="challenge_pallet">
-      <property name="0" value="26, 9, 25" />
-      <property name="1" value="35, 3, 25" />
-      <property name="2" value="29, 11, 26" />
-      <property name="3" value="23, 11, 27" />
-      <property name="4" value="25, 3, 32" />
-      <property name="5" value="28, 3, 23" />
+      <property name="0" value="28, 3, 23" />
+      <property name="1" value="26, 9, 25" />
+      <property name="2" value="35, 3, 25" />
+      <property name="3" value="29, 11, 26" />
+      <property name="4" value="23, 11, 27" />
+      <property name="5" value="25, 3, 32" />
     </property>
     <property class="POILight">
       <property name="0" value="32, 4, 21" />
@@ -107,18 +108,18 @@
       <property name="1" value="21, 3, 23" />
       <property name="2" value="27, 16, 25" />
       <property name="3" value="27, 16, 26" />
-      <property name="4" value="30, 15, 26" />
-      <property name="5" value="30, 16, 26" />
-      <property name="6" value="27, 16, 27" />
-      <property name="7" value="30, 15, 27" />
-      <property name="8" value="30, 16, 27" />
-      <property name="9" value="25, 3, 28" />
-      <property name="10" value="25, 3, 30" />
-      <property name="11" value="25, 4, 30" />
-      <property name="12" value="26, 3, 30" />
-      <property name="13" value="26, 4, 30" />
-      <property name="14" value="30, 14, 26" />
-      <property name="15" value="30, 14, 27" />
+      <property name="4" value="30, 14, 26" />
+      <property name="5" value="30, 15, 26" />
+      <property name="6" value="30, 16, 26" />
+      <property name="7" value="27, 16, 27" />
+      <property name="8" value="30, 14, 27" />
+      <property name="9" value="30, 15, 27" />
+      <property name="10" value="30, 16, 27" />
+      <property name="11" value="25, 3, 28" />
+      <property name="12" value="25, 3, 30" />
+      <property name="13" value="25, 4, 30" />
+      <property name="14" value="26, 3, 30" />
+      <property name="15" value="26, 4, 30" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="25, 3, 23" />

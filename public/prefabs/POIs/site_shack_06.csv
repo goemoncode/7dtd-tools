@@ -59,7 +59,6 @@ id,name,count
 20080,modularFireWoodStackB,3
 20093,horseshoe_02,1
 20128,emberPileLightPOI1,1
-20424,cntCollapsedWorkbenchEmpty,1
 20460,oldWoodDoor,2
 20991,woodHatch,1
 20997,ironHatchGreen,1
@@ -77,9 +76,9 @@ id,name,count
 24087,plantShrubRandomHelper,3
 24090,treeDeadTree01,1
 24151,treeForestGrassDiagonal,7
-24210,plantedPotatoHarvestRandomHelper,7
-24243,plantedPumpkin3Harvest,1
-24244,plantedPumpkin3HarvestRandomHelper,12
+24210,plantedPotatoHarvestRandomHelper,6
+24244,plantedPumpkin3HarvestRandomHelper,14
+24266,cntWorkbenchBustedRandomLootHelper,1
 24268,cntChemistryStationBustedRandomLootHelper,1
 24277,sleeperSit,1
 24282,sleeperIdle,1

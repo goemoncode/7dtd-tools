@@ -23,23 +23,24 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="264455" />
-    <property name="TotalTriangles" value="101954" />
+    <property name="LightsVolume" value="1965.281" />
+    <property name="TotalVertices" value="255991" />
+    <property name="TotalTriangles" value="97395" />
     <property class="BlockEntities">
-      <property name="Vertices" value="212898" />
-      <property name="Triangles" value="71096" />
+      <property name="Vertices" value="205582" />
+      <property name="Triangles" value="67734" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="47791" />
-      <property name="Triangles" value="26610" />
+      <property name="Vertices" value="46635" />
+      <property name="Triangles" value="25409" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1842" />
-      <property name="Triangles" value="1088" />
+      <property name="Vertices" value="1850" />
+      <property name="Triangles" value="1092" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="160" />
@@ -68,17 +69,20 @@
       <property name="0" value="20, 5, 16" />
       <property name="1" value="15, 5, 17" />
       <property name="2" value="20, 5, 17" />
-      <property name="3" value="16, 4, 20" />
-      <property name="4" value="18, 4, 20" />
-      <property name="5" value="20, 4, 20" />
-      <property name="6" value="14, 5, 21" />
-      <property name="7" value="17, 5, 21" />
-      <property name="8" value="20, 5, 21" />
+      <property name="3" value="21, 4, 18" />
+      <property name="4" value="15, 3, 20" />
+      <property name="5" value="16, 4, 20" />
+      <property name="6" value="18, 4, 20" />
+      <property name="7" value="20, 4, 20" />
+      <property name="8" value="14, 5, 21" />
+      <property name="9" value="17, 5, 21" />
+      <property name="10" value="20, 5, 21" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="20, 2, 15" />
-      <property name="1" value="12, 2, 20" />
-      <property name="2" value="21, 4, 20" />
+      <property name="1" value="12, 2, 18" />
+      <property name="2" value="12, 2, 20" />
+      <property name="3" value="21, 4, 20" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="23, 2, 0" />

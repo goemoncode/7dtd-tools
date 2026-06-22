@@ -33,15 +33,16 @@
   <property name="SleeperVolumeFlags" value="2,0,0,2,2,0,0,0,0,0,0,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1004508" />
-    <property name="TotalTriangles" value="409353" />
+    <property name="LightsVolume" value="26134.36" />
+    <property name="TotalVertices" value="1010796" />
+    <property name="TotalTriangles" value="413348" />
     <property class="BlockEntities">
-      <property name="Vertices" value="825514" />
-      <property name="Triangles" value="295538" />
+      <property name="Vertices" value="827435" />
+      <property name="Triangles" value="298304" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="166064" />
-      <property name="Triangles" value="95423" />
+      <property name="Vertices" value="170431" />
+      <property name="Triangles" value="96652" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -91,20 +92,23 @@
       <property name="2" value="47, 3, 48" />
       <property name="3" value="50, 9, 48" />
       <property name="4" value="54, 9, 48" />
-      <property name="5" value="46, 9, 51" />
-      <property name="6" value="50, 9, 51" />
-      <property name="7" value="54, 9, 51" />
-      <property name="8" value="56, 4, 51" />
-      <property name="9" value="46, 9, 54" />
-      <property name="10" value="50, 9, 54" />
-      <property name="11" value="54, 9, 54" />
-      <property name="12" value="46, 5, 56" />
+      <property name="5" value="56, 5, 50" />
+      <property name="6" value="46, 9, 51" />
+      <property name="7" value="50, 9, 51" />
+      <property name="8" value="54, 9, 51" />
+      <property name="9" value="56, 4, 51" />
+      <property name="10" value="46, 9, 54" />
+      <property name="11" value="50, 9, 54" />
+      <property name="12" value="54, 9, 54" />
+      <property name="13" value="46, 5, 56" />
     </property>
     <property class="Rally">
       <property name="0" value="5, 4, 43" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="47, 2, 48" />
+      <property name="1" value="52, 4, 54" />
+      <property name="2" value="55, 4, 54" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="58, 8, 46" />

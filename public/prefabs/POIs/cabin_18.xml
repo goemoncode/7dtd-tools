@@ -32,23 +32,24 @@
   <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property class="Stats">
-    <property name="TotalVertices" value="725638" />
-    <property name="TotalTriangles" value="349783" />
+    <property name="LightsVolume" value="6914.361" />
+    <property name="TotalVertices" value="728179" />
+    <property name="TotalTriangles" value="346624" />
     <property class="BlockEntities">
-      <property name="Vertices" value="515258" />
-      <property name="Triangles" value="221583" />
+      <property name="Vertices" value="516813" />
+      <property name="Triangles" value="218348" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="129326" />
-      <property name="Triangles" value="73272" />
+      <property name="Vertices" value="130280" />
+      <property name="Triangles" value="73316" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="65920" />
       <property name="Triangles" value="32960" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="3510" />
-      <property name="Triangles" value="2176" />
+      <property name="Vertices" value="3542" />
+      <property name="Triangles" value="2208" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
@@ -79,13 +80,13 @@
       <property name="2" value="49, 5, 39" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="54, 18, 34" />
-      <property name="1" value="49, 10, 37" />
-      <property name="2" value="52, 9, 37" />
-      <property name="3" value="54, 9, 37" />
-      <property name="4" value="49, 10, 39" />
-      <property name="5" value="53, 9, 30" />
-      <property name="6" value="50, 14, 35" />
+      <property name="0" value="53, 9, 30" />
+      <property name="1" value="54, 18, 34" />
+      <property name="2" value="50, 14, 35" />
+      <property name="3" value="49, 10, 37" />
+      <property name="4" value="52, 9, 37" />
+      <property name="5" value="54, 9, 37" />
+      <property name="6" value="49, 10, 39" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="48, 14, 38" />
@@ -93,24 +94,32 @@
     <property class="QuestRestorePower">
       <property name="0" value="2, 6, 27" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="46, 14, 33" />
+      <property name="1" value="49, 9, 34" />
+      <property name="2" value="46, 14, 35" />
+      <property name="3" value="50, 9, 36" />
+    </property>
     <property class="POILight">
       <property name="0" value="47, 6, 30" />
-      <property name="1" value="54, 10, 30" />
-      <property name="2" value="54, 11, 30" />
-      <property name="3" value="54, 11, 31" />
-      <property name="4" value="48, 11, 32" />
-      <property name="5" value="49, 6, 32" />
-      <property name="6" value="52, 7, 32" />
-      <property name="7" value="50, 17, 33" />
-      <property name="8" value="48, 12, 34" />
-      <property name="9" value="50, 11, 35" />
-      <property name="10" value="50, 17, 35" />
-      <property name="11" value="52, 15, 35" />
-      <property name="12" value="49, 11, 37" />
-      <property name="13" value="50, 7, 37" />
-      <property name="14" value="52, 11, 38" />
-      <property name="15" value="49, 11, 39" />
-      <property name="16" value="50, 15, 40" />
+      <property name="1" value="48, 11, 30" />
+      <property name="2" value="54, 10, 30" />
+      <property name="3" value="54, 11, 30" />
+      <property name="4" value="52, 15, 31" />
+      <property name="5" value="54, 11, 31" />
+      <property name="6" value="48, 11, 32" />
+      <property name="7" value="49, 6, 32" />
+      <property name="8" value="52, 7, 32" />
+      <property name="9" value="50, 17, 33" />
+      <property name="10" value="48, 12, 34" />
+      <property name="11" value="50, 11, 35" />
+      <property name="12" value="50, 17, 35" />
+      <property name="13" value="52, 15, 35" />
+      <property name="14" value="49, 11, 37" />
+      <property name="15" value="50, 7, 37" />
+      <property name="16" value="52, 11, 38" />
+      <property name="17" value="49, 11, 39" />
+      <property name="18" value="50, 15, 40" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="51, 14, 30" />
@@ -126,10 +135,6 @@
     </property>
     <property class="challenge_leather">
       <property name="0" value="50, 9, 39" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="46, 14, 35" />
-      <property name="1" value="50, 9, 36" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="47, 4, 32" />

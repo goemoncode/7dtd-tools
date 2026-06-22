@@ -32,15 +32,16 @@
   <property name="Tags" value="wilderness" />
   <property name="ThemeTags" value="wildernesspoi" />
   <property class="Stats">
-    <property name="TotalVertices" value="99393" />
-    <property name="TotalTriangles" value="41874" />
+    <property name="LightsVolume" value="2188.82" />
+    <property name="TotalVertices" value="94986" />
+    <property name="TotalTriangles" value="39394" />
     <property class="BlockEntities">
-      <property name="Vertices" value="89950" />
-      <property name="Triangles" value="34051" />
+      <property name="Vertices" value="86685" />
+      <property name="Triangles" value="32604" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="7665" />
-      <property name="Triangles" value="4715" />
+      <property name="Vertices" value="6523" />
+      <property name="Triangles" value="3682" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

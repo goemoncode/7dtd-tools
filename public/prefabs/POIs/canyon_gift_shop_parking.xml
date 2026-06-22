@@ -15,15 +15,16 @@
   <property name="EditorGroups" value="navezgane only" />
   <property name="Tags" value="hideui" />
   <property class="Stats">
-    <property name="TotalVertices" value="129342" />
-    <property name="TotalTriangles" value="71951" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="125645" />
+    <property name="TotalTriangles" value="66182" />
     <property class="BlockEntities">
-      <property name="Vertices" value="105662" />
-      <property name="Triangles" value="54377" />
+      <property name="Vertices" value="101475" />
+      <property name="Triangles" value="48350" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="19338" />
-      <property name="Triangles" value="11130" />
+      <property name="Vertices" value="19828" />
+      <property name="Triangles" value="11388" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -52,6 +53,7 @@
     </property>
     <property class="challenge_polymers">
       <property name="0" value="29, 2, 35" />
+      <property name="1" value="30, 2, 35" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="16, 4, 10" />
@@ -64,9 +66,11 @@
       <property name="0" value="16, 5, 11" />
       <property name="1" value="17, 5, 13" />
       <property name="2" value="15, 5, 14" />
+      <property name="3" value="17, 4, 16" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="15, 3, 12" />
+      <property name="1" value="17, 3, 13" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="15, 3, 13" />

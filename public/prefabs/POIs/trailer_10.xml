@@ -31,14 +31,15 @@
   <property name="EditorGroups" value="house old" />
   <property name="Tags" value="countryresidential" />
   <property class="Stats">
-    <property name="TotalVertices" value="147343" />
-    <property name="TotalTriangles" value="62660" />
+    <property name="LightsVolume" value="904.7787" />
+    <property name="TotalVertices" value="145830" />
+    <property name="TotalTriangles" value="61690" />
     <property class="BlockEntities">
-      <property name="Vertices" value="119723" />
-      <property name="Triangles" value="42610" />
+      <property name="Vertices" value="118198" />
+      <property name="Triangles" value="41640" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="25832" />
+      <property name="Vertices" value="25844" />
       <property name="Triangles" value="17062" />
     </property>
     <property class="ChunkMeshes1">

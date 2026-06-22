@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="YOffset" value="-4" />
+  <property name="RotationToFaceNorth" value="0" />
+  <property name="POIMarkerSize" value="100, 0, 100#7, 5, 11#7, 5, 11#5, 5, 11#5, 5, 11#7, 5, 11#7, 5, 11#7, 5, 11#7, 5, 11#7, 5, 11" />
+  <property name="POIMarkerStart" value="23, 4, 25#142, 4, 41#142, 4, 41#8, 3, 72#8, 3, 72#142, 4, 41#142, 4, 41#142, 4, 41#142, 4, 41#142, 4, 41" />
+  <property name="POIMarkerGroup" value="1,foodtruck,foodtruck,container,container,foodtruck,foodtruck,foodtruck,foodtruck,foodtruck" />
+  <property name="POIMarkerTags" value="#########" />
+  <property name="POIMarkerType" value="POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",part_kiosk_foodtrailer_01,part_kiosk_foodtrailer_02,part_countryresidential_back_lot8,part_countryresidential_back_lot7,part_kiosk_foodtrailer_03,part_kiosk_foodtrailer_04,part_kiosk_foodtrailer_05,part_kiosk_foodtrailer_06,part_kiosk_foodtrailer_07" />
+  <property name="POIMarkerPartRotations" value="3,3,3,0,0,3,3,3,3,3" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" />
+  <property name="Zoning" value="none" />
+  <property name="PrefabSize" value="150, 25, 150" />
+  <property name="Tags" value="streettile, rwgonly" />
+  <property class="Stats">
+    <property name="LightsVolume" value="7761.829" />
+    <property name="TotalVertices" value="380389" />
+    <property name="TotalTriangles" value="288697" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="255502" />
+      <property name="Triangles" value="153933" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="63193" />
+      <property name="Triangles" value="37684" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="1536" />
+      <property name="Triangles" value="768" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="492" />
+      <property name="Triangles" value="308" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="912" />
+      <property name="Triangles" value="456" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="58754" />
+      <property name="Triangles" value="95548" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="141, 4, 90" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="3, 4, 74" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="142, 4, 137" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="148, 13, 148" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="92, 5, 143" />
+      <property name="1" value="99, 5, 144" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="89, 4, 10" />
+    </property>
+  </property>
+</prefab>

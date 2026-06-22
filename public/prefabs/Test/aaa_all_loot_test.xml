@@ -24,15 +24,16 @@
   <property name="EditorGroups" value="test stuff" />
   <property name="Tags" value="testonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="21225795" />
-    <property name="TotalTriangles" value="7104186" />
+    <property name="LightsVolume" value="4192.979" />
+    <property name="TotalVertices" value="21052157" />
+    <property name="TotalTriangles" value="7001989" />
     <property class="BlockEntities">
-      <property name="Vertices" value="20766556" />
-      <property name="Triangles" value="6854579" />
+      <property name="Vertices" value="20592422" />
+      <property name="Triangles" value="6752138" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="456513" />
-      <property name="Triangles" value="244799" />
+      <property name="Vertices" value="457009" />
+      <property name="Triangles" value="245043" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

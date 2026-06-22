@@ -30,15 +30,16 @@
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property name="Tags" value="countrytown, nodiagonal" />
   <property class="Stats">
-    <property name="TotalVertices" value="96357" />
-    <property name="TotalTriangles" value="42983" />
+    <property name="LightsVolume" value="17057.28" />
+    <property name="TotalVertices" value="86895" />
+    <property name="TotalTriangles" value="37682" />
     <property class="BlockEntities">
-      <property name="Vertices" value="74113" />
-      <property name="Triangles" value="25994" />
+      <property name="Vertices" value="66231" />
+      <property name="Triangles" value="22477" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="20828" />
-      <property name="Triangles" value="14505" />
+      <property name="Vertices" value="19112" />
+      <property name="Triangles" value="12653" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -49,8 +50,8 @@
       <property name="Triangles" value="20" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="136" />
+      <property name="Triangles" value="68" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -68,7 +69,8 @@
       <property name="2" value="22, 9, 22" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="14, 2, 9" />
+      <property name="0" value="12, 6, 16" />
+      <property name="1" value="14, 2, 17" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="12, 1, 14" />

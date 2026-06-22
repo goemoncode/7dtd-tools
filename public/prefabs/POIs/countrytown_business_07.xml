@@ -31,15 +31,16 @@
   <property name="PrefabSize" value="42, 24, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # #4" />
   <property class="Stats">
-    <property name="TotalVertices" value="505955" />
-    <property name="TotalTriangles" value="191136" />
+    <property name="LightsVolume" value="7867.905" />
+    <property name="TotalVertices" value="500337" />
+    <property name="TotalTriangles" value="189228" />
     <property class="BlockEntities">
-      <property name="Vertices" value="432048" />
-      <property name="Triangles" value="141260" />
+      <property name="Vertices" value="427780" />
+      <property name="Triangles" value="140994" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="67311" />
-      <property name="Triangles" value="40118" />
+      <property name="Vertices" value="65961" />
+      <property name="Triangles" value="38476" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -80,11 +81,12 @@
     <property class="quest_stone">
       <property name="0" value="14, 5, 33" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="39, 5, 31" />
+      <property name="1" value="39, 5, 35" />
+    </property>
     <property class="Rally">
       <property name="0" value="12, 5, 8" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="38, 5, 12" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="26, 5, 31" />

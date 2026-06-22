@@ -25,20 +25,21 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="Tags" value="commercial" />
-  <property name="PrefabSize" value="100, 22, 100" />
+  <property name="PrefabSize" value="100, 28, 100" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="ThemeRepeatDistance" value="1000" />
   <property name="ThemeTags" value="storeGrocery" />
   <property class="Stats">
-    <property name="TotalVertices" value="1967241" />
-    <property name="TotalTriangles" value="711143" />
+    <property name="LightsVolume" value="48114.51" />
+    <property name="TotalVertices" value="1997527" />
+    <property name="TotalTriangles" value="712716" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1658473" />
-      <property name="Triangles" value="499671" />
+      <property name="Vertices" value="1682733" />
+      <property name="Triangles" value="501758" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="273950" />
-      <property name="Triangles" value="160280" />
+      <property name="Vertices" value="279992" />
+      <property name="Triangles" value="159806" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -57,8 +58,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="30540" />
-      <property name="Triangles" value="48844" />
+      <property name="Vertices" value="30524" />
+      <property name="Triangles" value="48804" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -88,11 +89,13 @@
       <property name="0" value="70, 8, 78" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="70, 8, 86" />
-      <property name="1" value="72, 8, 86" />
-      <property name="2" value="68, 8, 87" />
-      <property name="3" value="70, 8, 87" />
-      <property name="4" value="74, 8, 87" />
+      <property name="0" value="71, 8, 84" />
+      <property name="1" value="70, 15, 85" />
+      <property name="2" value="70, 8, 86" />
+      <property name="3" value="72, 8, 86" />
+      <property name="4" value="68, 8, 87" />
+      <property name="5" value="70, 8, 87" />
+      <property name="6" value="74, 8, 87" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="89, 7, 73" />
@@ -104,6 +107,9 @@
     <property class="quest_feather">
       <property name="0" value="29, 17, 82" />
       <property name="1" value="32, 17, 85" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="96, 8, 66" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="83, 7, 84" />

@@ -10,7 +10,7 @@
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-1" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="industrial, countrytown, diagonal" />
+  <property name="Tags" value="industrial" />
   <property name="EditorGroups" value="industrial" />
   <property name="SleeperVolumeSize" value="12, 5, 8" />
   <property name="SleeperVolumeStart" value="5, 0, 12" />
@@ -20,50 +20,56 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="7, 13, 1#5, 13, 2" />
-  <property name="POIMarkerStart" value="4, 0, -1#5, 0, -2" />
-  <property name="POIMarkerGroup" value="driveway2,driveway" />
-  <property name="POIMarkerTags" value="industrial#industrial" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_industrial_01,part_driveway_countrytown_13" />
-  <property name="POIMarkerPartRotations" value="2,2" />
-  <property name="POIMarkerPartSpawnChance" value="1,1" />
+  <property name="POIMarkerSize" value="7, 13, 1" />
+  <property name="POIMarkerStart" value="4, 0, -1" />
+  <property name="POIMarkerGroup" value="driveway1" />
+  <property name="POIMarkerTags" value="industrial" />
+  <property name="POIMarkerType" value="PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_industrial_01" />
+  <property name="POIMarkerPartRotations" value="2" />
+  <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="PrefabSize" value="25, 9, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">
       <property name="0" value="15, 1, 17" />
-      <property name="1" value="20, 1, 23" />
+      <property name="1" value="19, 1, 23" />
     </property>
     <property class="POILight">
-      <property name="0" value="15, 3, 12" />
-      <property name="1" value="12, 4, 14" />
-      <property name="2" value="15, 4, 14" />
+      <property name="0" value="12, 4, 14" />
+      <property name="1" value="15, 4, 14" />
+      <property name="2" value="15, 3, 12" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="16, 1, 12" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="15, 1, 4" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="11, 1, 19" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="18, 4, 16" />
+      <property name="1" value="14, 1, 18" />
+      <property name="2" value="16, 1, 19" />
+      <property name="3" value="12, 2, 21" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="14, 1, 14" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="14, 1, 18" />
-      <property name="1" value="16, 1, 19" />
-    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="116053" />
-    <property name="TotalTriangles" value="50563" />
+    <property name="LightsVolume" value="3246.313" />
+    <property name="TotalVertices" value="116325" />
+    <property name="TotalTriangles" value="50593" />
     <property class="BlockEntities">
-      <property name="Vertices" value="90557" />
-      <property name="Triangles" value="31927" />
+      <property name="Vertices" value="90269" />
+      <property name="Triangles" value="31777" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="23728" />
-      <property name="Triangles" value="15868" />
+      <property name="Vertices" value="24288" />
+      <property name="Triangles" value="16048" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

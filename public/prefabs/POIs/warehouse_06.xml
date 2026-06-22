@@ -32,38 +32,45 @@
   <property name="PrefabSize" value="42, 17, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="643009" />
-    <property name="TotalTriangles" value="272257" />
+    <property name="LightsVolume" value="6858.368" />
+    <property name="TotalVertices" value="647334" />
+    <property name="TotalTriangles" value="260169" />
     <property class="BlockEntities">
-      <property name="Vertices" value="465790" />
-      <property name="Triangles" value="167260" />
+      <property name="Vertices" value="462188" />
+      <property name="Triangles" value="147206" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="175115" />
-      <property name="Triangles" value="103709" />
+      <property name="Vertices" value="178052" />
+      <property name="Triangles" value="103811" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="1928" />
       <property name="Triangles" value="1200" />
     </property>
-    <property class="ChunkMeshes4">
+    <property class="ChunkMeshes3">
       <property name="Vertices" value="176" />
       <property name="Triangles" value="88" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="4990" />
+      <property name="Triangles" value="7864" />
+    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="38, 3, 35" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="40, 11, 29" />
+    </property>
     <property class="Rally">
       <property name="0" value="2, 2, 13" />
     </property>
@@ -72,30 +79,18 @@
       <property name="1" value="40, 10, 34" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="24, 3, 35" />
+      <property name="0" value="27, 2, 41" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="37, 6, 25" />
       <property name="1" value="37, 4, 28" />
       <property name="2" value="37, 6, 29" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="14, 3, 33" />
-      <property name="1" value="15, 3, 33" />
-      <property name="2" value="17, 3, 33" />
-      <property name="3" value="17, 3, 35" />
-      <property name="4" value="17, 3, 36" />
-    </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="2, 3, 36" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="27, 4, 24" />
-      <property name="1" value="32, 4, 26" />
-    </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="13, 8, 33" />
-      <property name="1" value="9, 8, 34" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="40, 4, 29" />
     </property>
     <property class="quest_feather">
       <property name="0" value="22, 15, 25" />
@@ -105,11 +100,11 @@
       <property name="0" value="24, 1, 37" />
       <property name="1" value="36, 2, 40" />
     </property>
-    <property class="challenge_gore">
-      <property name="0" value="35, 8, 14" />
-    </property>
     <property class="challenge_cars">
       <property name="0" value="22, 2, 10" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="35, 8, 14" />
     </property>
   </property>
 </prefab>

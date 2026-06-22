@@ -20,18 +20,19 @@
   <property name="SleeperVolumeFlags" value="2,2,0,2,0,2,2,0,0,2,2" />
   <property name="YOffset" value="-6" />
   <property name="Tags" value="commercial" />
-  <property name="PrefabSize" value="60, 17, 60" />
+  <property name="PrefabSize" value="60, 16, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="506913" />
-    <property name="TotalTriangles" value="198642" />
+    <property name="LightsVolume" value="23386.4" />
+    <property name="TotalVertices" value="513806" />
+    <property name="TotalTriangles" value="199759" />
     <property class="BlockEntities">
-      <property name="Vertices" value="436791" />
-      <property name="Triangles" value="146902" />
+      <property name="Vertices" value="445410" />
+      <property name="Triangles" value="149347" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="59036" />
-      <property name="Triangles" value="33288" />
+      <property name="Vertices" value="57310" />
+      <property name="Triangles" value="31960" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

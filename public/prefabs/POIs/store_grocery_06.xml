@@ -34,15 +34,16 @@
   <property name="Tags" value="rural, gateway, nocheckpoint" />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="409162" />
-    <property name="TotalTriangles" value="182399" />
+    <property name="LightsVolume" value="7530.398" />
+    <property name="TotalVertices" value="407543" />
+    <property name="TotalTriangles" value="174162" />
     <property class="BlockEntities">
-      <property name="Vertices" value="363755" />
-      <property name="Triangles" value="145244" />
+      <property name="Vertices" value="364694" />
+      <property name="Triangles" value="139245" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="35295" />
-      <property name="Triangles" value="20663" />
+      <property name="Vertices" value="32737" />
+      <property name="Triangles" value="18425" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -102,8 +103,7 @@
       <property name="1" value="28, 2, 13" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="35, 4, 15" />
-      <property name="1" value="33, 5, 21" />
+      <property name="0" value="32, 2, 30" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="45, 2, 18" />

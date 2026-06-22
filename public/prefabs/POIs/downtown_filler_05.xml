@@ -28,15 +28,16 @@
   <property name="SVS7" value="sound elevator_ding4^trigger 3" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="448449" />
-    <property name="TotalTriangles" value="187328" />
+    <property name="LightsVolume" value="9800.911" />
+    <property name="TotalVertices" value="447664" />
+    <property name="TotalTriangles" value="183609" />
     <property class="BlockEntities">
-      <property name="Vertices" value="347922" />
-      <property name="Triangles" value="129193" />
+      <property name="Vertices" value="346624" />
+      <property name="Triangles" value="125702" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="97057" />
-      <property name="Triangles" value="55347" />
+      <property name="Vertices" value="97570" />
+      <property name="Triangles" value="55119" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -69,12 +70,13 @@
     <property class="TraderOnOff">
       <property name="0" value="15, 1, 14" />
       <property name="1" value="15, 7, 14" />
-      <property name="2" value="19, 13, 15" />
-      <property name="3" value="18, 1, 19" />
-      <property name="4" value="21, 1, 19" />
-      <property name="5" value="14, 7, 20" />
-      <property name="6" value="19, 7, 22" />
-      <property name="7" value="19, 13, 22" />
+      <property name="2" value="15, 13, 14" />
+      <property name="3" value="19, 13, 15" />
+      <property name="4" value="18, 1, 19" />
+      <property name="5" value="21, 1, 19" />
+      <property name="6" value="14, 7, 20" />
+      <property name="7" value="19, 7, 22" />
+      <property name="8" value="19, 13, 22" />
     </property>
     <property class="POILight">
       <property name="0" value="15, 4, 12" />
@@ -82,26 +84,29 @@
       <property name="2" value="15, 16, 12" />
       <property name="3" value="12, 15, 13" />
       <property name="4" value="22, 14, 15" />
-      <property name="5" value="14, 4, 16" />
-      <property name="6" value="15, 10, 16" />
-      <property name="7" value="15, 16, 16" />
-      <property name="8" value="20, 4, 16" />
-      <property name="9" value="21, 10, 16" />
-      <property name="10" value="21, 16, 16" />
-      <property name="11" value="20, 8, 18" />
-      <property name="12" value="22, 14, 18" />
-      <property name="13" value="13, 2, 20" />
-      <property name="14" value="13, 14, 20" />
-      <property name="15" value="17, 4, 20" />
-      <property name="16" value="22, 8, 20" />
-      <property name="17" value="14, 4, 21" />
-      <property name="18" value="14, 10, 21" />
-      <property name="19" value="14, 16, 21" />
-      <property name="20" value="17, 16, 21" />
-      <property name="21" value="20, 16, 21" />
-      <property name="22" value="21, 4, 21" />
-      <property name="23" value="21, 10, 21" />
-      <property name="24" value="22, 2, 22" />
+      <property name="5" value="13, 8, 16" />
+      <property name="6" value="14, 4, 16" />
+      <property name="7" value="14, 13, 16" />
+      <property name="8" value="15, 10, 16" />
+      <property name="9" value="15, 16, 16" />
+      <property name="10" value="20, 4, 16" />
+      <property name="11" value="21, 10, 16" />
+      <property name="12" value="21, 16, 16" />
+      <property name="13" value="22, 2, 17" />
+      <property name="14" value="20, 8, 18" />
+      <property name="15" value="22, 14, 18" />
+      <property name="16" value="13, 2, 20" />
+      <property name="17" value="13, 14, 20" />
+      <property name="18" value="17, 4, 20" />
+      <property name="19" value="22, 8, 20" />
+      <property name="20" value="14, 4, 21" />
+      <property name="21" value="14, 10, 21" />
+      <property name="22" value="14, 16, 21" />
+      <property name="23" value="17, 16, 21" />
+      <property name="24" value="20, 16, 21" />
+      <property name="25" value="21, 4, 21" />
+      <property name="26" value="21, 10, 21" />
+      <property name="27" value="22, 2, 22" />
     </property>
     <property class="quest_wood">
       <property name="0" value="21, 1, 12" />

@@ -12,7 +12,6 @@
   <property name="YOffset" value="-2" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="Condition" value="Old" />
-  <property name="StaticSpawner.Size" value="32,2,32" />
   <property name="AllowedTownships" value="rural,wilderness" />
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="24, 2, 43#66, 2, 51#57, 2, 43#26, 14, 67#26, 11, 51#26, 8, 51#31, 9, 51#27, 3, 69#27, 7, 69#34, 2, 30#34, 2, 26#20, 2, 26#45, 8, 69#20, 2, 31#20, 2, 29#28, 2, 18#28, 3, 11#41, 8, 69#36, 8, 70#36, 8, 69#43, 8, 69#32, 3, 63#61, 2, 55" />
@@ -48,9 +47,6 @@
     <property class="challenge_sinks">
       <property name="0" value="73, 3, 66" />
     </property>
-    <property class="challenge_mech_parts">
-      <property name="0" value="72, 3, 47" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="71, 2, 66" />
     </property>
@@ -72,6 +68,9 @@
     <property class="challenge_gore">
       <property name="0" value="63, 2, 61" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="72, 3, 47" />
+    </property>
     <property class="challenge_cars">
       <property name="0" value="87, 2, 11" />
     </property>
@@ -83,15 +82,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1144262" />
-    <property name="TotalTriangles" value="567221" />
+    <property name="LightsVolume" value="9361.815" />
+    <property name="TotalVertices" value="1157809" />
+    <property name="TotalTriangles" value="553907" />
     <property class="BlockEntities">
-      <property name="Vertices" value="821026" />
-      <property name="Triangles" value="330207" />
+      <property name="Vertices" value="828339" />
+      <property name="Triangles" value="314015" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="293416" />
-      <property name="Triangles" value="192666" />
+      <property name="Vertices" value="299650" />
+      <property name="Triangles" value="195544" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

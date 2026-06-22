@@ -32,23 +32,24 @@
   <property name="PrefabSize" value="60, 26, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="2391267" />
-    <property name="TotalTriangles" value="1085804" />
+    <property name="LightsVolume" value="6521.423" />
+    <property name="TotalVertices" value="2399254" />
+    <property name="TotalTriangles" value="1088782" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2297225" />
-      <property name="Triangles" value="1022202" />
+      <property name="Vertices" value="2304198" />
+      <property name="Triangles" value="1024988" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="82634" />
-      <property name="Triangles" value="44818" />
+      <property name="Vertices" value="83640" />
+      <property name="Triangles" value="45006" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="520" />
-      <property name="Triangles" value="308" />
+      <property name="Vertices" value="528" />
+      <property name="Triangles" value="312" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
@@ -66,6 +67,7 @@
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="55, 9, 33" />
+      <property name="1" value="54, 9, 33" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="42, 7, 34" />
@@ -103,6 +105,9 @@
     </property>
     <property class="Rally">
       <property name="0" value="38, 7, 51" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="54, 7, 30" />
     </property>
   </property>
 </prefab>

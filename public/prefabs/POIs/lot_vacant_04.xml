@@ -19,18 +19,19 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="YOffset" value="-2" />
-  <property name="PrefabSize" value="25, 18, 25" />
+  <property name="PrefabSize" value="25, 17, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="93461" />
-    <property name="TotalTriangles" value="40409" />
+    <property name="LightsVolume" value="3053.628" />
+    <property name="TotalVertices" value="90005" />
+    <property name="TotalTriangles" value="37596" />
     <property class="BlockEntities">
-      <property name="Vertices" value="80966" />
-      <property name="Triangles" value="30528" />
+      <property name="Vertices" value="78775" />
+      <property name="Triangles" value="28788" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="10579" />
-      <property name="Triangles" value="6821" />
+      <property name="Vertices" value="9314" />
+      <property name="Triangles" value="5748" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -61,8 +62,8 @@
       <property name="0" value="20, 2, 18" />
     </property>
     <property class="quest_wood">
-      <property name="0" value="12, 1, 10" />
-      <property name="1" value="14, 2, 8" />
+      <property name="0" value="14, 2, 8" />
+      <property name="1" value="12, 1, 10" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="24, 2, 17" />
@@ -71,12 +72,12 @@
       <property name="0" value="22, 2, 1" />
       <property name="1" value="23, 2, 11" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="13, 2, 8" />
+      <property name="1" value="12, 1, 11" />
+    </property>
     <property class="quest_stone">
       <property name="0" value="15, 1, 13" />
-    </property>
-    <property class="challenge_gore">
-      <property name="0" value="12, 1, 11" />
-      <property name="1" value="13, 2, 8" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="24, 8, 21" />

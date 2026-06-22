@@ -35,26 +35,26 @@
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="30, 10, 32" />
-      <property name="1" value="36, 10, 32" />
-      <property name="2" value="30, 4, 33" />
-      <property name="3" value="32, 12, 33" />
-      <property name="4" value="32, 15, 33" />
-      <property name="5" value="30, 20, 35" />
-      <property name="6" value="36, 10, 35" />
-      <property name="7" value="32, 10, 36" />
-      <property name="8" value="32, 17, 37" />
+      <property name="1" value="34, 13, 32" />
+      <property name="2" value="36, 10, 32" />
+      <property name="3" value="30, 4, 33" />
+      <property name="4" value="32, 12, 33" />
+      <property name="5" value="32, 15, 33" />
+      <property name="6" value="31, 18, 34" />
+      <property name="7" value="30, 20, 35" />
+      <property name="8" value="36, 10, 35" />
+      <property name="9" value="32, 10, 36" />
+      <property name="10" value="32, 17, 37" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="57, 5, 42" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="31, 17, 37" />
+      <property name="1" value="33, 7, 39" />
+    </property>
     <property class="challenge_pallet">
       <property name="0" value="30, 2, 34" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="15, 13, 36" />
-      <property name="1" value="20, 18, 36" />
-      <property name="2" value="15, 8, 37" />
-      <property name="3" value="21, 17, 37" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="43, 5, 47" />
@@ -75,7 +75,8 @@
       <property name="0" value="34, 7, 32" />
       <property name="1" value="32, 17, 33" />
       <property name="2" value="30, 12, 34" />
-      <property name="3" value="32, 7, 35" />
+      <property name="3" value="36, 7, 34" />
+      <property name="4" value="32, 7, 35" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="30, 7, 30" />
@@ -102,15 +103,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1152977" />
-    <property name="TotalTriangles" value="474544" />
+    <property name="LightsVolume" value="16303.77" />
+    <property name="TotalVertices" value="1131667" />
+    <property name="TotalTriangles" value="460400" />
     <property class="BlockEntities">
-      <property name="Vertices" value="954747" />
-      <property name="Triangles" value="354484" />
+      <property name="Vertices" value="932709" />
+      <property name="Triangles" value="340568" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="181880" />
-      <property name="Triangles" value="97918" />
+      <property name="Vertices" value="182608" />
+      <property name="Triangles" value="97690" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

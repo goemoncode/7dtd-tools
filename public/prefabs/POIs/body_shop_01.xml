@@ -21,64 +21,50 @@
   <property name="YOffset" value="-2" />
   <property name="EditorGroups" value="commercial, industrial" />
   <property name="Tags" value="commercial" />
-  <property name="PrefabSize" value="42, 20, 42" />
+  <property name="PrefabSize" value="42, 19, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="479804" />
-    <property name="TotalTriangles" value="184818" />
+    <property name="LightsVolume" value="19569.86" />
+    <property name="TotalVertices" value="535003" />
+    <property name="TotalTriangles" value="205623" />
     <property class="BlockEntities">
-      <property name="Vertices" value="410115" />
-      <property name="Triangles" value="135946" />
+      <property name="Vertices" value="448091" />
+      <property name="Triangles" value="145913" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="63133" />
-      <property name="Triangles" value="40112" />
+      <property name="Vertices" value="80384" />
+      <property name="Triangles" value="50962" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1522" />
-      <property name="Triangles" value="804" />
+      <property name="Vertices" value="1044" />
+      <property name="Triangles" value="540" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="432" />
+      <property name="Triangles" value="216" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="5034" />
-      <property name="Triangles" value="7956" />
+      <property name="Vertices" value="5052" />
+      <property name="Triangles" value="7992" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="25, 6, 21" />
-      <property name="1" value="27, 4, 21" />
-      <property name="2" value="35, 11, 24" />
-      <property name="3" value="32, 4, 26" />
-      <property name="4" value="33, 4, 26" />
-      <property name="5" value="36, 2, 26" />
-      <property name="6" value="31, 5, 28" />
-      <property name="7" value="35, 5, 28" />
-      <property name="8" value="31, 5, 29" />
-      <property name="9" value="35, 5, 29" />
-      <property name="10" value="25, 2, 30" />
-      <property name="11" value="32, 4, 31" />
-      <property name="12" value="33, 4, 31" />
-      <property name="13" value="35, 11, 33" />
-      <property name="14" value="36, 4, 34" />
-      <property name="15" value="25, 6, 36" />
-      <property name="16" value="32, 6, 36" />
+      <property name="0" value="38, 5, 34" />
     </property>
     <property class="challenge_polymers">
-      <property name="0" value="39, 2, 28" />
-      <property name="1" value="38, 2, 32" />
-      <property name="2" value="38, 3, 32" />
+      <property name="0" value="39, 2, 22" />
+      <property name="1" value="39, 2, 28" />
+      <property name="2" value="38, 2, 32" />
+      <property name="3" value="38, 3, 32" />
     </property>
     <property class="Rally">
       <property name="0" value="18, 2, 1" />
@@ -86,21 +72,27 @@
     <property class="FetchContainer">
       <property name="0" value="35, 4, 25" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="37, 2, 34" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="28, 9, 33" />
     </property>
-    <property class="TraderOnOff">
-      <property name="0" value="39, 2, 10" />
-      <property name="1" value="38, 2, 18" />
+    <property class="quest_feather">
+      <property name="0" value="37, 7, 13" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="15, 2, 32" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="38, 7, 22" />
-      <property name="1" value="38, 4, 28" />
-      <property name="2" value="38, 7, 28" />
-      <property name="3" value="38, 7, 35" />
+      <property name="0" value="38, 3, 22" />
+      <property name="1" value="38, 7, 22" />
+      <property name="2" value="38, 4, 28" />
+      <property name="3" value="38, 7, 28" />
+      <property name="4" value="38, 7, 35" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="36, 2, 9" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="24, 2, 21" />
@@ -108,9 +100,6 @@
       <property name="2" value="34, 2, 26" />
       <property name="3" value="22, 3, 30" />
       <property name="4" value="34, 2, 33" />
-    </property>
-    <property class="challenge_steel">
-      <property name="0" value="37, 2, 9" />
     </property>
   </property>
 </prefab>

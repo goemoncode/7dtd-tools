@@ -76,6 +76,8 @@ id,name,count
 1876,woodShapes:windowWedge60Filler01,4
 1953,woodShapes:window01,23
 1954,woodShapes:window01Broken,10
+1956,woodShapes:window01Broken03,1
+1957,woodShapes:window01Broken04,3
 1965,woodShapes:window04Full,1
 2136,woodShapes:woodDebris01,5
 2138,woodShapes:woodDebris03,2
@@ -130,8 +132,6 @@ id,name,count
 3917,brickShapes:halfCrownCorner2,1
 3920,brickShapes:halfCrownCorner5,1
 3976,brickShapes:archWindowTrim,2
-4196,brickShapes:window01Broken03,1
-4197,brickShapes:window01Broken04,3
 4228,brickShapes:archHalfWindow,2
 4283,brickShapes:brickDestroyed01,2
 4284,brickShapes:brickDestroyed02,2

@@ -53,11 +53,11 @@
     <property class="challenge_polymers">
       <property name="0" value="37, 3, 9" />
     </property>
-    <property class="FetchContainer">
-      <property name="0" value="38, 12, 18" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="37, 7, 17" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="38, 12, 18" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="37, 2, 25" />
@@ -76,15 +76,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="843379" />
-    <property name="TotalTriangles" value="326385" />
+    <property name="LightsVolume" value="9481.445" />
+    <property name="TotalVertices" value="837661" />
+    <property name="TotalTriangles" value="321133" />
     <property class="BlockEntities">
-      <property name="Vertices" value="689301" />
-      <property name="Triangles" value="230065" />
+      <property name="Vertices" value="684766" />
+      <property name="Triangles" value="227215" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="149280" />
-      <property name="Triangles" value="90860" />
+      <property name="Vertices" value="148103" />
+      <property name="Triangles" value="88466" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -103,8 +104,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="2240" />
-      <property name="Triangles" value="3640" />
+      <property name="Vertices" value="2234" />
+      <property name="Triangles" value="3632" />
     </property>
   </property>
 </prefab>

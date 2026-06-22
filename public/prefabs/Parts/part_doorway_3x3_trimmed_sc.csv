@@ -1,0 +1,17 @@
+id,name,count
+1514,woodShapes:cubeTrimQuarterCornerInside2,6
+1520,woodShapes:cubeTrimQuarterCornerInsideQuad,3
+1601,woodShapes:cubeTrimQuarterEdgeDouble,36
+1604,woodShapes:cubeTrimQuarterEdgeQuad,9
+3758,brickShapes:cubeTrimQuarterCornerInside2,6
+3764,brickShapes:cubeTrimQuarterCornerInsideQuad,3
+3845,brickShapes:cubeTrimQuarterEdgeDouble,36
+3848,brickShapes:cubeTrimQuarterEdgeQuad,9
+8246,concreteShapes:cubeTrimQuarterCornerInside2,6
+8252,concreteShapes:cubeTrimQuarterCornerInsideQuad,3
+8333,concreteShapes:cubeTrimQuarterEdgeDouble,36
+8336,concreteShapes:cubeTrimQuarterEdgeQuad,9
+14978,corrugatedMetalShapes:cubeTrimQuarterCornerInside2,6
+14984,corrugatedMetalShapes:cubeTrimQuarterCornerInsideQuad,3
+15065,corrugatedMetalShapes:cubeTrimQuarterEdgeDouble,36
+15068,corrugatedMetalShapes:cubeTrimQuarterEdgeQuad,9

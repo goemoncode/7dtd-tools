@@ -35,15 +35,16 @@
   <property name="EditorGroups" value="rural" />
   <property name="SVS0" value="spawn GroupGenericZombie 1^sleep 2^spawn zombieUtilityWorker 1" />
   <property class="Stats">
-    <property name="TotalVertices" value="406048" />
-    <property name="TotalTriangles" value="197933" />
+    <property name="LightsVolume" value="10710.67" />
+    <property name="TotalVertices" value="401735" />
+    <property name="TotalTriangles" value="186441" />
     <property class="BlockEntities">
-      <property name="Vertices" value="319215" />
-      <property name="Triangles" value="136247" />
+      <property name="Vertices" value="315152" />
+      <property name="Triangles" value="125997" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="75941" />
-      <property name="Triangles" value="45124" />
+      <property name="Vertices" value="75691" />
+      <property name="Triangles" value="43882" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

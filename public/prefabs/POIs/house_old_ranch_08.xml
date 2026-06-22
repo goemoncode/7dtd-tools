@@ -34,15 +34,16 @@
   <property name="PrefabSize" value="60, 24, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="614723" />
-    <property name="TotalTriangles" value="247990" />
+    <property name="LightsVolume" value="9837.897" />
+    <property name="TotalVertices" value="628412" />
+    <property name="TotalTriangles" value="248687" />
     <property class="BlockEntities">
-      <property name="Vertices" value="500296" />
-      <property name="Triangles" value="174261" />
+      <property name="Vertices" value="513835" />
+      <property name="Triangles" value="175094" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="101451" />
-      <property name="Triangles" value="54953" />
+      <property name="Vertices" value="101601" />
+      <property name="Triangles" value="54817" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -96,6 +97,9 @@
     <property class="challenge_mech_parts">
       <property name="0" value="36, 5, 37" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="48, 2, 35" />
+    </property>
     <property class="challenge_steel">
       <property name="0" value="28, 3, 35" />
     </property>
@@ -106,19 +110,8 @@
       <property name="0" value="31, 5, 22" />
       <property name="1" value="32, 15, 25" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="35, 5, 30" />
-      <property name="1" value="35, 11, 33" />
-      <property name="2" value="42, 7, 33" />
-      <property name="3" value="37, 10, 34" />
-      <property name="4" value="41, 1, 34" />
-      <property name="5" value="41, 1, 35" />
-      <property name="6" value="33, 11, 36" />
-      <property name="7" value="34, 11, 36" />
-      <property name="8" value="35, 10, 38" />
-    </property>
     <property class="Rally">
-      <property name="0" value="44, 1, 42" />
+      <property name="0" value="43, 1, 43" />
     </property>
   </property>
 </prefab>

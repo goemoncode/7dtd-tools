@@ -23,15 +23,16 @@
   <property name="Tags" value="commercial" />
   <property name="EditorGroups" value="commercial" />
   <property class="Stats">
-    <property name="TotalVertices" value="1468519" />
-    <property name="TotalTriangles" value="626132" />
+    <property name="LightsVolume" value="19190.24" />
+    <property name="TotalVertices" value="1471405" />
+    <property name="TotalTriangles" value="621445" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1053527" />
-      <property name="Triangles" value="348110" />
+      <property name="Vertices" value="1057045" />
+      <property name="Triangles" value="347321" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="374010" />
-      <property name="Triangles" value="226980" />
+      <property name="Vertices" value="373256" />
+      <property name="Triangles" value="222870" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3584" />
@@ -50,8 +51,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="27538" />
-      <property name="Triangles" value="43544" />
+      <property name="Vertices" value="27660" />
+      <property name="Triangles" value="43756" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -60,6 +61,9 @@
     </property>
     <property class="quest_stone">
       <property name="0" value="95, 3, 90" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="81, 3, 88" />
     </property>
     <property class="quest_wood">
       <property name="0" value="95, 3, 75" />
@@ -107,9 +111,6 @@
     </property>
     <property class="challenge_gore">
       <property name="0" value="76, 4, 87" />
-    </property>
-    <property class="challenge_cars">
-      <property name="0" value="81, 3, 88" />
     </property>
     <property class="quest_feather">
       <property name="0" value="87, 3, 59" />

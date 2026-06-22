@@ -36,15 +36,22 @@
     <property class="challenge_pallet">
       <property name="0" value="16, 2, 3" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="15, 2, 3" />
+    <property class="challenge_polymers">
+      <property name="0" value="15, 2, 12" />
+      <property name="1" value="19, 1, 13" />
+      <property name="2" value="21, 1, 13" />
+      <property name="3" value="19, 1, 14" />
+      <property name="4" value="21, 1, 14" />
+      <property name="5" value="12, 3, 16" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="19, 3, 12" />
+      <property name="1" value="20, 3, 14" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="20, 3, 13" />
       <property name="1" value="21, 3, 13" />
+      <property name="2" value="21, 3, 17" />
     </property>
     <property class="POILight">
       <property name="0" value="21, 5, 13" />
@@ -60,27 +67,35 @@
       <property name="2" value="15, 4, 20" />
       <property name="3" value="20, 9, 22" />
     </property>
-    <property class="challenge_booths">
+    <property class="challenge_leather">
       <property name="0" value="19, 3, 9" />
       <property name="1" value="19, 3, 11" />
     </property>
+    <property class="challenge_steel">
+      <property name="0" value="2, 6, 21" />
+    </property>
     <property class="Rally">
       <property name="0" value="12, 2, 0" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="19, 2, 3" />
+      <property name="1" value="21, 2, 7" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="14, 2, 6" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="336608" />
-    <property name="TotalTriangles" value="154314" />
+    <property name="LightsVolume" value="5190.613" />
+    <property name="TotalVertices" value="349628" />
+    <property name="TotalTriangles" value="160340" />
     <property class="BlockEntities">
-      <property name="Vertices" value="291340" />
-      <property name="Triangles" value="123160" />
+      <property name="Vertices" value="302886" />
+      <property name="Triangles" value="128448" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="42496" />
-      <property name="Triangles" value="27698" />
+      <property name="Vertices" value="43970" />
+      <property name="Triangles" value="28436" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

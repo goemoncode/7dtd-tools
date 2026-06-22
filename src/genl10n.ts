@@ -12,7 +12,7 @@ handleMain(async ({ steamAppsGameDir }) => {
     .name(basename(__filename, '.ts'))
     .description('Generate l10n files for 7dtd-map')
     .addArgument(
-      new Argument('<inputDir>', 'The path to the folder that contains Localization.txt').argOptional().default('', defaultInputDir)
+      new Argument('<inputDir>', 'The path to the folder that contains Localization.csv').argOptional().default('', defaultInputDir)
     )
     .addArgument(
       new Argument('<outputDir>', 'The path to the folder where output file is created').argOptional().default('', defaultOutputDir)
@@ -26,7 +26,7 @@ handleMain(async ({ steamAppsGameDir }) => {
 });
 
 async function main(inputDir: string, outputDir: string) {
-  const globPattern = join(inputDir, '**', 'Localization.txt');
+  const globPattern = join(inputDir, '**', 'Localization.csv');
   const txtFiles = await glob(globPattern, { windowsPathsNoEscape: true });
   const labelMaps = await Promise.all(txtFiles.map((file) => parseL10nTxt(file)));
   const labels = labelMaps.map((map) => Object.fromEntries(map)).reduce((a, c) => Object.assign(a, c), {});

@@ -26,23 +26,24 @@
   <property name="TriggerVolumeStart" value="3, 2, 14" />
   <property name="TriggerVolumeTriggers" value="5" />
   <property class="Stats">
-    <property name="TotalVertices" value="955055" />
-    <property name="TotalTriangles" value="379757" />
+    <property name="LightsVolume" value="7695.411" />
+    <property name="TotalVertices" value="960127" />
+    <property name="TotalTriangles" value="380536" />
     <property class="BlockEntities">
-      <property name="Vertices" value="746247" />
-      <property name="Triangles" value="247990" />
+      <property name="Vertices" value="752033" />
+      <property name="Triangles" value="251044" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="200200" />
-      <property name="Triangles" value="121695" />
+      <property name="Vertices" value="199502" />
+      <property name="Triangles" value="119428" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="3120" />
-      <property name="Triangles" value="1680" />
+      <property name="Vertices" value="3104" />
+      <property name="Triangles" value="1672" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="288" />
@@ -69,16 +70,21 @@
       <property name="2" value="37, 2, 29" />
     </property>
     <property class="challenge_polymers">
-      <property name="0" value="38, 2, 31" />
-    </property>
-    <property class="challenge_leather">
-      <property name="0" value="38, 2, 2" />
-      <property name="1" value="38, 2, 3" />
+      <property name="0" value="38, 14, 25" />
+      <property name="1" value="38, 2, 31" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="37, 14, 27" />
       <property name="1" value="37, 9, 28" />
       <property name="2" value="38, 9, 28" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="38, 2, 2" />
+      <property name="1" value="38, 2, 3" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="37, 9, 25" />
+      <property name="1" value="38, 9, 25" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="30, 2, 28" />
@@ -87,10 +93,6 @@
     <property class="FetchContainer">
       <property name="0" value="38, 11, 27" />
       <property name="1" value="38, 9, 32" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="37, 9, 25" />
-      <property name="1" value="38, 9, 25" />
     </property>
     <property class="QuestRestorePower">
       <property name="0" value="24, 2, 22" />

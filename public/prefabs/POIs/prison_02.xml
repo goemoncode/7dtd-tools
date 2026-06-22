@@ -54,15 +54,16 @@
   <property name="SVS4" value="spawn GroupGenericZombie 3^sleep 1^spawn GroupGenericZombie 2" />
   <property name="SVS3" value="spawn GroupGenericZombie 2^sleep 1^spawn GroupGenericZombie 2" />
   <property class="Stats">
-    <property name="TotalVertices" value="3160850" />
-    <property name="TotalTriangles" value="1263510" />
+    <property name="LightsVolume" value="41627.69" />
+    <property name="TotalVertices" value="3137353" />
+    <property name="TotalTriangles" value="1246060" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2692886" />
-      <property name="Triangles" value="961841" />
+      <property name="Vertices" value="2666761" />
+      <property name="Triangles" value="945781" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="427514" />
-      <property name="Triangles" value="251087" />
+      <property name="Vertices" value="430136" />
+      <property name="Triangles" value="249689" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="2496" />
@@ -81,8 +82,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="27766" />
-      <property name="Triangles" value="44032" />
+      <property name="Vertices" value="27772" />
+      <property name="Triangles" value="44040" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

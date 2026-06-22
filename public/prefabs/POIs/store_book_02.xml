@@ -28,15 +28,16 @@
   <property name="ThemeTags" value="storeBook" />
   <property name="ThemeRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="714777" />
-    <property name="TotalTriangles" value="281379" />
+    <property name="LightsVolume" value="18028.47" />
+    <property name="TotalVertices" value="734575" />
+    <property name="TotalTriangles" value="289430" />
     <property class="BlockEntities">
-      <property name="Vertices" value="617524" />
-      <property name="Triangles" value="214376" />
+      <property name="Vertices" value="637125" />
+      <property name="Triangles" value="222977" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="86093" />
-      <property name="Triangles" value="50551" />
+      <property name="Vertices" value="86290" />
+      <property name="Triangles" value="50001" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -77,9 +78,8 @@
       <property name="3" value="48, 2, 33" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="39, 2, 36" />
-      <property name="1" value="43, 2, 36" />
-      <property name="2" value="43, 2, 42" />
+      <property name="0" value="33, 2, 49" />
+      <property name="1" value="39, 2, 49" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="46, 2, 35" />

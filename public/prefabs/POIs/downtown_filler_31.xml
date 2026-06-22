@@ -44,30 +44,55 @@
       <property name="9" value="14, 11, 14" />
       <property name="10" value="13, 21, 15" />
       <property name="11" value="14, 6, 15" />
-      <property name="12" value="14, 15, 16" />
-      <property name="13" value="19, 10, 16" />
-      <property name="14" value="17, 5, 17" />
-      <property name="15" value="17, 10, 17" />
-      <property name="16" value="22, 10, 17" />
-      <property name="17" value="12, 16, 18" />
-      <property name="18" value="12, 26, 18" />
-      <property name="19" value="20, 5, 18" />
-      <property name="20" value="13, 21, 19" />
-      <property name="21" value="14, 6, 19" />
-      <property name="22" value="14, 15, 19" />
-      <property name="23" value="19, 3, 20" />
-      <property name="24" value="19, 10, 20" />
-      <property name="25" value="20, 5, 21" />
-      <property name="26" value="13, 5, 22" />
+      <property name="12" value="13, 24, 16" />
+      <property name="13" value="14, 15, 16" />
+      <property name="14" value="19, 10, 16" />
+      <property name="15" value="17, 5, 17" />
+      <property name="16" value="17, 10, 17" />
+      <property name="17" value="22, 10, 17" />
+      <property name="18" value="12, 16, 18" />
+      <property name="19" value="12, 26, 18" />
+      <property name="20" value="20, 5, 18" />
+      <property name="21" value="13, 21, 19" />
+      <property name="22" value="14, 6, 19" />
+      <property name="23" value="14, 15, 19" />
+      <property name="24" value="19, 3, 20" />
+      <property name="25" value="19, 10, 20" />
+      <property name="26" value="20, 5, 21" />
+      <property name="27" value="13, 5, 22" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="13, 23, 13" />
+      <property name="1" value="12, 8, 14" />
+      <property name="2" value="12, 13, 14" />
+      <property name="3" value="19, 2, 15" />
+      <property name="4" value="12, 2, 17" />
+      <property name="5" value="18, 7, 17" />
+      <property name="6" value="21, 7, 17" />
+      <property name="7" value="12, 8, 18" />
+      <property name="8" value="13, 23, 19" />
+      <property name="9" value="20, 7, 20" />
+      <property name="10" value="12, 2, 21" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="14, 8, 12" />
       <property name="1" value="22, 2, 18" />
       <property name="2" value="14, 24, 19" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="20, 5, 14" />
+      <property name="1" value="13, 2, 16" />
+      <property name="2" value="19, 2, 17" />
+      <property name="3" value="19, 2, 18" />
+      <property name="4" value="19, 7, 18" />
+      <property name="5" value="21, 12, 18" />
+      <property name="6" value="13, 2, 20" />
+      <property name="7" value="18, 2, 21" />
+      <property name="8" value="20, 7, 21" />
+    </property>
     <property class="challenge_mech_parts">
-      <property name="0" value="14, 23, 17" />
-      <property name="1" value="17, 15, 15" />
+      <property name="0" value="17, 15, 15" />
+      <property name="1" value="14, 23, 17" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="13, 8, 12" />
@@ -93,17 +118,6 @@
       <property name="20" value="22, 3, 21" />
       <property name="21" value="17, 5, 24" />
     </property>
-    <property class="challenge_polymers">
-      <property name="0" value="20, 5, 14" />
-      <property name="1" value="19, 2, 18" />
-      <property name="2" value="19, 7, 18" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="12, 13, 14" />
-      <property name="1" value="12, 8, 18" />
-      <property name="2" value="13, 23, 19" />
-      <property name="3" value="20, 7, 20" />
-    </property>
     <property class="quest_feather">
       <property name="0" value="13, 28, 18" />
     </property>
@@ -119,23 +133,24 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="750624" />
-    <property name="TotalTriangles" value="299757" />
+    <property name="LightsVolume" value="8614.797" />
+    <property name="TotalVertices" value="744869" />
+    <property name="TotalTriangles" value="294574" />
     <property class="BlockEntities">
-      <property name="Vertices" value="562051" />
-      <property name="Triangles" value="188888" />
+      <property name="Vertices" value="555423" />
+      <property name="Triangles" value="185450" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="178071" />
-      <property name="Triangles" value="102558" />
+      <property name="Vertices" value="178785" />
+      <property name="Triangles" value="100777" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="8514" />
-      <property name="Triangles" value="5111" />
+      <property name="Vertices" value="8673" />
+      <property name="Triangles" value="5147" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="216" />

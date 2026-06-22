@@ -25,26 +25,30 @@
   <property name="TriggerVolumeSize" value="3, 4, 5#3, 3, 3" />
   <property name="TriggerVolumeStart" value="18, 1, 5#18, 1, 19" />
   <property name="TriggerVolumeTriggers" value="2#7" />
-  <property name="SleeperVolumeSize" value="1, 2, 7#9, 3, 8#10, 3, 6#10, 4, 4#3, 2, 4#2, 2, 4#9, 5, 12#1, 2, 2" />
-  <property name="SleeperVolumeStart" value="7, 1, 8#1, 1, 16#9, 1, 11#4, 1, 2#1, 1, 12#14, 1, 6#9, 5, 5#21, 6, 12" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,1,1" />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="3,0,0,0,0,0,4,3" />
-  <property name="SleeperVolumeTriggeredBy" value="7# # # # # # #7" />
+  <property name="SleeperVolumeSize" value="1, 2, 7#9, 2, 8#10, 3, 6#10, 4, 4#3, 2, 4#2, 2, 4#9, 5, 12#1, 2, 2#1, 1, 1#1, 1, 1#1, 1, 1" />
+  <property name="SleeperVolumeStart" value="7, 1, 8#1, 1, 16#9, 1, 11#4, 1, 2#1, 1, 12#14, 1, 6#9, 5, 5#21, 6, 12#4, 4, 20#19, 3, 9#2, 3, 15" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,0,0" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="3,0,0,0,0,0,4,3,3,3,3" />
+  <property name="SleeperVolumeTriggeredBy" value="7# # # # # # #7#4#3#5" />
   <property name="ThemeTags" value="wildernesspoi" />
   <property name="QuestTags" value="clear, fetch" />
+  <property name="SVS10" value="sleep 1^sound bunkerwoman_access_blue" />
+  <property name="SVS9" value="sleep 1^sound bunkerwoman_access_yellow" />
+  <property name="SVS8" value="sleep 1^sound bunkerwoman_access_red" />
   <property class="Stats">
-    <property name="TotalVertices" value="329683" />
-    <property name="TotalTriangles" value="143836" />
+    <property name="LightsVolume" value="9254.247" />
+    <property name="TotalVertices" value="245144" />
+    <property name="TotalTriangles" value="110572" />
     <property class="BlockEntities">
-      <property name="Vertices" value="287423" />
-      <property name="Triangles" value="116084" />
+      <property name="Vertices" value="202848" />
+      <property name="Triangles" value="82728" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="38986" />
-      <property name="Triangles" value="22108" />
+      <property name="Vertices" value="38962" />
+      <property name="Triangles" value="22096" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -63,8 +67,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="3258" />
-      <property name="Triangles" value="5636" />
+      <property name="Vertices" value="3318" />
+      <property name="Triangles" value="5740" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

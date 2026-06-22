@@ -27,47 +27,74 @@
   <property name="TriggerVolumeStart" value="15, 1, 12" />
   <property name="TriggerVolumeTriggers" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="878072" />
-    <property name="TotalTriangles" value="360914" />
+    <property name="LightsVolume" value="7858.995" />
+    <property name="TotalVertices" value="659354" />
+    <property name="TotalTriangles" value="265203" />
     <property class="BlockEntities">
-      <property name="Vertices" value="744484" />
-      <property name="Triangles" value="284691" />
+      <property name="Vertices" value="525004" />
+      <property name="Triangles" value="188307" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="127864" />
-      <property name="Triangles" value="72011" />
+      <property name="Vertices" value="128210" />
+      <property name="Triangles" value="71916" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="5724" />
       <property name="Triangles" value="4212" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="416" />
+      <property name="Triangles" value="768" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="Rally">
       <property name="0" value="8, 1, 0" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="17, 22, 16" />
+      <property name="1" value="15, 1, 18" />
+      <property name="2" value="15, 6, 22" />
+      <property name="3" value="15, 11, 22" />
+      <property name="4" value="15, 16, 22" />
+      <property name="5" value="16, 6, 22" />
+      <property name="6" value="16, 11, 22" />
+      <property name="7" value="16, 16, 22" />
+      <property name="8" value="13, 2, 24" />
+      <property name="9" value="14, 2, 24" />
+    </property>
     <property class="TraderOnOff">
-      <property name="0" value="16, 1, 17" />
-      <property name="1" value="20, 22, 18" />
-      <property name="2" value="15, 6, 20" />
-      <property name="3" value="15, 16, 20" />
-      <property name="4" value="21, 6, 22" />
+      <property name="0" value="18, 1, 14" />
+      <property name="1" value="18, 6, 14" />
+      <property name="2" value="18, 11, 14" />
+      <property name="3" value="18, 16, 14" />
+      <property name="4" value="16, 1, 17" />
+      <property name="5" value="20, 22, 18" />
+      <property name="6" value="15, 6, 20" />
+      <property name="7" value="15, 11, 20" />
+      <property name="8" value="15, 16, 20" />
+      <property name="9" value="21, 6, 22" />
+      <property name="10" value="21, 11, 22" />
+      <property name="11" value="21, 16, 22" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="16, 16, 15" />
+      <property name="1" value="14, 21, 17" />
+      <property name="2" value="12, 11, 19" />
+      <property name="3" value="15, 1, 20" />
+      <property name="4" value="20, 1, 21" />
     </property>
     <property class="POILight">
       <property name="0" value="16, 4, 14" />
@@ -108,8 +135,23 @@
       <property name="0" value="18, 21, 17" />
       <property name="1" value="18, 6, 22" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="21, 2, 18" />
+      <property name="1" value="21, 2, 19" />
+      <property name="2" value="18, 1, 21" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="6, 2, 20" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="12, 21, 21" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="21, 6, 18" />
+      <property name="1" value="21, 11, 21" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="21, 1, 13" />
     </property>
   </property>
 </prefab>

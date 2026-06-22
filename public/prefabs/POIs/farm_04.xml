@@ -35,15 +35,16 @@
   <property name="TriggerVolumeStart" value="2, 6, 43" />
   <property name="TriggerVolumeTriggers" value="4" />
   <property class="Stats">
-    <property name="TotalVertices" value="506803" />
-    <property name="TotalTriangles" value="214829" />
+    <property name="LightsVolume" value="5905.572" />
+    <property name="TotalVertices" value="506341" />
+    <property name="TotalTriangles" value="210327" />
     <property class="BlockEntities">
-      <property name="Vertices" value="394734" />
-      <property name="Triangles" value="142833" />
+      <property name="Vertices" value="393658" />
+      <property name="Triangles" value="138653" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="102097" />
-      <property name="Triangles" value="56044" />
+      <property name="Vertices" value="102711" />
+      <property name="Triangles" value="55722" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -67,6 +68,10 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="50, 2, 18" />
+      <property name="1" value="53, 2, 21" />
+    </property>
     <property class="POILight">
       <property name="0" value="52, 4, 40" />
     </property>
@@ -96,9 +101,6 @@
       <property name="4" value="49, 2, 20" />
       <property name="5" value="52, 3, 20" />
     </property>
-    <property class="TraderOnOff">
-      <property name="0" value="50, 2, 18" />
-    </property>
     <property class="quest_feather">
       <property name="0" value="22, 9, 50" />
     </property>
@@ -109,7 +111,7 @@
       <property name="0" value="50, 2, 43" />
     </property>
     <property class="quest_wood_trees">
-      <property name="0" value="58, 2, 51" />
+      <property name="0" value="59, 2, 51" />
     </property>
   </property>
 </prefab>

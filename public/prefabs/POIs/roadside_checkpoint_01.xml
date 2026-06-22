@@ -34,15 +34,16 @@
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="Tags" value="gateway" />
   <property class="Stats">
-    <property name="TotalVertices" value="999275" />
-    <property name="TotalTriangles" value="375401" />
+    <property name="LightsVolume" value="20263.94" />
+    <property name="TotalVertices" value="1010172" />
+    <property name="TotalTriangles" value="369125" />
     <property class="BlockEntities">
-      <property name="Vertices" value="965630" />
-      <property name="Triangles" value="344698" />
+      <property name="Vertices" value="976391" />
+      <property name="Triangles" value="338606" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="23987" />
-      <property name="Triangles" value="14987" />
+      <property name="Vertices" value="24123" />
+      <property name="Triangles" value="14803" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -76,8 +77,7 @@
       <property name="0" value="57, 2, 53" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="30, 2, 30" />
-      <property name="1" value="30, 2, 37" />
+      <property name="0" value="32, 2, 54" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="57, 2, 52" />

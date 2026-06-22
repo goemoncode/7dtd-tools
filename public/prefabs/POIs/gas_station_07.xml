@@ -26,7 +26,7 @@
   <property name="ThemeTags" value="stationGas" />
   <property name="ThemeDistance" value="300" />
   <property name="POIMarkerSize" value="4, 13, 3#4, 13, 3#3, 1, 3#3, 1, 3" />
-  <property name="POIMarkerStart" value="12, 2, -2#32, 2, -3#33, 2, -2#14, 2, -2" />
+  <property name="POIMarkerStart" value="12, 2, -3#32, 2, -3#33, 2, -2#13, 2, -2" />
   <property name="POIMarkerGroup" value="driveway,driveway2,new,new2" />
   <property name="POIMarkerTags" value="rural#rural##" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,RoadExit,RoadExit" />
@@ -36,22 +36,23 @@
   <property name="PrefabSize" value="60, 24, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # #2" />
   <property class="Stats">
-    <property name="TotalVertices" value="302679" />
-    <property name="TotalTriangles" value="190306" />
+    <property name="LightsVolume" value="5981.069" />
+    <property name="TotalVertices" value="314366" />
+    <property name="TotalTriangles" value="174093" />
     <property class="BlockEntities">
-      <property name="Vertices" value="239141" />
-      <property name="Triangles" value="143842" />
+      <property name="Vertices" value="250748" />
+      <property name="Triangles" value="128032" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="33450" />
-      <property name="Triangles" value="19570" />
+      <property name="Vertices" value="33516" />
+      <property name="Triangles" value="19167" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="19648" />
       <property name="Triangles" value="9824" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="532" />
+      <property name="Vertices" value="546" />
       <property name="Triangles" value="374" />
     </property>
     <property class="ChunkMeshes3">
@@ -97,10 +98,13 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="21, 3, 16" />
-      <property name="1" value="25, 3, 18" />
-      <property name="2" value="19, 3, 21" />
-      <property name="3" value="28, 3, 23" />
-      <property name="4" value="26, 3, 27" />
+      <property name="1" value="28, 3, 17" />
+      <property name="2" value="25, 3, 18" />
+      <property name="3" value="19, 3, 21" />
+      <property name="4" value="22, 3, 23" />
+      <property name="5" value="28, 3, 23" />
+      <property name="6" value="26, 3, 27" />
+      <property name="7" value="28, 3, 29" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="30, 5, 22" />

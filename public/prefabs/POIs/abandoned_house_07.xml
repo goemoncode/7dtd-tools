@@ -37,15 +37,16 @@
   <property name="InfoVolumeSize" value="41, 23, 41" />
   <property name="InfoVolumeStart" value="1, 0, 0" />
   <property class="Stats">
-    <property name="TotalVertices" value="386879" />
-    <property name="TotalTriangles" value="197562" />
+    <property name="LightsVolume" value="4162.087" />
+    <property name="TotalVertices" value="378691" />
+    <property name="TotalTriangles" value="176057" />
     <property class="BlockEntities">
-      <property name="Vertices" value="323772" />
-      <property name="Triangles" value="157703" />
+      <property name="Vertices" value="315390" />
+      <property name="Triangles" value="136196" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="56083" />
-      <property name="Triangles" value="30767" />
+      <property name="Vertices" value="56277" />
+      <property name="Triangles" value="30769" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

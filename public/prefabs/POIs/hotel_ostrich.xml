@@ -36,15 +36,16 @@
   <property name="SVS35" value="spawn GroupAllFeral 1^waitalive 1^spawn GroupAllFeral 1^waitalive 1^spawn GroupAllFeral 1^waitalive 0^spawn GroupAllFeral 1^waitalive 0^spawn GroupAllFeral 1" />
   <property name="SVS20" value="spawn GroupAllFeral 2^waitalive 1^spawn GroupAllFeral 2" />
   <property class="Stats">
-    <property name="TotalVertices" value="2117275" />
-    <property name="TotalTriangles" value="882727" />
+    <property name="LightsVolume" value="29967.15" />
+    <property name="TotalVertices" value="2096092" />
+    <property name="TotalTriangles" value="864717" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1710385" />
-      <property name="Triangles" value="637213" />
+      <property name="Vertices" value="1686166" />
+      <property name="Triangles" value="620495" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="387560" />
-      <property name="Triangles" value="221882" />
+      <property name="Vertices" value="390596" />
+      <property name="Triangles" value="220590" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3840" />
@@ -111,6 +112,9 @@
     <property class="challenge_polymers">
       <property name="0" value="50, 6, 22" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="46, 6, 23" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="40, 30, 37" />
       <property name="1" value="35, 30, 41" />
@@ -124,9 +128,6 @@
     <property class="challenge_mech_parts">
       <property name="0" value="44, 25, 21" />
       <property name="1" value="39, 36, 25" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="46, 6, 23" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="57, 6, 22" />

@@ -9,13 +9,13 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="industrial, countrytown, countryresidential, nodiagonal" />
+  <property name="Tags" value="industrial, nodiagonal" />
   <property name="EditorGroups" value="industrial" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="11, 3, 5" />
   <property name="SleeperVolumeStart" value="10, 2, 16" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,1,1" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,1,1" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -31,23 +31,24 @@
   <property name="PrefabSize" value="25, 10, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="129502" />
-    <property name="TotalTriangles" value="47364" />
+    <property name="LightsVolume" value="791.6814" />
+    <property name="TotalVertices" value="129538" />
+    <property name="TotalTriangles" value="47079" />
     <property class="BlockEntities">
-      <property name="Vertices" value="108878" />
-      <property name="Triangles" value="33886" />
+      <property name="Vertices" value="109662" />
+      <property name="Triangles" value="34057" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="18436" />
-      <property name="Triangles" value="10466" />
+      <property name="Vertices" value="18320" />
+      <property name="Triangles" value="10326" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="632" />
-      <property name="Triangles" value="316" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
@@ -58,22 +59,49 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="1556" />
       <property name="Triangles" value="2696" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="12, 2, 16" />
+      <property name="1" value="12, 3, 16" />
+      <property name="2" value="13, 2, 16" />
+      <property name="3" value="13, 3, 16" />
+      <property name="4" value="20, 2, 17" />
+      <property name="5" value="20, 3, 17" />
+      <property name="6" value="21, 2, 17" />
+      <property name="7" value="21, 3, 17" />
+      <property name="8" value="13, 2, 19" />
+      <property name="9" value="13, 3, 19" />
+      <property name="10" value="14, 2, 19" />
+      <property name="11" value="15, 2, 19" />
+      <property name="12" value="15, 3, 19" />
+      <property name="13" value="20, 2, 19" />
+      <property name="14" value="20, 3, 19" />
+      <property name="15" value="21, 2, 19" />
+      <property name="16" value="21, 3, 19" />
+      <property name="17" value="12, 5, 21" />
+      <property name="18" value="18, 2, 21" />
+    </property>
     <property class="POILight">
       <property name="0" value="21, 4, 13" />
       <property name="1" value="18, 5, 15" />
       <property name="2" value="12, 5, 17" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="19, 2, 15" />
+      <property name="1" value="12, 2, 18" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="18, 2, 13" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="15, 1, 13" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="5, 7, 23" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="18, 1, 7" />

@@ -14,8 +14,8 @@
   <property name="YOffset" value="-3" />
   <property name="Tags" value="downtown" />
   <property name="Zoning" value="none" />
-  <property name="SleeperVolumeSize" value="1, 1, 1#1, 1, 1#10, 5, 19#9, 8, 17#11, 7, 4#10, 4, 9" />
-  <property name="SleeperVolumeStart" value="9, 0, 4#12, 0, 4#2, 3, 3#13, 3, 5#12, 9, 4#13, 9, 5" />
+  <property name="SleeperVolumeSize" value="1, 1, 1#1, 1, 1#10, 6, 20#9, 8, 17#11, 7, 4#10, 4, 9" />
+  <property name="SleeperVolumeStart" value="9, 0, 4#12, 0, 4#2, 3, 2#13, 3, 5#12, 9, 4#13, 9, 5" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,1,1" />
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,0,0,GroupGenericZombie,0,0,GroupGenericZombie,1,2,GroupGenericZombie,1,2,GroupGenericZombie,1,1,GroupGenericZombie,0,0" />
   <property name="SleeperIsLootVolume" value="False,False,True,True,True,True" />
@@ -25,15 +25,16 @@
   <property name="SVS1" value="sleep 1.5^trigger 2" />
   <property name="SVS0" value="trigger 1" />
   <property class="Stats">
-    <property name="TotalVertices" value="99344" />
-    <property name="TotalTriangles" value="46284" />
+    <property name="LightsVolume" value="117.2861" />
+    <property name="TotalVertices" value="98832" />
+    <property name="TotalTriangles" value="45768" />
     <property class="BlockEntities">
-      <property name="Vertices" value="57929" />
-      <property name="Triangles" value="17817" />
+      <property name="Vertices" value="57933" />
+      <property name="Triangles" value="17819" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="38749" />
-      <property name="Triangles" value="24351" />
+      <property name="Vertices" value="38233" />
+      <property name="Triangles" value="23833" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

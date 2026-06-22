@@ -31,15 +31,16 @@
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="486379" />
-    <property name="TotalTriangles" value="195950" />
+    <property name="LightsVolume" value="27697" />
+    <property name="TotalVertices" value="499492" />
+    <property name="TotalTriangles" value="193712" />
     <property class="BlockEntities">
-      <property name="Vertices" value="425528" />
-      <property name="Triangles" value="150945" />
+      <property name="Vertices" value="439365" />
+      <property name="Triangles" value="149743" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="49455" />
-      <property name="Triangles" value="28301" />
+      <property name="Vertices" value="48731" />
+      <property name="Triangles" value="27265" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -67,7 +68,7 @@
       <property name="0" value="54, 11, 38" />
     </property>
     <property class="challenge_polymers">
-      <property name="0" value="52, 2, 29" />
+      <property name="0" value="51, 2, 47" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="23, 2, 33" />
@@ -82,7 +83,14 @@
       <property name="0" value="36, 3, 53" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="6, 3, 34" />
+      <property name="0" value="23, 2, 36" />
+      <property name="1" value="18, 2, 40" />
+      <property name="2" value="22, 2, 40" />
+      <property name="3" value="20, 2, 34" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="56, 2, 46" />
+      <property name="1" value="55, 2, 48" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="17, 2, 31" />
@@ -94,10 +102,6 @@
       <property name="0" value="15, 5, 32" />
       <property name="1" value="18, 2, 37" />
       <property name="2" value="15, 3, 41" />
-    </property>
-    <property class="quest_wood">
-      <property name="0" value="56, 2, 46" />
-      <property name="1" value="55, 2, 48" />
     </property>
     <property class="quest_feather">
       <property name="0" value="16, 7, 30" />

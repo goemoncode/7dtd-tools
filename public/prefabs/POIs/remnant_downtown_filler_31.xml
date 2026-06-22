@@ -20,6 +20,8 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,2,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
+  <property name="EditorGroups" value="downtown" />
+  <property name="Tags" value="downtown" />
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">
       <property name="0" value="17, 1, 15" />
@@ -28,22 +30,37 @@
       <property name="3" value="17, 1, 22" />
       <property name="4" value="19, 6, 22" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="13, 11, 12" />
+      <property name="1" value="17, 1, 18" />
+    </property>
     <property class="POILight">
-      <property name="0" value="20, 4, 12" />
-      <property name="1" value="15, 9, 13" />
-      <property name="2" value="19, 9, 13" />
-      <property name="3" value="14, 3, 15" />
-      <property name="4" value="17, 4, 17" />
-      <property name="5" value="20, 4, 17" />
-      <property name="6" value="15, 7, 18" />
-      <property name="7" value="15, 9, 18" />
-      <property name="8" value="19, 9, 18" />
-      <property name="9" value="17, 4, 20" />
-      <property name="10" value="20, 4, 20" />
-      <property name="11" value="17, 3, 21" />
+      <property name="0" value="19, 2, 12" />
+      <property name="1" value="20, 4, 12" />
+      <property name="2" value="15, 9, 14" />
+      <property name="3" value="16, 4, 14" />
+      <property name="4" value="19, 4, 14" />
+      <property name="5" value="19, 9, 14" />
+      <property name="6" value="14, 3, 15" />
+      <property name="7" value="17, 4, 17" />
+      <property name="8" value="20, 4, 17" />
+      <property name="9" value="13, 7, 18" />
+      <property name="10" value="15, 7, 18" />
+      <property name="11" value="15, 9, 18" />
+      <property name="12" value="16, 7, 18" />
+      <property name="13" value="19, 9, 18" />
+      <property name="14" value="13, 4, 20" />
+      <property name="15" value="17, 4, 20" />
+      <property name="16" value="20, 4, 20" />
+      <property name="17" value="14, 9, 21" />
+      <property name="18" value="17, 3, 21" />
+      <property name="19" value="17, 9, 21" />
+      <property name="20" value="20, 9, 21" />
+      <property name="21" value="17, 4, 23" />
+      <property name="22" value="19, 8, 23" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="17, 12, 12" />
+      <property name="0" value="17, 12, 14" />
       <property name="1" value="13, 1, 15" />
       <property name="2" value="14, 1, 15" />
       <property name="3" value="14, 2, 15" />
@@ -56,28 +73,30 @@
       <property name="0" value="16, 1, 7" />
     </property>
     <property class="challenge_mech_parts">
-      <property name="0" value="20, 1, 13" />
-      <property name="1" value="16, 6, 19" />
+      <property name="0" value="15, 11, 13" />
+      <property name="1" value="20, 1, 13" />
+      <property name="2" value="16, 6, 19" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="231237" />
-    <property name="TotalTriangles" value="88812" />
+    <property name="LightsVolume" value="3149.138" />
+    <property name="TotalVertices" value="265597" />
+    <property name="TotalTriangles" value="101720" />
     <property class="BlockEntities">
-      <property name="Vertices" value="170376" />
-      <property name="Triangles" value="54095" />
+      <property name="Vertices" value="201626" />
+      <property name="Triangles" value="63328" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="59102" />
-      <property name="Triangles" value="33633" />
+      <property name="Vertices" value="60082" />
+      <property name="Triangles" value="34234" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1759" />
-      <property name="Triangles" value="1084" />
+      <property name="Vertices" value="2335" />
+      <property name="Triangles" value="1446" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
@@ -88,8 +107,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1554" />
+      <property name="Triangles" value="2712" />
     </property>
   </property>
 </prefab>

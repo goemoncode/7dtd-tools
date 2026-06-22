@@ -9,7 +9,7 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="42, 23, 42" />
+  <property name="PrefabSize" value="42, 25, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
@@ -31,21 +31,26 @@
       <property name="0" value="38, 4, 31" />
       <property name="1" value="38, 14, 32" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="37, 9, 23" />
+      <property name="1" value="39, 19, 28" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="37, 14, 15" />
     </property>
     <property class="POILight">
-      <property name="0" value="37, 7, 24" />
-      <property name="1" value="38, 5, 28" />
-      <property name="2" value="37, 12, 30" />
-      <property name="3" value="37, 17, 30" />
+      <property name="0" value="37, 12, 23" />
+      <property name="1" value="37, 7, 24" />
+      <property name="2" value="38, 5, 28" />
+      <property name="3" value="38, 10, 29" />
+      <property name="4" value="37, 12, 30" />
+      <property name="5" value="37, 17, 30" />
+      <property name="6" value="37, 5, 31" />
+      <property name="7" value="37, 15, 31" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="37, 14, 23" />
       <property name="1" value="37, 14, 27" />
-    </property>
-    <property class="challenge_polymers">
-      <property name="0" value="39, 19, 28" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="38, 10, 22" />
@@ -66,15 +71,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="588144" />
-    <property name="TotalTriangles" value="252633" />
+    <property name="LightsVolume" value="7680.814" />
+    <property name="TotalVertices" value="585989" />
+    <property name="TotalTriangles" value="251303" />
     <property class="BlockEntities">
-      <property name="Vertices" value="392937" />
-      <property name="Triangles" value="125244" />
+      <property name="Vertices" value="389697" />
+      <property name="Triangles" value="123665" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="184633" />
-      <property name="Triangles" value="114285" />
+      <property name="Vertices" value="185718" />
+      <property name="Triangles" value="114534" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

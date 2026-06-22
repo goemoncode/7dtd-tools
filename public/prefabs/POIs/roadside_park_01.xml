@@ -30,15 +30,16 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="352718" />
-    <property name="TotalTriangles" value="168621" />
+    <property name="LightsVolume" value="39912.73" />
+    <property name="TotalVertices" value="439177" />
+    <property name="TotalTriangles" value="184781" />
     <property class="BlockEntities">
-      <property name="Vertices" value="295907" />
-      <property name="Triangles" value="122199" />
+      <property name="Vertices" value="380428" />
+      <property name="Triangles" value="137867" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="46893" />
-      <property name="Triangles" value="29790" />
+      <property name="Vertices" value="48225" />
+      <property name="Triangles" value="30018" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -49,24 +50,28 @@
       <property name="Triangles" value="28" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="48" />
-      <property name="Triangles" value="24" />
+      <property name="Vertices" value="680" />
+      <property name="Triangles" value="340" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="9814" />
-      <property name="Triangles" value="16580" />
+      <property name="Vertices" value="9788" />
+      <property name="Triangles" value="16528" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="challenge_polymers">
-      <property name="0" value="32, 4, 40" />
+      <property name="0" value="42, 4, 56" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="59, 4, 50" />
+      <property name="1" value="56, 4, 59" />
     </property>
     <property class="POILight">
-      <property name="0" value="52, 14, 21" />
+      <property name="0" value="57, 4, 57" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="53, 4, 37" />
@@ -79,6 +84,10 @@
       <property name="1" value="33, 4, 36" />
       <property name="2" value="30, 4, 38" />
       <property name="3" value="30, 4, 41" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="18, 4, 47" />
+      <property name="1" value="19, 4, 47" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="39, 4, 3" />
