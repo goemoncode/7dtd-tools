@@ -21,3 +21,7 @@ yarn run-ts prebuild
 yarn run-ts genl10n
 yarn run-ts genindex
 ```
+
+## Credits
+
+- Inspired by the original logic of [kui/7dtd-map](https://github.com/kui/7dtd-map).
