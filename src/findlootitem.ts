@@ -1,80 +1,98 @@
-import { basename, join } from 'node:path';
-import { program } from 'commander';
-import { red, blue, cyan } from 'ansi-colors';
-import { AppConfig, handleMain } from './utils';
-import { Loot, LootTable } from './utils/Loot';
-import { Blocks } from './utils/Blocks';
+import { Command } from '@cliffy/command';
+import { red, blue, cyan, bold } from '@std/fmt/colors';
+import { type AppConfig, handleMain } from './utils/index.ts';
+import { type CalculatedLootTreeNode, LootTable as Loot } from './utils/Loot.ts';
+import { Blocks } from './utils/Blocks.ts';
+import { Items } from './utils/Items.ts';
+import { parseCVars } from './utils/CommandTypes.ts';
 
-program
-  .name(basename(__filename, ".ts"))
-  .description('Find blocks can loot item')
-  .argument('<pattern>', 'Regular expression for item name you want loot')
-  .option("-i, --input <inputFile>", "loot.xml file")
-  .configureOutput({ outputError: (str, write) => write(red(str)) })
-  .showHelpAfterError()
-  .parse();
+const command = await new Command()
+  .name('findlootitem')
+  .description('Find blocks containing the specified item.')
+  .type('cvarType', parseCVars)
+  .argument('<pattern:string>', 'Regular expression to match item names for looting.')
+  .option('--lootStage <lootStage:number>', 'The loot stage used to calculate drop rates.', { default: 10 })
+  .option('--bookworm', 'Enable the perkBookwormChance calculation.')
+  .option('--biome <biome:string>', 'The biome standing on (e.g., pine_forest, desert, snow, wasteland).', { default: 'pine_forest' })
+  .option('-t, --tier, --poiTier <tier:number>', 'The POI tier (0-5).', { default: 0 })
+  .parse(Deno.args);
 
 handleMain(main);
 
-async function main({ gameConfigDir }: AppConfig) {
-  const pattern = new RegExp(program.args[0]);
-  const options = program.opts();
-  const loot = await Loot.loadFromXml(options.input ?? join(gameConfigDir, 'loot.xml'));
-  const lootContainers = loot.findLootContainer(pattern);
-  const items = flattenItems(lootContainers);
+async function main({ itemsXmlPath, lootXmlPath, blocksXmlPath }: AppConfig) {
+  const [arg1] = command.args;
+  const { lootStage = 10, bookworm, biome = 'pine_forest', tier = 0 } = command.options;
+  const cvars: Record<string, number> = {};
+  if (bookworm) cvars['$perkBookwormChance'] = 25;
 
-  if (items.size) {
-    console.group(cyan('Loot Items'));
-    console.log(blue.italic(`${items.size} items matched`));
-    printArray(Array.from(items));
-    console.groupEnd();
-    console.log();
-  } else {
-    console.log(red('No loot items matched'));
-    return;
+  const regex = new RegExp(arg1);
+  const items = await Items.loadFromXml(itemsXmlPath);
+  const item = items.items.find((item) => regex.test(item.name));
+  if (item == null) {
+    console.error(bold(red(`No Item matched by pattern: ${regex}`)));
+    return 1;
   }
-
-  console.group(cyan('Loot Containers'));
-  console.log(blue.italic(`${lootContainers.length} loot containers matched`));
-  printArray(lootContainers.map((c) => c.name));
-  console.groupEnd();
+  console.log(`Item matched: ${bold(blue(item.name))}`);
   console.log();
 
-  const blocks = await Blocks.loadFromXml(join(gameConfigDir, 'blocks.xml'));
-  const matchedBlocks = blocks.findByLootIds(new Set(lootContainers.map((c) => c.name)));
-  console.group(cyan('Container Blocks'));
-  if (matchedBlocks.length) {
-    console.log(blue.italic(`${matchedBlocks.length} blocks matched`));
-    printArray(matchedBlocks.map((b) => b.name));
-  } else {
-    console.log(red('No blocks matched'));
-  }
-  console.groupEnd();
+  const loot = await Loot.loadFromXml(lootXmlPath);
+  const lootContainers = loot.findLootTree(item.name, {
+    lootStage,
+    cvars,
+    biomeStandingOn: biome,
+    poiTier: tier,
+  });
+  const blocks = await Blocks.loadFromXml(blocksXmlPath);
+
+  const matched = lootContainers.length;
+  console.log(`${matched} loot containers contains this item.`);
   console.log();
-
-  const downgradeGraph = matchedBlocks.flatMap((b) => blocks.getDowngradeGraphs([b])).filter((g) => g.length > 1);
-  if (downgradeGraph.length) {
-    console.group(cyan('Downgrade Graphs'));
-    downgradeGraph.forEach((g) => console.log(g.map((b) => b.name).join(' -> ')));
-    console.groupEnd();
-    console.log();
-  }
-}
-
-function flattenItems(lootContainers: LootTable[]): Set<string> {
-  return new Set(lootContainers.flatMap((c) => c.items.concat(Array.from(flattenItems(c.groups)))));
-}
-
-function printArray(values: string[], lineWidth = process.stdout.columns - 2) {
-  const chunk: string[] = [];
-  for (const s of values) {
-    if (chunk.join(', ').length + s.length + 2 > lineWidth) {
-      console.log(chunk.join(', '));
-      chunk.splice(0, chunk.length);
+  for (let i = 0; i < matched; i++) {
+    const lootContainer = lootContainers[i];
+    console.log(`${i + 1}) ${lootContainer.name}`);
+    for (const child of lootContainer.children) {
+      printLootTree(child as CalculatedLootTreeNode, 1);
     }
-    chunk.push(s);
+    const matchedBlocks = blocks.lootContainers.get(lootContainer.name);
+    console.log();
+    if (matchedBlocks) {
+      console.log(`${matchedBlocks.length} blocks found that has this loot list.`);
+      console.log(blue(matchedBlocks.map((block) => block.name).join(', ')));
+    } else {
+      console.log(red(`No blocks found that has this loot list.`));
+    }
+    console.log();
   }
-  if (chunk.length) {
-    console.log(chunk.join(', '));
+}
+
+function printLootTree(node: CalculatedLootTreeNode, depth: number = 0): void {
+  const indent = '  '.repeat(depth);
+  const rollProb = node.rollProb !== undefined ? `${(node.rollProb * 100).toFixed(2)}%` : '100%';
+  const absoluteProb = node.absoluteProb !== undefined ? `${(node.absoluteProb * 100).toFixed(2)}%` : '100%';
+  if (node.type === 'group') {
+    const prob = node.loot_prob_template ? `${absoluteProb} ${rollProb}(${node.loot_prob_template})` : `${absoluteProb} ${rollProb}`;
+    console.log(`${indent}┗ ${cyan(node.name)} (rollCount: ${node.rollCount || '1'}; prob: ${prob}; count: ${node.count || '1'})`);
+  } else if (node.type === 'item') {
+    const req = node.requirements
+      ?.map((req) => {
+        switch (req.class) {
+          case 'RandomRoll':
+            return `${req.class}={prob=${req.value}}`;
+          case 'Progression':
+            return `${req.class}={${req.name}${req.operation}${req.value}}`;
+          case 'Biome':
+            return `${req.class}={${req.biomes}}`;
+        }
+      })
+      .join(';');
+    const prob = node.loot_prob_template
+      ? `${bold(red(absoluteProb))} ${rollProb}(${node.loot_prob_template})`
+      : `${bold(red(absoluteProb))} ${rollProb}`;
+    console.log(`${indent}┗ ${red(node.name)} (prob: ${prob}; count: ${node.count || '1'}) ${req ?? ''}`);
+  }
+  if ('children' in node) {
+    for (const child of node.children) {
+      printLootTree(child as CalculatedLootTreeNode, depth + 1);
+    }
   }
 }

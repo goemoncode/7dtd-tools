@@ -1,5 +1,4 @@
-import { createReadStream } from 'node:fs';
-import { ByteReader } from './ByteReader';
+import { ByteReader } from './ByteReader.ts';
 
 export type BlockId = number;
 export type BlockIdNames = Map<BlockId, string>;
@@ -13,19 +12,23 @@ export type BlockIdNames = Map<BlockId, string>;
 // 5:   (uint8) the number of chars of the block name
 // 6-:  (string) block name
 export async function parseNim(nimFileName: string): Promise<BlockIdNames> {
-  const stream = createReadStream(nimFileName);
-  const r = new ByteReader(stream);
-
-  const version = (await r.read(4)).readUInt32LE();
-  const idsNum = (await r.read(4)).readUInt32LE();
+  const file = await Deno.open(nimFileName);
+  const reader = new ByteReader(file.readable);
+  let version: number;
   const blocks: BlockIdNames = new Map();
-  for (let i = 0; i < idsNum; i++) {
-    const id = (await r.read(4)).readUInt32LE();
-    const nameLength = (await r.read(1)).readUInt8();
-    const name = (await r.read(nameLength)).toString();
-    blocks.set(id, name);
+  try {
+    version = new DataView((await reader.read(4)).buffer).getUint32(0, true);
+    const idsNum = new DataView((await reader.read(4)).buffer).getUint32(0, true);
+    for (let i = 0; i < idsNum; i++) {
+      const id = new DataView((await reader.read(4)).buffer).getUint32(0, true);
+      const nameLength = (await reader.read(1))[0];
+      const name = new TextDecoder().decode(await reader.read(nameLength));
+      blocks.set(id, name);
+    }
+  } finally {
+    reader.close();
+    file.close();
   }
-  stream.close();
 
   if (version !== 1) throw Error(`Unexpected version: filename=${nimFileName} version=${version}`);
 

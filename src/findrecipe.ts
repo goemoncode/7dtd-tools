@@ -1,11 +1,11 @@
-import { basename, join } from 'node:path';
+import { basename, join } from '@std/path';
 import { program } from 'commander';
-import { red } from 'ansi-colors';
-import { handleMain } from './utils';
-import { Recipes } from './utils/Recipes';
+import { red } from '@std/fmt/colors';;
+import { handleMain } from './utils/index.ts';
+import { Recipes } from './utils/Recipes.ts';
 
 program
-  .name(basename(__filename, '.ts'))
+  .name(basename(import.meta.filename!, '.ts'))
   .description('Find recipe')
   .option('-i, --input <inputFile>', 'path to recipes.xml')
   .option('-o, --output <outputDir>', 'path to the folder where items.json is created')

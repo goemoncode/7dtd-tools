@@ -1,36 +1,38 @@
 // https://github.com/kui/7dtd-map/blob/master/tools/lib/tts-parser.ts
 
-import { createReadStream } from 'node:fs';
-import { ByteReader } from './ByteReader';
-import { BlockId } from './parseNim';
+import { ByteReader } from './ByteReader.ts';
+import type { BlockId } from './parseNim.ts';
 
 // TTS format: https://7daystodie.gamepedia.com/Prefabs#TTS
 const KNOWN_VERSIONS = [13, 15, 16, 17, 18, 19];
 const BLOCK_ID_BIT_MASK = 0b0111111111111111;
 
 export async function parseTts(ttsFileName: string): Promise<Tts> {
-  const stream = createReadStream(ttsFileName);
-  const r = new ByteReader(stream);
+  const file = await Deno.open(ttsFileName);
+  const reader = new ByteReader(file.readable);
+  let fileFormat: string;
+  let version: number;
+  let dim: { x: number; y: number; z: number };
+  let blockIds: Uint32Array;
+  try {
+    fileFormat = new TextDecoder().decode(await reader.read(4));
+    version = new DataView((await reader.read(4)).buffer).getUint32(0, true);
+    dim = {
+      x: new DataView((await reader.read(2)).buffer).getUint16(0, true),
+      y: new DataView((await reader.read(2)).buffer).getUint16(0, true),
+      z: new DataView((await reader.read(2)).buffer).getUint16(0, true),
+    };
 
-  // Header
-  const fileFormat = (await r.read(4)).toString();
-  const version = (await r.read(4)).readUInt32LE();
-  const dim = {
-    x: (await r.read(2)).readUInt16LE(),
-    y: (await r.read(2)).readUInt16LE(),
-    z: (await r.read(2)).readUInt16LE(),
-  };
-
-  // Block data
-  const blocksNum = dim.x * dim.y * dim.z;
-  const blockIds = new Uint32Array(blocksNum);
-  for (let i = 0; i < blocksNum; i++) {
-    const blockData = (await r.read(4)).readInt32LE();
-    blockIds[i] = blockData & BLOCK_ID_BIT_MASK;
+    const blocksNum = dim.x * dim.y * dim.z;
+    blockIds = new Uint32Array(blocksNum);
+    for (let i = 0; i < blocksNum; i++) {
+      const blockData = new DataView((await reader.read(4)).buffer).getInt32(0, true);
+      blockIds[i] = blockData & BLOCK_ID_BIT_MASK;
+    }
+  } finally {
+    reader.close();
+    file.close();
   }
-
-  // End
-  stream.close();
 
   if (fileFormat !== 'tts\x00')
     throw Error(`Unexpected file prefix: filename=${ttsFileName}, format=${fileFormat}`);

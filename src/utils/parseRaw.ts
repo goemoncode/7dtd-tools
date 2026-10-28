@@ -1,9 +1,10 @@
-import { createWriteStream } from 'node:fs';
-import { readFile } from 'node:fs/promises';
 import { PNG } from 'pngjs';
 
 export class DTM {
-  constructor(private raw: Buffer, private size = Math.sqrt(raw.length / 2)) {
+  constructor(
+    private raw: Uint8Array,
+    private size = Math.sqrt(raw.length / 2),
+  ) {
     if (raw.length % 2 !== 0) {
       throw Error(`Invalid raw data format: dataLength=${raw.length}`);
     }
@@ -13,7 +14,7 @@ export class DTM {
   }
 
   static async load(srcFileName: string) {
-    const raw = await readFile(srcFileName);
+    const raw = await Deno.readFile(srcFileName);
     return new DTM(raw);
   }
 
@@ -35,15 +36,15 @@ export class DTM {
   }
 
   async saveAsPng(dstFileName: string) {
-    const png = this.toPng();
-    await new Promise((resolve, reject) => {
-      png.pack().pipe(createWriteStream(dstFileName)).on('finish', resolve).on('error', reject);
-    });
+    await Deno.writeFile(dstFileName, PNG.sync.write(this.toPng()));
   }
 }
 
 export class Stamp {
-  constructor(private raw: Buffer, private size = Math.sqrt(raw.length / 6)) {
+  constructor(
+    private raw: Uint8Array,
+    private size = Math.sqrt(raw.length / 6),
+  ) {
     if (raw.length % 6 !== 0) {
       throw Error(`Invalid raw data format: dataLength=${raw.length}`);
     }
@@ -53,7 +54,7 @@ export class Stamp {
   }
 
   static async load(srcFileName: string) {
-    const raw = await readFile(srcFileName);
+    const raw = await Deno.readFile(srcFileName);
     return new Stamp(raw);
   }
 
@@ -76,9 +77,6 @@ export class Stamp {
   }
 
   async saveAsPng(dstFileName: string) {
-    const png = this.toPng();
-    await new Promise((resolve, reject) => {
-      png.pack().pipe(createWriteStream(dstFileName)).on('finish', resolve).on('error', reject);
-    });
+    await Deno.writeFile(dstFileName, PNG.sync.write(this.toPng()));
   }
 }

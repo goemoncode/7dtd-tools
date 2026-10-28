@@ -6,21 +6,32 @@ In addition, the prefab data files with version 3.0 have already been generated 
 
 - https://goemoncode-7dtd-tools.onrender.com/
 
-## Before run script
+## Requirements
 
-Set 7dtd game folder to the STEAMAPPS_GAME_DIR environment variable, or create .env.local in the project root and set.
+- Deno 2
+- The 7 Days to Die game files
 
-```bash
+Set the `STEAMAPPS_GAME_DIR` environment variable or create `.env.local` in the project root:
+
+```env
 STEAMAPPS_GAME_DIR="<path to 7dtd game folder>"
 ```
 
 ## Generate prefab data files for vanilla
 
+```sh
+deno task prebuild
+deno task genl10n
+deno task genindex
 ```
-yarn run-ts prebuild
-yarn run-ts genl10n
-yarn run-ts genindex
+
+## Development server
+
+```sh
+deno task dev
 ```
+
+The server binds to `127.0.0.1:3000`. Set the `PORT` environment variable to use a different port.
 
 ## Credits
 

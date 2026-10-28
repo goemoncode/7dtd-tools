@@ -1,15 +1,13 @@
-import { basename, join } from 'node:path';
-import { mkdir } from 'node:fs/promises';
+import { basename, join } from '@std/path';
 import { program, Argument } from 'commander';
-import { glob } from 'glob';
-import { handleMain, writeJsonFile } from './utils';
-import { parseL10nTxt, LANGUAGES, Language, Label } from './utils/parseL10nTxt';
+import { glob, handleMain, writeJsonFile } from './utils/index.ts';
+import { parseL10nCsv, LANGUAGES, type Language, type Label } from './utils/parseL10nTxt.ts';
 
-handleMain(async ({ steamAppsGameDir }) => {
-  const defaultInputDir = join(steamAppsGameDir, 'Data', 'Config');
+handleMain(async ({ gameConfigDir }) => {
+  const defaultInputDir = gameConfigDir;
   const defaultOutputDir = join('public', 'prefabs');
   program
-    .name(basename(__filename, '.ts'))
+    .name(basename(import.meta.filename!, '.ts'))
     .description('Generate l10n files for 7dtd-map')
     .addArgument(
       new Argument('<inputDir>', 'The path to the folder that contains Localization.csv').argOptional().default('', defaultInputDir)
@@ -27,11 +25,11 @@ handleMain(async ({ steamAppsGameDir }) => {
 
 async function main(inputDir: string, outputDir: string) {
   const globPattern = join(inputDir, '**', 'Localization.csv');
-  const txtFiles = await glob(globPattern, { windowsPathsNoEscape: true });
-  const labelMaps = await Promise.all(txtFiles.map((file) => parseL10nTxt(file)));
+  const txtFiles = await glob(globPattern);
+  const labelMaps = await Promise.all(txtFiles.map((file) => parseL10nCsv(file)));
   const labels = labelMaps.map((map) => Object.fromEntries(map)).reduce((a, c) => Object.assign(a, c), {});
   const langDir = join(outputDir, 'l10n');
-  await mkdir(langDir, { recursive: true });
+  await Deno.mkdir(langDir, { recursive: true });
   for (const lang of LANGUAGES) {
     console.group(lang);
     await extract(labels, ['blocks', 'POI'], lang, join(langDir, lang + '.json'));

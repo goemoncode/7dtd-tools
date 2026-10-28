@@ -1,13 +1,12 @@
-import { basename, extname, join } from 'node:path';
-import { glob } from 'glob';
-import { handleMain } from './utils';
-import { Stamp } from './utils/parseRaw';
+import { basename, extname, join } from '@std/path';
+import { glob, handleMain } from './utils/index.ts';
+import { Stamp } from './utils/parseRaw.ts';
 
 handleMain(async ({ gameDataDir }) => {
   const inputDir = join(gameDataDir, 'Stamps');
   const outputDir = join('public', 'Stamps');
   const globPattern = join(inputDir, '*.raw');
-  const rawFiles = await glob(globPattern, { windowsPathsNoEscape: true });
+  const rawFiles = await glob(globPattern);
   await Promise.all(rawFiles.map((file) => main(file, outputDir)));
 });
 

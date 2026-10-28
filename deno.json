@@ -1,0 +1,33 @@
+{
+  "name": "7dtd-tools",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": "./src/prebuild.ts",
+  "tasks": {
+    "dev": "deno run --allow-net=127.0.0.1 --allow-read=public --allow-env=PORT src/dev.ts",
+    "run-ts": "deno run --allow-all --env-file=.env.local",
+    "prebuild": "deno run --allow-all --env-file=.env.local src/prebuild.ts",
+    "genindex": "deno run --allow-all --env-file=.env.local src/genindex.ts",
+    "genl10n": "deno run --allow-all --env-file=.env.local src/genl10n.ts",
+    "findprefab": "deno run --allow-all --env-file=.env.local src/findprefab.ts",
+    "findlootitem": "deno run --allow-all --env-file=.env.local src/findlootitem.ts",
+    "lint": "deno lint"
+  },
+  "imports": {
+    "@libs/xml": "jsr:@libs/xml@^8.0.0",
+    "@std/fmt": "jsr:@std/fmt@^1.0.0",
+    "@std/fs": "jsr:@std/fs@^1.0.0",
+    "@std/http/file-server": "jsr:@std/http@^1.1.4/file-server",
+    "@std/jsonc": "jsr:@std/jsonc@^1.0.0",
+    "@std/path": "jsr:@std/path@^1.1.4",
+    "@cliffy/command": "jsr:@cliffy/command@^1.0.1",
+    "cli-progress": "npm:cli-progress@^3.12.0",
+    "commander": "npm:commander@^11.1.0",
+    "csv-parse": "npm:csv-parse@^5.5.6",
+    "csv-stringify": "npm:csv-stringify@^6.3.5",
+    "pngjs": "npm:pngjs@^7.0.0",
+    "xml-formatter": "npm:xml-formatter@^3.5.0",
+    "xml2js": "npm:xml2js@^0.6.2"
+  },
+  "nodeModulesDir": "auto"
+}

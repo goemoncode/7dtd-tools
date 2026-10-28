@@ -1,12 +1,12 @@
-import { parseXml } from './parseXml';
+import { parseXml } from './parseXml.ts';
 
-interface RecipesXmlRoot {
+interface RecipesXml {
   recipes: {
-    recipe: RecipesXmlElement[];
+    recipe: RecipeXml[];
   };
 }
 
-interface RecipesXmlElement {
+interface RecipeXml {
   $: {
     name: string;
     count: number;
@@ -23,7 +23,7 @@ interface RecipesXmlElement {
   ingredient?: RecipesXmlIngredient[];
 }
 
-interface WildcardForgeCategory {}
+type WildcardForgeCategory = Record<string, unknown>;
 
 interface RecipesXmlIngredient {
   $: { name: string; count: number };
@@ -49,7 +49,7 @@ export class Recipes {
   constructor(public recipes: Recipe[]) {}
 
   static async loadFromXml(recipesXmlFileName: string): Promise<Recipes> {
-    const recipesXml = await parseXml<RecipesXmlRoot>(recipesXmlFileName);
+    const recipesXml = await parseXml<RecipesXml>(recipesXmlFileName);
     const recipes = recipesXml.recipes.recipe.map<Recipe>(({ $, ingredient }) => {
       const ingredients = ingredient?.map<Ingredient>(({ $ }) => ({ name: $.name, count: $.count })) ?? [];
       return { name: $.name, count: $.count, tags: $.tags?.split(',').map((p) => p.trim()), ingredients };

@@ -1,17 +1,14 @@
-import { existsSync, mkdirSync, statSync } from 'node:fs';
-import { copyFile, writeFile } from 'node:fs/promises';
-import { join, basename, dirname } from 'node:path';
+import { basename, dirname, join } from '@std/path';
 import { program, Argument } from 'commander';
-import { blue, cyan, red } from 'ansi-colors';
-import { glob } from 'glob';
+import { blue, cyan } from '@std/fmt/colors';
 import { stringify as csvStringify } from 'csv-stringify/sync';
-import { handleMain } from './utils';
-import { parseTts } from './utils/parseTts';
-import { parseNim } from './utils/parseNim';
-import { BlocksUsedCsv } from './utils/BlocksUsed';
+import { consoleGroup, fileExists, glob, handleMain } from './utils/index.ts';
+import { parseTts } from './utils/parseTts.ts';
+import { parseNim } from './utils/parseNim.ts';
+import type { BlocksUsedCsv } from './utils/BlocksUsed.ts';
 
 handleMain(async ({ steamAppsGameDir }) => {
-  program.name(basename(__filename, '.ts')).description('Prebuild prefab files for 7dtd-map');
+  program.name(basename(import.meta.filename!, '.ts')).description('Prebuild prefab files for 7dtd-map');
 
   const defaultInputDir = join(steamAppsGameDir, 'Data', 'Prefabs');
   const defaultOutputDir = join('public', 'Prefabs');
@@ -41,14 +38,14 @@ handleMain(async ({ steamAppsGameDir }) => {
       const inputModsDir = args[0] || defaultInputModsDir;
       const outputModsDir = args[1] || defaultOutputModsDir;
       const globPattern = join(inputModsDir, '**', 'ModInfo.xml');
-      const modInfoFiles = await glob(globPattern, { windowsPathsNoEscape: true });
+      const modInfoFiles = await glob(globPattern);
       for (const file of modInfoFiles) {
         const modRootDir = dirname(file);
         const inputDir = join(modRootDir, 'Prefabs');
-        if (existsSync(inputDir)) {
+        if (await fileExists(inputDir)) {
           const modName = basename(modRootDir);
           const outputModDir = join(outputModsDir, modName.replace(/ /g, '_').replace(/'/g, ''));
-          mkdirSync(outputModDir, { recursive: true });
+          await Deno.mkdir(outputModDir, { recursive: true });
           await copyFileWithLog(file, join(outputModDir, basename(file)));
           const outputDir = join(outputModDir, 'Prefabs');
           await setupPrefabFiles(inputDir, outputDir);
@@ -61,26 +58,28 @@ handleMain(async ({ steamAppsGameDir }) => {
 
 async function setupPrefabFiles(inputDir: string, outputDir: string) {
   const globPattern = join(inputDir, '**', '*.xml');
-  const files = await glob(globPattern, { windowsPathsNoEscape: true });
+  const files = await glob(globPattern);
   let processed = 0;
   for (const xmlFileName of files) {
-    console.group(`[${String(++processed).padStart(5, ' ')}/${String(files.length).padStart(5, ' ')}] %s`, xmlFileName);
+    const baseName = basename(xmlFileName, '.xml');
+    if (baseName.endsWith('_signs')) continue;
+
+    using _ = consoleGroup(`[${String(++processed).padStart(5, ' ')}/${String(files.length).padStart(5, ' ')}] ${xmlFileName}`);
+
     const folderDir = dirname(xmlFileName);
     const folderName = inputDir !== folderDir ? basename(folderDir) : '';
-    const baseName = basename(xmlFileName, '.xml');
+    await Deno.mkdir(join(outputDir, folderName), { recursive: true });
 
     const jpgFileName = xmlFileName.replace(/\.xml$/i, '.jpg');
     const nimFileName = xmlFileName.replace(/\.xml$/i, '.blocks.nim');
     const ttsFileName = xmlFileName.replace(/\.xml$/i, '.tts');
 
-    mkdirSync(join(outputDir, folderName), { recursive: true });
-
-    if (!existsSync(nimFileName)) {
-      console.log(blue('File not found: %s'), nimFileName);
+    if (!await fileExists(nimFileName)) {
+      console.log(blue(`File not found: ${nimFileName}`));
       continue;
     }
-    if (!existsSync(ttsFileName)) {
-      console.log(blue('File not found: %s'), ttsFileName);
+    if (!await fileExists(ttsFileName)) {
+      console.log(blue(`File not found: ${ttsFileName}`));
       continue;
     }
 
@@ -88,32 +87,30 @@ async function setupPrefabFiles(inputDir: string, outputDir: string) {
     await copyFileWithLog(jpgFileName, join(outputDir, folderName, baseName + '.jpg'));
 
     const csvFileName = join(outputDir, folderName, baseName + '.csv');
-    if (existsSync(csvFileName)) {
-      console.log(blue('File already exists: %s'), csvFileName);
+    if (await fileExists(csvFileName)) {
+      console.log(blue(`File already exists: ${csvFileName}`));
     } else {
       const [tts, blocks] = await Promise.all([parseTts(ttsFileName), parseNim(nimFileName)]);
       const rows = Array.from(blocks)
         .filter(([id]) => id > 0 && tts.blockNums.has(id))
         .map(([id, name]) => ({ id, name, count: tts.blockNums.get(id)! }) as BlocksUsedCsv);
       const csvText = csvStringify(rows, { header: true });
-      await writeFile(csvFileName, csvText);
-      console.log(cyan('File created: %s'), csvFileName);
+      await Deno.writeTextFile(csvFileName, csvText);
+      console.log(cyan(`File created: ${csvFileName}`));
     }
-    console.groupEnd();
   }
 }
 
 async function copyFileWithLog(src: string, dest: string) {
-  try {
-    if (!existsSync(src)) {
-      console.log(blue('File not found: %s'), src);
-    } else if (!existsSync(dest) || statSync(src).mtimeMs !== statSync(dest).mtimeMs) {
-      await copyFile(src, dest);
-      console.log(cyan('File copied: %s'), dest);
-    } else {
-      console.log(blue('File not modified: %s'), dest);
-    }
-  } catch {
-    console.error(red('File could not be copied: %s'), src);
+  if (!await fileExists(src)) {
+    console.log(blue(`File not found: ${src}`));
+  } else if (
+    !await fileExists(dest) ||
+    (await Deno.stat(src)).mtime?.getTime() !== (await Deno.stat(dest)).mtime?.getTime()
+  ) {
+    await Deno.copyFile(src, dest);
+    console.log(cyan(`File copied: ${dest}`));
+  } else {
+    console.log(blue(`File not modified: ${dest}`));
   }
 }

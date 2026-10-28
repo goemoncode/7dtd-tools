@@ -1,25 +1,32 @@
-import { ReadStream } from 'node:fs';
-
 export class ByteReader {
-  iter: AsyncIterator<number>;
+  #reader: ReadableStreamDefaultReader<Uint8Array>;
+  #chunk: Uint8Array<ArrayBufferLike> = new Uint8Array();
+  #chunkOffset = 0;
 
-  constructor(stream: ReadStream) {
-    this.iter = (async function* () {
-      for await (const c of stream) {
-        for (const b of c as Buffer) {
-          yield b;
-        }
-      }
-    })();
+  constructor(stream: ReadableStream<Uint8Array>) {
+    this.#reader = stream.getReader();
   }
 
-  async read(bytesNum: number): Promise<Buffer> {
-    const b = Buffer.alloc(bytesNum);
-    for (let i = 0; i < bytesNum; i++) {
-      const r = await this.iter.next();
-      if (r.done) throw Error(`Unexpeted byte length: ${bytesNum}`);
-      b[i] = r.value;
+  async read(bytesNum: number): Promise<Uint8Array> {
+    const bytes = new Uint8Array(bytesNum);
+    let bytesRead = 0;
+    while (bytesRead < bytesNum) {
+      if (this.#chunkOffset >= this.#chunk.length) {
+        const result = await this.#reader.read();
+        if (result.done) throw Error(`Unexpected byte length: ${bytesNum}`);
+        this.#chunk = result.value;
+        this.#chunkOffset = 0;
+      }
+
+      const length = Math.min(bytesNum - bytesRead, this.#chunk.length - this.#chunkOffset);
+      bytes.set(this.#chunk.subarray(this.#chunkOffset, this.#chunkOffset + length), bytesRead);
+      bytesRead += length;
+      this.#chunkOffset += length;
     }
-    return b;
+    return bytes;
+  }
+
+  close() {
+    this.#reader.releaseLock();
   }
 }

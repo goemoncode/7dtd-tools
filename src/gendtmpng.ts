@@ -1,13 +1,12 @@
-import { basename, dirname, extname, join } from 'node:path';
-import { statSync } from 'node:fs';
+import { basename, dirname, extname, join } from '@std/path';
 import { program } from 'commander';
-import { red } from 'ansi-colors';
-import { handleMain } from './utils';
-import { DTM } from './utils/parseRaw';
+import { red } from '@std/fmt/colors';;
+import { handleMain } from './utils/index.ts';
+import { DTM } from './utils/parseRaw.ts';
 
 handleMain(async () => {
   program
-    .name(basename(__filename, '.ts'))
+    .name(basename(import.meta.filename!, '.ts'))
     .description('Generate dtm.png from dtm.raw')
     .argument('<input>', 'The path to dtm.raw')
     .configureOutput({ outputError: (str, write) => write(red(str)) })
@@ -20,7 +19,7 @@ async function main(srcFileName: string) {
   const dtm = await DTM.load(srcFileName);
   const dstFileName = join(dirname(srcFileName), basename(srcFileName, extname(srcFileName)) + '.png');
   await dtm.saveAsPng(dstFileName);
-  const srcSize = statSync(srcFileName).size;
-  const dstSize = statSync(dstFileName).size;
+  const srcSize = (await Deno.stat(srcFileName)).size;
+  const dstSize = (await Deno.stat(dstFileName)).size;
   console.log('Compress: %d (%d / %d)', (dstSize / srcSize) * 100, dstSize, srcSize);
 }

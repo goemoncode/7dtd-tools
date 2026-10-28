@@ -14,3 +14,9 @@ public/*
 !public/worlds
 public/worlds/*
 !public/worlds/Navezgane
+
+# Deno
+.deno/
+
+# VS Code (Deno extension)
+.vscode/settings.json

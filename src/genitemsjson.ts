@@ -1,11 +1,11 @@
-import { basename, join } from 'node:path';
+import { basename, join } from '@std/path';
 import { program } from 'commander';
-import { red } from 'ansi-colors';
-import { handleMain } from './utils';
-import { Items } from './utils/Items';
+import { red } from '@std/fmt/colors';;
+import { handleMain } from './utils/index.ts';
+import { Items } from './utils/Items.ts';
 
 program
-  .name(basename(__filename, '.ts'))
+  .name(basename(import.meta.filename!, '.ts'))
   .description('Generate items.json')
   .option('-i, --input <inputFile>', 'path to items.xml')
   .option('-o, --output <outputDir>', 'path to the folder where items.json is created')

@@ -1,41 +1,24 @@
-import { parseXml } from './parseXml';
+import { parseXml } from './parseXml.ts';
+import { isXmlValueProperty, type XmlProperty } from "./Xml.ts";
 
-interface ItemsXmlRoot {
+interface ItemsXml {
   items: {
-    item: ItemsXmlElement[];
+    item: ItemXml[];
   };
 }
 
-interface ItemsXmlElement {
+interface ItemXml {
   $: { name: string };
-  property: ItemsXmlProperty[];
+  property: XmlProperty[];
   // effect_group
 }
 
-type ItemsXmlProperty = ItemsXmlValueProperty | ItemsXmlClassProperty;
-
-interface ItemsXmlValueProperty {
-  $: { name: string; value: string; param1?: string };
-}
-
-interface ItemsXmlClassProperty {
-  $: { class: string };
-  property: ItemsXmlValueProperty[];
-  // requirement
-}
-
-function isValueProperty(value: ItemsXmlProperty): value is ItemsXmlValueProperty {
-  return 'name' in value.$;
-}
-
-type ItemName = string;
-
 export interface Item {
-  name: ItemName;
+  name: string;
   properties: ItemProperties;
   tags?: string[];
-  parentItem?: Item;
-  excludedPropNames?: string[];
+  extendsFrom?: Item;
+  omitProps?: string[];
 }
 
 export interface ItemProperties {
@@ -51,18 +34,18 @@ export class Items {
   constructor(public items: Item[]) {}
 
   static async loadFromXml(itemsXmlFileName: string): Promise<Items> {
-    const itemsXml = await parseXml<ItemsXmlRoot>(itemsXmlFileName);
+    const itemsXml = await parseXml<ItemsXml>(itemsXmlFileName);
     const items = itemsXml.items.item.map<Item>(({ $, property }) => {
-      const properties = Object.fromEntries(new Map(property.filter(isValueProperty).map(({ $ }) => [$.name, $])));
+      const properties = Object.fromEntries(new Map(property.filter(isXmlValueProperty).map(({ $ }) => [$.name, $])));
       return { name: $.name, properties, tags: properties.Tags?.value.split(',').map((p) => p.trim()) ?? [] };
     });
-    const itemsMap = new Map<ItemName, Item>(items.map((x) => [x.name, x]));
+    const itemsMap = new Map<string, Item>(items.map((x) => [x.name, x]));
     for (const item of items.values()) {
       const extendsProp = item.properties.Extends;
       if (extendsProp) {
-        item.excludedPropNames = extendsProp.param1?.split(',').map((p) => p.trim()) ?? [];
-        item.parentItem = itemsMap.get(extendsProp.value?.trim());
-        if (!item.parentItem) {
+        item.extendsFrom = itemsMap.get(extendsProp.value?.trim());
+        item.omitProps = extendsProp.param1?.split(',').map((p) => p.trim()) ?? [];
+        if (!item.extendsFrom) {
           console.warn('Unknown parent item: %d', extendsProp.value);
         }
       }
@@ -96,9 +79,9 @@ export class Items {
   private getPropertyExtended(item: Item, propertyName: string): ItemPropertyValue | null {
     const prop = item.properties[propertyName];
     if (prop) return prop;
-    const { parentItem, excludedPropNames } = item;
-    if (parentItem && !(excludedPropNames ?? []).includes(propertyName)) {
-      return this.getPropertyExtended(parentItem, propertyName);
+    const { extendsFrom, omitProps } = item;
+    if (extendsFrom && !(omitProps ?? []).includes(propertyName)) {
+      return this.getPropertyExtended(extendsFrom, propertyName);
     } else {
       return null;
     }
