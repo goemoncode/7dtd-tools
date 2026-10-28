@@ -164,7 +164,6 @@ id,name,count
 20419,palletEmpty,1
 20420,palletEmptyStack,2
 20426,metalPipeStackLoose,1
-20649,cntCollapsedWorkbench,1
 20697,ironDoorGrey,1
 20715,vaultDoor01,1
 20907,commercialGlassDoor,1
@@ -254,6 +253,7 @@ id,name,count
 24675,treeMediumRandomHelper,1
 24676,treeLargeRandomHelper,2
 24801,cntStoreCratesRandomLootHelper,1
+24804,cntWorkbenchBustedRandomLootHelper,1
 24807,questRallyMarker,1
 24815,sleeperSit,4
 24816,sleeperBack,2

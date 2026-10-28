@@ -376,16 +376,16 @@ id,name,count
 18852,newspaperDecor01,8
 18853,newspaperDecor02,6
 18854,newspaperDecor03,28
-18855,newspaperDecor04,16
+18855,newspaperDecor04,19
 18856,rubbishDecor01,9
 18857,rubbishDecor02,7
-18858,rubbishDecor03,4
+18858,rubbishDecor03,6
 18859,rubbishDecor04,4
 18860,rubbishDecor05,73
 18861,rubbishDecor06,8
 18862,rubbishDecor08,9
 18863,rubbishDecor09,4
-18864,rubbishDecor10,17
+18864,rubbishDecor10,18
 18865,rubbishDecor11,16
 18866,rubbishDecor12,10
 18867,rubbishDecor13,8
@@ -637,7 +637,6 @@ id,name,count
 23876,signMiscStair,11
 23877,signMiscSurveilledArea,3
 23888,signBathroomSignUnisexWallMount,6
-23952,signDecalWood1x1,7
 24038,signDecalCorrugatedMetal1x1,3
 24044,signDecalCorrugatedMetal3x1,2
 24051,signDecalCorrugatedMetal5x1,1

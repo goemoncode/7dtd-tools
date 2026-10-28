@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -36,7 +35,7 @@
   <property name="TriggerVolumeTriggers" value="5#6#6" />
   <property name="SVS7" value="sleep 3^sound sleeperspawnmetal^sleep 1^spawn zombieUtilityWorker 1" />
   <property class="Stats">
-    <property name="LightsVolume" value="87686.2" />
+    <property name="LightsVolume" value="87686.23" />
     <property name="TotalVertices" value="1348421" />
     <property name="TotalTriangles" value="571793" />
     <property class="BlockEntities">

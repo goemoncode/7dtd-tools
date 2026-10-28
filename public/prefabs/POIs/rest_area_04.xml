@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="1" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
@@ -32,11 +31,11 @@
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
     <property name="LightsVolume" value="27697" />
-    <property name="TotalVertices" value="499492" />
-    <property name="TotalTriangles" value="193712" />
+    <property name="TotalVertices" value="495730" />
+    <property name="TotalTriangles" value="187646" />
     <property class="BlockEntities">
-      <property name="Vertices" value="439365" />
-      <property name="Triangles" value="149743" />
+      <property name="Vertices" value="435603" />
+      <property name="Triangles" value="143677" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="48731" />
@@ -83,10 +82,10 @@
       <property name="0" value="36, 3, 53" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="23, 2, 36" />
-      <property name="1" value="18, 2, 40" />
-      <property name="2" value="22, 2, 40" />
-      <property name="3" value="20, 2, 34" />
+      <property name="0" value="20, 2, 34" />
+      <property name="1" value="23, 2, 36" />
+      <property name="2" value="18, 2, 40" />
+      <property name="3" value="22, 2, 40" />
     </property>
     <property class="quest_wood">
       <property name="0" value="56, 2, 46" />

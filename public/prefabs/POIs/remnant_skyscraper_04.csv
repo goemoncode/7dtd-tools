@@ -446,7 +446,6 @@ id,name,count
 20474,palletBagBlankSingleFlatWhite,3
 20489,palletBagBlankBaseFullOrange,1
 20629,plantHouseTallPottedBrown,1
-20653,cntCollapsedCementMixer,3
 20656,tableSaw,2
 20907,commercialGlassDoor,1
 20943,commercialDoorV2Grey,20
@@ -559,6 +558,7 @@ id,name,count
 24628,treeDeadTree01,4
 24689,treeForestGrassDiagonal,6
 24801,cntStoreCratesRandomLootHelper,1
+24805,cntCementMixerBustedRandomLootHelper,3
 24815,sleeperSit,13
 24816,sleeperBack,8
 24817,sleeperSideLeft,10

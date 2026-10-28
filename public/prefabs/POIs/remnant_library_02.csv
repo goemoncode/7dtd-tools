@@ -442,7 +442,6 @@ id,name,count
 20628,plantHouseTallPottedWhite,1
 20636,plantHouseTallPottedGrey,2
 20645,cntCollapsedDewCollector,2
-20649,cntCollapsedWorkbench,1
 20687,oldWoodDoor,1
 20875,tallCabinetDoorBlack,4
 20909,commercialGlassDoorDouble,7
@@ -577,6 +576,7 @@ id,name,count
 24746,plantedPotato3Harvest,4
 24747,plantedPotatoDead,4
 24752,plantedChrysanthemum3Harvest,1
+24804,cntWorkbenchBustedRandomLootHelper,1
 24815,sleeperSit,11
 24816,sleeperBack,7
 24817,sleeperSideLeft,4

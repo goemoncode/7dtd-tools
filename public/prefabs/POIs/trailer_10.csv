@@ -149,7 +149,6 @@ id,name,count
 20458,palletBagConcreteCapSml,1
 20552,treePlant02,1
 20571,plantAloePottedCornerGrey,1
-20653,cntCollapsedCementMixer,1
 20728,exteriorHouseDoorWhite,2
 20733,exteriorHouseDoorGreen,1
 20795,exteriorScreenDoornNoFrame,1
@@ -176,5 +175,6 @@ id,name,count
 24381,cntPickupTruck01White,1
 24625,plantShrubRandomHelper,4
 24673,treeSmallRandomHelper,1
+24805,cntCementMixerBustedRandomLootHelper,1
 24818,sleeperSideRight,1
 24820,sleeperIdle,2

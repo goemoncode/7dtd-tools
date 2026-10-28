@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <prefab>
   <property name="CopyAirBlocks" value="True" />
-  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="AllowDecorations" value="False" />
   <property name="Zoning" value="any" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-1" />
@@ -33,12 +33,12 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="LightsVolume" value="42428.26" />
-    <property name="TotalVertices" value="1560396" />
-    <property name="TotalTriangles" value="568468" />
+    <property name="LightsVolume" value="42428.25" />
+    <property name="TotalVertices" value="1559120" />
+    <property name="TotalTriangles" value="568008" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1462026" />
-      <property name="Triangles" value="505495" />
+      <property name="Vertices" value="1460750" />
+      <property name="Triangles" value="505035" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="77968" />
@@ -73,10 +73,10 @@
       <property name="0" value="54, 8, 57" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="55, 5, 53" />
+      <property name="0" value="55, 8, 55" />
       <property name="1" value="53, 1, 55" />
       <property name="2" value="53, 5, 55" />
-      <property name="3" value="55, 8, 55" />
+      <property name="3" value="55, 5, 53" />
     </property>
     <property class="quest_wood">
       <property name="0" value="46, 1, 5" />

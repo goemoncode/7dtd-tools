@@ -1105,7 +1105,6 @@ id,name,count
 20618,plantFernBrown,1
 20634,plantHouseTallPottedBlue,1
 20637,plantHouseTallPottedBlack,3
-20649,cntCollapsedWorkbench,2
 20665,jailDoorDoubleYellow,1
 20683,jailBarsYellow,2
 20698,ironDoorBlack,2
@@ -1455,6 +1454,7 @@ id,name,count
 24696,mushroom02,1
 24699,plantedMushroom3Harvest,2
 24801,cntStoreCratesRandomLootHelper,6
+24804,cntWorkbenchBustedRandomLootHelper,2
 24807,questRallyMarker,1
 24809,cntQuestRandomLootHelper,31
 24811,questGeneratorSmall,1

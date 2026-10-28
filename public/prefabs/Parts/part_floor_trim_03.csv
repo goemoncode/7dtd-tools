@@ -1,0 +1,7 @@
+id,name,count
+7051,concreteShapes:cube,4
+8225,concreteShapes:cubeTrimTriangleInvertedTwoSided,4
+8226,concreteShapes:cubeTrimChevron,4
+8233,concreteShapes:cubeTrimDiagonalHalf,4
+8321,concreteShapes:cubeTrimQuarterCornerInsideTriangle,8
+8345,concreteShapes:cubeTrimQuarterDiagonalCross,1

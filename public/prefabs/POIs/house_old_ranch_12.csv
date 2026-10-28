@@ -226,7 +226,6 @@ id,name,count
 20563,plantAloePottedCornerWhite,1
 20573,plantHousePottedWhite,1
 20628,plantHouseTallPottedWhite,2
-20649,cntCollapsedWorkbench,1
 20656,tableSaw,1
 20750,exteriorHouseDoorSideLightSingleWhite,1
 20796,houseSlidingDoorWhite,1
@@ -290,6 +289,7 @@ id,name,count
 24753,plantedChrysanthemumHarvestRandomHelper,20
 24785,farmPlotBlock,51
 24801,cntStoreCratesRandomLootHelper,3
+24804,cntWorkbenchBustedRandomLootHelper,1
 24807,questRallyMarker,1
 24809,cntQuestRandomLootHelper,7
 24815,sleeperSit,7

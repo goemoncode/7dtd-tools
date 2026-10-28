@@ -340,15 +340,15 @@ id,name,count
 18852,newspaperDecor01,4
 18853,newspaperDecor02,4
 18854,newspaperDecor03,22
-18855,newspaperDecor04,9
+18855,newspaperDecor04,10
 18856,rubbishDecor01,7
 18857,rubbishDecor02,7
-18858,rubbishDecor03,3
+18858,rubbishDecor03,4
 18859,rubbishDecor04,3
 18860,rubbishDecor05,43
 18862,rubbishDecor08,19
 18863,rubbishDecor09,6
-18864,rubbishDecor10,6
+18864,rubbishDecor10,9
 18865,rubbishDecor11,12
 18866,rubbishDecor12,3
 18867,rubbishDecor13,2
@@ -634,7 +634,6 @@ id,name,count
 23877,signMiscSurveilledArea,3
 23884,signPosterMovieTheater2159,1
 23888,signBathroomSignUnisexWallMount,1
-23952,signDecalWood1x1,8
 23958,signDecalWood3x1,2
 23965,signDecalWood5x1,1
 24099,barbedWireSheet,5

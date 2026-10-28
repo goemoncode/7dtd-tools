@@ -5,7 +5,6 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="1" />
   <property name="QuestTags" value="clear, infested" />
   <property name="TraderArea" value="False" />
@@ -36,6 +35,7 @@
   <property name="PrefabSize" value="42, 26, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
+    <property name="LightsVolume" value="0" />
     <property name="TotalVertices" value="225259" />
     <property name="TotalTriangles" value="100199" />
     <property class="BlockEntities">

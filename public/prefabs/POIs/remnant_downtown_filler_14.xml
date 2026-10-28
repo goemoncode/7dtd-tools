@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -24,11 +23,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
     <property name="LightsVolume" value="1415.561" />
-    <property name="TotalVertices" value="297536" />
-    <property name="TotalTriangles" value="119668" />
+    <property name="TotalVertices" value="294401" />
+    <property name="TotalTriangles" value="114613" />
     <property class="BlockEntities">
-      <property name="Vertices" value="209931" />
-      <property name="Triangles" value="67932" />
+      <property name="Vertices" value="206796" />
+      <property name="Triangles" value="62877" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="83099" />

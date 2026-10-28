@@ -5,7 +5,6 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="3" />
   <property name="TraderArea" value="False" />
   <property name="EditorGroups" value="house new" />

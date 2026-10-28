@@ -3,7 +3,6 @@
   <property name="CopyAirBlocks" value="True" />
   <property name="ExcludeDistantPOIMesh" value="True" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="TraderArea" value="False" />
   <property name="EditorGroups" value="navezgane only" />
   <property name="DifficultyTier" value="0" />

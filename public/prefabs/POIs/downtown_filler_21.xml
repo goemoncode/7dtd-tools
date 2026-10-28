@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="3" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -32,11 +31,11 @@
   <property name="SVS1" value="spawn zombieBiker 1^spawn zombieYo 1" />
   <property class="Stats">
     <property name="LightsVolume" value="6965.5" />
-    <property name="TotalVertices" value="462597" />
-    <property name="TotalTriangles" value="173876" />
+    <property name="TotalVertices" value="461970" />
+    <property name="TotalTriangles" value="172865" />
     <property class="BlockEntities">
-      <property name="Vertices" value="393264" />
-      <property name="Triangles" value="132084" />
+      <property name="Vertices" value="392637" />
+      <property name="Triangles" value="131073" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="66365" />

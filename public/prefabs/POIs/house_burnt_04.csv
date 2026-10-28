@@ -283,7 +283,6 @@ id,name,count
 20458,palletBagConcreteCapSml,1
 20563,plantAloePottedCornerWhite,1
 20628,plantHouseTallPottedWhite,4
-20649,cntCollapsedWorkbench,1
 20750,exteriorHouseDoorSideLightSingleWhite,1
 20772,exteriorHouseDoorOldWhite,1
 20796,houseSlidingDoorWhite,2
@@ -356,6 +355,7 @@ id,name,count
 24730,plantedGoldenrodHarvestRandomHelper,2
 24753,plantedChrysanthemumHarvestRandomHelper,2
 24801,cntStoreCratesRandomLootHelper,2
+24804,cntWorkbenchBustedRandomLootHelper,1
 24807,questRallyMarker,1
 24809,cntQuestRandomLootHelper,5
 24815,sleeperSit,9

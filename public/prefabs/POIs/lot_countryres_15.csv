@@ -76,7 +76,6 @@ id,name,count
 20452,palletBagSandSingleFlat,2
 20458,palletBagConcreteCapSml,1
 20460,palletBagConcreteSingleFlat,1
-20653,cntCollapsedCementMixer,2
 21941,woodChair1Broken,1
 22383,cntToolBoxClosedRed,1
 22389,cntToolBoxRandomLootHelperRed,1
@@ -102,5 +101,6 @@ id,name,count
 24625,plantShrubRandomHelper,7
 24626,plantHangingIvy01,1
 24627,plantHangingIvy02,8
+24805,cntCementMixerBustedRandomLootHelper,2
 24815,sleeperSit,4
 24820,sleeperIdle,1

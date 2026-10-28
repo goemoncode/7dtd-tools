@@ -169,7 +169,6 @@ id,name,count
 20415,palletTarpTileRandomHelper,1
 20595,plantCherryBlossomWhite,1
 20628,plantHouseTallPottedWhite,6
-20649,cntCollapsedWorkbench,1
 20751,exteriorHouseDoorSideLightSingleBrown,1
 20796,houseSlidingDoorWhite,1
 20822,interiorHouseDoorWhite,10
@@ -215,6 +214,7 @@ id,name,count
 24753,plantedChrysanthemumHarvestRandomHelper,7
 24785,farmPlotBlock,10
 24801,cntStoreCratesRandomLootHelper,2
+24804,cntWorkbenchBustedRandomLootHelper,1
 24807,questRallyMarker,1
 24809,cntQuestRandomLootHelper,6
 24815,sleeperSit,3

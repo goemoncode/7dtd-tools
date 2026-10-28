@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="1" />
   <property name="QuestTags" value="clear, infested, defense" />
   <property name="ShowQuestClearCount" value="1" />
@@ -32,6 +31,7 @@
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
+    <property name="LightsVolume" value="0" />
     <property name="TotalVertices" value="106259" />
     <property name="TotalTriangles" value="58504" />
     <property class="BlockEntities">

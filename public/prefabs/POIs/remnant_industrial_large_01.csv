@@ -520,8 +520,6 @@ id,name,count
 20533,palletBagBlankBaseMedBlack,1
 20534,palletBagBlankCapMedBlack,1
 20536,palletBagBlankSingleBentBlack,1
-20649,cntCollapsedWorkbench,1
-20653,cntCollapsedCementMixer,4
 20656,tableSaw,1
 20662,jailDoorGrey,1
 20943,commercialDoorV2Grey,3
@@ -640,6 +638,8 @@ id,name,count
 24627,plantHangingIvy02,3
 24628,treeDeadTree01,2
 24689,treeForestGrassDiagonal,38
+24804,cntWorkbenchBustedRandomLootHelper,1
+24805,cntCementMixerBustedRandomLootHelper,4
 24815,sleeperSit,9
 24817,sleeperSideLeft,3
 24818,sleeperSideRight,3

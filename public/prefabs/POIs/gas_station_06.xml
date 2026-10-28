@@ -7,13 +7,12 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="0" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-2" />
   <property name="SleeperVolumeSize" value="11, 4, 11#19, 8, 14" />
   <property name="SleeperVolumeStart" value="16, 2, 18#12, 2, 29" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,0,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,0,1,GroupGenericZombie,0,1" />
   <property name="SleeperIsLootVolume" value="False,False" />
   <property name="SleeperIsBossVolume" value="False,False" />
   <property name="QuestTags" value="clear" />
@@ -22,10 +21,9 @@
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False" />
-  <property name="Tags" value="countrytown,rural,diagonal" />
+  <property name="Tags" value="countrytown, rural, diagonal" />
   <property name="ThemeTags" value="stationGas" />
   <property name="ThemeDistance" value="300" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="POIMarkerSize" value="8, 13, 3#8, 13, 3#8, 13, 2#8, 13, 2" />
   <property name="POIMarkerStart" value="4, 1, -3#30, 1, -3#4, 1, -2#30, 1, -2" />
   <property name="POIMarkerGroup" value="driveway,driveway2,driveway3,driveway4" />
@@ -37,8 +35,9 @@
   <property name="PrefabSize" value="42, 15, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
-    <property name="TotalVertices" value="244581" />
-    <property name="TotalTriangles" value="104192" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="239627" />
+    <property name="TotalTriangles" value="96380" />
     <property class="BlockEntities">
       <property name="Vertices" value="218929" />
       <property name="Triangles" value="84609" />
@@ -66,10 +65,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="4954" />
-      <property name="Triangles" value="7812" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

@@ -6,7 +6,6 @@
   <property name="CopyAirBlocks" value="True" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="TraderArea" value="False" />
   <property name="SleeperVolumeSize" value="11, 4, 5#7, 4, 8#11, 5, 3#6, 4, 7#2, 3, 3#5, 4, 8#7, 2, 3" />
   <property name="SleeperVolumeStart" value="14, 3, 21#14, 8, 18#14, 13, 18#19, 3, 13#19, 3, 17#14, 3, 13#14, 13, 21" />
@@ -35,6 +34,7 @@
   <property name="PrefabSize" value="42, 20, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
+    <property name="LightsVolume" value="0" />
     <property name="TotalVertices" value="294992" />
     <property name="TotalTriangles" value="126061" />
     <property class="BlockEntities">

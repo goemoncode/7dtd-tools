@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <prefab>
   <property name="CopyAirBlocks" value="True" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="Zoning" value="industrial" />
   <property name="YOffset" value="-6" />
   <property name="RotationToFaceNorth" value="2" />
@@ -67,12 +66,12 @@
   <property name="SVS5" value="spawn GroupGenericZombie 1^sleep 1^spawn GroupZomBadassOnly 1" />
   <property name="SVS2" value="spawn ZomUtilityWorker 1^waitalive 0^spawn ZomUtilityWorker 1" />
   <property class="Stats">
-    <property name="LightsVolume" value="80593.79" />
-    <property name="TotalVertices" value="3688930" />
-    <property name="TotalTriangles" value="1488704" />
+    <property name="LightsVolume" value="80593.77" />
+    <property name="TotalVertices" value="3655911" />
+    <property name="TotalTriangles" value="1440067" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2615202" />
-      <property name="Triangles" value="814205" />
+      <property name="Vertices" value="2582183" />
+      <property name="Triangles" value="765568" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="995826" />

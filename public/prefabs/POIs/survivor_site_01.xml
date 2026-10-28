@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="1" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -14,7 +13,7 @@
   <property name="SleeperVolumeSize" value="1, 3, 2#2, 3, 12#7, 4, 5#5, 3, 5#5, 3, 8#4, 2, 3#7, 3, 8#6, 3, 6#4, 3, 8#7, 3, 2#2, 3, 2" />
   <property name="SleeperVolumeStart" value="8, 1, 3#20, 1, 3#7, 1, 9#9, 1, 2#15, 1, 7#16, 7, 17#3, 1, 14#10, 1, 15#3, 1, 6#7, 1, 7#14, 1, 4" />
   <property name="SleeperVolumeGroupId" value="4,4,1,1,2,3,5,2,1,4,4" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,0,1,S_-Group_Generic_Zombie,1,1,S_Zom_Burnt,1,1,S_-Group_Generic_Zombie,1,1,zombieJanitor,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,zombieSkateboarder,0,1,zombieDarlene,0,1,S_-Group_Generic_Zombie,0,0,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,0,1,GroupGenericZombie,1,1,ZomBurnt,1,1,GroupGenericZombie,1,1,zombieJanitor,1,1,GroupGenericZombie,2,2,GroupGenericZombie,1,1,zombieSkateboarder,0,1,zombieDarlene,0,1,GroupGenericZombie,0,0,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,2,0,2,0,2,0,2,0" />
@@ -44,8 +43,9 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="170185" />
-    <property name="TotalTriangles" value="68869" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="168619" />
+    <property name="TotalTriangles" value="66145" />
     <property class="BlockEntities">
       <property name="Vertices" value="149104" />
       <property name="Triangles" value="55310" />
@@ -73,10 +73,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1566" />
-      <property name="Triangles" value="2724" />
     </property>
   </property>
 </prefab>

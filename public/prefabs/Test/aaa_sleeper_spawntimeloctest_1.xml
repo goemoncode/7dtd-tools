@@ -3,7 +3,6 @@
   <property name="CopyAirBlocks" value="True" />
   <property name="ExcludeDistantPOIMesh" value="True" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="TraderArea" value="False" />
   <property name="SleeperVolumeSize" value="26, 8, 28#22, 6, 21" />
   <property name="SleeperVolumeStart" value="-3, 0, -3#-3, 6, 4" />

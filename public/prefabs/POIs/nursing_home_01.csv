@@ -408,7 +408,7 @@ id,name,count
 10784,steelShapes:doorTrim0.5m,2
 10787,steelShapes:doorTrim1mOffCenter,1
 10788,steelShapes:doorTrim1mOffCenterCorner,2
-11765,awningShapes:billboardQuarterTrim,2
+11765,awningShapes:billboardQuarterTrim,4
 11766,awningShapes:billboardHalf,22
 11767,awningShapes:billboard,1
 11786,awningShapes:sphere,1
@@ -646,12 +646,12 @@ id,name,count
 18850,glassBrokenCapLeft,8
 18851,glassBrokenCapRight,6
 18852,newspaperDecor01,17
-18853,newspaperDecor02,7
+18853,newspaperDecor02,8
 18854,newspaperDecor03,47
 18855,newspaperDecor04,26
 18856,rubbishDecor01,16
 18857,rubbishDecor02,17
-18858,rubbishDecor03,10
+18858,rubbishDecor03,11
 18859,rubbishDecor04,11
 18860,rubbishDecor05,84
 18862,rubbishDecor08,14
@@ -1221,8 +1221,7 @@ id,name,count
 23890,signBathroomSignWomenWallMount,1
 23892,signBathroomSignMenWallMount,1
 23921,signCanvasWood4x2,1
-23952,signDecalWood1x1,4
-23962,signDecalWood4x2,1
+23952,signDecalWood1x1,1
 23966,signDecalWood5x2,1
 24111,looseBoardsTrapPlate1x1,9
 24120,looseBoardsTrapBlock3x3,1

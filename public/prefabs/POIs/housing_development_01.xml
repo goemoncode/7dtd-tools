@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="4" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="DuplicateRepeatDistance" value="7000" />
@@ -33,11 +32,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #5#6#4# # # # # " />
   <property class="Stats">
     <property name="LightsVolume" value="10957.37" />
-    <property name="TotalVertices" value="1070216" />
-    <property name="TotalTriangles" value="452699" />
+    <property name="TotalVertices" value="1063319" />
+    <property name="TotalTriangles" value="441578" />
     <property class="BlockEntities">
-      <property name="Vertices" value="769773" />
-      <property name="Triangles" value="264991" />
+      <property name="Vertices" value="762876" />
+      <property name="Triangles" value="253870" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="262855" />

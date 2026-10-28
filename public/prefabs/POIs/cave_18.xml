@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="1" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -32,14 +31,15 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="Tags" value="wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="122253" />
-    <property name="TotalTriangles" value="65189" />
+    <property name="LightsVolume" value="19402.48" />
+    <property name="TotalVertices" value="186597" />
+    <property name="TotalTriangles" value="75755" />
     <property class="BlockEntities">
-      <property name="Vertices" value="93479" />
-      <property name="Triangles" value="38401" />
+      <property name="Vertices" value="157785" />
+      <property name="Triangles" value="48955" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="3656" />
+      <property name="Vertices" value="3688" />
       <property name="Triangles" value="1912" />
     </property>
     <property class="ChunkMeshes1">
@@ -59,23 +59,16 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="10142" />
-      <property name="Triangles" value="17388" />
+      <property name="Vertices" value="10148" />
+      <property name="Triangles" value="17400" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="quest_stone_boulder">
-      <property name="0" value="20, 9, 15" />
-      <property name="1" value="13, 18, 20" />
-    </property>
     <property class="challenge_polymers">
       <property name="0" value="19, 18, 15" />
     </property>
     <property class="Rally">
       <property name="0" value="7, 25, 1" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="7, 25, 2" />
     </property>
     <property class="quest_wood">
       <property name="0" value="16, 9, 12" />
@@ -86,6 +79,13 @@
       <property name="5" value="19, 21, 22" />
       <property name="6" value="21, 21, 22" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="7, 25, 2" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="20, 9, 15" />
+      <property name="1" value="13, 18, 20" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="13, 9, 2" />
       <property name="1" value="19, 20, 3" />
@@ -93,10 +93,6 @@
     </property>
     <property class="POILight">
       <property name="0" value="4, 1, 17" />
-      <property name="1" value="3, 7, 18" />
-    </property>
-    <property class="challenge_gore">
-      <property name="0" value="3, 7, 20" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="2, 25, 22" />

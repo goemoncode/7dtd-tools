@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="4" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="Zoning" value="ResidentialNew, Residential, any" />
@@ -37,6 +36,7 @@
   <property name="TriggerVolumeStart" value="65, 10, 61" />
   <property name="TriggerVolumeTriggers" value="9" />
   <property class="Stats">
+    <property name="LightsVolume" value="0" />
     <property name="TotalVertices" value="2075918" />
     <property name="TotalTriangles" value="924552" />
     <property class="BlockEntities">

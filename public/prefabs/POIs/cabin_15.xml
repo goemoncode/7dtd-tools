@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="1" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-3" />
@@ -35,6 +34,7 @@
   <property name="PrefabSize" value="40, 24, 48" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
+    <property name="LightsVolume" value="0" />
     <property name="TotalVertices" value="270013" />
     <property name="TotalTriangles" value="139789" />
     <property class="BlockEntities">

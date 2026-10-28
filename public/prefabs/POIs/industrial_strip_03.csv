@@ -148,12 +148,13 @@ id,name,count
 14759,corrugatedMetalShapes:platePillar0.025,1
 14790,corrugatedMetalShapes:stairsRailingMetal,4
 14855,corrugatedMetalShapes:catwalkV2,1
-14858,corrugatedMetalShapes:catwalkV2Rail,66
-14861,corrugatedMetalShapes:catwalkV2RailCorner,8
+14858,corrugatedMetalShapes:catwalkV2Rail,58
+14861,corrugatedMetalShapes:catwalkV2RailCorner,4
+14875,corrugatedMetalShapes:catwalkV2TipDoubleRailing,8
 14895,corrugatedMetalShapes:catwalkV2RailOnly,109
 14897,corrugatedMetalShapes:catwalkV2RailOnlyLeftCap,5
 14898,corrugatedMetalShapes:catwalkV2RailOnlyRightCap,7
-14900,corrugatedMetalShapes:catwalkV2RailOnlyCorner,6
+14900,corrugatedMetalShapes:catwalkV2RailOnlyCorner,10
 14902,corrugatedMetalShapes:catwalkV2RailOnlyBentLeft,3
 14903,corrugatedMetalShapes:catwalkV2RailOnlyBentRight,3
 14907,corrugatedMetalShapes:catwalkV2RailOnlyCornerEndLeft,1
@@ -229,7 +230,7 @@ id,name,count
 18603,cntAmmoPileSmall,1
 18604,cntAmmoPileMedium,1
 18615,cntMedicLootPileB,1
-18631,cntShippingCrateMoPowerElectronics,1
+18627,cntShippingCrateCarParts,2
 18632,cntShippingCrateConstructionSupplies,4
 18646,cntLootChestHeroInsecureT2,1
 18666,cntQuestInfestedT2LootHelper,1
@@ -404,7 +405,7 @@ id,name,count
 24582,shippingContainerSideHoleOrange,2
 24583,shippingContainerCapOrange,1
 24585,shippingContainerSide2mOrange,3
-24802,cntUtilityStoreCratesRandomLootHelper,2
+24802,cntUtilityStoreCratesRandomLootHelper,1
 24804,cntWorkbenchBustedRandomLootHelper,1
 24807,questRallyMarker,1
 24809,cntQuestRandomLootHelper,5

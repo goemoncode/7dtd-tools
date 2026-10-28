@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -39,16 +38,17 @@
   <property name="SVS14" value="sound alarm_house_biz_lp1" />
   <property name="SVS13" value="sound alarm_house_biz_lp1" />
   <property name="SVS0" value="sleep 1^sound bunkerwoman_access_yellow^sleep 1^trigger 6^sleep 1^trigger 7^sleep 0.5^sound explosion_buzzer1^sleep 1^trigger 8^sleep 2.5^sound light_bay3^trigger 9^sleep 1^trigger 15^" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
     <property name="LightsVolume" value="17710.39" />
-    <property name="TotalVertices" value="1169064" />
-    <property name="TotalTriangles" value="517655" />
+    <property name="TotalVertices" value="1167828" />
+    <property name="TotalTriangles" value="515631" />
     <property class="BlockEntities">
-      <property name="Vertices" value="695620" />
-      <property name="Triangles" value="238750" />
+      <property name="Vertices" value="694362" />
+      <property name="Triangles" value="236726" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="439324" />
+      <property name="Vertices" value="439346" />
       <property name="Triangles" value="249101" />
     </property>
     <property class="ChunkMeshes1">

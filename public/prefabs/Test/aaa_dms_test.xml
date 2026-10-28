@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="0" />
   <property name="TraderArea" value="False" />
   <property name="SleeperVolumeSize" value="17, 5, 17#17, 5, 17#17, 5, 17#17, 5, 17#17, 5, 17#17, 5, 17#17, 5, 17#17, 6, 17#8, 5, 17#9, 5, 14#8, 6, 17#9, 6, 17" />

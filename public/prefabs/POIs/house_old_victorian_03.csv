@@ -314,7 +314,6 @@ id,name,count
 20573,plantHousePottedWhite,7
 20606,plantFernHangingWhite,1
 20628,plantHouseTallPottedWhite,7
-20655,cntCollapsedChemistryStation,1
 20687,oldWoodDoor,1
 20772,exteriorHouseDoorOldWhite,6
 20811,frenchDoorDoubleWhite,1
@@ -441,6 +440,7 @@ id,name,count
 24675,treeMediumRandomHelper,2
 24785,farmPlotBlock,3
 24801,cntStoreCratesRandomLootHelper,3
+24806,cntChemistryStationBustedRandomLootHelper,1
 24807,questRallyMarker,1
 24809,cntQuestRandomLootHelper,12
 24815,sleeperSit,24

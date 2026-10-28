@@ -249,7 +249,6 @@ id,name,count
 20454,palletBagConcreteTile,1
 20626,plantFernBlack,1
 20637,plantHouseTallPottedBlack,3
-20649,cntCollapsedWorkbench,1
 20907,commercialGlassDoor,1
 20909,commercialGlassDoorDouble,1
 20936,commercialDoorV2Brown,1
@@ -335,6 +334,7 @@ id,name,count
 24628,treeDeadTree01,1
 24689,treeForestGrassDiagonal,18
 24801,cntStoreCratesRandomLootHelper,2
+24804,cntWorkbenchBustedRandomLootHelper,1
 24807,questRallyMarker,1
 24809,cntQuestRandomLootHelper,5
 24815,sleeperSit,10

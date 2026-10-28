@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="EditorGroups" value="house old" />
   <property name="Tags" value="countryresidential" />
   <property name="QuestTags" value="clear, fetch, infested" />
@@ -109,6 +108,7 @@
     </property>
   </property>
   <property class="Stats">
+    <property name="LightsVolume" value="0" />
     <property name="TotalVertices" value="599083" />
     <property name="TotalTriangles" value="240479" />
     <property class="BlockEntities">

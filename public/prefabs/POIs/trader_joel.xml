@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <prefab>
   <property name="CopyAirBlocks" value="True" />
-  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="AllowDecorations" value="False" />
   <property name="Zoning" value="any" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-1" />
@@ -43,11 +43,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
     <property name="LightsVolume" value="21774.61" />
-    <property name="TotalVertices" value="1906362" />
-    <property name="TotalTriangles" value="781736" />
+    <property name="TotalVertices" value="1903810" />
+    <property name="TotalTriangles" value="780816" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1780820" />
-      <property name="Triangles" value="704558" />
+      <property name="Vertices" value="1778268" />
+      <property name="Triangles" value="703638" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="99674" />

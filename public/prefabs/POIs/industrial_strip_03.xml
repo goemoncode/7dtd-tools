@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="2" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -33,15 +32,15 @@
   <property name="Tags" value="industrial" />
   <property class="Stats">
     <property name="LightsVolume" value="23645.03" />
-    <property name="TotalVertices" value="540363" />
-    <property name="TotalTriangles" value="223710" />
+    <property name="TotalVertices" value="539947" />
+    <property name="TotalTriangles" value="223473" />
     <property class="BlockEntities">
-      <property name="Vertices" value="385454" />
-      <property name="Triangles" value="118989" />
+      <property name="Vertices" value="385470" />
+      <property name="Triangles" value="118992" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="147687" />
-      <property name="Triangles" value="94633" />
+      <property name="Vertices" value="147255" />
+      <property name="Triangles" value="94393" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

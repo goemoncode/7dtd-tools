@@ -4,7 +4,6 @@
   <property name="AllowedTownships" value="city,town,rural,wilderness" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="CopyAirBlocks" value="True" />
-  <property name="AllowTopSoilDecorations" value="True" />
   <property name="YOffset" value="-5" />
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />

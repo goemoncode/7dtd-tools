@@ -5,20 +5,19 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-2" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
   <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#42, 0, 42#42, 0, 42#7, 5, 11#8, 3, 13#1, 1, 1#1, 1, 1#1, 1, 1#7, 5, 11#7, 5, 11#7, 5, 11#7, 5, 11#7, 5, 11" />
-  <property name="POIMarkerStart" value="89, 2, 0#1, 2, 0#97, 2, 94#23, 2, 90#1, 2, 116#72, 1, 74#84, 11, 69#77, 8, 88#66, 4, 69#1, 2, 116#1, 2, 116#1, 2, 116#1, 2, 116#1, 2, 116" />
+  <property name="POIMarkerStart" value="89, 2, 0#1, 2, 0#97, 2, 94#23, 2, 90#2, 2, 116#72, 1, 74#84, 11, 69#77, 8, 88#66, 4, 69#2, 2, 116#2, 2, 116#2, 2, 116#2, 2, 116#2, 2, 116" />
   <property name="POIMarkerGroup" value="1,2,3,4,foodtruck,caracciden,light1,light2,light3,foodtruck,foodtruck,foodtruck,foodtruck,foodtruck" />
   <property name="POIMarkerTags" value="#############" />
   <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value=",,,,part_kiosk_foodtrailer_01,part_car_accident_01,part_streetlight_single_diagonal,part_trafficlight_single,part_crosswalk,part_kiosk_foodtrailer_03,part_kiosk_foodtrailer_04,part_kiosk_foodtrailer_05,part_kiosk_foodtrailer_06,part_kiosk_foodtrailer_07" />
   <property name="POIMarkerPartRotations" value="0,0,1,1,1,0,2,0,3,1,1,1,1,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,0.4,0.2,0.2,0.2,0.2,0.4,0.4,0.4,0.4,0.4" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,0.4,0.2,0.2,0.2,0.2,0.4,0.4,0.4,0.4,0.3" />
   <property name="PrefabSize" value="150, 22, 150" />
   <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">

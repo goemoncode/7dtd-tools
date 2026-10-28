@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="DifficultyTier" value="5" />
@@ -52,16 +51,16 @@
   <property name="SVS26" value="sound sleeperspawnmetal^spawn GroupAllFeral 1^sleep 1^sound sleeperspawnmetal^spawn GroupAllFeral 1^waitalive 0^sound sleeperspawnmetal^spawn GroupAllFeral 1^sleep 1^sound sleeperspawnmetal^spawn GroupAllFeral 1^waitalive 0^sound sleeperspawnmetal^spawn GroupAllFeral 1" />
   <property name="SVS5" value="sound sleeperspawnmetal^spawn GroupAllFeral 1^waitalive 0^sound sleeperspawnmetal^spawn GroupAllFeral 1^waitalive 0^sound sleeperspawnmetal^spawn GroupAllFeral 1" />
   <property class="Stats">
-    <property name="LightsVolume" value="77708.59" />
-    <property name="TotalVertices" value="2948362" />
-    <property name="TotalTriangles" value="2084677" />
+    <property name="LightsVolume" value="77708.57" />
+    <property name="TotalVertices" value="2941397" />
+    <property name="TotalTriangles" value="2073480" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2449724" />
-      <property name="Triangles" value="1740081" />
+      <property name="Vertices" value="2442827" />
+      <property name="Triangles" value="1728960" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="448194" />
-      <property name="Triangles" value="278464" />
+      <property name="Vertices" value="448126" />
+      <property name="Triangles" value="278388" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="12288" />

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <prefab>
   <property name="CopyAirBlocks" value="True" />
-  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="AllowDecorations" value="False" />  
   <property name="Zoning" value="any" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-2" />
@@ -34,16 +34,16 @@
   <property name="POIMarkerPartRotations" value="2,2,2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1" />
   <property class="Stats">
-    <property name="LightsVolume" value="33154.42" />
-    <property name="TotalVertices" value="1427963" />
-    <property name="TotalTriangles" value="521448" />
+    <property name="LightsVolume" value="33353.8" />
+    <property name="TotalVertices" value="1429383" />
+    <property name="TotalTriangles" value="521973" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1317299" />
-      <property name="Triangles" value="449855" />
+      <property name="Vertices" value="1318911" />
+      <property name="Triangles" value="450444" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="89750" />
-      <property name="Triangles" value="49845" />
+      <property name="Vertices" value="89558" />
+      <property name="Triangles" value="49781" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="1344" />
@@ -68,17 +68,16 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="challenge_polymers">
-      <property name="0" value="46, 6, 50" />
-      <property name="1" value="57, 2, 52" />
+      <property name="0" value="57, 2, 52" />
     </property>
     <property class="POILight">
       <property name="0" value="50, 4, 46" />
       <property name="1" value="50, 4, 47" />
-      <property name="2" value="46, 6, 51" />
-      <property name="3" value="49, 6, 51" />
-      <property name="4" value="52, 6, 53" />
-      <property name="5" value="55, 4, 53" />
-      <property name="6" value="50, 4, 50" />
+      <property name="2" value="46, 6, 50" />
+      <property name="3" value="50, 4, 50" />
+      <property name="4" value="49, 6, 51" />
+      <property name="5" value="52, 6, 53" />
+      <property name="6" value="55, 4, 53" />
     </property>
     <property class="challenge_elec_parts">
       <property name="0" value="2, 2, 18" />

@@ -4,12 +4,11 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="industrial, countrytown, countryresidential, diagonal" />
+  <property name="Tags" value="industrial" />
   <property name="EditorGroups" value="industrial" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-2" />
@@ -31,14 +30,15 @@
   <property name="PrefabSize" value="25, 11, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="97128" />
-    <property name="TotalTriangles" value="33248" />
+    <property name="LightsVolume" value="523.5988" />
+    <property name="TotalVertices" value="100016" />
+    <property name="TotalTriangles" value="33905" />
     <property class="BlockEntities">
-      <property name="Vertices" value="92024" />
-      <property name="Triangles" value="27992" />
+      <property name="Vertices" value="94798" />
+      <property name="Triangles" value="28649" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="3048" />
+      <property name="Vertices" value="3162" />
       <property name="Triangles" value="1860" />
     </property>
     <property class="ChunkMeshes1">
@@ -63,7 +63,10 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="challenge_barrels">
+    <property class="challenge_steel">
+      <property name="0" value="1, 8, 3" />
+    </property>
+    <property class="challenge_polymers">
       <property name="0" value="13, 1, 11" />
     </property>
     <property class="TraderOnOff">

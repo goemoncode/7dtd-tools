@@ -253,7 +253,6 @@ id,name,count
 20553,plantAloePottedWhite,3
 20573,plantHousePottedWhite,1
 20628,plantHouseTallPottedWhite,1
-20649,cntCollapsedWorkbench,1
 20656,tableSaw,1
 20719,cellarDoorDoubleWood,1
 20728,exteriorHouseDoorWhite,1
@@ -328,6 +327,7 @@ id,name,count
 24675,treeMediumRandomHelper,1
 24685,treeBrownGrassDiagonal,38
 24801,cntStoreCratesRandomLootHelper,3
+24804,cntWorkbenchBustedRandomLootHelper,1
 24807,questRallyMarker,1
 24809,cntQuestRandomLootHelper,8
 24815,sleeperSit,16

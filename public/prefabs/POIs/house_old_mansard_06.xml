@@ -6,7 +6,6 @@
   <property name="CopyAirBlocks" value="True" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="TraderArea" value="False" />
   <property name="EditorGroups" value="house old" />
   <property name="YOffset" value="-7" />
@@ -35,8 +34,8 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
     <property name="LightsVolume" value="29263.99" />
-    <property name="TotalVertices" value="1345077" />
-    <property name="TotalTriangles" value="659985" />
+    <property name="TotalVertices" value="1330587" />
+    <property name="TotalTriangles" value="652693" />
     <property class="BlockEntities">
       <property name="Vertices" value="978046" />
       <property name="Triangles" value="433980" />
@@ -46,8 +45,8 @@
       <property name="Triangles" value="99167" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="146496" />
-      <property name="Triangles" value="73248" />
+      <property name="Vertices" value="132032" />
+      <property name="Triangles" value="66016" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="1798" />
@@ -62,8 +61,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="32316" />
-      <property name="Triangles" value="51980" />
+      <property name="Vertices" value="32290" />
+      <property name="Triangles" value="51920" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

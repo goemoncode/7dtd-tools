@@ -371,7 +371,7 @@ id,name,count
 20618,plantFernBrown,1
 20636,plantHouseTallPottedGrey,1
 20656,tableSaw,1
-20698,ironDoorBlack,3
+20698,ironDoorBlack,2
 20723,shuttersIron01,1
 20773,exteriorHouseDoorOldBrown,1
 20907,commercialGlassDoor,2
@@ -380,6 +380,7 @@ id,name,count
 20910,commercialBulletproofGlassDoorDouble,3
 20935,commercialDoorV2White,1
 20941,commercialDoorV2Blue,2
+20943,commercialDoorV2Grey,1
 20945,commercialDoorV2Oak,1
 21002,elevatorDoorDouble,3
 21010,elevatorOutsideFloorPanelHalfBlockDouble,3

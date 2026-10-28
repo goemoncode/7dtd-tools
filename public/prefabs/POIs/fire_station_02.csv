@@ -57,8 +57,6 @@ id,name,count
 8857,concreteShapes:brickDestroyed02,6
 9202,concreteShapes:cubeDrainStraight,14
 9204,concreteShapes:cubeDrainStraightHalf,8
-13608,awningShapes:verticalBlindsTopOpen,1
-13609,awningShapes:verticalBlindsTop2Open,1
 13843,corrugatedMetalShapes:cube,49
 13846,corrugatedMetalShapes:cubeThreeQuarter,4
 13858,corrugatedMetalShapes:cubeHalf,35
@@ -243,9 +241,10 @@ id,name,count
 21144,steelGarageDoor4x3Red,3
 21521,verticalBlindsTopWhite,5
 21522,verticalBlindsTop2White,13
-21523,verticalBlindsBottomWhite,3
-21524,verticalBlindsBottom2White,23
-21526,verticalBlindsTop2OpenWhite,1
+21523,verticalBlindsBottomWhite,5
+21524,verticalBlindsBottom2White,20
+21525,verticalBlindsTopOpenWhite,1
+21526,verticalBlindsTop2OpenWhite,2
 21527,verticalBlindsBottomOpenWhite,1
 21528,verticalBlindsBottom2OpenWhite,6
 21529,verticalBlindsTopRailWhite,1

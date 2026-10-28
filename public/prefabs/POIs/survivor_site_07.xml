@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <prefab>
   <property name="CopyAirBlocks" value="True" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="Zoning" value="NoZone" />
   <property name="AllowedTownships" value="wilderness" />
   <property name="ExcludeDistantPOIMesh" value="False" />
@@ -37,11 +36,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
     <property name="LightsVolume" value="4900.204" />
-    <property name="TotalVertices" value="523157" />
-    <property name="TotalTriangles" value="211925" />
+    <property name="TotalVertices" value="522793" />
+    <property name="TotalTriangles" value="210951" />
     <property class="BlockEntities">
-      <property name="Vertices" value="482233" />
-      <property name="Triangles" value="184377" />
+      <property name="Vertices" value="481869" />
+      <property name="Triangles" value="183403" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="38892" />
@@ -90,10 +89,12 @@
       <property name="0" value="19, 2, 17" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="16, 7, 14" />
-      <property name="1" value="20, 2, 14" />
-      <property name="2" value="15, 2, 18" />
-      <property name="3" value="14, 7, 16" />
+      <property name="0" value="17, 2, 13" />
+      <property name="1" value="16, 7, 14" />
+      <property name="2" value="20, 2, 14" />
+      <property name="3" value="12, 3, 16" />
+      <property name="4" value="14, 7, 16" />
+      <property name="5" value="15, 2, 18" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="22, 7, 19" />

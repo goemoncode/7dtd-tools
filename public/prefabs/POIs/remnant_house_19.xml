@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -16,7 +15,7 @@
   <property name="SleeperVolumeSize" value="6, 8, 13#7, 3, 13#3, 3, 3" />
   <property name="SleeperVolumeStart" value="20, 2, 31#6, 2, 31#27, 2, 54" />
   <property name="SleeperVolumeGroupId" value="0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-_Group_Biker_Bar,1,1,S_-Group_Generic_Zombie,0,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,2,GroupBikerBar,1,1,GroupGenericZombie,0,1" />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,3" />
@@ -62,8 +61,9 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="559829" />
-    <property name="TotalTriangles" value="243574" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="550679" />
+    <property name="TotalTriangles" value="228230" />
     <property class="BlockEntities">
       <property name="Vertices" value="486346" />
       <property name="Triangles" value="194454" />
@@ -91,10 +91,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="9150" />
-      <property name="Triangles" value="15344" />
     </property>
   </property>
 </prefab>

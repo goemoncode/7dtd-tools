@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -29,7 +28,7 @@
   <property name="SVS12" value="sleep 1^sound explosion_buzzer1" />
   <property name="SVS11" value="sleep 1^sound explosion_buzzer1^sleep 2^sound explosion_buzzer1^sleep 2^sound explosion_buzzer1^sleep 3^trigger 6^sleep 1^trigger 7^sleep 1^trigger 8^sleep 1^trigger 9^sleep 2^sound sysadmin_system_malfunction2" />
   <property class="Stats">
-    <property name="LightsVolume" value="3409.348" />
+    <property name="LightsVolume" value="3409.349" />
     <property name="TotalVertices" value="1039420" />
     <property name="TotalTriangles" value="446951" />
     <property class="BlockEntities">

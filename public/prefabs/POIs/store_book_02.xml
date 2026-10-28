@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="Zoning" value="Commercial" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="AllowedTownships" value="city,town,rural" />
@@ -29,11 +28,11 @@
   <property name="ThemeRepeatDistance" value="1000" />
   <property class="Stats">
     <property name="LightsVolume" value="18028.47" />
-    <property name="TotalVertices" value="734575" />
-    <property name="TotalTriangles" value="289430" />
+    <property name="TotalVertices" value="730813" />
+    <property name="TotalTriangles" value="283364" />
     <property class="BlockEntities">
-      <property name="Vertices" value="637125" />
-      <property name="Triangles" value="222977" />
+      <property name="Vertices" value="633363" />
+      <property name="Triangles" value="216911" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="86290" />

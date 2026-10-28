@@ -1,0 +1,15 @@
+id,name,count
+7051,concreteShapes:cube,32
+7066,concreteShapes:cubeHalf,48
+7498,concreteShapes:ramp,4
+7534,concreteShapes:wedge60,16
+7541,concreteShapes:wedge60Corner,8
+9315,steelShapes:cube,56
+9330,steelShapes:cubeHalf,16
+9762,steelShapes:ramp,8
+23243,metalRailing,20
+23342,iBeamCentered,24
+23345,iBeamCenteredFoundation,32
+23348,rustyIronPoleSupportCtr,32
+23351,metalTrussingBlock,8
+23353,metalTrussingCentered,8

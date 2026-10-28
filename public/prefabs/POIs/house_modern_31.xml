@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="5" />
   <property name="QuestTags" value="clear, fetch, restore_power, infested" />
   <property name="ShowQuestClearCount" value="1" />
@@ -53,16 +52,16 @@
   <property name="SVS2" value="sleep 12^trigger 31^sleep 0.5^spawn zombieMoe 1^waitalive 0^spawn zombieFatHawaiian 1" />
   <property name="SVS1" value="spawn zombieMutatedRadiated 1" />
   <property class="Stats">
-    <property name="LightsVolume" value="29890.1" />
-    <property name="TotalVertices" value="1885579" />
-    <property name="TotalTriangles" value="765545" />
+    <property name="LightsVolume" value="29890.11" />
+    <property name="TotalVertices" value="1886081" />
+    <property name="TotalTriangles" value="764462" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1455635" />
-      <property name="Triangles" value="487404" />
+      <property name="Vertices" value="1456125" />
+      <property name="Triangles" value="486315" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="394916" />
-      <property name="Triangles" value="236923" />
+      <property name="Vertices" value="394928" />
+      <property name="Triangles" value="236929" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="6976" />

@@ -4,14 +4,13 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="Zoning" value="ResidentialOld" />
   <property name="AllowedTownships" value="rural,wilderness" />
   <property name="DifficultyTier" value="1" />
   <property name="TraderArea" value="False" />
   <property name="SleeperVolumeSize" value="11, 8, 6#11, 2, 18#8, 8, 7#8, 8, 4#8, 5, 6" />
   <property name="SleeperVolumeStart" value="17, 0, 40#17, 8, 28#17, 0, 29#17, 0, 36#45, 2, 44" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-_Group_Biker_Bar,4,4,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupBikerBar,4,4,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False" />
   <property name="QuestTags" value="clear, fetch, infested" />
@@ -35,8 +34,9 @@
   <property name="PrefabSize" value="60, 22, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="637528" />
-    <property name="TotalTriangles" value="322141" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="628138" />
+    <property name="TotalTriangles" value="306377" />
     <property class="BlockEntities">
       <property name="Vertices" value="557025" />
       <property name="Triangles" value="269833" />
@@ -64,10 +64,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="9390" />
-      <property name="Triangles" value="15764" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

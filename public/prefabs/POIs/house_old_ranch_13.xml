@@ -3,7 +3,6 @@
   <property name="CopyAirBlocks" value="True" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="AllowedTownships" value="city,town,rural,wilderness" />
   <property name="Zoning" value="ResidentialNew" />
   <property name="DifficultyTier" value="3" />
@@ -34,6 +33,7 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # " />
   <property name="Tags" value="wilderness" />
   <property class="Stats">
+    <property name="LightsVolume" value="0" />
     <property name="TotalVertices" value="1388219" />
     <property name="TotalTriangles" value="636153" />
     <property class="BlockEntities">

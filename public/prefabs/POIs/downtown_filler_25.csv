@@ -410,7 +410,6 @@ id,name,count
 20566,plantAloePottedCornerOrange,1
 20571,plantAloePottedCornerGrey,1
 20629,plantHouseTallPottedBrown,1
-20653,cntCollapsedCementMixer,2
 20656,tableSaw,1
 20695,ironDoorBlue,1
 20697,ironDoorGrey,1
@@ -517,6 +516,7 @@ id,name,count
 24155,fakeCabinetDoorTrap1x2SheetMetal,1
 24802,cntUtilityStoreCratesRandomLootHelper,3
 24804,cntWorkbenchBustedRandomLootHelper,1
+24805,cntCementMixerBustedRandomLootHelper,2
 24807,questRallyMarker,1
 24809,cntQuestRandomLootHelper,13
 24815,sleeperSit,16

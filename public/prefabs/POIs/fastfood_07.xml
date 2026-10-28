@@ -4,7 +4,6 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="2" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -23,12 +22,12 @@
   <property name="SleeperVolumeFlags" value="2,1,2,2,0,0,0,2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # " />
   <property class="Stats">
-    <property name="LightsVolume" value="5322.907" />
-    <property name="TotalVertices" value="346908" />
-    <property name="TotalTriangles" value="147396" />
+    <property name="LightsVolume" value="5322.908" />
+    <property name="TotalVertices" value="343817" />
+    <property name="TotalTriangles" value="145793" />
     <property class="BlockEntities">
-      <property name="Vertices" value="251822" />
-      <property name="Triangles" value="85118" />
+      <property name="Vertices" value="248731" />
+      <property name="Triangles" value="83515" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="88086" />
@@ -66,26 +65,25 @@
     </property>
     <property class="POILight">
       <property name="0" value="22, 4, 21" />
-      <property name="1" value="32, 6, 21" />
-      <property name="2" value="28, 5, 22" />
-      <property name="3" value="22, 5, 25" />
-      <property name="4" value="25, 5, 25" />
-      <property name="5" value="29, 5, 26" />
-      <property name="6" value="21, 5, 28" />
-      <property name="7" value="27, 4, 29" />
-      <property name="8" value="32, 5, 29" />
-      <property name="9" value="34, 4, 29" />
-      <property name="10" value="26, 5, 30" />
-      <property name="11" value="34, 4, 30" />
-      <property name="12" value="21, 5, 31" />
-      <property name="13" value="31, 5, 31" />
-      <property name="14" value="34, 4, 31" />
-      <property name="15" value="21, 3, 32" />
-      <property name="16" value="22, 3, 32" />
-      <property name="17" value="34, 4, 32" />
-      <property name="18" value="35, 3, 33" />
-      <property name="19" value="25, 4, 34" />
-      <property name="20" value="29, 4, 34" />
+      <property name="1" value="28, 5, 22" />
+      <property name="2" value="22, 5, 25" />
+      <property name="3" value="25, 5, 25" />
+      <property name="4" value="29, 5, 26" />
+      <property name="5" value="21, 5, 28" />
+      <property name="6" value="27, 4, 29" />
+      <property name="7" value="32, 5, 29" />
+      <property name="8" value="34, 4, 29" />
+      <property name="9" value="26, 5, 30" />
+      <property name="10" value="34, 4, 30" />
+      <property name="11" value="21, 5, 31" />
+      <property name="12" value="31, 5, 31" />
+      <property name="13" value="34, 4, 31" />
+      <property name="14" value="21, 3, 32" />
+      <property name="15" value="22, 3, 32" />
+      <property name="16" value="34, 4, 32" />
+      <property name="17" value="35, 3, 33" />
+      <property name="18" value="25, 4, 34" />
+      <property name="19" value="29, 4, 34" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="22, 3, 21" />
