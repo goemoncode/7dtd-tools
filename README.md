@@ -25,6 +25,11 @@ deno task genl10n
 deno task genindex
 ```
 
+`genindex` also generates `public/prefabs/manifest.json`, containing a schema version,
+content-derived data version, and SHA-256 checksums for the generated JSON files. Run it
+after generating prefab and localization data so the manifest describes the complete
+dataset. The manifest is updated in place; previous data versions are not retained.
+
 ## Development server
 
 ```sh

@@ -1,10 +1,11 @@
 import { basename, dirname, join, relative } from '@std/path';
-import { program, Argument } from 'commander';
-import { MultiBar, SingleBar, Presets } from 'cli-progress';
+import { Argument, program } from 'commander';
+import { MultiBar, Presets, SingleBar } from 'cli-progress';
 import { fileExists, glob, handleMain, writeJsonFile } from './utils/index.ts';
 import { parseCsv } from './utils/parseCsv.ts';
 import { parsePrefabXml } from './utils/parsePrefabXml.ts';
 import { type BlocksUsedCsv, csvToObject } from './utils/BlocksUsed.ts';
+import { writeDataManifest } from './utils/manifest.ts';
 
 handleMain(async () => {
   program.name(basename(import.meta.filename!, '.ts')).description('Generate index.json for 7dtd-map');
@@ -22,6 +23,7 @@ handleMain(async () => {
       const prefabs = await readPrefabs(inputDir);
       const outputFile = join(outputDir, 'index.json');
       await writeJsonFile(outputFile, prefabs);
+      await writeDataManifest(outputDir);
     });
 
   const defaultInputModsDir = join('public', 'Mods');

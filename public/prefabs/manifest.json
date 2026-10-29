@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"dataVersion": "sha256-f34edd3561412d6c4e3dd438945036e34ce6a19167e5782af4d2daaf3651fad5",
+	"files": {
+		"index.json": "2003b01b754bab4b9fdd18ab7fb854fa4ce29a6ee2eec953f1fd4adbda7d9feb",
+		"l10n/brazilian.json": "764552a1069bba4da854ab34305cc31bcda9ae01b4d058a7e76352d05929e0b2",
+		"l10n/english.json": "765d27f800794dc138ce5807a6e86b80613eb9a542e8fb69dbba1178a9a7483a",
+		"l10n/french.json": "2d5aa2080e846af388c7d3b87539b0e60039caf9d13282ce6ef510236e6d25d4",
+		"l10n/german.json": "f95dd8374eb2cf3d53158980de42aaad9e4a1e998c86d5e9df8b33049eac2151",
+		"l10n/italian.json": "dd96eb38dbadd61e3906f505d7518d5ab4d7571e1c2bc18a4b2c9182b0c657c2",
+		"l10n/japanese.json": "be61f680cddacfe1a3bda347bdbe98b68edb0d51dffe32a40a581b0c572c914b",
+		"l10n/koreana.json": "8f5b526f13c9b7b0ff996ea00307aa6cd2f955daaed3ed0e43206cd8db388b37",
+		"l10n/polish.json": "24d3bfe7bf7ef3faffac62404efac795b30f6ce32a0120cac121b8f90b0fb9c1",
+		"l10n/russian.json": "903fbc87ba74ded049b13d0a0a87a5a8e61b21de5554d8b7475407206ec7e000",
+		"l10n/schinese.json": "1d9053e1d4feb8b0769caf3cfd3298fd7f9c5c37788d6b0af2b485207b6f384f",
+		"l10n/spanish.json": "2cef80a8e7b6408a421985a8ce9a213479426c5a0105e3eff12abc8f0b4fef81",
+		"l10n/tchinese.json": "eeb652640004fa9723662c8db545285959c66cdf4d440a61f964b5bd062ceb77",
+		"l10n/turkish.json": "7ca1f5a56876f6e4ddc47445a11c9e5e5f632e974a417b78ad444c5d7cdcb87d"
+	}
+}
